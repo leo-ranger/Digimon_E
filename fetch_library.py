@@ -1,8 +1,12 @@
 import feedparser
 import re
+import html
 
 # Output file to commit
 OUTPUT_FILE = "library.txt"
+
+# Maximum length for article body to avoid freezing in-game
+MAX_BODY_LENGTH = 1000
 
 # Digimon LORE and DNEWS - static entries
 local_lore = [
@@ -20,24 +24,33 @@ RSS_URLS = [
     # Add more RSS URLs here
 ]
 
-# Function to remove HTML tags
+#-----------------------------------------------------------------------------
+# Function to remove HTML tags and unescape entities
+#-----------------------------------------------------------------------------
 def strip_html(text):
-    clean = re.sub(r"<[^>]+>", "", text)  # Remove tags like <div>, <p>, <br>
-    clean = re.sub(r"&nbsp;|&amp;|&lt;|&gt;", " ", clean)  # Replace common HTML entities
-    clean = clean.replace("\n", " ").strip()
-    return clean
+    if not text:
+        return ""
+    clean = re.sub(r"<[^>]+>", "", text)  # Remove all HTML tags
+    clean = html.unescape(clean)          # Convert &amp;, &nbsp;, &#8230; etc.
+    clean = re.sub(r"\s+", " ", clean)    # Collapse multiple whitespace
+    return clean.strip()
 
+#-----------------------------------------------------------------------------
 # Function to fetch and parse a single RSS feed
+#-----------------------------------------------------------------------------
 def fetch_rss_entries(url):
     feed = feedparser.parse(url)
     entries = []
     for entry in feed.entries:
-        title = strip_html(entry.title)
-        desc = strip_html(entry.summary) if "summary" in entry else ""
+        title = strip_html(getattr(entry, 'title', 'No title'))
+        desc  = strip_html(getattr(entry, 'summary', ''))
+        desc  = desc[:MAX_BODY_LENGTH]  # truncate to avoid freezing
         entries.append({"type": "RNEWS", "title": title, "body": desc})
     return entries
 
+#-----------------------------------------------------------------------------
 # Combine all RSS entries
+#-----------------------------------------------------------------------------
 rnews = []
 for url in RSS_URLS:
     rnews.extend(fetch_rss_entries(url))
@@ -45,7 +58,9 @@ for url in RSS_URLS:
 # Combine all entries (static + RSS)
 all_entries = local_lore + digimon_news + rnews
 
+#-----------------------------------------------------------------------------
 # Write to library.txt
+#-----------------------------------------------------------------------------
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     for e in all_entries:
         f.write(f"[LIBRARY {e['type']}]\n")
