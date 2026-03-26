@@ -35,7 +35,7 @@ End = true
 
 [LIBRARY RNEWS]
 Title = Kokuwamon & Guardromon Previews for Digimon Card Game Booster Set 25
-Body = ​​​​ The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time... Read more
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time... Read more
 End = true
 
 [LIBRARY RNEWS]
@@ -51,80 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Tamers D-Ark 25th Color Evolution- Images, Info, & Pre-Order Details
 Body = The D-Ark 25th Color Evolution is coming for the 25th anniversary of Digimon Tamers! Not a surprise to see the line continuing, but nice to get all the details. We get a nice English subbed trailer with a familiar narrator. Versions based on all 3 main Tamers are available. There is no premium DX version for the D-Ark... Read more
-End = true
-
-[LIBRARY RNEWS]
-Title = Angemon & HolyAngemon/MagnaAngemon Previews for Digimon Card Game Booster Set 25
-Body = ​​​​ The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time... Read more
-End = true
-
-[LIBRARY RNEWS]
-Title = Official Digimon Web Poll #146- Favorite Godzilla vs. Digimon Collaboration Monster from the Original Collaboration
-Body = Digimon Web has opened a new fan vote. This is the 146th official web poll on the current version of the site. This time we get one timed to coincidence with the 2nd Godzilla vs. Digimon collaboration Pre-orders are now open for the Digimon Pendulum Color: Godzilla Edition. The previous release featured four collaboration monsters. So, which of those collaboration monsters from the previous release is your... Read more
-End = true
-
-[LIBRARY RNEWS]
-Title = Armalizamon & Habakirimon Previews for Digimon Card Game Starter Deck 23
-Body = ​​​​ The Digimon Card Game Twitter (2) (3) (4) has updated with card previews... Read more
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 23- The Power to Take
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 23, The Power to Take A preview of Episode 23 Episode 23 airs Sunday, March 22nd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is expected at: Saturday, March 21st, 8:00pm in California (Pacific) Saturday, March 21st, 11:00pm in New York (Eastern) Sunday, March 22nd, 3:00am in the UK (GMT) If your time isn't included in the short list above this link... Read more
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Dan & Parallel/Alt Art Previews for Digimon Card Game Booster Set 25
-Body = ​​​​ The Digimon Card Game Twitter (2) (3) has updated with card previews from Booster Set 25. This time it's Dan... Read more
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Pendulum Color: Godzilla Edition V-Pets- Images, Info, & Pre-Order Details
-Body = After being teased at a Godzilla event, we finally have the details for the new V-Pets from Digimon Con. An overview/preview trailer that goes over quite a bit. ... Read more
-End = true
-
-[LIBRARY RNEWS]
-Title = Patamon Preview for Digimon Card Game Booster Set 25
-Body = ​​ The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Patamon. Patamon gets some very cute art of him along with his sprite by Naoki Akamine. Previous previews for Booster Set 25 Dual Revolution: Art Preview Packaging... Click to expand... Read more
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak English Dub Episodes 1-10 on Hulu
-Body = As we found out about from when Hulu gave out its March schedule episodes 1-10 of the English dub for Digimon Beatbreak are now streaming on Hulu. Hulu has been simulcasting Beatbreak subbed, as has Crunchyroll, but up until now the dub has only been appearing on Crunchyroll. The dub on Crunchyroll is currently up to episode 15 and has, thus far, been updated with 5 episodes every 5 weeks, so we'll see what... Read more
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers! These rules can be changed, added to, deleted, etc. at any time as confirmed in the... Read more
-End = true
-
-[LIBRARY RNEWS]
-Title = Was a lurker 20 years ago, love what the site has become!
-Body = I first visited this site as a preteen, around when Frontier was airing on cable TV. Now I have my own kids around that age that im trying to get into digimon. I was floored to see that this place is still around! I'm not nearly as dedicated a fan as I was growing up, dropped off around xros wars when my first son was born. Im currently getting back into it with Beabreak and Time Stranger. There's a ton I've missed! Edit: misclicked
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger Expansion DLC Coming in 2027 & Digimon You'd Like to See in a Future Game Poll Results
-Body = During Digimon Con 2026, expansion DLC was announced for Digimon Story: Time Stranger. It will be released in 2027, and will seemingly be to a decent scale. It was also announced that Mutsumi Tamura, who played Aegiomon would be recording for the new DLC. The hosts bring up how Aegiomon might be used in the DLC, and Producer Hara comments... Read more
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc. Do not ask for save files, when the next update will be, make demands of i want x in the game etc or Discord. Current version (10/12/2025): v1.13 Link... Read more
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #293- Digimon CONcentrate (Digimon Con 2026, Beatbreak Episode 23, & More!)
-Body = This time we will be talking about all the news from Digimon Con 2026: Time Stranger DLC, Digimon Up, D-Arks, Godzilla; Beatbreak episode 23, Digimon Liberator finale, products, cards, & more! Plus your questions! We go over the news live with title cards so viewers can follow along visually on the Youtube version. You can support us on Patreon and chat with us on Discord! Affiliate links for Digimon items of interest on Amazon.com: Digimon Story... Read more
-End = true
-
-[LIBRARY RNEWS]
-Title = Ignition Flare & Iron Slash Previews for Digimon Card Game Booster Set 25
-Body = ​​​​ The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25... Read more
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Liberator: Episode 25 Part 2 - Dawn of Liberator [Final]
-Body = This is the discussion thread for Digimon Liberator Episode 25 Part 2 [Final] Digimon Liberator Episode 25 Part 2 is out Thursday, March 19th, at 11am in Japan. The time given converts to: Wednesday, March 18th, 7:00pm in California (Pacific) Wednesday, March 18th, 10:00pm in New York (Eastern) Thursday, March 19th, 2:00am in the UK (GMT) Thursday, March 19th, 1:00pm in Australia (Melbourne) If your time isn't included in... Read more
 End = true
 
