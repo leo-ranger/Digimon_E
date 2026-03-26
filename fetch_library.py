@@ -15,8 +15,7 @@ digimon_news = [
 # List of RSS feeds to fetch
 RSS_URLS = [
     "https://www.abc.net.au/news/feed/104217382/rss.xml",
-    "https://www.cnet.com/rss/news/",
-    "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "https://withthewill.net/forums/-/index.rss",
     # Add more RSS URLs here
 ]
 
