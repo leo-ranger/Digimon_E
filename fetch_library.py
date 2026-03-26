@@ -1,4 +1,5 @@
 import feedparser
+import re
 
 # Output file to commit
 OUTPUT_FILE = "library.txt"
@@ -19,13 +20,20 @@ RSS_URLS = [
     # Add more RSS URLs here
 ]
 
+# Function to remove HTML tags
+def strip_html(text):
+    clean = re.sub(r"<[^>]+>", "", text)  # Remove tags like <div>, <p>, <br>
+    clean = re.sub(r"&nbsp;|&amp;|&lt;|&gt;", " ", clean)  # Replace common HTML entities
+    clean = clean.replace("\n", " ").strip()
+    return clean
+
 # Function to fetch and parse a single RSS feed
 def fetch_rss_entries(url):
     feed = feedparser.parse(url)
     entries = []
     for entry in feed.entries:
-        title = entry.title.replace("\n", " ").strip()
-        desc = entry.summary.replace("\n", " ").strip() if "summary" in entry else ""
+        title = strip_html(entry.title)
+        desc = strip_html(entry.summary) if "summary" in entry else ""
         entries.append({"type": "RNEWS", "title": title, "body": desc})
     return entries
 
