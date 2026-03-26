@@ -30,7 +30,7 @@ End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Liberator Webnovel: Debug. Final- Cross Chronicle & Debug.
-Body = This is the discussion thread for Digimon Liberator Webnovel Debug. Final- Cross Chronicle   Debug.
+Body = This is the discussion thread for Digimon Liberator Webnovel Debug. Final- Cross Chronicle & Debug.
 End = true
 
 [LIBRARY RNEWS]
@@ -40,7 +40,7 @@ End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 24- Overlapping Beats [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 24, Overlapping Beats   	 		 	  A preview of Episode 24  Episode 24 airs Sunday, March 29th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is expected at: Saturday, March 28th, 8:00pm in California (Pacific) Saturday, March 28th, 11:00pm in New York (Eastern) Sunday, March 29th, 4:00am in the UK (GMT)  If your time isn't included in the short list above this link...
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 24, Overlapping Beats A preview of Episode 24 Episode 24 airs Sunday, March 29th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
