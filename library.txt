@@ -1,0 +1,30 @@
+[LIBRARY LORE]
+Title = New Aquatic Digimon
+Body = A single-eyed fish Digimon has appeared in deep network zones.
+End = true
+
+[LIBRARY DNEWS]
+Title = Digital Storm Warning
+Body = Network turbulence detected across the eastern sector.
+End = true
+
+[LIBRARY RNEWS]
+Title = Iran reviews ceasefire plan as Gulf states say war poses 'existential threat'
+Body = Strikes have not let up across the Middle East with targets in Iran, Israel, Lebanon, Bahrain, Kuwait, Jordan and Saudi Arabia all coming under fire.
+End = true
+
+[LIBRARY RNEWS]
+Title = What we know and don't know about the Iran war negotiations
+Body = US President Donald Trump's surprising claim that talks with Iran were yielding great progress only raised more confusion over a war whose goals were already unclear.
+End = true
+
+[LIBRARY RNEWS]
+Title = Trump administration offers 15-point ceasefire plan to Iran
+Body = The ceasefire plan comes as the US military prepares to call up at least 1,000 more troops to supplement those already in the Middle East.
+End = true
+
+[LIBRARY RNEWS]
+Title = Government will adjust Iran visitor visa rules as war develops, Burke says
+Body = The federal government will temporarily restrict some Iranian visitor visa holders currently outside Australia from entering the country for six months.
+End = true
+
