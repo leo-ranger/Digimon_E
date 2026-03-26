@@ -1,8 +1,8 @@
 import feedparser
 import re
-import html
+from html import unescape
 
-# Output file
+# Output file to commit
 OUTPUT_FILE = "library.txt"
 
 # Digimon LORE and DNEWS - static entries
@@ -14,68 +14,58 @@ digimon_news = [
     {"type": "DNEWS", "title": "Digital Storm Warning", "body": "Network turbulence detected across the eastern sector."},
 ]
 
-# List of RSS feeds
+# List of RSS feeds to fetch
 RSS_URLS = [
     "https://www.abc.net.au/news/feed/104217382/rss.xml",
     "https://withthewill.net/forums/-/index.rss",
     # Add more RSS URLs here
 ]
 
-#----------------------------
-# Clean and shorten text
-#----------------------------
-def clean_text(text):
-    if not text:
-        return ""
-    # Remove HTML tags
-    text = re.sub(r"<[^>]+>", "", text)
-    # Convert HTML entities to actual characters
-    text = html.unescape(text)
-    # Remove zero-width spaces and other invisible chars
-    text = re.sub(r"[\u200B-\u200D\uFEFF]", "", text)
-    # Remove trailing "Read more" and replace with [...]
-    text = re.sub(r"\s*read more\.{0,3}", " [...]", text, flags=re.IGNORECASE)
-    # Find first date/time pattern and cut everything after it
-    date_time_pattern = re.compile(
-        r"(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+\w+\s+\d{1,2}(?:st|nd|rd|th)?|"  # Dates
-        r"\d{1,2}:\d{2}\s*(?:am|pm)|"  # Times
-        r"\(\w+\)"  # Timezones
-        , flags=re.IGNORECASE
-    )
-    match = date_time_pattern.search(text)
-    if match:
-        text = text[:match.start()].strip()
-        # Remove trailing punctuation like ":" or "-" if left dangling
-        text = re.sub(r"[:\-]+$", "", text).strip()
-    # Collapse multiple whitespace into a single space
-    text = re.sub(r"\s+", " ", text)
+MAX_ARTICLES_PER_FEED = 5
+MIN_BODY_LENGTH = 50  # minimum length for an article body
+
+# Function to remove HTML tags
+def strip_html(text):
+    text = re.sub(r"<[^>]+>", "", text)  # Remove tags like <div>, <p>, <br>
+    text = re.sub(r"&nbsp;|&amp;|&lt;|&gt;", " ", text)  # Replace common HTML entities
+    text = text.replace("\n", " ").strip()
     return text
 
-#----------------------------
-# Fetch a single RSS feed
-#----------------------------
-def fetch_rss_entries(url, max_articles=5):
+# Keep only the first 1-2 sentences
+def extract_first_sentences(text, n=2):
+    sentences = re.split(r'(?<=[.!?])\s+', text)
+    return " ".join(sentences[:n]).strip()
+
+# Clean and normalize article body
+def clean_body(text):
+    text = strip_html(text)
+    text = unescape(text)  # converts &#039; → ', etc.
+    text = re.sub(r'\u200b+', '', text)  # remove zero-width chars
+    text = re.sub(r'\s+Read more\.{0,3}', ' [...]', text, flags=re.IGNORECASE)  # replace "Read more..."
+    text = extract_first_sentences(text, n=2)  # keep first 1-2 sentences
+    if len(text) < MIN_BODY_LENGTH:
+        text += " [...]"
+    return text
+
+# Fetch and parse a single RSS feed
+def fetch_rss_entries(url):
     feed = feedparser.parse(url)
     entries = []
-    for entry in feed.entries[:max_articles]:
-        title = clean_text(entry.title)
-        desc = clean_text(entry.summary) if "summary" in entry else ""
+    for entry in feed.entries[:MAX_ARTICLES_PER_FEED]:  # limit top N articles
+        title = clean_body(entry.title)
+        desc = clean_body(entry.summary) if "summary" in entry else ""
         entries.append({"type": "RNEWS", "title": title, "body": desc})
     return entries
 
-#----------------------------
 # Combine all RSS entries
-#----------------------------
 rnews = []
 for url in RSS_URLS:
-    rnews.extend(fetch_rss_entries(url, max_articles=5))
+    rnews.extend(fetch_rss_entries(url))
 
-# Combine static entries + RSS
+# Combine all entries (static + RSS)
 all_entries = local_lore + digimon_news + rnews
 
-#----------------------------
 # Write to library.txt
-#----------------------------
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     for e in all_entries:
         f.write(f"[LIBRARY {e['type']}]\n")
