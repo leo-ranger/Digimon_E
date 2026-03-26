@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Australian bishop appointed by pope to senior Vatican role
+Body = Anthony Randazzo, the bishop of Broken Bay, which since 2019 covers Sydney's northern regions and the central coast, receives the personal title of archbishop and is named as Prefect of the Dicastery for Legislative Texts.
+End = true
+
+[LIBRARY RNEWS]
 Title = Iran reviews ceasefire plan as Gulf states say war poses 'existential threat'
 Body = Strikes have not let up across the Middle East with targets in Iran, Israel, Lebanon, Bahrain, Kuwait, Jordan and Saudi Arabia all coming under fire.
 End = true
@@ -24,7 +29,177 @@ Body = The ceasefire plan comes as the US military prepares to call up at least 
 End = true
 
 [LIBRARY RNEWS]
-Title = Government will adjust Iran visitor visa rules as war develops, Burke says
-Body = The federal government will temporarily restrict some Iranian visitor visa holders currently outside Australia from entering the country for six months.
+Title = Today's NYT Mini Crossword Answers for Thursday, March 26
+Body = Here are the answers for The New York Times Mini Crossword for March 26.
+End = true
+
+[LIBRARY RNEWS]
+Title = USPS 8% Surcharge Could Hit Small Businesses and Shoppers Alike
+Body = It's the first-ever surcharge from the USPS, and it's all due to rising gas costs. But it won't affect first-class stamps.
+End = true
+
+[LIBRARY RNEWS]
+Title = Ring Finally Goes Wire-Free for Its Latest 4K Video Doorbells
+Body = The launch of battery-powered versions of the company's powerful AI doorbells has been highly anticipated.
+End = true
+
+[LIBRARY RNEWS]
+Title = Melania Trump Escorted by Talking Humanoid Robot at White House Tech Summit
+Body = The first lady shared the spotlight with the robot to promote the use of artificial intelligence in education.
+End = true
+
+[LIBRARY RNEWS]
+Title = We're Tracking Our Favorite Deals During the Amazon Big Spring Sale and There Are a Ton of Great Ones
+Body = The Amazon Big Spring Sale has deals on just about anything you could want, from vacuums to TVs and anything in between, and we're vetting all the best discounts.
+End = true
+
+[LIBRARY RNEWS]
+Title = The Top Tech Deals Our Readers Are Shopping During Amazon's Big Spring Sale
+Body = Check out the top trending gadgets that you can snag on sale now during the Amazon Big Spring Sale.
+End = true
+
+[LIBRARY RNEWS]
+Title = McDonald's KPop Demon Hunter Meals Include Bright Purple Nugget Sauce
+Body = The Derpy McFlurry mixes popping boba pearls and berry sauce into a soft-serve dessert.
+End = true
+
+[LIBRARY RNEWS]
+Title = Switch 2 Pricing Shift: Nintendo Says Its Physical Games Will Cost $10 More
+Body = Gaming is about to become even more expensive.
+End = true
+
+[LIBRARY RNEWS]
+Title = OpenAI Gives Users a Long-Term Storage Option With ChatGPT Library
+Body = Right now, you need a Plus plan or better to access the library feature.
+End = true
+
+[LIBRARY RNEWS]
+Title = New Features Make NotebookLM More Flexible and Easier to Use
+Body = NotebookLM's latest features turn your notes into videos, podcasts and more.
+End = true
+
+[LIBRARY RNEWS]
+Title = Dell's Precision Pro Biz Laptops Are Back With New Focus on Portability
+Body = Dell is bringing back the Precision Pro alongside a lineup of new Dell Pro laptops, the tiny Pro 5 Micro PC and a "conferencing monitor."
+End = true
+
+[LIBRARY RNEWS]
+Title = Razer Releases New Blade 16 Gaming Laptop With Intel Panther Lake, Brighter OLED
+Body = This 16-inch gaming powerhouse has an Intel Core Ultra 9 386H processor and up to RTX 5090 graphics but doesn't come cheap.
+End = true
+
+[LIBRARY RNEWS]
+Title = Nintendo Dropped a Switch 2 Update With a New Mode You'll Want to Turn On Immediately
+Body = This new feature is one of the best yet.
+End = true
+
+[LIBRARY RNEWS]
+Title = Today's NYT Connections: Sports Edition Hints and Answers for March 26, #549
+Body = Here are hints and the answers for the NYT Connections: Sports Edition puzzle No. 549 for Thursday, March 26.
+End = true
+
+[LIBRARY RNEWS]
+Title = Today's NYT Strands Hints, Answers and Help for March 26 #753
+Body = Here are hints and answers for the NYT Strands puzzle for March 26, No. 753.
+End = true
+
+[LIBRARY RNEWS]
+Title = Today's Wordle Hints, Answer and Help for March 26, #1741
+Body = Here are hints and the answer for today's Wordle for March 26, No. 1,741.
+End = true
+
+[LIBRARY RNEWS]
+Title = Today's NYT Connections Hints, Answers and Help for March 26, #1019
+Body = Here are some hints and the answers for the NYT Connections puzzle for March 26 #1019.
+End = true
+
+[LIBRARY RNEWS]
+Title = Foldable Smartphone Shipments Grew 28% in 2025, Even Without Apple
+Body = Now that more major brands are competing in the foldable market, a growing number of people are making the switch.
+End = true
+
+[LIBRARY RNEWS]
+Title = Sony Hits the Brakes on Electric Cars With Built-In PlayStation Features
+Body = Two EV models that Sony was developing with Honda, the Afeels 1 sedan and an Afeela SUV, are now discontinued.
+End = true
+
+[LIBRARY RNEWS]
+Title = New Harry Potter TV Series Trailer Reintroduces Hogwarts Magic for HBO
+Body = The show will now debut before 2027.
+End = true
+
+[LIBRARY RNEWS]
+Title = Nvidia's NemoClaw Adds Security and Privacy Features for AI Agents. Is It Enough?
+Body = Nvidia's NemoClaw adds some significant advancements to OpenClaw, but experts believe more work needs to be done.
+End = true
+
+[LIBRARY RNEWS]
+Title = Best Carpet Cleaners for Spring Allergy Season: I Tested Them on Real-Life Messes
+Body = My favorite carpet cleaners do more than just tackle tough stains and pet messes -- they also remove pollen, dust and pet dander to help keep your seasonal allergies at bay.
+End = true
+
+[LIBRARY RNEWS]
+Title = Mars Just Got Closer: How NASA's SR-1 Freedom Could Rewrite Space Travel
+Body = The spacecraft will deliver NASA's Skyfall payload, which is a group of helicopters designed to find subsurface water on Mars.
+End = true
+
+[LIBRARY RNEWS]
+Title = How to Watch MLB: Team-by-Team Streaming Guide for the 2026 Baseball Season
+Body = Every team now offers an in-market streaming service, and MLB.TV is now part of ESPN. Here's what you need to know to watch baseball this year.
+End = true
+
+[LIBRARY RNEWS]
+Title = Streaming Service Deals for Students: Save on HBO Max, Hulu and Music
+Body = See if you qualify for one of these student-focused discounts.
+End = true
+
+[LIBRARY RNEWS]
+Title = La NASA anuncia la cobertura de la misión lunar Artemis II
+Body = Nota del editor: La NASA actualizará continuamente esta página de sesiones informativas y eventos de la misión Artemis II a lo largo de las actividades previas al lanzamiento, el lanzamiento y las operaciones de la misión. La NASA ofrecerá cobertura en vivo de los eventos previos al lanzamiento, el lanzamiento y las actividades de la [&#8230;]
+End = true
+
+[LIBRARY RNEWS]
+Title = NASA Ames Experts Available for Artemis II Flight Test Interviews
+Body = NASA’s Ames Research Center in Silicon Valley invites media to interview local subject matter experts on Friday, March 27 from 10 a.m. to 2 p.m. ahead of the agency sending astronauts around the Moon for the first time in more than 50 years with the Artemis II flight test. NASA teams are gearing up for [&#8230;]
+End = true
+
+[LIBRARY RNEWS]
+Title = NASA Sets Coverage for First Artemis Crewed Mission Around Moon
+Body = A variety of prelaunch, launch, and mission events for NASA’s Artemis II mission around the Moon will stream online. The agency is targeting no earlier than Wednesday, April 1, for the test flight during a two-hour window that opens at 6:24 p.m. EDT, with additional launch opportunities through Monday, April 6. Artemis II is NASA’s [&#8230;]
+End = true
+
+[LIBRARY RNEWS]
+Title = NASA Sets Coverage for Artemis II Moon Mission
+Body = Editor’s note: NASA will continuously update this Artemis II briefings and mission events page throughout prelaunch, launch, and mission activities. NASA will provide live coverage of prelaunch, launch, and mission events for the agency’s upcoming Artemis II crewed test flight around the Moon. Launch is targeted for no earlier than 6:24 p.m. EDT Wednesday, April [&#8230;]
+End = true
+
+[LIBRARY RNEWS]
+Title = Artemis Moon Tree Dedicated in Honor of Mary W. Jackson
+Body = On March 18, 2026, students, staff, and members of NASA’s Langley Research Center gathered at Mary W. Jackson Elementary School in Hampton to celebrate the dedication of a remarkable addition to the campus – an Artemis Moon Tree. Although formally dedicated on this day, the loblolly pine had already taken root months earlier, having been […]
+End = true
+
+[LIBRARY RNEWS]
+Title = NASA Names Jennifer Lyons Acting Launch Services Program Manager
+Body = NASA has selected Jennifer Lyons as acting program manager for the agency’s Launch Services Program (LSP) based at Kennedy Space Center in Florida. In this role, Lyons will lead NASA’s acquisition and management of domestic commercial launch services for science and robotic exploration missions beginning Wednesday, April 1. Lyons will oversee mission planning, launch vehicle [&#8230;]
+End = true
+
+[LIBRARY RNEWS]
+Title = Metrics
+Body = Services Catalog Click here to view the FY25 Services Catalog The catalogs provide service description, chargeback rate, unit of measure, and service level indicators for each NSSC service. Service Level Agreement (SLA) Click here to view the Service Level Agreement The SLA provides information about roles, responsibilities, rates, and service level indicators for all NASA [&#8230;]
+End = true
+
+[LIBRARY RNEWS]
+Title = Webb Captures Saturn in Infrared
+Body = Saturn&#8217;s icy rings glow in this infrared view from NASA&#8217;s James Webb Space Telescope released on March 25, 2026. Combining this image with another that NASA&#8217;s Hubble Space Telescope captured – also released on the same day – provides scientists with a richer, more layered understanding of the gas giant&#8217;s atmosphere. In Webb&#8217;s infrared image, [&#8230;]
+End = true
+
+[LIBRARY RNEWS]
+Title = NASA Webb, Hubble Share Most Comprehensive View of Saturn to Date
+Body = NASA’s James Webb Space Telescope and Hubble Space Telescope have teamed up to capture new views of Saturn, revealing the planet in strikingly different ways. Observing in complementary wavelengths of light, the two space observatories provide scientists with a richer, more layered understanding of the gas giant’s atmosphere. Both sense sunlight reflected from Saturn’s banded […]
+End = true
+
+[LIBRARY RNEWS]
+Title = NASA-JAXA’s XRISM Telescope Clocks Hot Wind of Galaxy M82
+Body = For the first time, astronomers have directly measured the speed of superheated gas billowing from a cauldron of stellar activity at the heart of M82.
 End = true
 
