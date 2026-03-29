@@ -2,7 +2,8 @@ name: Update Library
 
 on:
   schedule:
-    - cron: '0 6 * * 1'  # Every Monday at 06:00 UTC
+    - cron: '0 0 * * *'   # Midnight UTC
+    - cron: '0 12 * * *'  # Midday UTC
   workflow_dispatch:      # Manual trigger
 
 jobs:
