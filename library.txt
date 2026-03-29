@@ -29,27 +29,27 @@ Body = Israel's expanded invasion of southern Lebanon was at least 12 days in th
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 23- The Power to Take [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 23, The Power to Take A preview of Episode 23 Episode 23 airs Sunday, March 22nd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Beatbreak: Episode 24- Overlapping Beats [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 24, Overlapping Beats A preview of Episode 24 Episode 24 airs Sunday, March 29th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 24 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 24, Overlapping Beats, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Updates- Episode 23 Production Art, Cristina Vee Dub Behind the Scenes, & Beatbreak Outreach Art 3 Teaser
-Body = A few recent Digimon Beatbreak updates before we get episode 24 later today. We get episode 23 general...
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger Expansion DLC Coming in 2027 & Digimon You'd Like to See in a Future Game Poll Results
-Body = During Digimon Con 2026, expansion DLC was announced for Digimon Story: Time Stranger. It will be released in 2027, and will seemingly be to a decent scale.
+Title = Weekend Batch- Digimon Beatbreak Episode 24, Linkz, Lotteria, Liberator, & TCG Social Art, Anime Japan Photos, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 24, the end of the Tactics arc!
 End = true
 
 [LIBRARY RNEWS]
-Title = Factorial Area Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Factorial Area.
+Title = Digimon Beatbreak Interlude Arc- 3 Episode Arc & Character Teasers
+Body = Starting April 5th Digimon Beatbreak... doesn't quite move on to its next full arc.
 End = true
 
