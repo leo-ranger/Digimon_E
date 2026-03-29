@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Live: Trump says Iran 'afraid' to admit it wants a deal as US sends in more troops
-Body = Donald Trump claims Iranian leaders are afraid to admit they are negotiating with the US, with the Pentagon confirming the deployment of more ground troops to the Middle East. Follow live.
+Title = US 'on verge' of ending Iran war as Rubio demands allies lead postwar coalition
+Body = Secretary of State Marco Rubio tells G7 leaders to ready a postwar coalition to secure the Strait of Hormuz, saying the US-Israeli war on Iran could conclude within weeks.
 End = true
 
 [LIBRARY RNEWS]
-Title = US says Iran seeking 'exit ramp' despite mixed ceasefire signals
-Body = The White House says talks with Iran aimed at ending the conflict have not stalled, despite conflicting reports on Iran's response to a 15-point ceasefire proposal.
+Title = Dementia is Australia's top killer, yet most still miss the early signs
+Body = Dementia is the leading cause of death in Australia and stigmas around the disease can delay diagnosis. But some in the community are at work to break taboos.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian bishop surprised by appointment to senior Vatican role
-Body = Anthony Randazzo, the bishop of Broken Bay, which since 2019 covers Sydney's northern regions and the central coast, receives the personal title of archbishop and is named as Prefect of the Dicastery for Legislative Texts.
+Title = 'All the villages will be deserted’: The crisis emptying Greek islands and towns
+Body = Greece's population could drop by as much as 20 per cent by 2050, with the government declaring the situation a "national threat".
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran reviews ceasefire plan as Gulf states say war poses 'existential threat'
-Body = Strikes have not let up across the Middle East with targets in Iran, Israel, Lebanon, Bahrain, Kuwait, Jordan and Saudi Arabia all coming under fire.
+Title = Mapping Israel's destruction of Lebanese bridges [...]
+Body = Israel's expanded invasion of southern Lebanon was at least 12 days in the making, with bridges targeted to effectively cut off the south from the country's centre.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Liberator Webnovel: Debug. Final- Cross Chronicle & Debug.
-Body = This is the discussion thread for Digimon Liberator Webnovel Debug. Final- Cross Chronicle & Debug.
+Title = Digimon Beatbreak: Episode 23- The Power to Take [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 23, The Power to Take A preview of Episode 23 Episode 23 airs Sunday, March 22nd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Kokuwamon & Guardromon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time...
+Title = Digimon Beatbreak Episode 24 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 24, Overlapping Beats, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 24- Overlapping Beats [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 24, Overlapping Beats A preview of Episode 24 Episode 24 airs Sunday, March 29th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Beatbreak Updates- Episode 23 Production Art, Cristina Vee Dub Behind the Scenes, & Beatbreak Outreach Art 3 Teaser
+Body = A few recent Digimon Beatbreak updates before we get episode 24 later today. We get episode 23 general...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak ED3 Announced as 'Mirror Mirror' by Yena Starts on April 5th Episode
-Body = The 3rd ending theme for Digimon Beatbreak has been announced! The song is 'Mirror Mirror' from Yena!
+Title = Digimon Story: Time Stranger Expansion DLC Coming in 2027 & Digimon You'd Like to See in a Future Game Poll Results
+Body = During Digimon Con 2026, expansion DLC was announced for Digimon Story: Time Stranger. It will be released in 2027, and will seemingly be to a decent scale.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Tamers D-Ark 25th Color Evolution- Images, Info, & Pre-Order Details
-Body = The D-Ark 25th Color Evolution is coming for the 25th anniversary of Digimon Tamers! Not a surprise to see the line continuing, but nice to get all the details.
+Title = Factorial Area Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Factorial Area.
 End = true
 
