@@ -9,13 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US 'on verge' of ending Iran war as Rubio demands allies lead postwar coalition
-Body = Secretary of State Marco Rubio tells G7 leaders to ready a postwar coalition to secure the Strait of Hormuz, saying the US-Israeli war on Iran could conclude within weeks.
+Title = At the 'Gate of Tears', a new threat to global energy emerges
+Body = The opening of a new front in the Middle East war has put another vital shipping route on edge. Known in Arabic as the "Gate of Tears", analysts warn this narrow waterway could soon live up to its name.
 End = true
 
 [LIBRARY RNEWS]
-Title = Dementia is Australia's top killer, yet most still miss the early signs
-Body = Dementia is the leading cause of death in Australia and stigmas around the disease can delay diagnosis. But some in the community are at work to break taboos.
+Title = Israel edited photo of journalist, war to intensify in Lebanon, and what else you should know
+Body = The Israel Defense Forces has been forced to admit it edited a photo of Ali Shoeib to show him in a military uniform.
+End = true
+
+[LIBRARY RNEWS]
+Title = 'No Kings' protests against Trump draw crowds across US and Europe
+Body = Huge crowds rally against US President Donald Trump from coast to coast in what organisers hope will be the largest single-day protest in US history.
 End = true
 
 [LIBRARY RNEWS]
@@ -24,18 +29,8 @@ Body = Greece's population could drop by as much as 20 per cent by 2050, with th
 End = true
 
 [LIBRARY RNEWS]
-Title = Mapping Israel's destruction of Lebanese bridges [...]
-Body = Israel's expanded invasion of southern Lebanon was at least 12 days in the making, with bridges targeted to effectively cut off the south from the country's centre.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 24- Overlapping Beats [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 24, Overlapping Beats A preview of Episode 24 Episode 24 airs Sunday, March 29th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+Title = Digimon Beatbreak Interlude Arc- 3 Episode Arc & Character Teasers
+Body = Starting April 5th Digimon Beatbreak... doesn't quite move on to its next full arc.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +39,17 @@ Body = Time to start a new thread from: https://withthewill.net/threads/random-c
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 24, Linkz, Lotteria, Liberator, & TCG Social Art, Anime Japan Photos, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 24, the end of the Tactics arc!
+Title = Monodramon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Monodramon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Interlude Arc- 3 Episode Arc & Character Teasers
-Body = Starting April 5th Digimon Beatbreak... doesn't quite move on to its next full arc.
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+End = true
+
+[LIBRARY RNEWS]
+Title = What's Your Favorite Physical Merchandise!? [...]
+Body = There is a lot of random Digimon merchandise out there in the world, both in circulation and out of it. My question to the people of these forums is- What is your either rarest or most cherished piece of merch?
 End = true
 
