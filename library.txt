@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Live: Trump threatens to seize Kharg Island, warns Iran to open Strait of Hormuz
+Body = Trump threatens to seize Kharg Island in warning to open Strait of Hormuz. Follow our live coverage.
+End = true
+
+[LIBRARY RNEWS]
 Title = At the 'Gate of Tears', a new threat to global energy emerges
 Body = The opening of a new front in the Middle East war has put another vital shipping route on edge. Known in Arabic as the "Gate of Tears", analysts warn this narrow waterway could soon live up to its name.
+End = true
+
+[LIBRARY RNEWS]
+Title = Nepal's former PM arrested over deaths during protests
+Body = Nepalese police arrests former prime minister Khadga Prasad Oli as they investigate whether he was negligent in failing to prevent dozens of deaths during a crackdown on anti-corruption protests last September.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,23 +29,13 @@ Body = The Israel Defense Forces has been forced to admit it edited a photo of A
 End = true
 
 [LIBRARY RNEWS]
-Title = 'No Kings' protests against Trump draw crowds across US and Europe
-Body = Huge crowds rally against US President Donald Trump from coast to coast in what organisers hope will be the largest single-day protest in US history.
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'All the villages will be deserted’: The crisis emptying Greek islands and towns
-Body = Greece's population could drop by as much as 20 per cent by 2050, with the government declaring the situation a "national threat".
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Interlude Arc- 3 Episode Arc & Character Teasers
-Body = Starting April 5th Digimon Beatbreak... doesn't quite move on to its next full arc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+Title = Preview for Digimon Beatbreak Episode 25 Half-baked Hero & Next Major Arc Teaser Image
+Body = https://twitter.com/x/status/2038179361610686900 Time for a preview for Episode 25 Half-baked Hero! Watch episode 24 first!
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +44,12 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+Title = Holy War (Digimon) [...]
+Body = This is the sequel to my Digimon story, "A Dragon in Shining Armour". Like it's predecessor, it focuses on the Royal Knights.
 End = true
 
 [LIBRARY RNEWS]
-Title = What's Your Favorite Physical Merchandise!? [...]
-Body = There is a lot of random Digimon merchandise out there in the world, both in circulation and out of it. My question to the people of these forums is- What is your either rarest or most cherished piece of merch?
+Title = Digimon Beatbreak Interlude Arc- 3 Episode Arc & Character Teasers
+Body = Starting April 5th Digimon Beatbreak... doesn't quite move on to its next full arc.
 End = true
 
