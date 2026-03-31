@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Dozens killed as feuding Afghanistan and Pakistan hit by flooding
+Body = Heavy rain has triggered severe flooding and caused buildings to collapse, killing 45 people and injuring 74 in Afghanistan and Pakistan over the past five days, with Kabul also warning of continued risks from bad weather as clashes with Pakistan continue.
+End = true
+
+[LIBRARY RNEWS]
 Title = Trump threatens to 'obliterate' Kharg Island if Iran refuses deal to end war
 Body = As thousands more US troops arrive in the Middle East, Donald Trump threatens to wipe out Iran's energy plants and oil wells if it does not reopen the Strait of Hormuz.
 End = true
@@ -24,32 +29,27 @@ Body = Donald Trump renews threats against Iran's energy infrastructure while hi
 End = true
 
 [LIBRARY RNEWS]
-Title = Myanmar's military chief makes move to become next president
-Body = Myanmar's military chief has stepped down to seek the presidency in the general's latest efforts to maintain power behind the facade of a civilian administration.
-End = true
-
-[LIBRARY RNEWS]
 Title = Dorimon Preview for Digimon Card Game Booster Set 25
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Dorimon.
 End = true
 
 [LIBRARY RNEWS]
+Title = Poll Results for Favorite Digimon Added to Reference Book from Super Xros Wars
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Digimon Added to Reference Book from Super Xros Wars. Recently the poll closed and we have the results!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 24- Overlapping Beats [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 24, Overlapping Beats A preview of Episode 24 Episode 24 airs Sunday, March 29th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Episode #294- Monarch of Lacuna (Beatbreak Episode 24, Liberator, & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 24 & the end of the Tactics arc, the end of Digimon Liberator, cards, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
 Title = Witchmon Preview for Digimon Card Game Booster Set 25
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Witchmon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Liberator Webnovel: Debug. Final- Cross Chronicle & Debug.
-Body = This is the discussion thread for Digimon Liberator Webnovel Debug. Final- Cross Chronicle & Debug.
 End = true
 
