@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Live: Trump threatens to seize Kharg Island, warns Iran to open Strait of Hormuz
-Body = Trump threatens to seize Kharg Island in warning to open Strait of Hormuz. Follow our live coverage.
+Title = Trump threatens to 'obliterate' Kharg Island if Iran refuses deal to end war
+Body = As thousands more US troops arrive in the Middle East, Donald Trump threatens to wipe out Iran's energy plants and oil wells if it does not reopen the Strait of Hormuz.
 End = true
 
 [LIBRARY RNEWS]
-Title = At the 'Gate of Tears', a new threat to global energy emerges
-Body = The opening of a new front in the Middle East war has put another vital shipping route on edge. Known in Arabic as the "Gate of Tears", analysts warn this narrow waterway could soon live up to its name.
+Title = Israel passes death penalty for Palestinians convicted of lethal attacks
+Body = The law, long-sought by Israel's far-right politicians, makes death by hanging the default punishment for West Bank Palestinians convicted of killing Israelis.
 End = true
 
 [LIBRARY RNEWS]
-Title = Nepal's former PM arrested over deaths during protests
-Body = Nepalese police arrests former prime minister Khadga Prasad Oli as they investigate whether he was negligent in failing to prevent dozens of deaths during a crackdown on anti-corruption protests last September.
+Title = Israel backs down over holy site, Pope rebukes Hegseth, and what else you should know
+Body = Donald Trump renews threats against Iran's energy infrastructure while his secretary of war faces an apparent rebuke from the pope.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel edited photo of journalist, war to intensify in Lebanon, and what else you should know
-Body = The Israel Defense Forces has been forced to admit it edited a photo of Ali Shoeib to show him in a military uniform.
+Title = Myanmar's military chief makes move to become next president
+Body = Myanmar's military chief has stepped down to seek the presidency in the general's latest efforts to maintain power behind the facade of a civilian administration.
+End = true
+
+[LIBRARY RNEWS]
+Title = Dorimon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Dorimon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Witchmon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Witchmon.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +44,12 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 25 Half-baked Hero & Next Major Arc Teaser Image
-Body = https://twitter.com/x/status/2038179361610686900 Time for a preview for Episode 25 Half-baked Hero! Watch episode 24 first!
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
 [LIBRARY RNEWS]
-Title = Monodramon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Monodramon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Holy War (Digimon) [...]
-Body = This is the sequel to my Digimon story, "A Dragon in Shining Armour". Like it's predecessor, it focuses on the Royal Knights.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Interlude Arc- 3 Episode Arc & Character Teasers
-Body = Starting April 5th Digimon Beatbreak... doesn't quite move on to its next full arc.
+Title = Digimon Liberator Webnovel: Debug. Final- Cross Chronicle & Debug.
+Body = This is the discussion thread for Digimon Liberator Webnovel Debug. Final- Cross Chronicle & Debug.
 End = true
 
