@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Dozens killed as feuding Afghanistan and Pakistan hit by flooding
-Body = Heavy rain has triggered severe flooding and caused buildings to collapse, killing 45 people and injuring 74 in Afghanistan and Pakistan over the past five days, with Kabul also warning of continued risks from bad weather as clashes with Pakistan continue.
+Title = US journalist kidnapped in Baghdad [...]
+Body = Police in Iraq say they are searching for an American journalist who has been kidnapped in Baghdad, possibly by an Iranian-backed militia group.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump threatens to 'obliterate' Kharg Island if Iran refuses deal to end war
-Body = As thousands more US troops arrive in the Middle East, Donald Trump threatens to wipe out Iran's energy plants and oil wells if it does not reopen the Strait of Hormuz.
+Title = Iran sets 24-hour deadline on missile threat. Here's what you should know today
+Body = US companies including Microsoft, Google and Apple could be targeted, while Donald Trump urges the world to buy American fuel.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel passes death penalty for Palestinians convicted of lethal attacks
-Body = The law, long-sought by Israel's far-right politicians, makes death by hanging the default punishment for West Bank Palestinians convicted of killing Israelis.
+Title = Trump tells allies 'go get your own oil' from Strait of Hormuz
+Body = The US president again attacks America's allies over their reluctance to get involved in the Iran war, warning them the "US won't be there to help you anymore, just like you weren't there for us".
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel backs down over holy site, Pope rebukes Hegseth, and what else you should know
-Body = Donald Trump renews threats against Iran's energy infrastructure while his secretary of war faces an apparent rebuke from the pope.
+Title = Everything you need to know about Asia's new Eurovision song contest
+Body = The Eurovision Song Contest will launch its first-ever Asia edition this year, with Bangkok set to become the first host city for the 10-country competition.
 End = true
 
 [LIBRARY RNEWS]
-Title = Dorimon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Dorimon.
+Title = New Digimon Tamers 25th Anniversary Art Teaser [...]
+Body = We got a teaser for Digimon Tamers 25th anniversary art at Digimon Con 2026, and since it's the 25th anniversary of the anime today, we get an updated teaser... The update (on the left) doesn't reveal any full new art compared to the original teaser (on the right), but adds a number of...
+End = true
+
+[LIBRARY RNEWS]
+Title = Titamon & Parallel/Alt Art Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from Booster... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Armalizamon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Armalizamon.
+End = true
+
+[LIBRARY RNEWS]
+Title = 25th Anniversary of Digimon Tamers! [...]
+Body = It's April 1st in Japan, so time for another anniversary! Digimon Tamers began 25 years ago on April 1st, 2001.
 End = true
 
 [LIBRARY RNEWS]
 Title = Poll Results for Favorite Digimon Added to Reference Book from Super Xros Wars
 Body = A bit ago, the official Digimon site put up a poll for your Favorite Digimon Added to Reference Book from Super Xros Wars. Recently the poll closed and we have the results!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 24- Overlapping Beats [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 24, Overlapping Beats A preview of Episode 24 Episode 24 airs Sunday, March 29th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #294- Monarch of Lacuna (Beatbreak Episode 24, Liberator, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 24 & the end of the Tactics arc, the end of Digimon Liberator, cards, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Witchmon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Witchmon.
 End = true
 
