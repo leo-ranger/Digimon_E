@@ -9,7 +9,12 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US journalist kidnapped in Baghdad [...]
+Title = Trump says work on 'massive' White House bunker to go ahead despite block on ballroom
+Body = US President Donald Trump says work will continue on underground bunker at the White House after a federal judge ordered him to suspend his ballroom project, which demolished the building's East Wing.
+End = true
+
+[LIBRARY RNEWS]
+Title = American journalist Shelly Kittleson kidnapped in Baghdad
 Body = Police in Iraq say they are searching for an American journalist who has been kidnapped in Baghdad, possibly by an Iranian-backed militia group.
 End = true
 
@@ -24,8 +29,18 @@ Body = The US president again attacks America's allies over their reluctance to 
 End = true
 
 [LIBRARY RNEWS]
-Title = Everything you need to know about Asia's new Eurovision song contest
-Body = The Eurovision Song Contest will launch its first-ever Asia edition this year, with Bangkok set to become the first host city for the 10-country competition.
+Title = Weekend Batch- Digimon Beatbreak Episode 24, Linkz, Lotteria, Liberator, & TCG Social Art, Anime Japan Photos, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 24, the end of the Tactics arc!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Card Battle 258- Digimon Card Room- Booster Set AD-1 Match
+Body = Digimon Card Battle is back with episode 258. This time, we return to Digimon Card Room and Chiba and Maguro are joined by Hideyoshi for another Booster Set AD-01 match!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Tamers D-Ark 25th Color Evolution & Digimon Pendulum Color: Godzilla Edition V-Pet Pre-Orders at Hobby Genki- New Affiliate Info
+Body = We've generally kept the number of affiliates on WtW quite low, especially when it comes to places acting as intermediaries for more specialty imports, as that can get more complicated to keep an eye that things are being done right. After speaking to the community manager at Hobby Genki, we...
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +49,7 @@ Body = We got a teaser for Digimon Tamers 25th anniversary art at Digimon Con 20
 End = true
 
 [LIBRARY RNEWS]
-Title = Titamon & Parallel/Alt Art Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from Booster... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Armalizamon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Armalizamon.
-End = true
-
-[LIBRARY RNEWS]
-Title = 25th Anniversary of Digimon Tamers! [...]
-Body = It's April 1st in Japan, so time for another anniversary! Digimon Tamers began 25 years ago on April 1st, 2001.
-End = true
-
-[LIBRARY RNEWS]
-Title = Poll Results for Favorite Digimon Added to Reference Book from Super Xros Wars
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Digimon Added to Reference Book from Super Xros Wars. Recently the poll closed and we have the results!
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
