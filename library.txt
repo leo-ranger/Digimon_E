@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says work on 'massive' White House bunker to go ahead despite block on ballroom
-Body = US President Donald Trump says work will continue on underground bunker at the White House after a federal judge ordered him to suspend his ballroom project, which demolished the building's East Wing.
+Title = 'Domino effect': Why Singapore's oil shock will play out in Australia
+Body = Singapore is exposed to the oil shock from Iran's effective closure of the Strait of Hormuz, and its response will shape the fuel crisis in Australia.
 End = true
 
 [LIBRARY RNEWS]
-Title = American journalist Shelly Kittleson kidnapped in Baghdad
-Body = Police in Iraq say they are searching for an American journalist who has been kidnapped in Baghdad, possibly by an Iranian-backed militia group.
+Title = Iran briefing: Trump says Iran's 'new president' asked for truce but there isn't one
+Body = The ABC's Middle East correspondent, Matthew Doran, is in Jerusalem and providing daily updates on the Middle East war.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran sets 24-hour deadline on missile threat. Here's what you should know today
-Body = US companies including Microsoft, Google and Apple could be targeted, while Donald Trump urges the world to buy American fuel.
+Title = Australia assessing ways to help Pacific nations that 'basically run on diesel'
+Body = Pacific nations are not yet suffering large-scale petrol shortages but are already starting to grapple with the economic impacts of the war, with fuel price hikes threatening to drive up inflation.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump tells allies 'go get your own oil' from Strait of Hormuz
-Body = The US president again attacks America's allies over their reluctance to get involved in the Iran war, warning them the "US won't be there to help you anymore, just like you weren't there for us".
+Title = Trump says he is considering pulling US out of 'paper tiger' NATO
+Body = Donald Trump says he is strongly considering pulling the United States out of NATO after allies failed to back US military action against Iran, in an interview with the UK's Daily Telegraph.
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 24, Linkz, Lotteria, Liberator, & TCG Social Art, Anime Japan Photos, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 24, the end of the Tactics arc!
+Title = Gaogamon & MachGaogamon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Battle 258- Digimon Card Room- Booster Set AD-1 Match
-Body = Digimon Card Battle is back with episode 258. This time, we return to Digimon Card Room and Chiba and Maguro are joined by Hideyoshi for another Booster Set AD-01 match!
+Title = 26th Anniversary of Digimon Adventure 02 & 20th Anniversary of Digimon Savers!
+Body = It's April 2nd in Japan, so more anniversaries! Digimon Adventure 02 began 26 years ago on April 2nd, 2000.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Tamers D-Ark 25th Color Evolution & Digimon Pendulum Color: Godzilla Edition V-Pet Pre-Orders at Hobby Genki- New Affiliate Info
-Body = We've generally kept the number of affiliates on WtW quite low, especially when it comes to places acting as intermediaries for more specialty imports, as that can get more complicated to keep an eye that things are being done right. After speaking to the community manager at Hobby Genki, we...
+Title = Premium Bandai US Pre-Orders for D-Ark 25th Color Evolution
+Body = US pre-orders are open at Premium Bandai the D-Ark 25th Color Evolution. These are the same as the Japanese models, just makes pre-order easier, so anything that's Japanese or English will be the same languages here.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon D3 Digivice transparent blue [...]
+Body = Hello all I've been trying to sell this Digimon digivice on eBay for some tim. I asked a seller who was selling similar items how much it was worth and they told me it was pretty rare and would value at about £350.
 End = true
 
 [LIBRARY RNEWS]
 Title = New Digimon Tamers 25th Anniversary Art Teaser [...]
 Body = We got a teaser for Digimon Tamers 25th anniversary art at Digimon Con 2026, and since it's the 25th anniversary of the anime today, we get an updated teaser... The update (on the left) doesn't reveal any full new art compared to the original teaser (on the right), but adds a number of...
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
