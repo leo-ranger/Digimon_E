@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Iran 'holding global economy hostage' as Australia joins urgent Hormuz talks
+Body = Military planners are set to meet after ministers from 40 countries, including Australia's Penny Wong, attended virtual talks on reopening the Strait of Hormuz.
+End = true
+
+[LIBRARY RNEWS]
 Title = Reopening Hormuz by force 'unrealistic', says Macron — as it happened
 Body = The French president has expressed scepticism about how the key waterway could be reopened as war in the Middle East continues.
+End = true
+
+[LIBRARY RNEWS]
+Title = Iranian Nobel laureate suffers suspected heart attack in prison, family says
+Body = Iranian activist and Nobel Peace Prize winner Narges Mohammadi has been repeatedly charged and imprisoned by the regime over the past 25 years.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,28 +29,18 @@ Body = Singapore is exposed to the oil shock from Iran's effective closure of th
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Dance for me': Australian Harrods survivor tells of Mohamed Al Fayed abuse
-Body = Jessica tried to keep her distance from Harrods billionaire owner Mohamed Al Fayed, who was known to abuse his female staff, until he spotted her going down an escalator.
-End = true
-
-[LIBRARY RNEWS]
-Title = Powerful magnitude-7.4 earthquake strikes Indonesia, tsunami warning issued
-Body = The quake, which hit early today, had a depth of 35 kilometres and its epicentre was 127km west-north-west of Ternate, Indonesia, the US Geological Survey said.
-End = true
-
-[LIBRARY RNEWS]
 Title = Hyemon & Fangmon Previews for Digimon Card Game Booster Set 25
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Hyemon &...
 End = true
 
 [LIBRARY RNEWS]
-Title = The A.I. Raven - [Original Fiction/Digimon Homage]
-Body = Synopsis: As his winter semester nears its end, Adrian Ritter finds his class project ruined for unknown reasons. That same day, he realizes something is inside his computer, and it can talk.
+Title = Deltamon & Orochimon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
 End = true
 
 [LIBRARY RNEWS]
-Title = Deltamon & Orochimon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
+Title = The A.I. Raven - [Original Fiction/Digimon Homage]
+Body = Synopsis: As his winter semester nears its end, Adrian Ritter finds his class project ruined for unknown reasons. That same day, he realizes something is inside his computer, and it can talk.
 End = true
 
 [LIBRARY RNEWS]
