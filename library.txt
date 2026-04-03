@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Reopening Hormuz by force 'unrealistic', says Macron — as it happened
+Body = The French president has expressed scepticism about how the key waterway could be reopened as war in the Middle East continues.
+End = true
+
+[LIBRARY RNEWS]
 Title = 'Domino effect': Why Singapore's oil shock will play out in Australia
 Body = Singapore is exposed to the oil shock from Iran's effective closure of the Strait of Hormuz, and its response will shape the fuel crisis in Australia.
 End = true
 
 [LIBRARY RNEWS]
-Title = Donald Trump threatens to hit Iran 'extremely hard' over next few weeks
-Body = In his first national address since the start of the war, President Donald Trump says the US will hit Iran hard over the next two to three weeks, and tells allies they need to secure the Strait of Hormuz if they want to calm oil markets.
+Title = 'Dance for me': Australian Harrods survivor tells of Mohamed Al Fayed abuse
+Body = Jessica tried to keep her distance from Harrods billionaire owner Mohamed Al Fayed, who was known to abuse his female staff, until he spotted her going down an escalator.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran briefing: Trump says Iran's 'new president' asked for truce but there isn't one
-Body = The ABC's Middle East correspondent, Matthew Doran, is in Jerusalem and providing daily updates on the Middle East war.
+Title = Powerful magnitude-7.4 earthquake strikes Indonesia, tsunami warning issued
+Body = The quake, which hit early today, had a depth of 35 kilometres and its epicentre was 127km west-north-west of Ternate, Indonesia, the US Geological Survey said.
 End = true
 
 [LIBRARY RNEWS]
-Title = Look back on the launch of NASA's first Moon mission in half a century
-Body = Four astronauts are on board the Orion capsule, orbiting Earth as humanity seeks to return to the Moon for the first time in 54 years. Take a look back at how the day's events unfolded.
+Title = Hyemon & Fangmon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Hyemon &...
 End = true
 
 [LIBRARY RNEWS]
-Title = 25th Anniversary of Digimon Tamers! [...]
-Body = It's April 1st in Japan, so time for another anniversary! Digimon Tamers began 25 years ago on April 1st, 2001.
+Title = The A.I. Raven - [Original Fiction/Digimon Homage]
+Body = Synopsis: As his winter semester nears its end, Adrian Ritter finds his class project ruined for unknown reasons. That same day, he realizes something is inside his computer, and it can talk.
 End = true
 
 [LIBRARY RNEWS]
-Title = Gaogamon & MachGaogamon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time...
+Title = Deltamon & Orochimon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
 End = true
 
 [LIBRARY RNEWS]
-Title = 26th Anniversary of Digimon Adventure 02 & 20th Anniversary of Digimon Savers!
-Body = It's April 2nd in Japan, so more anniversaries! Digimon Adventure 02 began 26 years ago on April 2nd, 2000.
+Title = Digimon Beatbreak Nominated for Crunchyroll Anime Awards 2026 for Best Original Anime
+Body = It was announced that Digimon Beatbreak was on the nominated list for a category of the Crunchyroll Anime Awards 2026. It's under the category of 'Best Original Anime.' You can vote daily in all categories through April 15th.
 End = true
 
 [LIBRARY RNEWS]
-Title = Premium Bandai US Pre-Orders for D-Ark 25th Color Evolution
-Body = US pre-orders are open at Premium Bandai the D-Ark 25th Color Evolution. These are the same as the Japanese models, just makes pre-order easier, so anything that's Japanese or English will be the same languages here.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon D3 Digivice transparent blue [...]
-Body = Hello all I've been trying to sell this Digimon digivice on eBay for some tim. I asked a seller who was selling similar items how much it was worth and they told me it was pretty rare and would value at about £350.
+Title = Digimon Beatbreak: Episode 25- Half-Baked Hero [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 25, Half-Baked Hero A preview of Episode 25 Episode 25 airs Sunday, April 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
