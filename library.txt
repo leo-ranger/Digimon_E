@@ -19,18 +19,23 @@ Body = Countries heavily reliant on imported oil, like the Philippines in Southe
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran's downing of a US jet will shock Americans in three ways
+Title = Myanmar junta chief Min Aung Hlaing elected president
+Body = In a live broadcast of the vote count the former commander-in-chief comfortably passed the threshold required to win the presidency.
+End = true
+
+[LIBRARY RNEWS]
+Title = Iran's downing of two US aircraft will shock Americans in three ways
 Body = This is the point when the US either goes deeper into this war or makes a clear decision to end it.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bank of America's $105m settlement with Epstein victims wins preliminary approval
-Body = A US judge has granted preliminary approval to Bank of America's $105.3 million settlement with women who have accused the bank of facilitating their sexual abuse by Jeffrey Epstein.
+Title = Premium Bandai US Pre-Orders for D-Ark 25th Color Evolution
+Body = US pre-orders are open at Premium Bandai the D-Ark 25th Color Evolution. These are the same as the Japanese models, just makes pre-order easier, so anything that's Japanese or English will be the same languages here.
 End = true
 
 [LIBRARY RNEWS]
-Title = Raremon & Dagomon/Dragomon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Raremon...
+Title = Digimon Frontier Pop Up Corner in eeo Store on April 30th- New Tea Party & GraffArt & Product Details- Online Sales Also
+Body = A new Digimon Frontier pop-up shop has been announced! The Digimon Frontier eeo Pop-Up Corner features new Tea Party themed artwork of the characters.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
+Title = Raremon & Dagomon/Dragomon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Raremon...
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Rumble Arena fangame *read the first post before posting*
 Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 25 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 25, Half-Baked Hero, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Nominated for Crunchyroll Anime Awards 2026 for Best Original Anime
-Body = It was announced that Digimon Beatbreak was on the nominated list for a category of the Crunchyroll Anime Awards 2026. It's under the category of 'Best Original Anime.' You can vote daily in all categories through April 15th.
 End = true
 
