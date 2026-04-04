@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran 'holding global economy hostage' as Australia joins urgent Hormuz talks
-Body = Military planners are set to meet after ministers from 40 countries, including Australia's Penny Wong, attended virtual talks on reopening the Strait of Hormuz.
+Title = The 20,000 sailors who have become sitting ducks in the Gulf
+Body = Interviews and first-hand accounts from sailors stranded in the Persian Gulf — under threat of drone attacks, missiles, and exploding boats — reveal an increasingly dire humanitarian crisis unfolding.
 End = true
 
 [LIBRARY RNEWS]
-Title = Reopening Hormuz by force 'unrealistic', says Macron — as it happened
-Body = The French president has expressed scepticism about how the key waterway could be reopened as war in the Middle East continues.
+Title = How the Iran war is pushing US ally the Philippines into economic crisis
+Body = Countries heavily reliant on imported oil, like the Philippines in Southeast Asia, are most vulnerable to the unfolding energy crisis caused by the US-Israel war with Iran.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iranian Nobel laureate suffers suspected heart attack in prison, family says
-Body = Iranian activist and Nobel Peace Prize winner Narges Mohammadi has been repeatedly charged and imprisoned by the regime over the past 25 years.
+Title = Iran's downing of a US jet will shock Americans in three ways
+Body = This is the point when the US either goes deeper into this war or makes a clear decision to end it.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Domino effect': Why Singapore's oil shock will play out in Australia
-Body = Singapore is exposed to the oil shock from Iran's effective closure of the Strait of Hormuz, and its response will shape the fuel crisis in Australia.
+Title = Bank of America's $105m settlement with Epstein victims wins preliminary approval
+Body = A US judge has granted preliminary approval to Bank of America's $105.3 million settlement with women who have accused the bank of facilitating their sexual abuse by Jeffrey Epstein.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hyemon & Fangmon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Hyemon &...
+Title = Raremon & Dagomon/Dragomon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Raremon...
 End = true
 
 [LIBRARY RNEWS]
-Title = Deltamon & Orochimon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
+Title = Delumon/Deramon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Delumon/Deramon.
 End = true
 
 [LIBRARY RNEWS]
-Title = The A.I. Raven - [Original Fiction/Digimon Homage]
-Body = Synopsis: As his winter semester nears its end, Adrian Ritter finds his class project ruined for unknown reasons. That same day, he realizes something is inside his computer, and it can talk.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Episode 25 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 25, Half-Baked Hero, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak Nominated for Crunchyroll Anime Awards 2026 for Best Original Anime
 Body = It was announced that Digimon Beatbreak was on the nominated list for a category of the Crunchyroll Anime Awards 2026. It's under the category of 'Best Original Anime.' You can vote daily in all categories through April 15th.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 25- Half-Baked Hero [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 25, Half-Baked Hero A preview of Episode 25 Episode 25 airs Sunday, April 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
