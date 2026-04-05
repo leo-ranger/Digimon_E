@@ -14,42 +14,42 @@ Body = Interviews and first-hand accounts from sailors stranded in the Persian G
 End = true
 
 [LIBRARY RNEWS]
+Title = Russia launches Good Friday daytime attacks on Ukraine, killing 14
+Body = The Russian military used more than 500 drones and dozens of missiles, according to the Ukrainian air force, destroying residential buildings and damaging a veterinary clinic.
+End = true
+
+[LIBRARY RNEWS]
+Title = Strategically critical Pacific island divided over growing US military presence
+Body = The Pacific Island of Guam sits at the centre of a struggle between the world's most powerful military and the right of its people to determine their own future.
+End = true
+
+[LIBRARY RNEWS]
 Title = How the Iran war is pushing US ally the Philippines into economic crisis
 Body = Countries heavily reliant on imported oil, like the Philippines in Southeast Asia, are most vulnerable to the unfolding energy crisis caused by the US-Israel war with Iran.
 End = true
 
 [LIBRARY RNEWS]
-Title = Myanmar junta chief Min Aung Hlaing elected president
-Body = In a live broadcast of the vote count the former commander-in-chief comfortably passed the threshold required to win the presidency.
+Title = Digimon Beatbreak- ED3 featuring Mirror Mirror by Yena
+Body = With episode 25 of Beatbreak having aired in Japan, we have the video for ED3, Mirror Mirror by Yena! This ED focuses on the girls from throughout Beatbreak, and spoiler warning, shows off a number of characters we haven't met yet, or have only gotten glances of, since the ED seems to be lined up with the next main arc.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran's downing of two US aircraft will shock Americans in three ways
-Body = This is the point when the US either goes deeper into this war or makes a clear decision to end it.
+Title = Pristimon & Wolvermon Previews for Digimon Card Game Starter Deck 23
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This...
 End = true
 
 [LIBRARY RNEWS]
-Title = Premium Bandai US Pre-Orders for D-Ark 25th Color Evolution
-Body = US pre-orders are open at Premium Bandai the D-Ark 25th Color Evolution. These are the same as the Japanese models, just makes pre-order easier, so anything that's Japanese or English will be the same languages here.
+Title = Bacchusmon & Parallel/Alt Art Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Frontier Pop Up Corner in eeo Store on April 30th- New Tea Party & GraffArt & Product Details- Online Sales Also
-Body = A new Digimon Frontier pop-up shop has been announced! The Digimon Frontier eeo Pop-Up Corner features new Tea Party themed artwork of the characters.
+Title = Digimon Beatbreak Gift Arc Announced- Teaser Image & Text, plus More Info
+Body = A day before the short Interlude Arc begins, we have a name and a teaser (2) for the next full arc of Digimon Beatbreak, the Gift Arc. The teaser features a new (but familiar looking to Digimon fans) character wearing a locked and looking at Tomoro and Gekkomon being shown in a Sapotama.
 End = true
 
 [LIBRARY RNEWS]
-Title = Delumon/Deramon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Delumon/Deramon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Raremon & Dagomon/Dragomon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Raremon...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = 6th Anniversary of Digimon Adventure:! [...]
+Body = It's April 5th in Japan, so another anniversary! Digimon Adventure: began on April 5th, 2020.
 End = true
 
