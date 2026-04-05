@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Children as young as 12 recruited to join Iran war
+Body = Kids as young as 12 are being given guns in Iran, as Donald Trump threatens a ground invasion. Here's what people in Iran are feeling.
+End = true
+
+[LIBRARY RNEWS]
 Title = The 20,000 sailors who have become sitting ducks in the Gulf
 Body = Interviews and first-hand accounts from sailors stranded in the Persian Gulf — under threat of drone attacks, missiles, and exploding boats — reveal an increasingly dire humanitarian crisis unfolding.
 End = true
@@ -24,8 +29,8 @@ Body = The Pacific Island of Guam sits at the centre of a struggle between the w
 End = true
 
 [LIBRARY RNEWS]
-Title = How the Iran war is pushing US ally the Philippines into economic crisis
-Body = Countries heavily reliant on imported oil, like the Philippines in Southeast Asia, are most vulnerable to the unfolding energy crisis caused by the US-Israel war with Iran.
+Title = Digimon Beatbreak: Episode 25- Half-Baked Hero [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 25, Half-Baked Hero A preview of Episode 25 Episode 25 airs Sunday, April 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = With episode 25 of Beatbreak having aired in Japan, we have the video for
 End = true
 
 [LIBRARY RNEWS]
-Title = Pristimon & Wolvermon Previews for Digimon Card Game Starter Deck 23
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This...
-End = true
-
-[LIBRARY RNEWS]
-Title = Bacchusmon & Parallel/Alt Art Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Gift Arc Announced- Teaser Image & Text, plus More Info
-Body = A day before the short Interlude Arc begins, we have a name and a teaser (2) for the next full arc of Digimon Beatbreak, the Gift Arc. The teaser features a new (but familiar looking to Digimon fans) character wearing a locked and looking at Tomoro and Gekkomon being shown in a Sapotama.
+Title = Chiropmon Preview for Digimon Card Game Starter Deck 23
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time it's Chiropmon.
 End = true
 
 [LIBRARY RNEWS]
 Title = 6th Anniversary of Digimon Adventure:! [...]
 Body = It's April 5th in Japan, so another anniversary! Digimon Adventure: began on April 5th, 2020.
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Beatbreak Episode 25, TCG, April Fools, Tamers 25th, & Savers 20th Social Art, Photos, Catch-Up for the Week, & More!
+Body = Time for a weekend batch! We start with some Digimon Beatbreak art for episode 24, the end of the Tactics arc!
 End = true
 
