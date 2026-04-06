@@ -9,38 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Fiji cruise ship runs aground after hitting reef near 'Cast Away island'
+Body = Thirty passengers have reportedly been rescued after a cruise ship ran aground on a reef near the island where the film Cast Away was shot.
+End = true
+
+[LIBRARY RNEWS]
+Title = US F-15 airman rescued in Iran after special forces operation
+Body = US President Donald Trump confirms an American airman has been rescued in a daring night operation by US special forces.
+End = true
+
+[LIBRARY RNEWS]
+Title = The Kremlin's internet purge is like 'the Soviet era on steroids'
+Body = The Kremlin is increasing its efforts to dictate the narrative in Russia by shutting off the internet, restricting foreign messenger apps and punishing citizens for speaking out.
+End = true
+
+[LIBRARY RNEWS]
 Title = Children as young as 12 recruited to join Iran war
 Body = Kids as young as 12 are being given guns in Iran, as Donald Trump threatens a ground invasion. Here's what people in Iran are feeling.
 End = true
 
 [LIBRARY RNEWS]
-Title = The 20,000 sailors who have become sitting ducks in the Gulf
-Body = Interviews and first-hand accounts from sailors stranded in the Persian Gulf — under threat of drone attacks, missiles, and exploding boats — reveal an increasingly dire humanitarian crisis unfolding.
+Title = Lunamon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Lunamon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russia launches Good Friday daytime attacks on Ukraine, killing 14
-Body = The Russian military used more than 500 drones and dozens of missiles, according to the Ukrainian air force, destroying residential buildings and damaging a veterinary clinic.
-End = true
-
-[LIBRARY RNEWS]
-Title = Strategically critical Pacific island divided over growing US military presence
-Body = The Pacific Island of Guam sits at the centre of a struggle between the world's most powerful military and the right of its people to determine their own future.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 25- Half-Baked Hero [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 25, Half-Baked Hero A preview of Episode 25 Episode 25 airs Sunday, April 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak- ED3 featuring Mirror Mirror by Yena
-Body = With episode 25 of Beatbreak having aired in Japan, we have the video for ED3, Mirror Mirror by Yena! This ED focuses on the girls from throughout Beatbreak, and spoiler warning, shows off a number of characters we haven't met yet, or have only gotten glances of, since the ED seems to be lined up with the next main arc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Chiropmon Preview for Digimon Card Game Starter Deck 23
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time it's Chiropmon.
+Title = Preview for Digimon Beatbreak Episode 26 The Taste of Guilt
+Body = https://twitter.com/x/status/2040716075999055891 Time for a preview for Episode 26 The Taste of Guilt! Watch episode 25 first!
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +44,12 @@ Body = It's April 5th in Japan, so another anniversary! Digimon Adventure: began
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 25, TCG, April Fools, Tamers 25th, & Savers 20th Social Art, Photos, Catch-Up for the Week, & More!
-Body = Time for a weekend batch! We start with some Digimon Beatbreak art for episode 24, the end of the Tactics arc!
+Title = Digimon Beatbreak: Episode 25- Half-Baked Hero [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 25, Half-Baked Hero A preview of Episode 25 Episode 25 airs Sunday, April 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
