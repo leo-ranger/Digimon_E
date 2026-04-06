@@ -9,13 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Fiji cruise ship runs aground after hitting reef near 'Cast Away island'
-Body = Thirty passengers have reportedly been rescued after a cruise ship ran aground on a reef near the island where the film Cast Away was shot.
+Title = Trump's latest tirade shows timeframes 'all but meaningless'
+Body = It's day 37 of the war in the Middle East. The ABC's Middle East correspondent Matthew Doran is in Jerusalem, where Donald Trump's threats to obliterate Iran are starting to feel like business as usual.
 End = true
 
 [LIBRARY RNEWS]
-Title = US F-15 airman rescued in Iran after special forces operation
-Body = US President Donald Trump confirms an American airman has been rescued in a daring night operation by US special forces.
+Title = Fiji cruise ship runs aground after hitting reef near 'Cast Away island'
+Body = Thirty passengers have reportedly been rescued after a cruise ship ran aground on a reef near the island where the film Cast Away was shot.
 End = true
 
 [LIBRARY RNEWS]
@@ -29,13 +29,18 @@ Body = Kids as young as 12 are being given guns in Iran, as Donald Trump threate
 End = true
 
 [LIBRARY RNEWS]
-Title = Lunamon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Lunamon.
+Title = Liollmon Preview for Digimon Card Game Starter Deck 23
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time it's Liollmon.
 End = true
 
 [LIBRARY RNEWS]
 Title = Preview for Digimon Beatbreak Episode 26 The Taste of Guilt
 Body = https://twitter.com/x/status/2040716075999055891 Time for a preview for Episode 26 The Taste of Guilt! Watch episode 25 first!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Suit Art Products in June [...]
+Body = Aniplus has announced they're doing a wave of Digimon Beatbreak products that will be released in late June. The products feature new art with the theme of the characters in suits.
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 25- Half-Baked Hero [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 25, Half-Baked Hero A preview of Episode 25 Episode 25 airs Sunday, April 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
