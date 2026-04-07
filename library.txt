@@ -19,13 +19,23 @@ Body = London. It's the epicentre of Britain but without it the UK's GDP is equi
 End = true
 
 [LIBRARY RNEWS]
-Title = Artemis II chases record for the farthest humans have ventured from Earth
-Body = The Apollo 13 crew has held the distance record for a crewed aircraft's maximum range from Earth since the 1970s. The Artemis II crew is about to change that.
+Title = Chinese AI helping Iran target US forces with 'incredible precision'
+Body = Chinese satellite images enhanced by artificial intelligence could help Iran target US and allied forces to within a third of a square metre, military analysts say.
 End = true
 
 [LIBRARY RNEWS]
-Title = Chinese AI helping Iran target US forces with 'incredible precision'
-Body = Chinese satellite images enhanced by artificial intelligence could help Iran target US and allied forces to within a third of a square metre, military analysts say.
+Title = Deception campaign key to rescue of downed US fighter pilot from Iran
+Body = After an American fighter jet was shot down in a mountainous area of Iran, the US military pulled off an incredible rescue of two airmen, living up to its credo of "no man left behind", despite running into difficulty.
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Episode #295- Shining Star (Beatbreak Episode 25 & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 25, Interlude Arc, the teaser for Gift Arc, multiple anniversaries with celebration art, product news, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Tamers D-Ark 25th Color Evolution & Digimon Pendulum Color: Godzilla Edition V-Pet Pre-Orders at Hobby Genki- New Affiliate Info
+Body = We've generally kept the number of affiliates on WtW quite low, especially when it comes to places acting as intermediaries for more specialty imports, as that can get more complicated to keep an eye that things are being done right. After speaking to the community manager at Hobby Genki, we...
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 25- Half-Baked Hero [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 25, Half-Baked Hero A preview of Episode 25 Episode 25 airs Sunday, April 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Tamers D-Ark 25th Color Evolution- Images, Info, & Pre-Order Details
-Body = The D-Ark 25th Color Evolution is coming for the 25th anniversary of Digimon Tamers! Not a surprise to see the line continuing, but nice to get all the details.
-End = true
-
-[LIBRARY RNEWS]
-Title = 6th Anniversary of Digimon Adventure:! [...]
-Body = It's April 5th in Japan, so another anniversary! Digimon Adventure: began on April 5th, 2020.
 End = true
 
