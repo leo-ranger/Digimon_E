@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump's latest tirade shows timeframes 'all but meaningless'
-Body = It's day 37 of the war in the Middle East. The ABC's Middle East correspondent Matthew Doran is in Jerusalem, where Donald Trump's threats to obliterate Iran are starting to feel like business as usual.
+Title = Iran briefing with Matthew Doran: Iran rejects truce deal
+Body = The clock is ticking down to US President Donald Trump's deadline, but Iran hasn't blinked.
 End = true
 
 [LIBRARY RNEWS]
-Title = Fiji cruise ship runs aground after hitting reef near 'Cast Away island'
-Body = Thirty passengers have reportedly been rescued after a cruise ship ran aground on a reef near the island where the film Cast Away was shot.
+Title = Britain has become a broken, poverty-riddled 'living nightmare'
+Body = London. It's the epicentre of Britain but without it the UK's GDP is equivalent to the poorest state in the US.
 End = true
 
 [LIBRARY RNEWS]
-Title = The Kremlin's internet purge is like 'the Soviet era on steroids'
-Body = The Kremlin is increasing its efforts to dictate the narrative in Russia by shutting off the internet, restricting foreign messenger apps and punishing citizens for speaking out.
+Title = Artemis II chases record for the farthest humans have ventured from Earth
+Body = The Apollo 13 crew has held the distance record for a crewed aircraft's maximum range from Earth since the 1970s. The Artemis II crew is about to change that.
 End = true
 
 [LIBRARY RNEWS]
-Title = Children as young as 12 recruited to join Iran war
-Body = Kids as young as 12 are being given guns in Iran, as Donald Trump threatens a ground invasion. Here's what people in Iran are feeling.
+Title = Chinese AI helping Iran target US forces with 'incredible precision'
+Body = Chinese satellite images enhanced by artificial intelligence could help Iran target US and allied forces to within a third of a square metre, military analysts say.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Sta
 End = true
 
 [LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 26 The Taste of Guilt
-Body = https://twitter.com/x/status/2040716075999055891 Time for a preview for Episode 26 The Taste of Guilt! Watch episode 25 first!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Suit Art Products in June [...]
-Body = Aniplus has announced they're doing a wave of Digimon Beatbreak products that will be released in late June. The products feature new art with the theme of the characters in suits.
-End = true
-
-[LIBRARY RNEWS]
-Title = 6th Anniversary of Digimon Adventure:! [...]
-Body = It's April 5th in Japan, so another anniversary! Digimon Adventure: began on April 5th, 2020.
+Title = Monarchlizamon Preview for Digimon Card Game Starter Deck 23
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time it's Monarchlizamon.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 25- Half-Baked Hero [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 25, Half-Baked Hero A preview of Episode 25 Episode 25 airs Sunday, April 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Tamers D-Ark 25th Color Evolution- Images, Info, & Pre-Order Details
+Body = The D-Ark 25th Color Evolution is coming for the 25th anniversary of Digimon Tamers! Not a surprise to see the line continuing, but nice to get all the details.
+End = true
+
+[LIBRARY RNEWS]
+Title = 6th Anniversary of Digimon Adventure:! [...]
+Body = It's April 5th in Japan, so another anniversary! Digimon Adventure: began on April 5th, 2020.
 End = true
 
