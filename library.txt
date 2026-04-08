@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = 'They blocked menstrual pads': Inside Myanmar's conflict zone, where monasteries are bombed
+Body = Women who had already lost their homes to last year's earthquake are now also cut off from essentials like sanitary pads and aid.
+End = true
+
+[LIBRARY RNEWS]
+Title = What we know about the US-Iran ceasefire deal [...]
+Body = These are the key moments that lead up to a two-week ceasefire agreement between the US and Iran, and what is on the table to permanently end the fighting.
+End = true
+
+[LIBRARY RNEWS]
+Title = Trump agrees to 'double-sided ceasefire' less than 90 minutes before deadline
+Body = Donald Trump says he has agreed to suspend US attacks on Iran for two weeks as part of a "double-sided ceasefire". Iran is claiming victory and says it will stop its attacks if the US does.
+End = true
+
+[LIBRARY RNEWS]
 Title = As the world counts down to Trump's Iran deadline, here's what you need to know
 Body = Warning sirens are sounding and preparations are being made as the US and Iran ratchet up the threats against each other.
-End = true
-
-[LIBRARY RNEWS]
-Title = Gunfight outside Israeli consulate in Istanbul leaves attacker dead
-Body = A gunman has been killed and two people injured during an attack outside the Israeli consulate in Türkiye.
-End = true
-
-[LIBRARY RNEWS]
-Title = Kanye West blocked from entering UK to headline music festival
-Body = The British government's decision forces London's Wireless festival to cancel the event.
-End = true
-
-[LIBRARY RNEWS]
-Title = Passengers vomiting 'up and down' aisles as Fiji flight aborts three landings
-Body = A Fiji Airways flight from Sydney had to divert after bad weather from a tropical cyclone thwarted its attempts to land.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Sta
 End = true
 
 [LIBRARY RNEWS]
-Title = Premium Bandai US Pre-Orders for Digimon Pendulum Color: Godzilla Edition V-Pets
-Body = US pre-orders are open at Premium Bandai the Digimon Pendulum Color: Godzilla Edition V-Pets. These are the same as the Japanese models, just makes pre-order easier, so anything that's Japanese or English will be the same languages here.
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
-End = true
-
-[LIBRARY RNEWS]
-Title = Onmon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Onmon.
+Title = Official Digimon Web Poll #147- Favorite Big Death-Star General
+Body = Digimon Web has opened a new fan vote. This is the 147th official web poll on the current version of the site.
 End = true
 
 [LIBRARY RNEWS]
 Title = Atratusmon/Eclipse Impact Preview for Digimon Card Game Starter Deck 23
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time it's Atratusmon/Eclipse Impact.
+End = true
+
+[LIBRARY RNEWS]
+Title = Contact person at Toei or Bandai [...]
+Body = Hi All, First post here and I figured with this being clearly the best and most in-depth Digimon forum, that I'd start here. I am a writer and a conceptual ghost writer (basically I get a brief and design a storyline and/or flesh out an idea), I've worked a lot with the typical big five publishers and a few production studios in the US, however I have a concept I was working on for another show and it evolved and some how I turned it into Digimon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up Social Media Gacha Campaign Ended After All Benchmarks Hit
+Body = The social media campaign that was started for Digimon Up recently has been ended after it hit all the benchmarks via the number of social media sites it was doing it on. It may have actually hit the benchmarks between the sites before the campaign ever started on top of that.
 End = true
 
