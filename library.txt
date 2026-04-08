@@ -9,33 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran briefing with Matthew Doran: Iran rejects truce deal
-Body = The clock is ticking down to US President Donald Trump's deadline, but Iran hasn't blinked.
+Title = As the world counts down to Trump's Iran deadline, here's what you need to know
+Body = Warning sirens are sounding and preparations are being made as the US and Iran ratchet up the threats against each other.
 End = true
 
 [LIBRARY RNEWS]
-Title = Britain has become a broken, poverty-riddled 'living nightmare'
-Body = London. It's the epicentre of Britain but without it the UK's GDP is equivalent to the poorest state in the US.
+Title = Gunfight outside Israeli consulate in Istanbul leaves attacker dead
+Body = A gunman has been killed and two people injured during an attack outside the Israeli consulate in Türkiye.
 End = true
 
 [LIBRARY RNEWS]
-Title = Chinese AI helping Iran target US forces with 'incredible precision'
-Body = Chinese satellite images enhanced by artificial intelligence could help Iran target US and allied forces to within a third of a square metre, military analysts say.
+Title = Kanye West blocked from entering UK to headline music festival
+Body = The British government's decision forces London's Wireless festival to cancel the event.
 End = true
 
 [LIBRARY RNEWS]
-Title = Deception campaign key to rescue of downed US fighter pilot from Iran
-Body = After an American fighter jet was shot down in a mountainous area of Iran, the US military pulled off an incredible rescue of two airmen, living up to its credo of "no man left behind", despite running into difficulty.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #295- Shining Star (Beatbreak Episode 25 & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 25, Interlude Arc, the teaser for Gift Arc, multiple anniversaries with celebration art, product news, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Tamers D-Ark 25th Color Evolution & Digimon Pendulum Color: Godzilla Edition V-Pet Pre-Orders at Hobby Genki- New Affiliate Info
-Body = We've generally kept the number of affiliates on WtW quite low, especially when it comes to places acting as intermediaries for more specialty imports, as that can get more complicated to keep an eye that things are being done right. After speaking to the community manager at Hobby Genki, we...
+Title = Passengers vomiting 'up and down' aisles as Fiji flight aborts three landings
+Body = A Fiji Airways flight from Sydney had to divert after bad weather from a tropical cyclone thwarted its attempts to land.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +34,22 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Sta
 End = true
 
 [LIBRARY RNEWS]
-Title = Monarchlizamon Preview for Digimon Card Game Starter Deck 23
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time it's Monarchlizamon.
+Title = Premium Bandai US Pre-Orders for Digimon Pendulum Color: Godzilla Edition V-Pets
+Body = US pre-orders are open at Premium Bandai the Digimon Pendulum Color: Godzilla Edition V-Pets. These are the same as the Japanese models, just makes pre-order easier, so anything that's Japanese or English will be the same languages here.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 25- Half-Baked Hero [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 25, Half-Baked Hero A preview of Episode 25 Episode 25 airs Sunday, April 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+End = true
+
+[LIBRARY RNEWS]
+Title = Onmon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Onmon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Atratusmon/Eclipse Impact Preview for Digimon Card Game Starter Deck 23
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time it's Atratusmon/Eclipse Impact.
 End = true
 
