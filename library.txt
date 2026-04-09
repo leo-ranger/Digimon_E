@@ -9,28 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'They blocked menstrual pads': Inside Myanmar's conflict zone, where monasteries are bombed
-Body = Women who had already lost their homes to last year's earthquake are now also cut off from essentials like sanitary pads and aid.
+Title = With Israel's 'finger on the trigger', can the ceasefire last? Matthew Doran has what you need to know
+Body = Iran thinks Lebanon was part of this truce. The US and Israel did not.
 End = true
 
 [LIBRARY RNEWS]
-Title = What we know about the US-Iran ceasefire deal [...]
-Body = These are the key moments that lead up to a two-week ceasefire agreement between the US and Iran, and what is on the table to permanently end the fighting.
+Title = Iran issues US with ceasefire ultimatum [...]
+Body = Israeli strikes on Lebanon threaten to scuttle the US-Iran ceasefire as Iranian state media reports the Strait of Hormuz has been closed.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump agrees to 'double-sided ceasefire' less than 90 minutes before deadline
-Body = Donald Trump says he has agreed to suspend US attacks on Iran for two weeks as part of a "double-sided ceasefire". Iran is claiming victory and says it will stop its attacks if the US does.
+Title = Hundreds killed in 'barbaric' strikes in Lebanon [...]
+Body = Israeli and Lebanese media are citing the Lebanese Red Cross in reporting the death toll could be as high as 300, with many more injured.
 End = true
 
 [LIBRARY RNEWS]
-Title = As the world counts down to Trump's Iran deadline, here's what you need to know
-Body = Warning sirens are sounding and preparations are being made as the US and Iran ratchet up the threats against each other.
-End = true
-
-[LIBRARY RNEWS]
-Title = Liollmon Preview for Digimon Card Game Starter Deck 23
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time it's Liollmon.
+Title = 'Ketamine Queen' jailed for 15 years over death of Friends star Matthew Perry
+Body = Jayvee Sangha admits to running a "stash house" that helped supply the famous Friends star ketamine in the months before his death.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +34,22 @@ Body = Digimon Web has opened a new fan vote. This is the 147th official web pol
 End = true
 
 [LIBRARY RNEWS]
-Title = Atratusmon/Eclipse Impact Preview for Digimon Card Game Starter Deck 23
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time it's Atratusmon/Eclipse Impact.
+Title = 24th Anniversary of Digimon Frontier! [...]
+Body = Time for another anniversary! It's April 7th in Japan, so Digimon Frontier began 24 years ago on April 7th, 2002!
 End = true
 
 [LIBRARY RNEWS]
-Title = Contact person at Toei or Bandai [...]
-Body = Hi All, First post here and I figured with this being clearly the best and most in-depth Digimon forum, that I'd start here. I am a writer and a conceptual ghost writer (basically I get a brief and design a storyline and/or flesh out an idea), I've worked a lot with the typical big five publishers and a few production studios in the US, however I have a concept I was working on for another show and it evolved and some how I turned it into Digimon.
+Title = Bearmon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Bearmon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up Social Media Gacha Campaign Ended After All Benchmarks Hit
-Body = The social media campaign that was started for Digimon Up recently has been ended after it hit all the benchmarks via the number of social media sites it was doing it on. It may have actually hit the benchmarks between the sites before the campaign ever started on top of that.
+Title = crazy theory about Jeri's name [...]
+Body = Idk why, but out of the blue I thought, could Jeri's name be Julie? Because I know how her name in the original is spelt Juri and there's the whole L and R thing with Japanese script.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak- ED3 featuring Mirror Mirror by Yena
+Body = With episode 25 of Beatbreak having aired in Japan, we have the video for ED3, Mirror Mirror by Yena! This ED focuses on the girls from throughout Beatbreak, and spoiler warning, shows off a number of characters we haven't met yet, or have only gotten glances of, since the ED seems to be lined up with the next main arc.
 End = true
 
