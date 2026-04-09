@@ -29,27 +29,27 @@ Body = Jayvee Sangha admits to running a "stash house" that helped supply the fa
 End = true
 
 [LIBRARY RNEWS]
-Title = Official Digimon Web Poll #147- Favorite Big Death-Star General
-Body = Digimon Web has opened a new fan vote. This is the 147th official web poll on the current version of the site.
+Title = Gryzmon/Grizzlymon & GrapLeomon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
+End = true
+
+[LIBRARY RNEWS]
+Title = What's Your Favorite Physical Merchandise!? [...]
+Body = There is a lot of random Digimon merchandise out there in the world, both in circulation and out of it. My question to the people of these forums is- What is your either rarest or most cherished piece of merch?
+End = true
+
+[LIBRARY RNEWS]
+Title = Liollmon Preview for Digimon Card Game Starter Deck 23
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time it's Liollmon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 26- The Taste of Guilt [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 26, The Taste of Guilt A preview of Episode 26 Episode 26 airs Sunday, April 12th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
 Title = 24th Anniversary of Digimon Frontier! [...]
 Body = Time for another anniversary! It's April 7th in Japan, so Digimon Frontier began 24 years ago on April 7th, 2002!
-End = true
-
-[LIBRARY RNEWS]
-Title = Bearmon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Bearmon.
-End = true
-
-[LIBRARY RNEWS]
-Title = crazy theory about Jeri's name [...]
-Body = Idk why, but out of the blue I thought, could Jeri's name be Julie? Because I know how her name in the original is spelt Juri and there's the whole L and R thing with Japanese script.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak- ED3 featuring Mirror Mirror by Yena
-Body = With episode 25 of Beatbreak having aired in Japan, we have the video for ED3, Mirror Mirror by Yena! This ED focuses on the girls from throughout Beatbreak, and spoiler warning, shows off a number of characters we haven't met yet, or have only gotten glances of, since the ED seems to be lined up with the next main arc.
 End = true
 
