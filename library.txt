@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Racism erupts after Melbourne announces Little India plans
+Body = Social media posts about the announcement of a Little India precinct in Melbourne are flooded with racist comments, leaving some Indians with mixed feelings about the plan.
+End = true
+
+[LIBRARY RNEWS]
 Title = Why Albanese's visit to Singapore is 'very necessary'
 Body = Experts say visits like Anthony Albanese's trip to Singapore are important for securing Australia's energy supplies. As one observer puts it: "When you don't have the stock, you need friends."
 End = true
 
 [LIBRARY RNEWS]
+Title = The last-minute diplomacy that brought Trump back from the brink
+Body = For a few volatile hours, the war in the Middle East appeared to be tipping past the point of no return — until a last-minute push of diplomacy pulled it back.
+End = true
+
+[LIBRARY RNEWS]
 Title = What you need to know about the Iran war today [...]
 Body = The need to ensure the Iran ceasefire holds until the first round of peace talks are held has put Israel under pressure.
-End = true
-
-[LIBRARY RNEWS]
-Title = NATO chief defends alliance as Trump threatens US withdrawal over Iran
-Body = Mark Rutte says European nations and other US allies are playing a vital role in supporting American military operations as he seeks to defend the alliance from Donald Trump's attacks.
-End = true
-
-[LIBRARY RNEWS]
-Title = Emperor penguins, Antarctic fur seals now endangered due to climate change
-Body = The iconic emperor penguin and the Antarctic fur seal are edging closer to extinction, according to a projection by the world's largest environmental network.
 End = true
 
 [LIBRARY RNEWS]
