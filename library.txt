@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = With Israel's 'finger on the trigger', can the ceasefire last? Matthew Doran has what you need to know
-Body = Iran thinks Lebanon was part of this truce. The US and Israel did not.
+Title = Why Albanese's visit to Singapore is 'very necessary'
+Body = Experts say visits like Anthony Albanese's trip to Singapore are important for securing Australia's energy supplies. As one observer puts it: "When you don't have the stock, you need friends."
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran issues US with ceasefire ultimatum [...]
-Body = Israeli strikes on Lebanon threaten to scuttle the US-Iran ceasefire as Iranian state media reports the Strait of Hormuz has been closed.
+Title = What you need to know about the Iran war today [...]
+Body = The need to ensure the Iran ceasefire holds until the first round of peace talks are held has put Israel under pressure.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hundreds killed in 'barbaric' strikes in Lebanon [...]
-Body = Israeli and Lebanese media are citing the Lebanese Red Cross in reporting the death toll could be as high as 300, with many more injured.
+Title = NATO chief defends alliance as Trump threatens US withdrawal over Iran
+Body = Mark Rutte says European nations and other US allies are playing a vital role in supporting American military operations as he seeks to defend the alliance from Donald Trump's attacks.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Ketamine Queen' jailed for 15 years over death of Friends star Matthew Perry
-Body = Jayvee Sangha admits to running a "stash house" that helped supply the famous Friends star ketamine in the months before his death.
+Title = Emperor penguins, Antarctic fur seals now endangered due to climate change
+Body = The iconic emperor penguin and the Antarctic fur seal are edging closer to extinction, according to a projection by the world's largest environmental network.
+End = true
+
+[LIBRARY RNEWS]
+Title = Hawkmon & Aquilamon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Card Battle 259- Digimon Card Room- Dual Card Rule Learning Special & Producer Murata Says Goodbye & Introduces Producer Rui
+Body = Digimon Card Battle is back with episode 259. This time, we return to Digimon Card Room and Chiba and Maguro are joined by Hideyoshi for a couple of things...
+End = true
+
+[LIBRARY RNEWS]
+Title = Marsmon & Parallel/Alt Art Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from Booster Set... [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +49,7 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = What's Your Favorite Physical Merchandise!? [...]
-Body = There is a lot of random Digimon merchandise out there in the world, both in circulation and out of it. My question to the people of these forums is- What is your either rarest or most cherished piece of merch?
-End = true
-
-[LIBRARY RNEWS]
-Title = Liollmon Preview for Digimon Card Game Starter Deck 23
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time it's Liollmon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 26- The Taste of Guilt [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 26, The Taste of Guilt A preview of Episode 26 Episode 26 airs Sunday, April 12th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = 24th Anniversary of Digimon Frontier! [...]
-Body = Time for another anniversary! It's April 7th in Japan, so Digimon Frontier began 24 years ago on April 7th, 2002!
+Title = Terriermon Assistant Lab- Digimon Con 2026 Look Back & Card Game Collaboration & New Digimon Preview, Both with Special Guests
+Body = A few new episodes of Terriermon Assistant Lab! We'll do episode every few weeks if they continue to go up without subs, updating when/if they get English subs quicker, just so they don't build up too far, or when a more relevant episode appears, even if unsubbed.
 End = true
 
