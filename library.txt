@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Roads destroyed as slow-moving TC Maila batters the Pacific on its way to Qld
+Body = Roads and buildings have been destroyed across multiple Pacific islands as slow-moving Tropical Cyclone Maila heads towards Papua New Guinea, with the eye of the storm set to cross over two remote islands early tomorrow.
+End = true
+
+[LIBRARY RNEWS]
+Title = A historic week in China could shape the Xi-Trump meeting
+Body = Taiwan's opposition leader has done something for the first time in a decade, and experts say it could shape relations between Beijing, Taipei and Washington.
+End = true
+
+[LIBRARY RNEWS]
 Title = Racism erupts after Melbourne announces Little India plans
 Body = Social media posts about the announcement of a Little India precinct in Melbourne are flooded with racist comments, leaving some Indians with mixed feelings about the plan.
 End = true
@@ -19,37 +29,27 @@ Body = Experts say visits like Anthony Albanese's trip to Singapore are importan
 End = true
 
 [LIBRARY RNEWS]
-Title = The last-minute diplomacy that brought Trump back from the brink
-Body = For a few volatile hours, the war in the Middle East appeared to be tipping past the point of no return — until a last-minute push of diplomacy pulled it back.
+Title = Tokomon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Tokomon.
 End = true
 
 [LIBRARY RNEWS]
-Title = What you need to know about the Iran war today [...]
-Body = The need to ensure the Iran ceasefire holds until the first round of peace talks are held has put Israel under pressure.
+Title = Producer Murata Leaves Digimon Card Game [...]
+Body = It's been announced that Murata, the producer of the Digimon Card Game, is leaving, effective roughly a week ago when the new fiscal year began. A photo of him was posted to the Digimon Card Game Twitter along with a general message, along with a more personal message from Murata.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hawkmon & Aquilamon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
+Title = Bearmon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Bearmon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Battle 259- Digimon Card Room- Dual Card Rule Learning Special & Producer Murata Says Goodbye & Introduces Producer Rui
-Body = Digimon Card Battle is back with episode 259. This time, we return to Digimon Card Room and Chiba and Maguro are joined by Hideyoshi for a couple of things...
+Title = Digimon Beatbreak Episode 26 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 26, The Taste of Guilt, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Marsmon & Parallel/Alt Art Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from Booster Set... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Gryzmon/Grizzlymon & GrapLeomon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
-End = true
-
-[LIBRARY RNEWS]
-Title = Terriermon Assistant Lab- Digimon Con 2026 Look Back & Card Game Collaboration & New Digimon Preview, Both with Special Guests
-Body = A few new episodes of Terriermon Assistant Lab! We'll do episode every few weeks if they continue to go up without subs, updating when/if they get English subs quicker, just so they don't build up too far, or when a more relevant episode appears, even if unsubbed.
+Title = With the Will Podcast Live- Monday, April 12th [...]
+Body = Sunday (April 12th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 26, a stack of product pre-orders, card previews & news, & more! Sunday instead of our normal Monday!
 End = true
 
