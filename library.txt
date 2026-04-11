@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Roads destroyed as slow-moving TC Maila batters the Pacific on its way to Qld
-Body = Roads and buildings have been destroyed across multiple Pacific islands as slow-moving Tropical Cyclone Maila heads towards Papua New Guinea, with the eye of the storm set to cross over two remote islands early tomorrow.
+Title = Trump threatens Iran with warships ahead of 'make-or-break' talks — as it happened
+Body = US Vice-President JD Vance is due to arrive in Pakistan as both sides level accusations of ceasefire breaches.
 End = true
 
 [LIBRARY RNEWS]
-Title = A historic week in China could shape the Xi-Trump meeting
-Body = Taiwan's opposition leader has done something for the first time in a decade, and experts say it could shape relations between Beijing, Taipei and Washington.
+Title = UK charity sues Prince Harry for defamation [...]
+Body = Prince Harry co-founded Sentebale 20 years ago in honour of his late mother, Princess Diana, but now the organisation is suing him for defamation.
 End = true
 
 [LIBRARY RNEWS]
-Title = Racism erupts after Melbourne announces Little India plans
-Body = Social media posts about the announcement of a Little India precinct in Melbourne are flooded with racist comments, leaving some Indians with mixed feelings about the plan.
+Title = Astronauts hoisted to recovery ship after 'perfect bullseye' landing — as it happened
+Body = The crew on board the Orion has returned to Earth, splashing down in the Pacific Ocean in a perfect '"bullseye". Read back over the day's event in our Artemis II blog.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why Albanese's visit to Singapore is 'very necessary'
-Body = Experts say visits like Anthony Albanese's trip to Singapore are important for securing Australia's energy supplies. As one observer puts it: "When you don't have the stock, you need friends."
+Title = You have likely heard about 'K-pop'. But what about 'P-pop'?
+Body = As one of the world's largest music festivals gets underway this weekend, a pop group from the Philippines has made history.
+End = true
+
+[LIBRARY RNEWS]
+Title = Official Digimon Web Poll #147- Favorite Big Death-Star General
+Body = Digimon Web has opened a new fan vote. This is the 147th official web poll on the current version of the site.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Pegasmon/Pegasusmon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Pegasmon/Pegasusmon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Chibigurumi Plushies & Digimon Adventure Agumon Figure Light Crane Game Prizes Available Next Week
+Body = We've known for awhile there would be Digimon Beatbreak Chibigarumi plushies in crane games, and they're just about out! The Chibigurumi plushies (2) include Tomoro, Gekkomon, Kyo, & Murasamemon will show up starting...
 End = true
 
 [LIBRARY RNEWS]
 Title = Tokomon Preview for Digimon Card Game Booster Set 25
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Tokomon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Producer Murata Leaves Digimon Card Game [...]
-Body = It's been announced that Murata, the producer of the Digimon Card Game, is leaving, effective roughly a week ago when the new fiscal year began. A photo of him was posted to the Digimon Card Game Twitter along with a general message, along with a more personal message from Murata.
-End = true
-
-[LIBRARY RNEWS]
-Title = Bearmon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Bearmon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 26 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 26, The Taste of Guilt, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, April 12th [...]
-Body = Sunday (April 12th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 26, a stack of product pre-orders, card previews & news, & more! Sunday instead of our normal Monday!
 End = true
 
