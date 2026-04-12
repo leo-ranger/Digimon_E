@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump threatens Iran with warships ahead of 'make-or-break' talks — as it happened
-Body = US Vice-President JD Vance is due to arrive in Pakistan as both sides level accusations of ceasefire breaches.
+Title = How NASA and the Artemis II crew completed the 'perfect' splashdown
+Body = After nine days, one hour, 32 minutes and 15 seconds in space — and with a host of new discoveries and a rapt Earth watching — four astronauts journeyed farther from Earth than any human before them.
+End = true
+
+[LIBRARY RNEWS]
+Title = In the Gulf, states are 'paying the price' for a war they didn't start
+Body = When the Iran war ends, Gulf nations will not only have to repair the economic and physical damage caused by Iran's retaliatory campaign, but will also have to learn to live with a regime that analysts say is "less predictable and more violent than it was two months ago".
+End = true
+
+[LIBRARY RNEWS]
+Title = A look at the sea mines Iran claims are in the Strait of Hormuz
+Body = Iran claims to have littered a central shipping passage in the Strait of Hormuz with sea mines, in a move analysts say could be a "coercive threat" to maintain its grip on the crucial waterway.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,37 +29,27 @@ Body = Prince Harry co-founded Sentebale 20 years ago in honour of his late moth
 End = true
 
 [LIBRARY RNEWS]
-Title = Astronauts hoisted to recovery ship after 'perfect bullseye' landing — as it happened
-Body = The crew on board the Orion has returned to Earth, splashing down in the Pacific Ocean in a perfect '"bullseye". Read back over the day's event in our Artemis II blog.
+Title = Digimon Beatbreak- English Dub Discussion (Update- Episodes 11-15 Available)
+Body = Digimon Beatbreak has an English dub! The first five episodes are premiering today (December 27th) on Crunchyroll.
 End = true
 
 [LIBRARY RNEWS]
-Title = You have likely heard about 'K-pop'. But what about 'P-pop'?
-Body = As one of the world's largest music festivals gets underway this weekend, a pop group from the Philippines has made history.
+Title = Digimon Beatbreak English Dub Episodes 16-20 on Crunchyroll Now
+Body = The next batch of English dub episodes of Digimon Beatbreak is up now on Crunchyroll. The newest batch includes episodes 16 through 20.
 End = true
 
 [LIBRARY RNEWS]
-Title = Official Digimon Web Poll #147- Favorite Big Death-Star General
-Body = Digimon Web has opened a new fan vote. This is the 147th official web poll on the current version of the site.
+Title = Digimon Beatbreak Updates- Episode 25 Production Art, Cristina Vee Q&A, Animedia Preview, & Crunchyroll Award Voting Reminder
+Body = A few recent Digimon Beatbreak updates before we get episode 26 later today. We get episode 25 chief animation supervisor's corrections...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Cougarmon & Murasamemon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This...
 End = true
 
 [LIBRARY RNEWS]
-Title = Pegasmon/Pegasusmon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Pegasmon/Pegasusmon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Chibigurumi Plushies & Digimon Adventure Agumon Figure Light Crane Game Prizes Available Next Week
-Body = We've known for awhile there would be Digimon Beatbreak Chibigarumi plushies in crane games, and they're just about out! The Chibigurumi plushies (2) include Tomoro, Gekkomon, Kyo, & Murasamemon will show up starting...
-End = true
-
-[LIBRARY RNEWS]
-Title = Tokomon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Tokomon.
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
