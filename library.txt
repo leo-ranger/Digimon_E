@@ -14,22 +14,22 @@ Body = While the bombs may have stopped falling on Iran for now, Iranians who've
 End = true
 
 [LIBRARY RNEWS]
-Title = At least 30 dead in Haiti stampede, death toll could rise
-Body = At least 30 people were killed on Saturday in a stampede in the northern countryside of Haiti, authorities said, warning that the death toll could rise.
+Title = 'Help us': Cyclone Maila kills at least 11 people in Papua New Guinea
+Body = The Australian government will give $2.5 million to support relief and recovery efforts in Papua New Guinea and Solomon Islands after Tropical Cyclone Maila.
 End = true
 
 [LIBRARY RNEWS]
-Title = A labour hire firm's demise leaves workers out of pocket
-Body = Prominent labour hire company iComply owed more than $12 million when it collapsed, according to a damning liquidator's report, with workers chasing millions in superannuation.
+Title = Pope will continue to 'speak out against war' despite Trump's attacks
+Body = Writing on social media after the pope called for peace, US President Donald Trump says the first American pope is "terrible for foreign policy" and he should "stop catering to the Radical Left".
 End = true
 
 [LIBRARY RNEWS]
-Title = AI generated the animation for this TV show. Is it 'cool' or 'messed up'?
-Body = A television show that uses generative artificial intelligence to animate Indonesian folktales is creating a stir.
+Title = Nigerian military air strike on market reportedly kills more than 100 civilians
+Body = Amnesty International calls for an independent investigation into an air strike on a Nigerian market, where the country's military says it was targeting militants.
 End = true
 
 [LIBRARY RNEWS]
-Title = Gryzmon/Grizzlymon & GrapLeomon Previews for Digimon Card Game Booster Set 25
+Title = Firamon & Flaremon Previews for Digimon Card Game Booster Set 25
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
 End = true
 
@@ -39,17 +39,17 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
+Title = With the Will Podcast Episode #296- Darling Dash (Beatbreak Episode 26 & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 26 & English episodes 16-20, a stack of product pre-orders, card previews & news, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Gryzmon/Grizzlymon & GrapLeomon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Rumble Arena fangame *read the first post before posting*
 Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Firamon & Flaremon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
-End = true
-
-[LIBRARY RNEWS]
-Title = Frimon & Liollmon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
 End = true
 
