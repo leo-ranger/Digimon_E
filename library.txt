@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = In the Gulf, states are 'paying the price' for a war they didn't start
-Body = When the Iran war ends, Gulf nations will not only have to repair the economic and physical damage caused by Iran's retaliatory campaign, but will also have to learn to live with a regime that analysts say is "less predictable and more violent than it was two months ago".
+Title = There's a surprising message from inside Iran after the ceasefire
+Body = While the bombs may have stopped falling on Iran for now, Iranians who've been speaking with ABC News say the mood on the ground is anything but happy.
 End = true
 
 [LIBRARY RNEWS]
-Title = Head swelled to 'basketball size': How it feels to eject from a fighter jet
-Body = A retired F-15 pilot who survived one of the fastest known fighter jet ejections in history, describes what two US airmen would have faced when they did the same in Iran a week ago.
+Title = At least 30 dead in Haiti stampede, death toll could rise
+Body = At least 30 people were killed on Saturday in a stampede in the northern countryside of Haiti, authorities said, warning that the death toll could rise.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why did we go back to the Moon, 50 years after Apollo?
-Body = In both 1968 and 2026, a mission to the Moon offered a refreshing blast of positivity for a conflict-ridden world. So what's different now — and what do we really gain from this new moonshot, five decades after the first?
+Title = A labour hire firm's demise leaves workers out of pocket
+Body = Prominent labour hire company iComply owed more than $12 million when it collapsed, according to a damning liquidator's report, with workers chasing millions in superannuation.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel's mass killing has forced Trump to think about Lebanon
-Body = For weeks, Israel has been intensifying its deadly strikes across Lebanon, and Donald Trump has had little to say. But now he has been forced to make it a priority.
+Title = AI generated the animation for this TV show. Is it 'cool' or 'messed up'?
+Body = A television show that uses generative artificial intelligence to animate Indonesian folktales is creating a stir.
 End = true
 
 [LIBRARY RNEWS]
-Title = Producer Murata Leaves Digimon Card Game [...]
-Body = It's been announced that Murata, the producer of the Digimon Card Game, is leaving, effective roughly a week ago when the new fiscal year began. A photo of him was posted to the Digimon Card Game Twitter along with a general message, along with a more personal message from Murata.
+Title = Gryzmon/Grizzlymon & GrapLeomon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
+End = true
+
+[LIBRARY RNEWS]
+Title = Habakirimon/Habakiri Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Habakirimon/Habakiri.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Firamon & Flaremon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
 End = true
 
 [LIBRARY RNEWS]
 Title = Frimon & Liollmon Previews for Digimon Card Game Booster Set 25
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 26- The Taste of Guilt [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 26, The Taste of Guilt A preview of Episode 26 Episode 26 airs Sunday, April 12th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digivice ring inquiry [...]
-Body = Hello all, im very new here and in search of a Patamon Digivice ring for my girlfriend. I have pretty much zero knowledge on the rarity of these or this forum so any info helps!
-End = true
-
-[LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 26 Social Art, Music & Card Photos, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 25, the end of the Tactics arc!
 End = true
 
