@@ -9,33 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Colombia approves cull of up to 80 hippos [...]
+Body = Colombian officials have authorised a plan to cull dozens of hippos, years after notorious drug lord Pablo Escobar brought in the first ones.
+End = true
+
+[LIBRARY RNEWS]
 Title = Philippines accuses China of 'sabotage' by dumping cyanide in South China Sea
 Body = Manila has accused China of poisoning waters around a ship where it has marines stationed, but Beijing has dismissed the allegations.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump's defamation lawsuit against Wall Street Journal over Epstein story dismissed
-Body = The case related to a Wall Street Journal article that described a sexually suggestive letter that the newspaper said was included in a 2003 album compiled for Epstein’s 50th birthday.
+Title = Beijing is shifting its Taiwan strategy. Here is why
+Body = It began with a dish once served to Nixon in 1972. Now Beijing is using the same stage to reshape the Taiwan question.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Should have done this earlier': Former CIA boss backs Trump's blockade
-Body = Donald Trump's looming blockade of the Strait of Hormuz will likely lead to confrontation warns a former 4-star general and former head of the CIA.
-End = true
-
-[LIBRARY RNEWS]
-Title = There's a surprising message from inside Iran after the ceasefire
-Body = While the bombs may have stopped falling on Iran for now, Iranians who've been speaking with ABC News say the mood on the ground is anything but happy.
-End = true
-
-[LIBRARY RNEWS]
-Title = Gryzmon/Grizzlymon & GrapLeomon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
-End = true
-
-[LIBRARY RNEWS]
-Title = Lekismon & Crescemon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time...
+Title = Hungarian voters showed little regard for Donald Trump's wishes
+Body = A record number of Hungarians turned out not just to send a strong message to their far-right prime minister, but to reject Donald Trump.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +34,22 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Cyber Engage Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Cyber Engage.
+Title = Gryzmon/Grizzlymon & GrapLeomon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
 End = true
 
 [LIBRARY RNEWS]
-Title = Habakirimon/Habakiri Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Habakirimon/Habakiri.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Tamers Fluffy Swaddled Plushies Out in September 2026
+Body = Tapioca has announced (2) new Digimon Tamers plushies. These are a follow-up to the Digimon Adventure & 02 ones they did recently (although I believe the Adventure ones haven't shipped yet.) The fluffy swaddled plushes have the Tamers kids wrapped up in a fluffy egg shaped plush bit, along...
+End = true
+
+[LIBRARY RNEWS]
+Title = Lekismon & Crescemon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time...
 End = true
 
