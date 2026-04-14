@@ -9,38 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Philippines accuses China of 'sabotage' by dumping cyanide in South China Sea
+Body = Manila has accused China of poisoning waters around a ship where it has marines stationed, but Beijing has dismissed the allegations.
+End = true
+
+[LIBRARY RNEWS]
+Title = Trump's defamation lawsuit against Wall Street Journal over Epstein story dismissed
+Body = The case related to a Wall Street Journal article that described a sexually suggestive letter that the newspaper said was included in a 2003 album compiled for Epstein’s 50th birthday.
+End = true
+
+[LIBRARY RNEWS]
+Title = 'Should have done this earlier': Former CIA boss backs Trump's blockade
+Body = Donald Trump's looming blockade of the Strait of Hormuz will likely lead to confrontation warns a former 4-star general and former head of the CIA.
+End = true
+
+[LIBRARY RNEWS]
 Title = There's a surprising message from inside Iran after the ceasefire
 Body = While the bombs may have stopped falling on Iran for now, Iranians who've been speaking with ABC News say the mood on the ground is anything but happy.
-End = true
-
-[LIBRARY RNEWS]
-Title = 'Help us': Cyclone Maila kills at least 11 people in Papua New Guinea
-Body = The Australian government will give $2.5 million to support relief and recovery efforts in Papua New Guinea and Solomon Islands after Tropical Cyclone Maila.
-End = true
-
-[LIBRARY RNEWS]
-Title = Pope will continue to 'speak out against war' despite Trump's attacks
-Body = Writing on social media after the pope called for peace, US President Donald Trump says the first American pope is "terrible for foreign policy" and he should "stop catering to the Radical Left".
-End = true
-
-[LIBRARY RNEWS]
-Title = Nigerian military air strike on market reportedly kills more than 100 civilians
-Body = Amnesty International calls for an independent investigation into an air strike on a Nigerian market, where the country's military says it was targeting militants.
-End = true
-
-[LIBRARY RNEWS]
-Title = Firamon & Flaremon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
-End = true
-
-[LIBRARY RNEWS]
-Title = Habakirimon/Habakiri Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Habakirimon/Habakiri.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #296- Darling Dash (Beatbreak Episode 26 & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 26 & English episodes 16-20, a stack of product pre-orders, card previews & news, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +34,22 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Lekismon & Crescemon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time...
+End = true
+
+[LIBRARY RNEWS]
+Title = Firamon & Flaremon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
+End = true
+
+[LIBRARY RNEWS]
+Title = Cyber Engage Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Cyber Engage.
+End = true
+
+[LIBRARY RNEWS]
+Title = Habakirimon/Habakiri Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Habakirimon/Habakiri.
 End = true
 
