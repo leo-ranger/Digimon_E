@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Carney wins majority government as Canadian by-elections boost Liberals
+Body = The Canadian prime minister said voters had "placed their trust" in his government and its "clear understanding of what this moment demands".
+End = true
+
+[LIBRARY RNEWS]
+Title = Founder of China property giant Evergrande pleads guilty to fraud
+Body = Hui Ka Yan's plea comes after three years in detention, while Evergrande's liquidators are battling in court outside mainland China to freeze the offshore assets of the founder and his ex-spouse over billions of US dollars in dividends and remuneration.
+End = true
+
+[LIBRARY RNEWS]
+Title = Fiji Police are circling an Australian wanted over four-tonne meth import
+Body = Key insiders from Fiji's largest-ever meth bust say the drug import had alarming links to organised crime in Australia.
+End = true
+
+[LIBRARY RNEWS]
 Title = Colombia approves cull of up to 80 hippos [...]
 Body = Colombian officials have authorised a plan to cull dozens of hippos, years after notorious drug lord Pablo Escobar brought in the first ones.
 End = true
 
 [LIBRARY RNEWS]
-Title = Philippines accuses China of 'sabotage' by dumping cyanide in South China Sea
-Body = Manila has accused China of poisoning waters around a ship where it has marines stationed, but Beijing has dismissed the allegations.
-End = true
-
-[LIBRARY RNEWS]
-Title = Beijing is shifting its Taiwan strategy. Here is why
-Body = It began with a dish once served to Nixon in 1972. Now Beijing is using the same stage to reshape the Taiwan question.
-End = true
-
-[LIBRARY RNEWS]
-Title = Hungarian voters showed little regard for Donald Trump's wishes
-Body = A record number of Hungarians turned out not just to send a strong message to their far-right prime minister, but to reject Donald Trump.
-End = true
-
-[LIBRARY RNEWS]
-Title = Firamon & Flaremon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
+Title = Offmon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Offmon.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Tamer Cards Kazuki & Itsuki Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Kazuki & Itsuki.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Tamers Fluffy Swaddled Plushies Out in September 2026
-Body = Tapioca has announced (2) new Digimon Tamers plushies. These are a follow-up to the Digimon Adventure & 02 ones they did recently (although I believe the Adventure ones haven't shipped yet.) The fluffy swaddled plushes have the Tamers kids wrapped up in a fluffy egg shaped plush bit, along...
+Title = Digimon Beatbreak: Episode 26- The Taste of Guilt [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 26, The Taste of Guilt A preview of Episode 26 Episode 26 airs Sunday, April 12th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Lekismon & Crescemon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time...
+Title = Firamon & Flaremon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
 End = true
 
