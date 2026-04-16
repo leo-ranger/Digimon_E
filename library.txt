@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = At least nine dead, including eight children, in Türkiye school shooting
+Body = A boy, believed to be aged about 13, carried out the shooting in southeastern Türkiye, killing his fellow students and a teacher. It is the second school shooting in the country in two days.
+End = true
+
+[LIBRARY RNEWS]
+Title = American YouTuber jailed in South Korea for being a public nuisance
+Body = A Seoul court found Johnny Somali displayed “severe” disrespect for South Korean law over a series of provocative stunts he live-streamed.
+End = true
+
+[LIBRARY RNEWS]
 Title = Typhoon Sinlaku batters Northern Mariana Islands and Guam
 Body = A super typhoon with ferocious winds and heavy rains made landfall in the Commonwealth of Northern Mariana Islands (CNMI) overnight, destroying homes and infrastructure.
 End = true
@@ -19,23 +29,8 @@ Body = The US president says Giorgia Meloni "does not care" about Iran getting a
 End = true
 
 [LIBRARY RNEWS]
-Title = Overcrowded boat sinks in rough seas with 250 people on board
-Body = The UN says the boat sank in the Andaman Sea with about 250 people on board, including children, "due to heavy winds, rough seas and overcrowding".
-End = true
-
-[LIBRARY RNEWS]
-Title = 'Swift tightening' of interest rates may be needed despite IMF recession warning
-Body = The International Monetary Fund paints three economic outlook scenarios that each get progressively worse depending on how long Middle East energy supplies are disrupted.
-End = true
-
-[LIBRARY RNEWS]
 Title = Offmon Preview for Digimon Card Game Booster Set 25
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Offmon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Cyber Engage Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Cyber Engage.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +39,17 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
+Title = Tamer Card Touma/Thomas Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Touma/Thomas.
+End = true
+
+[LIBRARY RNEWS]
 Title = Poll Results for Favorite Godzilla vs. Digimon Collaboration Monster from the Original Collaboration
 Body = A bit ago, the official Digimon site put up a poll for your Favorite Godzilla vs. Digimon Collaboration Monster from the Original Collaboration.
 End = true
 
 [LIBRARY RNEWS]
-Title = Gryzmon/Grizzlymon & GrapLeomon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
