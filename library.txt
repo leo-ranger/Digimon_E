@@ -9,28 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Russian missiles hit Kyiv and other Ukrainian cities, 12 dead
+Body = Russian forces have attacked the Ukrainian capital Kyiv and other cities, killing 12 people, as the defence leaders of more than 50 countries say they are aiming to send more aid to Ukraine.
+End = true
+
+[LIBRARY RNEWS]
+Title = Soldier protest prompts review of recruitment in PNG defence force
+Body = A small group of officers deserted their posts this week in protest over alleged government corruption.
+End = true
+
+[LIBRARY RNEWS]
 Title = At least nine dead, including eight children, in Türkiye school shooting
 Body = A boy, believed to be aged about 13, carried out the shooting in southeastern Türkiye, killing his fellow students and a teacher. It is the second school shooting in the country in two days.
 End = true
 
 [LIBRARY RNEWS]
-Title = American YouTuber jailed in South Korea for being a public nuisance
-Body = A Seoul court found Johnny Somali displayed “severe” disrespect for South Korean law over a series of provocative stunts he live-streamed.
-End = true
-
-[LIBRARY RNEWS]
-Title = Typhoon Sinlaku batters Northern Mariana Islands and Guam
-Body = A super typhoon with ferocious winds and heavy rains made landfall in the Commonwealth of Northern Mariana Islands (CNMI) overnight, destroying homes and infrastructure.
-End = true
-
-[LIBRARY RNEWS]
-Title = Trump lashes out at European ally Meloni amid tensions over pope and NATO
-Body = The US president says Giorgia Meloni "does not care" about Iran getting a nuclear weapon, after the Italian PM defended the pope and cancelled a military deal with Israel.
-End = true
-
-[LIBRARY RNEWS]
-Title = Offmon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Offmon.
+Title = Ukraine looking to 'capitalise' on new momentum against Russia
+Body = Western officials and analysts say Ukrainian forces have disrupted Russia's planned spring offensive and managed to retake territory.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +34,22 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Touma/Thomas Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Touma/Thomas.
+Title = Digimon Tamers Pop Up Shop at eeo on May 15th- New 25th Anniversary Celebration & GraffArt Art & Product Details- Online Sales Also
+Body = A new Digimon Tamers pop-up shop has been announced (2) (3) to celebrate it's 25th anniversary. The Digimon Tamers Pop-Up Shop features new anniversary celebration themed artwork of the characters.
 End = true
 
 [LIBRARY RNEWS]
-Title = Poll Results for Favorite Godzilla vs. Digimon Collaboration Monster from the Original Collaboration
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Godzilla vs. Digimon Collaboration Monster from the Original Collaboration.
+Title = Wanyamon & Gaomon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Logamon & Shutmon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 27- Wandering Love [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 27, Wandering Love A preview of Episode 27 Episode 27 airs Sunday, April 19th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
