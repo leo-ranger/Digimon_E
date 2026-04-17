@@ -14,42 +14,42 @@ Body = The US president says he "had excellent conversations" with Israeli Prime
 End = true
 
 [LIBRARY RNEWS]
+Title = 'Same general, new clothes': Civilian facade as military hides wealth in Thailand
+Body = As the Myanmar military carried out air strikes during a brutal civil war, the junta chief's family quietly purchased luxury real estate in Thailand.
+End = true
+
+[LIBRARY RNEWS]
 Title = Mandelson failed vetting but was given UK ambassador to US job anyway
 Body = Peter Mandelson was sacked from the role after revelations about his connections with the late sex offender became public.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bombs, rain and destruction: Life in Gaza six months into a ceasefire
-Body = Palestinians in Gaza fear they are being forgotten as the Iran war drags on, with Israeli strikes continuing despite a ceasefire and the humanitarian situation still dire.
+Title = Pope blasts 'tyrants' spending big on war following public spat with Trump
+Body = The US-born pope has praised peace movements and peace makers during his visit to the African nation of Cameroon as the rift with US President Donald Trump intensifies.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russia launches deadliest attack on Ukraine this year, killing 17
-Body = Russian forces have attacked the Ukrainian capital Kyiv and other cities, killing 17 people, as the defence leaders of more than 50 countries say they are aiming to send more aid to Ukraine.
+Title = Digimon Adventure & Digimon Beatbreak Pop-Up Shops in Animate Announced for May & June- Cheering & Playing Card Themes- Online Sales in May
+Body = A double set of pop-up shops has been announced by Cocollabo. Digimon Adventure Pop-Up Shop in Animate and Digimon Beatbreak Pop-Up Shop in Animate have both been announced to take place at two Animate locations at the same time.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up Social Media Gacha Campaign Part 2 Announced
+Body = It was a pretty solid guess they'd do another one of these, since the first one was nearly finished before it started... Another Digimon Up social media campaign has been announced, which is another 'until release date' or it's maxed out campaign.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 26- The Taste of Guilt [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 26, The Taste of Guilt A preview of Episode 26 Episode 26 airs Sunday, April 12th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon at Tokyo Summerland Pre-Summer Event Announced- Starts April 25th- Food, Entertainment, & More! More Info April 21st
+Body = A new collaboration event has been announced (2), and it's starting in just about a week... Digimon at Tokyo Summerland- Summerland and Digimon 2026 Pre-Summer is coming to the theme park.
 End = true
 
 [LIBRARY RNEWS]
 Title = Gear Forest Village Preview for Digimon Card Game Booster Set 25
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Gear Forest Village.
-End = true
-
-[LIBRARY RNEWS]
-Title = MirageGaogamon & Parallel/Alt Art Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) (3) (4) has updated... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Cards Kazuki & Itsuki Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Kazuki & Itsuki.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Tamers Pop Up Shop at eeo on May 15th- New 25th Anniversary Celebration & GraffArt Art & Product Details- Online Sales Also
-Body = A new Digimon Tamers pop-up shop has been announced (2) (3) to celebrate it's 25th anniversary. The Digimon Tamers Pop-Up Shop features new anniversary celebration themed artwork of the characters.
-End = true
-
-[LIBRARY RNEWS]
-Title = Wanyamon & Gaomon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
 End = true
 
