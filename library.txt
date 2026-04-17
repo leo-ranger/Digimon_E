@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian missiles hit Kyiv and other Ukrainian cities, 12 dead
-Body = Russian forces have attacked the Ukrainian capital Kyiv and other cities, killing 12 people, as the defence leaders of more than 50 countries say they are aiming to send more aid to Ukraine.
+Title = Israel and Lebanon agree to 10-day ceasefire, Trump says
+Body = The US president says he "had excellent conversations" with Israeli Prime Minister Benjamin Netanyahu and Lebanese President Joseph Aoun.
 End = true
 
 [LIBRARY RNEWS]
-Title = Soldier protest prompts review of recruitment in PNG defence force
-Body = A small group of officers deserted their posts this week in protest over alleged government corruption.
+Title = Mandelson failed vetting but was given UK ambassador to US job anyway
+Body = Peter Mandelson was sacked from the role after revelations about his connections with the late sex offender became public.
 End = true
 
 [LIBRARY RNEWS]
-Title = At least nine dead, including eight children, in Türkiye school shooting
-Body = A boy, believed to be aged about 13, carried out the shooting in southeastern Türkiye, killing his fellow students and a teacher. It is the second school shooting in the country in two days.
+Title = Bombs, rain and destruction: Life in Gaza six months into a ceasefire
+Body = Palestinians in Gaza fear they are being forgotten as the Iran war drags on, with Israeli strikes continuing despite a ceasefire and the humanitarian situation still dire.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ukraine looking to 'capitalise' on new momentum against Russia
-Body = Western officials and analysts say Ukrainian forces have disrupted Russia's planned spring offensive and managed to retake territory.
+Title = Russia launches deadliest attack on Ukraine this year, killing 17
+Body = Russian forces have attacked the Ukrainian capital Kyiv and other cities, killing 17 people, as the defence leaders of more than 50 countries say they are aiming to send more aid to Ukraine.
+End = true
+
+[LIBRARY RNEWS]
+Title = Gear Forest Village Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Gear Forest Village.
+End = true
+
+[LIBRARY RNEWS]
+Title = MirageGaogamon & Parallel/Alt Art Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) (3) (4) has updated... [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Wanyamon & Gaomon Previews for Digimon Card Game Booster Set 25
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
-End = true
-
-[LIBRARY RNEWS]
-Title = Logamon & Shutmon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 27- Wandering Love [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 27, Wandering Love A preview of Episode 27 Episode 27 airs Sunday, April 19th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
