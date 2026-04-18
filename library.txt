@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Iran declares Strait of Hormuz open as Lebanon ceasefire begins
+Body = US President Donald Trump immediately welcomed the news from Tehran but went on to warn that the US blockade of Iran's ports would continue.
+End = true
+
+[LIBRARY RNEWS]
 Title = Pacific leaders declare emergency over potential fuel shortages
 Body = The prime minister of Solomon Islands says Pacific leaders have declared an emergency over the looming threat of fuel shortages, while the Australian government contemplates a plan which could see stocks of diesel held by the US military sent to Pacific nations suffering shortages.
+End = true
+
+[LIBRARY RNEWS]
+Title = Aung San Suu Kyi to be freed sooner as Myanmar releases her ally from jail
+Body = Myanmar's ex-leader Aung San Suu Kyi has her prison sentence cut as thousands of prisoners are freed. Meanwhile, the UN reveals 2025 marked the deadliest year on record for Rohingya refugees fleeing Myanmar.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,13 +29,8 @@ Body = The US president says he "had excellent conversations" with Israeli Prime
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Same general, new clothes': Civilian facade as military hides wealth in Thailand
-Body = As the Myanmar military carried out air strikes during a brutal civil war, the junta chief's family quietly purchased luxury real estate in Thailand.
-End = true
-
-[LIBRARY RNEWS]
-Title = Mandelson failed vetting but was given UK ambassador to US job anyway
-Body = Peter Mandelson was sacked from the role after revelations about his connections with the late sex offender became public.
+Title = Digimon Beatbreak Episode 27 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 27, Wandering Love, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Adventure & Digimon Beatbreak Pop-Up Shops in Animate Announced for May & June- Cheering & Playing Card Themes- Online Sales in May
 Body = A double set of pop-up shops has been announced by Cocollabo. Digimon Adventure Pop-Up Shop in Animate and Digimon Beatbreak Pop-Up Shop in Animate have both been announced to take place at two Animate locations at the same time.
-End = true
-
-[LIBRARY RNEWS]
-Title = 6th Anniversary of Digimon Adventure:! [...]
-Body = It's April 5th in Japan, so another anniversary! Digimon Adventure: began on April 5th, 2020.
 End = true
 
