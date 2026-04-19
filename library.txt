@@ -9,13 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran declares Strait of Hormuz open as Lebanon ceasefire begins
-Body = US President Donald Trump immediately welcomed the news from Tehran but went on to warn that the US blockade of Iran's ports would continue.
+Title = Uncertainty in Strait of Hormuz as ceasefire deadline approaches
+Body = There is an intense uncertainty and volatility on the vital shipping waterway which is at the centre of a growing energy crisis.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pacific leaders declare emergency over potential fuel shortages
-Body = The prime minister of Solomon Islands says Pacific leaders have declared an emergency over the looming threat of fuel shortages, while the Australian government contemplates a plan which could see stocks of diesel held by the US military sent to Pacific nations suffering shortages.
+Title = 'It's a free-for-all': Fiji 'ground zero' for transnational drug-smuggling trade
+Body = Two men have told Foreign Correspondent how they were unwittingly drawn into Fiji's largest-ever meth importation.
 End = true
 
 [LIBRARY RNEWS]
@@ -24,32 +24,32 @@ Body = Myanmar's ex-leader Aung San Suu Kyi has her prison sentence cut as thous
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel and Lebanon agree to 10-day ceasefire, Trump says
-Body = The US president says he "had excellent conversations" with Israeli Prime Minister Benjamin Netanyahu and Lebanese President Joseph Aoun.
+Title = World's largest democracy votes against increasing women
+Body = The largest democracy in the world has rejected a move to increase the number of women in parliament. What could have been a 'beacon' for global women's rights became marred by controversy.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Updates- Episode 26 Production Art & Character Profile Art
+Body = A few recent Digimon Beatbreak updates before we get episode 27 later today. Episode 27 is the end of the short Interlude Arc, with the Gift Arc...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up Social Media Gacha Campaign Part 2 Announced
+Body = It was a pretty solid guess they'd do another one of these, since the first one was nearly finished before it started... Another Digimon Up social media campaign has been announced, which is another 'until release date' or it's maxed out campaign.
+End = true
+
+[LIBRARY RNEWS]
+Title = Commandramon & Sealsdramon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = GreatGryzmon/GreatGrizzlymon & Callismon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This...
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak Episode 27 Preview Screenshots [...]
 Body = Digimon Beatbreak episode 27, Wandering Love, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Bearmon & Gryzmon/Grizzlymon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
-End = true
-
-[LIBRARY RNEWS]
-Title = High-Rise/Paradise Colosseum Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's High-Rise/Paradise Colosseum Option card High-Rise/Paradise Colosseum features art of the battle colosseum that appears later in Digimon Story: Time Stranger in the...
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, April 20th [...]
-Body = Monday (April 20th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 27, pop-up shops & events (food & drinks!), cards & products, & more! Plus AR is here!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure & Digimon Beatbreak Pop-Up Shops in Animate Announced for May & June- Cheering & Playing Card Themes- Online Sales in May
-Body = A double set of pop-up shops has been announced by Cocollabo. Digimon Adventure Pop-Up Shop in Animate and Digimon Beatbreak Pop-Up Shop in Animate have both been announced to take place at two Animate locations at the same time.
 End = true
 
