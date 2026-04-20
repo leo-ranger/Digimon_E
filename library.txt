@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = US capture of Iranian cargo ship is escalation and retaliation, experts say
+Body = Donald Trump says the Iranian-flagged ship ignored warnings from the US Navy, but Iran says the action is piracy and breaches the ceasefire terms.
+End = true
+
+[LIBRARY RNEWS]
+Title = Tsunami alert issued after powerful earthquake off Japan's northern coast — as it happened
+Body = The 7.7-magnitude earthquake off the north-east coast of Japan triggered tsunami warnings and widespread evacuation orders affecting around 170,000 people. Look back on our live coverage.
+End = true
+
+[LIBRARY RNEWS]
 Title = Iran daily briefing: Why JD Vance might have no-one to talk to, plus Israel's new 'yellow line'
 Body = Welcome to Monday and a return to the rhetorical threat spiral we've been watching for weeks. Here's what you should know this morning.
 End = true
 
 [LIBRARY RNEWS]
-Title = Uncertainty in Strait of Hormuz as ceasefire deadline approaches
-Body = There is an intense uncertainty and volatility on the vital shipping waterway which is at the centre of a growing energy crisis.
-End = true
-
-[LIBRARY RNEWS]
-Title = Six dead after gunman opens fire and barricades supermarket in Kyiv
-Body = At least six people have been killed and 14 are injured after a gunman opened fire in the streets of Kyiv.
-End = true
-
-[LIBRARY RNEWS]
-Title = How Trump turned on the first US-born Pope [...]
-Body = US President Donald Trump described Pope Leo XIV's accession to the papacy as a meaningful moment for America. But now he has said the pontiff is hurting the Catholic Church, and is weak.
+Title = US domestic violence shooting leaves eight children dead
+Body = The victims, who were shot at two homes in the US state of Louisiana, ranged in age from one to about 14 years old.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,13 +34,13 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Gift Arc Teaser- Miharu Kagemori Profile
-Body = With the Gift Arc of Digimon Beatbreak starting with the next episode, we have a new teaser for it, featuring the character who appeared in the teaser poster & new ED. Many of the items in the profile are blanked out.
+Title = Digimon Beatbreak: Episode 27- Wandering Love [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 27, Wandering Love A preview of Episode 27 Episode 27 airs Sunday, April 19th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 27- Wandering Love [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 27, Wandering Love A preview of Episode 27 Episode 27 airs Sunday, April 19th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Beatbreak Gift Arc Teaser- Miharu Kagemori Profile
+Body = With the Gift Arc of Digimon Beatbreak starting with the next episode, we have a new teaser for it, featuring the character who appeared in the teaser poster & new ED. Many of the items in the profile are blanked out.
 End = true
 
 [LIBRARY RNEWS]
