@@ -9,28 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Iran daily briefing: Why JD Vance might have no-one to talk to, plus Israel's new 'yellow line'
+Body = Welcome to Monday and a return to the rhetorical threat spiral we've been watching for weeks. Here's what you should know this morning.
+End = true
+
+[LIBRARY RNEWS]
 Title = Uncertainty in Strait of Hormuz as ceasefire deadline approaches
 Body = There is an intense uncertainty and volatility on the vital shipping waterway which is at the centre of a growing energy crisis.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'It's a free-for-all': Fiji 'ground zero' for transnational drug-smuggling trade
-Body = Two men have told Foreign Correspondent how they were unwittingly drawn into Fiji's largest-ever meth importation.
+Title = Six dead after gunman opens fire and barricades supermarket in Kyiv
+Body = At least six people have been killed and 14 are injured after a gunman opened fire in the streets of Kyiv.
 End = true
 
 [LIBRARY RNEWS]
-Title = Aung San Suu Kyi to be freed sooner as Myanmar releases her ally from jail
-Body = Myanmar's ex-leader Aung San Suu Kyi has her prison sentence cut as thousands of prisoners are freed. Meanwhile, the UN reveals 2025 marked the deadliest year on record for Rohingya refugees fleeing Myanmar.
+Title = How Trump turned on the first US-born Pope [...]
+Body = US President Donald Trump described Pope Leo XIV's accession to the papacy as a meaningful moment for America. But now he has said the pontiff is hurting the Catholic Church, and is weak.
 End = true
 
 [LIBRARY RNEWS]
-Title = World's largest democracy votes against increasing women
-Body = The largest democracy in the world has rejected a move to increase the number of women in parliament. What could have been a 'beacon' for global women's rights became marred by controversy.
+Title = ClavisAngemon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's ClavisAngemon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Digimon Beatbreak Gift Arc Teaser- Miharu Kagemori Profile
+Body = With the Gift Arc of Digimon Beatbreak starting with the next episode, we have a new teaser for it, featuring the character who appeared in the teaser poster & new ED. Many of the items in the profile are blanked out.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 27, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 27 Social Art, V-Tamer & Event Photos, Catch-Up for the Week, & More!
-Body = Time for a weekend batch! We start with some Digimon Beatbreak art for episode 27, the last episode of Interlude Arc!
+Title = Preview for Digimon Beatbreak Episode 28 Gift [...]
+Body = https://twitter.com/x/status/2045661153846759828 Time for a preview for Episode 28 Gift! Watch episode 27 first!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Updates- Episode 26 Production Art & Character Profile Art
-Body = A few recent Digimon Beatbreak updates before we get episode 27 later today. Episode 27 is the end of the short Interlude Arc, with the Gift Arc...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Social Media Gacha Campaign Part 2 Announced
-Body = It was a pretty solid guess they'd do another one of these, since the first one was nearly finished before it started... Another Digimon Up social media campaign has been announced, which is another 'until release date' or it's maxed out campaign.
+Title = Tamer Cards Kazuki & Itsuki Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Kazuki & Itsuki.
 End = true
 
