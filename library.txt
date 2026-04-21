@@ -9,33 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Iran daily briefing: As time runs out for ceasefire, siren sends chill up my spine
+Body = Fears are rising that the relative calm of recent days is about to collapse as the fate of the on-off truce talks seems impossible to guess.
+End = true
+
+[LIBRARY RNEWS]
+Title = 10,000 US troops join Australians for Philippines training exercise
+Body = Troops from the US, Philippines, Australia and Japan unite for the largest military exercise in "real-world conditions" to ensure security in the Indo-Pacific region. But China has criticised the drill.
+End = true
+
+[LIBRARY RNEWS]
+Title = UK PM shifts blame to Foreign Office in bid to contain Mandelson scandal
+Body = The crisis around the embattled British prime minister continues to grow, with Sir Keir Starmer facing questions from MPs about what he knew of the vetting process of Peter Mandelson.
+End = true
+
+[LIBRARY RNEWS]
 Title = US capture of Iranian cargo ship is escalation and retaliation, experts say
 Body = Donald Trump says the Iranian-flagged ship ignored warnings from the US Navy, but Iran says the action is piracy and breaches the ceasefire terms.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tsunami alert issued after powerful earthquake off Japan's northern coast — as it happened
-Body = The 7.7-magnitude earthquake off the north-east coast of Japan triggered tsunami warnings and widespread evacuation orders affecting around 170,000 people. Look back on our live coverage.
-End = true
-
-[LIBRARY RNEWS]
-Title = Iran daily briefing: Why JD Vance might have no-one to talk to, plus Israel's new 'yellow line'
-Body = Welcome to Monday and a return to the rhetorical threat spiral we've been watching for weeks. Here's what you should know this morning.
-End = true
-
-[LIBRARY RNEWS]
-Title = US domestic violence shooting leaves eight children dead
-Body = The victims, who were shot at two homes in the US state of Louisiana, ranged in age from one to about 14 years old.
-End = true
-
-[LIBRARY RNEWS]
-Title = ClavisAngemon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's ClavisAngemon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 27- Wandering Love [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 27, Wandering Love A preview of Episode 27 Episode 27 airs Sunday, April 19th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Coronamon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Coronamon.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +39,17 @@ Body = With the Gift Arc of Digimon Beatbreak starting with the next episode, we
 End = true
 
 [LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 28 Gift [...]
-Body = https://twitter.com/x/status/2045661153846759828 Time for a preview for Episode 28 Gift! Watch episode 27 first!
+Title = Digimon in June V-Jump- Card Game Starter Decks 23 & 24, Beatbreak Gift Arc, & Digimon Adventure Spring Denim Products
+Body = It's time for all the new Digimon content from the June 2026 cover dated issue of V-Jump! We start off with a spread for the upcoming new Starter Decks for the Digimon Card Game.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Cards Kazuki & Itsuki Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Kazuki & Itsuki.
+Title = Digimon Beatbreak: Episode 27- Wandering Love [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 27, Wandering Love A preview of Episode 27 Episode 27 airs Sunday, April 19th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = ClavisAngemon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's ClavisAngemon.
 End = true
 
