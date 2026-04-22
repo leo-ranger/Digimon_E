@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = How Trump went from 'I expect to be bombing' to 'I extend the ceasefire'
+Body = The Iran war ceasefire has been extended but no-one is quite sure on the new deadline, Middle East correspondent Matthew Doran writes.
+End = true
+
+[LIBRARY RNEWS]
 Title = Trump says Iran's government 'seriously fractured' as he extends ceasefire
 Body = US President Donald Trump says he will hold off attacking Iran until Tehran's negotiating teams come up with a unified proposal for a peace deal.
 End = true
@@ -19,37 +24,32 @@ Body = Japan has overhauled its decades-long defence export rule, allowing the c
 End = true
 
 [LIBRARY RNEWS]
-Title = How young boys helped Australians wage guerilla war against Japan in Timor
-Body = Incredible bonds were formed between Australian commandos and Timorese boys during World War II. The White Australia policy meant they had to say goodbye when the Anzacs departed.
+Title = US authorities probe possible ChatGPT involvement in university shooting
+Body = US authorities are investigating if there was any criminal behaviour involving interactions between Open AI's ChatGPT app and a man accused of killing two people and injuring six others in a shooting at Florida State University.
 End = true
 
 [LIBRARY RNEWS]
-Title = Sacked civil servant describes pressure to approve Mandelson as UK ambassador to US
-Body = The former head of the Foreign Office said there was "a very, very strong expectation" that Peter Mandelson "needed to be in post and in America as quickly as possible".
+Title = Official Digimon Web Poll #148- Favorite Guest Digimon from Beatbreak Episodes 1 through 12
+Body = Digimon Web has opened a new fan vote. This is the 148th official web poll on the current version of the site.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Card Battle 260- Digimon Card Room- Dual Card Deck Matches Part 1
+Body = Digimon Card Battle is back with episode 260. This time, we return to Digimon Card Room and Chiba and Maguro are joined by Hideyoshi to show off something upcoming to the Digimon Card Game!
+End = true
+
+[LIBRARY RNEWS]
+Title = Amber Memory Boost & Jade Memory Boost Previews for Digimon Card Game Starter Deck 23 & 24
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time it's Amber...
 End = true
 
 [LIBRARY RNEWS]
 Title = Garnet Memory Boost & Wisteria Memory Boost Previews for Digimon Card Game Starter Deck 23 & 24
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time...
-End = true
-
-[LIBRARY RNEWS]
-Title = Apollomon & Parallel/Alt Art Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 27- Wandering Love [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 27, Wandering Love A preview of Episode 27 Episode 27 airs Sunday, April 19th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Agumon [...]
-Body = https://twitter.com/x/status/2046423683770773559 It appears Digimon Up will be showing off various Digimon that will be appearing in the upcoming mobile game. It shows off a character sprite with animation plus the type and attribute.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #297- Mummy Knows Best (Beatbreak Episode 27 & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 27, pop-up shops & events (food & drinks!), cards & products, & more! Plus AR is here!
 End = true
 
