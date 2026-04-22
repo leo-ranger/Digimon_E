@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = New Zealand prime minister survives confidence vote
-Body = New Zealand Prime Minister Christopher Luxon says he has the support of his party after calling and winning a vote of confidence in his leadership.
+Title = Trump says Iran's government 'seriously fractured' as he extends ceasefire
+Body = US President Donald Trump says he will hold off attacking Iran until Tehran's negotiating teams come up with a unified proposal for a peace deal.
 End = true
 
 [LIBRARY RNEWS]
-Title = One dead and six injured after shooting at Mexico's Teotihuacán pyramids
-Body = A Canadian tourist has died and at least six other people have been injured after a man opened fire while atop of one of the historic Teotihuacán pyramids in Mexico.
+Title = Japan to sell lethal arms in move away from post-war pacifism
+Body = Japan has overhauled its decades-long defence export rule, allowing the country to sell lethal weapons internationally amid rising global tensions.
 End = true
 
 [LIBRARY RNEWS]
-Title = US officials press Cuba for reforms in 'respectful' meeting in Havana
-Body = Cuba says the exchange was conducted "respectfully and professionally" and that the US delegation did not issue any threats or deadlines.
+Title = How young boys helped Australians wage guerilla war against Japan in Timor
+Body = Incredible bonds were formed between Australian commandos and Timorese boys during World War II. The White Australia policy meant they had to say goodbye when the Anzacs departed.
 End = true
 
 [LIBRARY RNEWS]
-Title = Labor secretary leaves Trump's cabinet after abuse of power allegations
-Body = The Labor secretary's departure was announced by a White House aide on Monday, local time.
+Title = Sacked civil servant describes pressure to approve Mandelson as UK ambassador to US
+Body = The former head of the Foreign Office said there was "a very, very strong expectation" that Peter Mandelson "needed to be in post and in America as quickly as possible".
+End = true
+
+[LIBRARY RNEWS]
+Title = Garnet Memory Boost & Wisteria Memory Boost Previews for Digimon Card Game Starter Deck 23 & 24
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time...
+End = true
+
+[LIBRARY RNEWS]
+Title = Apollomon & Parallel/Alt Art Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 27- Wandering Love [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 27, Wandering Love A preview of Episode 27 Episode 27 airs Sunday, April 19th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = With the Will Podcast Episode #297- Mummy Knows Best (Beatbreak Episode 27 & More!)
 Body = This time we will be talking about Digimon Beatbreak episode 27, pop-up shops & events (food & drinks!), cards & products, & more! Plus AR is here!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 27- Wandering Love [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 27, Wandering Love A preview of Episode 27 Episode 27 airs Sunday, April 19th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = ClavisAngemon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's ClavisAngemon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Coronamon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Coronamon.
 End = true
 
