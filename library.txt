@@ -9,28 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = How Trump went from 'I expect to be bombing' to 'I extend the ceasefire'
-Body = The Iran war ceasefire has been extended but no-one is quite sure on the new deadline, Middle East correspondent Matthew Doran writes.
+Title = EU backs $148bn loan for Ukraine after pipeline spat resolved
+Body = A bitter feud over an oil pipeline pitted Hungary against Ukraine and stalled the vitally needed funds for Kyiv.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says Iran's government 'seriously fractured' as he extends ceasefire
-Body = US President Donald Trump says he will hold off attacking Iran until Tehran's negotiating teams come up with a unified proposal for a peace deal.
+Title = Australian billionaire's waste-to-energy plan labelled 'waste colonialism'
+Body = The controversial project would see waste burned to create energy in Fiji to reduce the country's reliance on fossil fuels, but locals and environmentalists are not happy.
 End = true
 
 [LIBRARY RNEWS]
-Title = Japan to sell lethal arms in move away from post-war pacifism
-Body = Japan has overhauled its decades-long defence export rule, allowing the country to sell lethal weapons internationally amid rising global tensions.
+Title = ICC judges reject bid to release former Philippines president Rodrigo Duterte
+Body = Earlier hearings heard Rodrigo Duterte was allegedly responsible for thousands of deaths during his war on drugs.
 End = true
 
 [LIBRARY RNEWS]
-Title = US authorities probe possible ChatGPT involvement in university shooting
-Body = US authorities are investigating if there was any criminal behaviour involving interactions between Open AI's ChatGPT app and a man accused of killing two people and injuring six others in a shooting at Florida State University.
+Title = 'Lost everything': New Zealand's capital cleans up as rain pushes north
+Body = Police have found the body of a man as floodwaters recede in New Zealand's capital and the clean-up begins.
 End = true
 
 [LIBRARY RNEWS]
-Title = Official Digimon Web Poll #148- Favorite Guest Digimon from Beatbreak Episodes 1 through 12
-Body = Digimon Web has opened a new fan vote. This is the 148th official web poll on the current version of the site.
+Title = GreatGryzmon/GreatGrizzlymon & Callismon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This...
+End = true
+
+[LIBRARY RNEWS]
+Title = Cosmic Area Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Cosmic Area.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no mor
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Battle 260- Digimon Card Room- Dual Card Deck Matches Part 1
-Body = Digimon Card Battle is back with episode 260. This time, we return to Digimon Card Room and Chiba and Maguro are joined by Hideyoshi to show off something upcoming to the Digimon Card Game!
+Title = Official Digimon Web Poll #148- Favorite Guest Digimon from Beatbreak Episodes 1 through 12
+Body = Digimon Web has opened a new fan vote. This is the 148th official web poll on the current version of the site.
 End = true
 
 [LIBRARY RNEWS]
-Title = Amber Memory Boost & Jade Memory Boost Previews for Digimon Card Game Starter Deck 23 & 24
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time it's Amber...
-End = true
-
-[LIBRARY RNEWS]
-Title = Garnet Memory Boost & Wisteria Memory Boost Previews for Digimon Card Game Starter Deck 23 & 24
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Decks 23 & 24. This time...
+Title = Digimon Beatbreak: Episode 27- Wandering Love [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 27, Wandering Love A preview of Episode 27 Episode 27 airs Sunday, April 19th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
