@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = 'If only': Indonesian minister floats toll on key international shipping route
+Body = The suggestion of levying ships using the Strait of Malacca was suggested and then walked back by Indonesia's finance minister, but has prompted a response from Canberra.
+End = true
+
+[LIBRARY RNEWS]
 Title = EU backs $148bn loan for Ukraine after pipeline spat resolved
 Body = A bitter feud over an oil pipeline pitted Hungary against Ukraine and stalled the vitally needed funds for Kyiv.
+End = true
+
+[LIBRARY RNEWS]
+Title = Pacific leaders 'totally blindsided' by declaration of fuel emergency
+Body = Confusion and some frustration remains after a key Pacific leader announced an emergency declaration had been agreed to over fuel, despite other leaders not knowing about it.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,28 +29,8 @@ Body = The controversial project would see waste burned to create energy in Fiji
 End = true
 
 [LIBRARY RNEWS]
-Title = ICC judges reject bid to release former Philippines president Rodrigo Duterte
-Body = Earlier hearings heard Rodrigo Duterte was allegedly responsible for thousands of deaths during his war on drugs.
-End = true
-
-[LIBRARY RNEWS]
-Title = 'Lost everything': New Zealand's capital cleans up as rain pushes north
-Body = Police have found the body of a man as floodwaters recede in New Zealand's capital and the clean-up begins.
-End = true
-
-[LIBRARY RNEWS]
-Title = GreatGryzmon/GreatGrizzlymon & Callismon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This...
-End = true
-
-[LIBRARY RNEWS]
 Title = Cosmic Area Preview for Digimon Card Game Booster Set 25
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Cosmic Area.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +39,17 @@ Body = Digimon Web has opened a new fan vote. This is the 148th official web pol
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 27- Wandering Love [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 27, Wandering Love A preview of Episode 27 Episode 27 airs Sunday, April 19th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Beatbreak: Episode 28- Gift [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 28, Gift A preview of Episode 28 Episode 28 airs Sunday, April 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = GreatGryzmon/GreatGrizzlymon & Callismon Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
