@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'If only': Indonesian minister floats toll on key international shipping route
-Body = The suggestion of levying ships using the Strait of Malacca was suggested and then walked back by Indonesia's finance minister, but has prompted a response from Canberra.
+Title = US watchdog announces Epstein files audit [...]
+Body = The audit follows months of controversy over censorship, missed deadlines and the publication of survivors' details.
 End = true
 
 [LIBRARY RNEWS]
-Title = EU backs $148bn loan for Ukraine after pipeline spat resolved
-Body = A bitter feud over an oil pipeline pitted Hungary against Ukraine and stalled the vitally needed funds for Kyiv.
+Title = If ships are being fired upon and seized how can there be a ceasefire?
+Body = As part of its blockade of Iran, ships have been seized by US forces, others fired upon by Iran and, most recently, boarded by the regime's revolutionary guards. This is all while both sides maintain there is a ceasefire.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pacific leaders 'totally blindsided' by declaration of fuel emergency
-Body = Confusion and some frustration remains after a key Pacific leader announced an emergency declaration had been agreed to over fuel, despite other leaders not knowing about it.
+Title = Head-on train collision in Denmark injures at least 18
+Body = The incident happened north of Copenhagen, with images showing two yellow and grey trains, both with visible damage.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian billionaire's waste-to-energy plan labelled 'waste colonialism'
-Body = The controversial project would see waste burned to create energy in Fiji to reduce the country's reliance on fossil fuels, but locals and environmentalists are not happy.
+Title = Blockchain billionaire takes Trump family's crypto firm to court
+Body = A lawsuit alleges that World Liberty secretly installed tools to prevent the sale of Justin Sun's tokens after they became tradable in September 2025.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
+Title = Ceresmon & Parallel/Alt Art Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
+End = true
+
+[LIBRARY RNEWS]
 Title = Official Digimon Web Poll #148- Favorite Guest Digimon from Beatbreak Episodes 1 through 12
 Body = Digimon Web has opened a new fan vote. This is the 148th official web poll on the current version of the site.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 28- Gift [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 28, Gift A preview of Episode 28 Episode 28 airs Sunday, April 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = GraceNovamon & Parallel/Alt Art Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = GreatGryzmon/GreatGrizzlymon & Callismon Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Gekkomon & Agumon Parallel/Alt Art Previews & Starter Deck 23 Trailer for Digimon Card Game Starter Deck 23 & 24
+Body = ... [...] [...]
 End = true
 
