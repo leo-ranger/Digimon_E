@@ -19,37 +19,37 @@ Body = Talks in Washington are set against a backdrop of decades-long disputes a
 End = true
 
 [LIBRARY RNEWS]
+Title = The consequences of India's push to get more women in parliament
+Body = India's government proposed a plan to get more women into parliament but it came with one major condition.
+End = true
+
+[LIBRARY RNEWS]
 Title = 'Nice to be nice': Duo help collapsed runner finish Boston Marathon
 Body = Aaron Beggs, who helped fellow runner Ajay Haridasse across the Boston Marathon finish line, says "the natural instinct was just to go and pick him up".
 End = true
 
 [LIBRARY RNEWS]
-Title = UK's generational smoking ban applauded in Australia
-Body = Anyone born after 2008 will be banned from buying cigarettes or vapes for life in the UK when a new bill becomes law.
+Title = Deathmon/Ghoulmon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Deathmon/Ghoulmon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Sirenmon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Ceresmon.
+Title = With the Will Podcast Live- Monday, April 27th [...]
+Body = Monday (April 27th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 28 & the start of the Gift Arc, cards & products, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
-Title = Official Digimon Web Poll #148- Favorite Guest Digimon from Beatbreak Episodes 1 through 12
-Body = Digimon Web has opened a new fan vote. This is the 148th official web poll on the current version of the site.
+Title = Digimon Beatbreak Episode 28 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 28, Gift, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV Twitter... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = GraceNovamon & Parallel/Alt Art Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card... [...]
+Title = Coronamon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Coronamon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Cards Kazuki & Itsuki Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Kazuki & Itsuki.
-End = true
-
-[LIBRARY RNEWS]
-Title = Ceresmon & Parallel/Alt Art Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
+Title = Digimon Beatbreak- Miharu Profile, VA is Ayane Sakura, & Intro
+Body = After getting a heavily redacted version earlier in the week, we have updates on Miharu before she appears on Digimon Beatbreak this weekend. Miharu Kagemori Voice Actor- Ayane Sakura If the world treats them as a glitch...
 End = true
 
