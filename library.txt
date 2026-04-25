@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Netanyahu delayed revealing prostate cancer diagnosis due to Iran war
+Body = Benjamin Netanyahu said a malignant tumour was discovered during a routine check-up and he has since undergone "targeted treatment".
+End = true
+
+[LIBRARY RNEWS]
 Title = Hundreds of fishing boats sit idle off southern China — but they're not there to fish
 Body = Off China's southern coast, hundreds of fishing boats sit idle. The crews aren't there to fish, but rather to "maintain presence" as part of a shadowy, state-funded fleet.
 End = true
@@ -24,8 +29,18 @@ Body = India's government proposed a plan to get more women into parliament but 
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Nice to be nice': Duo help collapsed runner finish Boston Marathon
-Body = Aaron Beggs, who helped fellow runner Ajay Haridasse across the Boston Marathon finish line, says "the natural instinct was just to go and pick him up".
+Title = Digimon Beatbreak Episode 28 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 28, Gift, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV Twitter... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Craftmon Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Craftmon.
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = With the Will Podcast Live- Monday, April 27th [...]
 Body = Monday (April 27th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 28 & the start of the Gift Arc, cards & products, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 28 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 28, Gift, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV Twitter... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Coronamon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Coronamon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak- Miharu Profile, VA is Ayane Sakura, & Intro
-Body = After getting a heavily redacted version earlier in the week, we have updates on Miharu before she appears on Digimon Beatbreak this weekend. Miharu Kagemori Voice Actor- Ayane Sakura If the world treats them as a glitch...
 End = true
 
