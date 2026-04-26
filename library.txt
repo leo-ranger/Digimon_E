@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = ISIS-linked families leave Syrian refugee camp to travel home to Australia
+Body = A group of Australian families with ties to former Islamic State fighters have begun another attempt to travel home to Australia after spending years stranded in a Syrian refugee camp.
+End = true
+
+[LIBRARY RNEWS]
+Title = Leaked Pentagon email shows US wants to punish NATO allies over Iran war
+Body = The email suggests the US may review the UK's claim to the Falkland Islands and Spain's NATO membership as punishment over their stance on the Iran war.
+End = true
+
+[LIBRARY RNEWS]
 Title = Netanyahu delayed revealing prostate cancer diagnosis due to Iran war
 Body = Benjamin Netanyahu said a malignant tumour was discovered during a routine check-up and he has since undergone "targeted treatment".
 End = true
@@ -19,18 +29,18 @@ Body = Off China's southern coast, hundreds of fishing boats sit idle. The crews
 End = true
 
 [LIBRARY RNEWS]
-Title = What happened when I messaged the number threatening slain reporter
-Body = Talks in Washington are set against a backdrop of decades-long disputes and deep mistrust, but at least they're happening.
+Title = Tamer Card Tomoro & Parallel Alt/Art Previews for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Tomoro...
 End = true
 
 [LIBRARY RNEWS]
-Title = The consequences of India's push to get more women in parliament
-Body = India's government proposed a plan to get more women into parliament but it came with one major condition.
+Title = Digimon Beatbreak Updates- Episode 27 Production Art, Character Profile Art, & Summerland Decorations
+Body = A few recent Digimon Beatbreak updates before we get episode 28 later today. Episode 28 is the beginning of the...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 28 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 28, Gift, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV Twitter... [...]
+Title = Rebootmon, Parallel/Alt Art, & BelleStarmon/BeelStarmon/Fly Bullet Parallel Alt/Art Previews for Digimon Card Game Booster Set 25
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +49,7 @@ Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no mor
 End = true
 
 [LIBRARY RNEWS]
-Title = Craftmon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Craftmon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Deathmon/Ghoulmon Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Deathmon/Ghoulmon.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, April 27th [...]
-Body = Monday (April 27th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 28 & the start of the Gift Arc, cards & products, & more! Plus your questions!
+Title = Digimon Beatbreak Episode 28 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 28, Gift, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV Twitter... [...]
 End = true
 
