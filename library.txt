@@ -29,6 +29,16 @@ Body = Off China's southern coast, hundreds of fishing boats sit idle. The crews
 End = true
 
 [LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 28- Gift [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 28, Gift A preview of Episode 28 Episode 28 airs Sunday, April 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Beatbreak Episode 28 Social Art, Butter-Fly & I Wish Anniversary & Pop-Up Shop Photos, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 28, the first episode of the Gift Arc!
+End = true
+
+[LIBRARY RNEWS]
 Title = Tamer Card Tomoro & Parallel Alt/Art Previews for Digimon Card Game Booster Set 25
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Tomoro...
 End = true
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Rebootmon, Parallel/Alt Art, & BelleStarmon/BeelStarmon/Fly Bullet Parallel Alt/Art Previews for Digimon Card Game Booster Set 25
 Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 28 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 28, Gift, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV Twitter... [...]
 End = true
 
