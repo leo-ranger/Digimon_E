@@ -9,38 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = King Charles heads to US for Trump state visit after shooting incident
+Body = The British monarch and Queen Camilla are embarking on a state visit to the United States with relations between the two countries strained and following a shooting at a press gala in Washington.
+End = true
+
+[LIBRARY RNEWS]
 Title = Trump says shooter's 'manifesto' shows he is a 'sick guy'
 Body = Several US media outlets are reporting on the existence of the manifesto, which reportedly states the shooter wanted to target administration officials and was sent to the suspect's family members just before the attack.
 End = true
 
 [LIBRARY RNEWS]
-Title = US allies turning to Japan for defence supplies as Iran war drags on
-Body = Australia's multi-billion-dollar deal with Japan for its future warships could set a template that will help Tokyo rapidly expand defence exports across Asia.
+Title = China's 'quirky' fix for property crisis rewards marathon runners
+Body = Local governments in China are offering marathon runners, AI experts and tennis players subsidies to purchase unwanted properties amid a lingering real estate downturn.
 End = true
 
 [LIBRARY RNEWS]
-Title = Sixteen dead in strikes as Ukraine marks 40 years since Chernobyl
-Body = Marking the anniversary, Volodymyr Zelenskyy warns that Russia is using "nuclear terrorism" as a weapon of war.
+Title = Magnitude-6.1 earthquake and raging wildfires strike Japan's north
+Body = A preliminary magnitude-6.1 earthquake struck northern Japan early today, the US Geological Survey has reported, but there are no immediate reports of fatalities or damage.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel demands residents evacuate villages in southern Lebanon
-Body = Israeli forces have demanded residents in seven villages north of Lebanon's Litani River to evacuate.
-End = true
-
-[LIBRARY RNEWS]
-Title = Monarchlizamon/Final Judgment Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Monarchlizamon/Final Judgment.
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Kyo Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Kyo.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Agumon [...]
-Body = https://twitter.com/x/status/2046423683770773559 It appears Digimon Up will be showing off various Digimon that will be appearing in the upcoming mobile game. It shows off a character sprite with animation plus the type and attribute.
+Title = Preview for Digimon Beatbreak Episode 29 Dangerous Fandom
+Body = https://twitter.com/x/status/2048197868906062016 Time for a preview for Episode 29 Dangerous Fandom! Watch episode 28 first!
 End = true
 
 [LIBRARY RNEWS]
@@ -51,5 +41,15 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 28- Gift [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 28, Gift A preview of Episode 28 Episode 28 airs Sunday, April 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up Social Media Gacha Campaign Part 2 Ended After All Benchmarks Hit
+Body = The second social media campaign that was started for Digimon Up recently has been ended after it hit all the benchmarks via the number of social media sites it was doing it on, the same as part 1. From Part 2 all players will get at release: Supporter Summon Ticket x150 Skill Card Summon...
+End = true
+
+[LIBRARY RNEWS]
+Title = Monarchlizamon/Final Judgment Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Monarchlizamon/Final Judgment.
 End = true
 
