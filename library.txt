@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = ISIS-linked families leave Syrian refugee camp to travel home to Australia
-Body = A group of Australian families with ties to former Islamic State fighters have begun another attempt to travel home to Australia after spending years stranded in a Syrian refugee camp.
+Title = Trump says shooter's 'manifesto' shows he is a 'sick guy'
+Body = Several US media outlets are reporting on the existence of the manifesto, which reportedly states the shooter wanted to target administration officials and was sent to the suspect's family members just before the attack.
 End = true
 
 [LIBRARY RNEWS]
-Title = Leaked Pentagon email shows US wants to punish NATO allies over Iran war
-Body = The email suggests the US may review the UK's claim to the Falkland Islands and Spain's NATO membership as punishment over their stance on the Iran war.
+Title = US allies turning to Japan for defence supplies as Iran war drags on
+Body = Australia's multi-billion-dollar deal with Japan for its future warships could set a template that will help Tokyo rapidly expand defence exports across Asia.
 End = true
 
 [LIBRARY RNEWS]
-Title = Netanyahu delayed revealing prostate cancer diagnosis due to Iran war
-Body = Benjamin Netanyahu said a malignant tumour was discovered during a routine check-up and he has since undergone "targeted treatment".
+Title = Sixteen dead in strikes as Ukraine marks 40 years since Chernobyl
+Body = Marking the anniversary, Volodymyr Zelenskyy warns that Russia is using "nuclear terrorism" as a weapon of war.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hundreds of fishing boats sit idle off southern China — but they're not there to fish
-Body = Off China's southern coast, hundreds of fishing boats sit idle. The crews aren't there to fish, but rather to "maintain presence" as part of a shadowy, state-funded fleet.
+Title = Israel demands residents evacuate villages in southern Lebanon
+Body = Israeli forces have demanded residents in seven villages north of Lebanon's Litani River to evacuate.
+End = true
+
+[LIBRARY RNEWS]
+Title = Monarchlizamon/Final Judgment Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Monarchlizamon/Final Judgment.
+End = true
+
+[LIBRARY RNEWS]
+Title = Tamer Card Kyo Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Kyo.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- Digimon Showcase, Agumon [...]
+Body = https://twitter.com/x/status/2046423683770773559 It appears Digimon Up will be showing off various Digimon that will be appearing in the upcoming mobile game. It shows off a character sprite with animation plus the type and attribute.
+End = true
+
+[LIBRARY RNEWS]
+Title = Spinoff Discussion: Do you think Digimon BeatBreak should get a spinoff series?
+Body = I know it’s sudden and it the possibility of it is between low and impossible, but what if Digimon BeatBreak gets a spinoff series of any form (OVA, manga, novel)? I had that thought ever since I had theories on some cleaners having stray digimon as their partner, and then an April fools poster idea about the protagonist and his Meicrackmon Vicious Mode in London.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 28- Gift [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 28, Gift A preview of Episode 28 Episode 28 airs Sunday, April 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 28 Social Art, Butter-Fly & I Wish Anniversary & Pop-Up Shop Photos, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 28, the first episode of the Gift Arc!
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Tomoro & Parallel Alt/Art Previews for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Tomoro...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Updates- Episode 27 Production Art, Character Profile Art, & Summerland Decorations
-Body = A few recent Digimon Beatbreak updates before we get episode 28 later today. Episode 28 is the beginning of the...
-End = true
-
-[LIBRARY RNEWS]
-Title = Rebootmon, Parallel/Alt Art, & BelleStarmon/BeelStarmon/Fly Bullet Parallel Alt/Art Previews for Digimon Card Game Booster Set 25
-Body = ... [...] [...]
 End = true
 
