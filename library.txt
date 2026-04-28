@@ -9,33 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = King Charles heads to US for Trump state visit after shooting incident
-Body = The British monarch and Queen Camilla are embarking on a state visit to the United States with relations between the two countries strained and following a shooting at a press gala in Washington.
+Title = Penny Wong confronts the limits of Australia's China strategy
+Body = When Foreign Minister Penny Wong travels to Japan, China and South Korea this week, she will move through a region where relationships point in different directions at the same time.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says shooter's 'manifesto' shows he is a 'sick guy'
-Body = Several US media outlets are reporting on the existence of the manifesto, which reportedly states the shooter wanted to target administration officials and was sent to the suspect's family members just before the attack.
+Title = UK inquiry finds signs AUKUS investment has 'already faltered'
+Body = The House of Commons Defence Committee releases the findings of its yearlong review into the trilateral defence partnership.
 End = true
 
 [LIBRARY RNEWS]
-Title = China's 'quirky' fix for property crisis rewards marathon runners
-Body = Local governments in China are offering marathon runners, AI experts and tennis players subsidies to purchase unwanted properties amid a lingering real estate downturn.
+Title = The security breach that exposed Trump to a gunman
+Body = A shooting incident at a Washington dinner attended by Donald Trump has prompted a swirl of questions about how an alleged shooter breached Secret Service security and got so close to the US president.
 End = true
 
 [LIBRARY RNEWS]
-Title = Magnitude-6.1 earthquake and raging wildfires strike Japan's north
-Body = A preliminary magnitude-6.1 earthquake struck northern Japan early today, the US Geological Survey has reported, but there are no immediate reports of fatalities or damage.
+Title = At least four killed and dozens injured in train collision near Jakarta
+Body = The train operator says the crash, on the outskirts of Jakarta, involved a commuter train and a long-distance train.
 End = true
 
 [LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 29 Dangerous Fandom
-Body = https://twitter.com/x/status/2048197868906062016 Time for a preview for Episode 29 Dangerous Fandom! Watch episode 28 first!
+Title = With the Will Podcast Episode #298- Gift Delivery (Beatbreak Episode 28, Gift Arc, & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 28 & the start of the Gift Arc, cards & products, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
-Title = Spinoff Discussion: Do you think Digimon BeatBreak should get a spinoff series?
-Body = I know it’s sudden and it the possibility of it is between low and impossible, but what if Digimon BeatBreak gets a spinoff series of any form (OVA, manga, novel)? I had that thought ever since I had theories on some cleaners having stray digimon as their partner, and then an April fools poster idea about the protagonist and his Meicrackmon Vicious Mode in London.
+Title = Monarchlizamon/Final Judgment Special Parallel/Alt Art Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +49,7 @@ Body = The second social media campaign that was started for Digimon Up recently
 End = true
 
 [LIBRARY RNEWS]
-Title = Monarchlizamon/Final Judgment Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Monarchlizamon/Final Judgment.
+Title = Preview for Digimon Beatbreak Episode 29 Dangerous Fandom
+Body = https://twitter.com/x/status/2048197868906062016 Time for a preview for Episode 29 Dangerous Fandom! Watch episode 28 first!
 End = true
 
