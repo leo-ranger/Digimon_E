@@ -9,33 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = China to help Australia with jet fuel supplies, Wong says
-Body = Chinese state-owned oil companies have agreed to negotiate directly with Australian companies on jet fuel after the foreign minister's visit to China.
+Title = War deepens oil crisis and pushes inflation higher — as it happened
+Body = The price of Brent crude has surged to over $US120 per barrel because US President Donald Trump has announced he will extend the naval blockade of the strait.
 End = true
 
 [LIBRARY RNEWS]
-Title = US Supreme Court curbs race-based voting maps in landmark ruling
-Body = The ruling will be seen by civil rights activists as a blow and by the Republican party as a boost ahead of key midterm elections in November.
+Title = Israel's massive strike was opposite of surgical, Lebanon deputy PM says
+Body = Lebanese Deputy Prime Minister Tarek Mitri says the government cannot exercise its authority over the country while Israel continues its bombardments and occupation.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Extremely corrosive': Trump called out for remarks aimed at Australia
-Body = US congressman Joe Courtney says the US president's repeated criticism of Australia is "unfair" and causing harm to the US amongst its allies.
+Title = King visits 9/11 memorial as he tours New York [...]
+Body = King Charles III and Queen Camilla met survivors and family members of victims, as well as with New York Mayor Zohran Mamdani.
 End = true
 
 [LIBRARY RNEWS]
-Title = King's speech to Congress hits on several Trump controversies
-Body = In a speech that was supposed to be apolitical, King Charles hits on some hot-button issues that are fuelling controversies around the Trump administration.
+Title = UK police declare terrorist incident after two Jewish men stabbed in London
+Body = A man has been arrested after two men were stabbed in London in an area with a large Jewish population.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Monica Simmons Special Parallel/Alt Art Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
+Title = Digimon Tamers 25th Kenji Watanabe, Digimon Beatbreak, & Digimon Con Products Available to Pre-Order at Premium Bandai
+Body = We have a big wave of multiple sets of Digimon merchandise up at Premium Bandai to pre-order, a good number of which we knew was coming. The three waves include: Digimon Tamers 25th anniversary merchandise featuring new art by Kenji Watanabe Digimon Beatbreak Digimon Con shirts Pre-orders for...
 End = true
 
 [LIBRARY RNEWS]
-Title = Habakirimon/Habakiri Special Parallel/Alt Art Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card... [...]
+Title = Digimon Card Battle 261- Digimon Card Room- Dual Card Deck Matches Part 2
+Body = Digimon Card Battle is back with episode 261. This time, we return to Digimon Card Room and Chiba and Maguro are joined by Hideyoshi to continue on to part 2 of the 3 part series of showing off decks with the new Dual Cards!
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +44,12 @@ Body = The Digimon Card Game Twitter (2) has updated... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Asuna Special Parallel/Alt Art Preview for Digimon Card Game Booster Set 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's Asuna...
+Title = Agumon & Gekkomon Participating in 74th Yokohama Parade (International Costume Parade) 2026 This Weekend, May 3rd
+Body = It has been announced that the Agumon & Gekkomon mascots will take part in the Yokohama Parade (International Costume Parade) 2026, which is the 74th Yokohama parade. The parade is Sunday, May 3rd, with the kid's parade starting at 10:45am and the super parade beginning at 11:15am.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 28- Gift [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 28, Gift A preview of Episode 28 Episode 28 airs Sunday, April 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Beatbreak: Episode 29- Dangerous Fandom [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 29, Dangerous Fandom A preview of Episode 29 Episode 29 airs Sunday, May 3rd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
