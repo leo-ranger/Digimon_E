@@ -9,38 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = UAE exit from OPEC another disruption to the fragile oil market
-Body = The United Arab Emirates is set to leave the Organization of the Petroleum Exporting Countries, creating yet another disruption to the global oil market. At home, Treasurer Jim Chalmers says the Middle East war is to blame for a rise in inflation.
+Title = China to help Australia with jet fuel supplies, Wong says
+Body = Chinese state-owned oil companies have agreed to negotiate directly with Australian companies on jet fuel after the foreign minister's visit to China.
 End = true
 
 [LIBRARY RNEWS]
-Title = US regulator orders review of TV licence after Trump criticises Kimmel
-Body = It comes after both Donald and Melania Trump demanded the network cancel Kimmel's late-night comedy show over a joke they described as a call to violence, days before an alleged attempt to assassinate the US president.
+Title = US Supreme Court curbs race-based voting maps in landmark ruling
+Body = The ruling will be seen by civil rights activists as a blow and by the Republican party as a boost ahead of key midterm elections in November.
 End = true
 
 [LIBRARY RNEWS]
-Title = King Charles says 'acts of violence will never succeed' after attack on Trump — as it happened
-Body = King Charles has delivered a speech to Congress as part of his visit to the US to celebrate the 250th anniversary of American independence.
+Title = 'Extremely corrosive': Trump called out for remarks aimed at Australia
+Body = US congressman Joe Courtney says the US president's repeated criticism of Australia is "unfair" and causing harm to the US amongst its allies.
 End = true
 
 [LIBRARY RNEWS]
-Title = Superyacht linked to Putin's friend slips through Strait of Hormuz
-Body = It's the most talked-about and dangerous stretch of ocean in the world but, at the weekend, a superyacht linked to one of Russia's richest men made it through the Strait of Hormuz.
+Title = King's speech to Congress hits on several Trump controversies
+Body = In a speech that was supposed to be apolitical, King Charles hits on some hot-button issues that are fuelling controversies around the Trump administration.
 End = true
 
 [LIBRARY RNEWS]
-Title = Poll Results for Favorite Big Death-Star General from Digimon Xros Wars
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Big Death-Star General from the second arc of Digimon Xros Wars! Recently the poll closed and we have the results!
+Title = Tamer Card Monica Simmons Special Parallel/Alt Art Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 25. This time it's...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak ED3 Mirror Mirror by Yena- Full Song Release, Collaboration Visual 1, & More!
-Body = Mirror Mirror by Yena, the 3rd ED theme to Digimon Beatbreak has had the full version of the song released as a digital single. The digital single is also on various music services, of which they have an incomplete list here.
+Title = Habakirimon/Habakiri Special Parallel/Alt Art Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated with card... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Terriermon Assistant Lab- New Digimon Up Info, Karuta w/ D-Arc & Godzilla Previews, Digimon Akinator, & Digimon Moments Challenge!
-Body = A few new episodes of Terriermon Assistant Lab! We'll do episode every few weeks if they continue to go up without subs, updating when/if they get English subs quicker, just so they don't build up too far, or when a more relevant episode appears, even if unsubbed.
+Title = BelleStarmon/BeelStarmon/Fly Bullet Special Parallel/Alt Art Preview for Digimon Card Game Booster Set 25
+Body = The Digimon Card Game Twitter (2) has updated... [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +49,7 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Agumon [...]
-Body = https://twitter.com/x/status/2046423683770773559 It appears Digimon Up will be showing off various Digimon that will be appearing in the upcoming mobile game. It shows off a character sprite with animation plus the type and attribute.
+Title = Digimon Beatbreak: Episode 28- Gift [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 28, Gift A preview of Episode 28 Episode 28 airs Sunday, April 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
