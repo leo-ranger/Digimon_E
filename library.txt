@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = War deepens oil crisis and pushes inflation higher — as it happened
-Body = The price of Brent crude has surged to over $US120 per barrel because US President Donald Trump has announced he will extend the naval blockade of the strait.
+Title = 'Planning for a rainy day': How China is dealing with the global oil shock
+Body = China relies heavily on Middle Eastern oil imports, but experts say a double-insurance strategy appears to have helped the country absorb at least the initial shock after disruption to the Strait of Hormuz.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel's massive strike was opposite of surgical, Lebanon deputy PM says
-Body = Lebanese Deputy Prime Minister Tarek Mitri says the government cannot exercise its authority over the country while Israel continues its bombardments and occupation.
+Title = Pacific nations unite to tackle regional unrest [...]
+Body = The Pacific Response Group is beginning negotiations on a treaty that would allow it to respond more quickly to natural disasters and other crises across the region.
 End = true
 
 [LIBRARY RNEWS]
-Title = King visits 9/11 memorial as he tours New York [...]
-Body = King Charles III and Queen Camilla met survivors and family members of victims, as well as with New York Mayor Zohran Mamdani.
+Title = Aung San Suu Kyi pictured for first time in years as she is moved to house arrest
+Body = Myanmar's detained former president Aung San Suu Kyi has been moved from prison to house arrest, according to state media.
 End = true
 
 [LIBRARY RNEWS]
-Title = UK police declare terrorist incident after two Jewish men stabbed in London
-Body = A man has been arrested after two men were stabbed in London in an area with a large Jewish population.
+Title = Global Sumud Flotilla carrying Australians intercepted on its way to Gaza by IDF
+Body = The Global Sumud Flotilla has been intercepted by the IDF, an official tweet by the group says.
+End = true
+
+[LIBRARY RNEWS]
+Title = ShineGreymon: Burst Mode/Final Shining Burst & GraceNovamon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set 25, plus Trailer
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Agumon & Gekkomon Participating in 74th Yokohama Parade (International Costume Parade) 2026 This Weekend, May 3rd
 Body = It has been announced that the Agumon & Gekkomon mascots will take part in the Yokohama Parade (International Costume Parade) 2026, which is the 74th Yokohama parade. The parade is Sunday, May 3rd, with the kid's parade starting at 10:45am and the super parade beginning at 11:15am.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 29- Dangerous Fandom [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 29, Dangerous Fandom A preview of Episode 29 Episode 29 airs Sunday, May 3rd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
