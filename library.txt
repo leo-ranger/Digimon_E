@@ -29,6 +29,16 @@ Body = UK police charge a 45-year-old man over the stabbing of two Jewish men in
 End = true
 
 [LIBRARY RNEWS]
+Title = Digimon Card Battle 262- Digimon Card Room- Dual Card Deck Matches Part 3
+Body = Digimon Card Battle is back with episode 262. This time, we return to Digimon Card Room and Chiba and Maguro are joined by Hideyoshi to continue on to the finale of the 3 part series of showing off decks with the new Dual Cards!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up Updates- Pre-Registration Campaign Unlock & MetalGarurumon Preview
+Body = A few Digimon Up updates! First up, pre-registrations have already hit 10k in the pre-reg campaign, getting everyone 150 Skill Card Summon Tickets.
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Beatbreak Updates, Brilliant Thorn- Meto & Kanon
 Body = We have a few Digimon Beatbreak updates focused on new characters, who we first saw at the end of the Tactics arc, and have also appeared in the newest ED. Brilliant Thorn- The duo of Meto Enishidia & Kanon Tsubwabuki.
 End = true
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak Episode 29 Preview Screenshots [...]
 Body = Digimon Beatbreak episode 29, Dangerous Fandom, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV Twitter... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, May 4th [...]
-Body = Monday (May 4th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 29, Digimon Up news, plenty of cards & products, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
