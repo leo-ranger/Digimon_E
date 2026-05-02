@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Commanders to brief Trump on fresh military options for Iran war — as it happened
-Body = Iran says it will respond with "long and painful strikes" on US positions if Washington renews attacks and reasserts its control over the Strait of Hormuz — as it happened.
+Title = Trump 'not satisfied' with Iran's new proposal to end the war
+Body = Peace talks between the United States and Iran have stalled, with US President Donald Trump threatening to "blast them to hell" if they don't reach a deal.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Planning for a rainy day': How China is dealing with the global oil shock
-Body = China relies heavily on Middle Eastern oil imports, but experts say a double-insurance strategy appears to have helped the country absorb at least the initial shock after disruption to the Strait of Hormuz.
+Title = Chinese company launches legal action over forced sale of Port of Darwin
+Body = Anthony Albanese pledged at the federal election that Labor would return the port to Australian hands, saying it necessary for national security.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pacific nations unite to tackle regional unrest [...]
-Body = The Pacific Response Group is beginning negotiations on a treaty that would allow it to respond more quickly to natural disasters and other crises across the region.
+Title = Three Australians injured as Israeli forces intercept Gaza aid flotilla
+Body = More than 100 activists, including six Australians, on ships bound for Gaza were intercepted by Israeli forces earlier this week.
 End = true
 
 [LIBRARY RNEWS]
-Title = Aung San Suu Kyi pictured for first time in years as she is moved to house arrest
-Body = Myanmar's detained former president Aung San Suu Kyi has been moved from prison to house arrest, according to state media.
+Title = Suspect charged after stabbings of Jewish men in London
+Body = UK police charge a 45-year-old man over the stabbing of two Jewish men in north London, the latest in a string of attacks targeting Britain's Jewish community.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Updates, Brilliant Thorn- Meto & Kanon
+Body = We have a few Digimon Beatbreak updates focused on new characters, who we first saw at the end of the Tactics arc, and have also appeared in the newest ED. Brilliant Thorn- The duo of Meto Enishidia & Kanon Tsubwabuki.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = A few relevant bits of Digimon Up news! First up, pre-registration has be
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Youtube Film Festival in Japan Starts May 2nd w/ Five Digimon Movies to Celebrate Digimon Up Pre-Registration
-Body = After being previously teased with a message in binary regarding Digimon Adventure: Our War Game streaming on May 2nd, they've detailed (2) what that teaser is for with more info... The Digimon Youtube Film Festival will be held starting tomorrow in Japan to celebrate preregistration beginning for Digimon Up.
+Title = Digimon Beatbreak Episode 29 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 29, Dangerous Fandom, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV Twitter... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = ShineGreymon: Burst Mode/Final Shining Burst & GraceNovamon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set 25, plus Trailer
-Body = ... [...] [...]
+Title = With the Will Podcast Live- Monday, May 4th [...]
+Body = Monday (May 4th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 29, Digimon Up news, plenty of cards & products, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Tamers 25th Kenji Watanabe, Digimon Beatbreak, & Digimon Con Products Available to Pre-Order at Premium Bandai
-Body = We have a big wave of multiple sets of Digimon merchandise up at Premium Bandai to pre-order, a good number of which we knew was coming. The three waves include: Digimon Tamers 25th anniversary merchandise featuring new art by Kenji Watanabe Digimon Beatbreak Digimon Con shirts Pre-orders for...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Battle 261- Digimon Card Room- Dual Card Deck Matches Part 2
-Body = Digimon Card Battle is back with episode 261. This time, we return to Digimon Card Room and Chiba and Maguro are joined by Hideyoshi to continue on to part 2 of the 3 part series of showing off decks with the new Dual Cards!
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
