@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Trump reviews Iran peace proposal as speculation turns to strikes resuming — as it happened
+Body = The US president told reporters he was reviewing a new peace proposal from Iranian negotiators, but immediately cast doubt on whether it would be "acceptable".
+End = true
+
+[LIBRARY RNEWS]
 Title = Why many Australians are heading for this island in East Asia
 Body = Lots of Australians travel to Taiwan chasing flavour and wanting to try the best beef noodle soup — but they leave wanting to explore more of its history and nature.
+End = true
+
+[LIBRARY RNEWS]
+Title = Republicans air concerns after US announces 5,000 troops to leave Germany
+Body = Two Republicans, who hold positions on armed services committees, say they have concerns for NATO alliances and security after the Pentagon confirms the withdrawal of 5,000 US troops from Germany.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,37 +29,27 @@ Body = Peace talks between the United States and Iran have stalled, with US Pres
 End = true
 
 [LIBRARY RNEWS]
-Title = Israeli police video shows attack on nun in Jerusalem
-Body = Israeli police release a video showing what eyewitnesses say was an attack by a Jewish man on a nun near Jerusalem's Old City. Police say the suspect, a 36-year-old man, was later arrested.
+Title = Digimon Beatbreak: Episode 29- Dangerous Fandom [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 29, Dangerous Fandom A preview of Episode 29 Episode 29 airs Sunday, May 3rd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Chinese company launches legal action over forced sale of Port of Darwin
-Body = Anthony Albanese pledged at the federal election that Labor would return the port to Australian hands, saying it necessary for national security.
+Title = Digimon Up- Digimon Showcase, Tentomon [...]
+Body = https://twitter.com/x/status/2050772338418086377 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Tentomon!
 End = true
 
 [LIBRARY RNEWS]
-Title = Box Topper Previews for Digimon Card Game Booster Set 25
-Body = ... [...] [...]
+Title = Weekend Batch- Digimon Beatbreak Episode 29, Haruomi, & May Social Art, Butter-Fly Mentioned by BTS on Hot Ones, Catch-Up for the Week, & More!
+Body = Time for a weekend batch! We start with some Digimon Beatbreak art for episode 29!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 29 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 29, Dangerous Fandom, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV Twitter... [...]
+Title = Is the difference just available Digimon between Toho/Sanju and the Field types in Pendulum Color?
+Body = Basically I don't want to miss out on potential new features even if i am planning to grab both of them but i really want Nightmare Soldiers ver because basically it has all my favorite Digimon on it. (And usb-c charging is really nice actually)
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Updates- Episode 28 Production Art, Drawing Info, & ED3 Promotion with Yena
-Body = A few recent Digimon Beatbreak updates before we get episode 29 later today. We get episode 28 chief animation director's corrections for Tomoro...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- WarGreymon Pixel Art Shown Off [...]
-Body = https://twitter.com/x/status/2050542065357099393 They've shown off new pixel art of WarGreymon to celebrate the recent start of Digimon Up pre-registrations. Pre-registration info, including bonuses, can be found here.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Updates, Brilliant Thorn- Meto & Kanon
-Body = We have a few Digimon Beatbreak updates focused on new characters, who we first saw at the end of the Tactics arc, and have also appeared in the newest ED. Brilliant Thorn- The duo of Meto Enishidia & Kanon Tsubwabuki.
+Title = Was trying to find out what digimon were in a digivice release and found this forum again
+Body = So yeah! Im getting back into virtual pets because i need to feel like im 10 again Is this gonna weird to use after all this time?
 End = true
 
