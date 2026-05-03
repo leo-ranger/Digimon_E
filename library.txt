@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Why many Australians are heading for this island in East Asia
+Body = Lots of Australians travel to Taiwan chasing flavour and wanting to try the best beef noodle soup — but they leave wanting to explore more of its history and nature.
+End = true
+
+[LIBRARY RNEWS]
 Title = Trump 'not satisfied' with Iran's new proposal to end the war
 Body = Peace talks between the United States and Iran have stalled, with US President Donald Trump threatening to "blast them to hell" if they don't reach a deal.
+End = true
+
+[LIBRARY RNEWS]
+Title = Israeli police video shows attack on nun in Jerusalem
+Body = Israeli police release a video showing what eyewitnesses say was an attack by a Jewish man on a nun near Jerusalem's Old City. Police say the suspect, a 36-year-old man, was later arrested.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,37 +29,27 @@ Body = Anthony Albanese pledged at the federal election that Labor would return 
 End = true
 
 [LIBRARY RNEWS]
-Title = Three Australians injured as Israeli forces intercept Gaza aid flotilla
-Body = More than 100 activists, including six Australians, on ships bound for Gaza were intercepted by Israeli forces earlier this week.
-End = true
-
-[LIBRARY RNEWS]
-Title = Suspect charged after stabbings of Jewish men in London
-Body = UK police charge a 45-year-old man over the stabbing of two Jewish men in north London, the latest in a string of attacks targeting Britain's Jewish community.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Battle 262- Digimon Card Room- Dual Card Deck Matches Part 3
-Body = Digimon Card Battle is back with episode 262. This time, we return to Digimon Card Room and Chiba and Maguro are joined by Hideyoshi to continue on to the finale of the 3 part series of showing off decks with the new Dual Cards!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Updates- Pre-Registration Campaign Unlock & MetalGarurumon Preview
-Body = A few Digimon Up updates! First up, pre-registrations have already hit 10k in the pre-reg campaign, getting everyone 150 Skill Card Summon Tickets.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Updates, Brilliant Thorn- Meto & Kanon
-Body = We have a few Digimon Beatbreak updates focused on new characters, who we first saw at the end of the Tactics arc, and have also appeared in the newest ED. Brilliant Thorn- The duo of Meto Enishidia & Kanon Tsubwabuki.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Pre-Registration Open, First Screenshots, & Pre-Registration Campaign
-Body = A few relevant bits of Digimon Up news! First up, pre-registration has begun on the Apple App Store (for iOS) & the Google Play Store (for Android.) ...
+Title = Box Topper Previews for Digimon Card Game Booster Set 25
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak Episode 29 Preview Screenshots [...]
 Body = Digimon Beatbreak episode 29, Dangerous Fandom, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV Twitter... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Updates- Episode 28 Production Art, Drawing Info, & ED3 Promotion with Yena
+Body = A few recent Digimon Beatbreak updates before we get episode 29 later today. We get episode 28 chief animation director's corrections for Tomoro...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- WarGreymon Pixel Art Shown Off [...]
+Body = https://twitter.com/x/status/2050542065357099393 They've shown off new pixel art of WarGreymon to celebrate the recent start of Digimon Up pre-registrations. Pre-registration info, including bonuses, can be found here.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Updates, Brilliant Thorn- Meto & Kanon
+Body = We have a few Digimon Beatbreak updates focused on new characters, who we first saw at the end of the Tactics arc, and have also appeared in the newest ED. Brilliant Thorn- The duo of Meto Enishidia & Kanon Tsubwabuki.
 End = true
 
