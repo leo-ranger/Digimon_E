@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Trump's former personal lawyer Rudy Giuliani in critical condition
+Body = Former New York mayor and US President Donald Trump's former personal lawyer Rudy Giuliani is in hospital in a critical condition.
+End = true
+
+[LIBRARY RNEWS]
 Title = Australian says Gaza aid boat activists were beaten by Israeli navy
 Body = Zack Schofield was one of three Australians taken to hospital after being released by Israeli authorities, and says he saw at least 10 of his crew being shot by rubber bullets.
 End = true
@@ -21,11 +26,6 @@ End = true
 [LIBRARY RNEWS]
 Title = They escaped scam compounds then saw their suffering 'gamified'
 Body = Scam centre survivors say they are hurt by games that serialise scam compound experiences online, but one creator says he hopes people find the game "fun".
-End = true
-
-[LIBRARY RNEWS]
-Title = Why many Australians are heading for this island in East Asia
-Body = Lots of Australians travel to Taiwan chasing flavour and wanting to try the best beef noodle soup — but they leave wanting to explore more of its history and nature.
 End = true
 
 [LIBRARY RNEWS]
