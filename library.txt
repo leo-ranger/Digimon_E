@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump reviews Iran peace proposal as speculation turns to strikes resuming — as it happened
-Body = The US president told reporters he was reviewing a new peace proposal from Iranian negotiators, but immediately cast doubt on whether it would be "acceptable".
+Title = Australian says Gaza aid boat activists were beaten by Israeli navy
+Body = Zack Schofield was one of three Australians taken to hospital after being released by Israeli authorities, and says he saw at least 10 of his crew being shot by rubber bullets.
+End = true
+
+[LIBRARY RNEWS]
+Title = Two US service members missing after military exercises in Morocco
+Body = A search and rescue operation is underway for the service members who went missing in mountainous terrain.
+End = true
+
+[LIBRARY RNEWS]
+Title = They escaped scam compounds then saw their suffering 'gamified'
+Body = Scam centre survivors say they are hurt by games that serialise scam compound experiences online, but one creator says he hopes people find the game "fun".
 End = true
 
 [LIBRARY RNEWS]
@@ -19,13 +29,18 @@ Body = Lots of Australians travel to Taiwan chasing flavour and wanting to try t
 End = true
 
 [LIBRARY RNEWS]
-Title = Republicans air concerns after US announces 5,000 troops to leave Germany
-Body = Two Republicans, who hold positions on armed services committees, say they have concerns for NATO alliances and security after the Pentagon confirms the withdrawal of 5,000 US troops from Germany.
+Title = Digimon Up Update- Pre-Registration Campaign Unlock 30k Tier
+Body = Digimon Up update! Pre-registrations have hit 30k, getting everyone 150 Support Summon Tickets.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump 'not satisfied' with Iran's new proposal to end the war
-Body = Peace talks between the United States and Iran have stalled, with US President Donald Trump threatening to "blast them to hell" if they don't reach a deal.
+Title = Digimon Adventure 13+ Part 1 Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella & Background Info
+Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. When people inquired, he asked them to further please wait.
+End = true
+
+[LIBRARY RNEWS]
+Title = Preview for Digimon Beatbreak Episode 30 Wings to Protect You
+Body = https://twitter.com/x/status/2050734583910711538 Time for a preview for Episode 30 Wings to Protect You! Watch episode 29 first!
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Up- Digimon Showcase, Tentomon [...]
 Body = https://twitter.com/x/status/2050772338418086377 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Tentomon!
-End = true
-
-[LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 29, Haruomi, & May Social Art, Butter-Fly Mentioned by BTS on Hot Ones, Catch-Up for the Week, & More!
-Body = Time for a weekend batch! We start with some Digimon Beatbreak art for episode 29!
-End = true
-
-[LIBRARY RNEWS]
-Title = Is the difference just available Digimon between Toho/Sanju and the Field types in Pendulum Color?
-Body = Basically I don't want to miss out on potential new features even if i am planning to grab both of them but i really want Nightmare Soldiers ver because basically it has all my favorite Digimon on it. (And usb-c charging is really nice actually)
-End = true
-
-[LIBRARY RNEWS]
-Title = Was trying to find out what digimon were in a digivice release and found this forum again
-Body = So yeah! Im getting back into virtual pets because i need to feel like im 10 again Is this gonna weird to use after all this time?
 End = true
 
