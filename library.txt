@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = World order could be 'rebuilt out of Europe', Carney says
+Body = The Canadian prime minister tells European leaders the world does not need to submit to a "more transactional and insular world".
+End = true
+
+[LIBRARY RNEWS]
 Title = Trump's former personal lawyer Rudy Giuliani in critical condition
 Body = Former New York mayor and US President Donald Trump's former personal lawyer Rudy Giuliani is in hospital in a critical condition.
 End = true
@@ -19,18 +24,13 @@ Body = Zack Schofield was one of three Australians taken to hospital after being
 End = true
 
 [LIBRARY RNEWS]
-Title = Two US service members missing after military exercises in Morocco
-Body = A search and rescue operation is underway for the service members who went missing in mountainous terrain.
+Title = Russian woman's husband beat her but police were no help, so she wrote to Putin
+Body = Domestic violence and abuse have been described as an "epidemic" in multiple countries, but analysts argue there is something that sets Russia apart: the government is making things worse.
 End = true
 
 [LIBRARY RNEWS]
-Title = They escaped scam compounds then saw their suffering 'gamified'
-Body = Scam centre survivors say they are hurt by games that serialise scam compound experiences online, but one creator says he hopes people find the game "fun".
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Update- Pre-Registration Campaign Unlock 30k Tier
-Body = Digimon Up update! Pre-registrations have hit 30k, getting everyone 150 Support Summon Tickets.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned ho
 End = true
 
 [LIBRARY RNEWS]
+Title = Digimon Adventure 13+ Part 2 Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella
+Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. Yesterday he published Part 1 of what he titled Digimon Adventure 13+, his text story of what we see bits of in the 25th anniversary short.
+End = true
+
+[LIBRARY RNEWS]
 Title = Preview for Digimon Beatbreak Episode 30 Wings to Protect You
 Body = https://twitter.com/x/status/2050734583910711538 Time for a preview for Episode 30 Wings to Protect You! Watch episode 29 first!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 29- Dangerous Fandom [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 29, Dangerous Fandom A preview of Episode 29 Episode 29 airs Sunday, May 3rd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Tentomon [...]
-Body = https://twitter.com/x/status/2050772338418086377 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Tentomon!
+Title = Digimon Up Update- Pre-Registration Campaign Unlock 30k Tier
+Body = Digimon Up update! Pre-registrations have hit 30k, getting everyone 150 Support Summon Tickets.
 End = true
 
