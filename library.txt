@@ -14,28 +14,18 @@ Body = The Canadian prime minister tells European leaders the world does not nee
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump's former personal lawyer Rudy Giuliani in critical condition
-Body = Former New York mayor and US President Donald Trump's former personal lawyer Rudy Giuliani is in hospital in a critical condition.
+Title = Vietnam's 135,000-seat gold stadium points to something even bigger
+Body = The country announced more than 500 infrastructure projects last year alone, totalling $280 billion, as it pushes ahead with an ambitious plan to revolutionise its economy.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian says Gaza aid boat activists were beaten by Israeli navy
-Body = Zack Schofield was one of three Australians taken to hospital after being released by Israeli authorities, and says he saw at least 10 of his crew being shot by rubber bullets.
+Title = Australia and Japan sign agreements on energy, defence and critical minerals
+Body = Prime Minister Anthony Albanese and his Japanese counterpart Takaichi Sanae agreed to bolster cooperation on energy, defence and critical minerals, while warning against economic coercion.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian woman's husband beat her but police were no help, so she wrote to Putin
-Body = Domestic violence and abuse have been described as an "epidemic" in multiple countries, but analysts argue there is something that sets Russia apart: the government is making things worse.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure 13+ Part 1 Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella & Background Info
-Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. When people inquired, he asked them to further please wait.
+Title = Justin Baldoni and Blake Lively settle legal battle over It Ends With Us scandal
+Body = The pair settle their civil case two weeks before a trial had been set to begin in New York.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +39,17 @@ Body = https://twitter.com/x/status/2050734583910711538 Time for a preview for E
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up Update- Pre-Registration Campaign Unlock 30k Tier
-Body = Digimon Up update! Pre-registrations have hit 30k, getting everyone 150 Support Summon Tickets.
+Title = With the Will Podcast Episode #299- Back to the Adventure (Beatbreak Episode 29, Adventure 13+, & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 29, the Digimon Adventure 13+ novella from Director Kakudou, Digimon Up news, plenty of cards & products, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure 13+ Part 1 Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella & Background Info
+Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. When people inquired, he asked them to further please wait.
 End = true
 
