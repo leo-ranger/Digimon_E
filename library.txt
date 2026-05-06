@@ -19,18 +19,13 @@ Body = Iran had branded Project Freedom as "Project Deadlock" and now US preside
 End = true
 
 [LIBRARY RNEWS]
+Title = Italian PM says deepfake depicting her in lingerie is a political attack
+Body = Giorgia Meloni shares an AI-generated photo of her posing on a bed and says her political opponents have been using such images to try to undermine her.
+End = true
+
+[LIBRARY RNEWS]
 Title = Zelenskyy slams Russia's 'utter cynicism' as strikes kill 22 before ceasefire
 Body = The Ukrainian president called one attack in Poltava "especially vile", accusing Russia of launching a second missile while emergency rescuers were at the scene.
-End = true
-
-[LIBRARY RNEWS]
-Title = UK police probe arson at ex-synagogue as PM decries antisemitism 'crisis'
-Body = The blaze is the latest in a spate of incidents that appear to have targeted the UK's Jewish community.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure 13+ Part 3 (Final) Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella
-Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. In the last few days he published Parts 1 and 2 of what he titled Digimon Adventure 13+, his text story of what we see bits of in the 25th anniversary short.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +34,22 @@ Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no mor
 End = true
 
 [LIBRARY RNEWS]
+Title = Official Digimon Web Poll #149- Favorite Digimon Tamers 25th Anniversary Kenji Watanabe Art
+Body = Digimon Web has opened a new fan vote. This is the 149th official web poll on the current version of the site.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure 13+ Part 3 (Final) Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella
+Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. In the last few days he published Parts 1 and 2 of what he titled Digimon Adventure 13+, his text story of what we see bits of in the 25th anniversary short.
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Adventure 13+ Part 2 Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella
 Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. Yesterday he published Part 1 of what he titled Digimon Adventure 13+, his text story of what we see bits of in the 25th anniversary short.
 End = true
 
 [LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 30 Wings to Protect You
-Body = https://twitter.com/x/status/2050734583910711538 Time for a preview for Episode 30 Wings to Protect You! Watch episode 29 first!
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #299- Back to the Adventure (Beatbreak Episode 29, Adventure 13+, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 29, the Digimon Adventure 13+ novella from Director Kakudou, Digimon Up news, plenty of cards & products, & more! Plus your questions!
+Title = The A.I. Raven - [Original Fiction/Digimon Homage]
+Body = Synopsis: As his winter semester nears its end, Adrian Ritter finds his class project ruined for unknown reasons. That same day, he realizes something is inside his computer, and it can talk.
 End = true
 
