@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = World order could be 'rebuilt out of Europe', Carney says
-Body = The Canadian prime minister tells European leaders the world does not need to submit to a "more transactional and insular world".
+Title = Iran maintains Strait of Hormuz blockade with 'annoying' mosquito fleet
+Body = Iran's so-called mosquito fleet of small, speedy attack boats has become an increasingly aggressive nuisance for the US Navy, as it attempts to break the blockade in the Strait of Hormuz.
 End = true
 
 [LIBRARY RNEWS]
-Title = Vietnam's 135,000-seat gold stadium points to something even bigger
-Body = The country announced more than 500 infrastructure projects last year alone, totalling $280 billion, as it pushes ahead with an ambitious plan to revolutionise its economy.
+Title = His team claimed Project Freedom was working, but now Trump has put it on hold
+Body = Iran had branded Project Freedom as "Project Deadlock" and now US president Donald Trump has placed the military's support mission in the Strait of Hormuz on hold.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australia and Japan sign agreements on energy, defence and critical minerals
-Body = Prime Minister Anthony Albanese and his Japanese counterpart Takaichi Sanae agreed to bolster cooperation on energy, defence and critical minerals, while warning against economic coercion.
+Title = Zelenskyy slams Russia's 'utter cynicism' as strikes kill 22 before ceasefire
+Body = The Ukrainian president called one attack in Poltava "especially vile", accusing Russia of launching a second missile while emergency rescuers were at the scene.
 End = true
 
 [LIBRARY RNEWS]
-Title = Justin Baldoni and Blake Lively settle legal battle over It Ends With Us scandal
-Body = The pair settle their civil case two weeks before a trial had been set to begin in New York.
+Title = UK police probe arson at ex-synagogue as PM decries antisemitism 'crisis'
+Body = The blaze is the latest in a spate of incidents that appear to have targeted the UK's Jewish community.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure 13+ Part 3 (Final) Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella
+Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. In the last few days he published Parts 1 and 2 of what he titled Digimon Adventure 13+, his text story of what we see bits of in the 25th anniversary short.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = With the Will Podcast Episode #299- Back to the Adventure (Beatbreak Episode 29, Adventure 13+, & More!)
 Body = This time we will be talking about Digimon Beatbreak episode 29, the Digimon Adventure 13+ novella from Director Kakudou, Digimon Up news, plenty of cards & products, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure 13+ Part 1 Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella & Background Info
-Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. When people inquired, he asked them to further please wait.
 End = true
 
