@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran maintains Strait of Hormuz blockade with 'annoying' mosquito fleet
-Body = Iran's so-called mosquito fleet of small, speedy attack boats has become an increasingly aggressive nuisance for the US Navy, as it attempts to break the blockade in the Strait of Hormuz.
+Title = Head-on collision between bus and fuel truck kills 16 people in Indonesia
+Body = The bus was carrying at least 20 people when it struck a tanker truck travelling in the opposite direction on Sumatra island, officials said.
 End = true
 
 [LIBRARY RNEWS]
-Title = His team claimed Project Freedom was working, but now Trump has put it on hold
-Body = Iran had branded Project Freedom as "Project Deadlock" and now US president Donald Trump has placed the military's support mission in the Strait of Hormuz on hold.
+Title = Iran reviews US proposal as Trump says war could 'be at an end'
+Body = Iran reviews a new peace-deal proposal from the US, which President Donald Trump says could end the war, but an Iranian official describes it as an "American wish list".
 End = true
 
 [LIBRARY RNEWS]
-Title = Italian PM says deepfake depicting her in lingerie is a political attack
-Body = Giorgia Meloni shares an AI-generated photo of her posing on a bed and says her political opponents have been using such images to try to undermine her.
+Title = Canary Islands leader does not want hantavirus-hit cruise ship to dock
+Body = A luxury cruise ship hit by a deadly hantavirus outbreak and marooned for days off the coast of Cape Verde with close to 150 people on board is on its way to Spain's Canary Islands, where a regional leader says it is not welcome.
 End = true
 
 [LIBRARY RNEWS]
-Title = Zelenskyy slams Russia's 'utter cynicism' as strikes kill 22 before ceasefire
-Body = The Ukrainian president called one attack in Poltava "especially vile", accusing Russia of launching a second missile while emergency rescuers were at the scene.
+Title = Pussy Riot joins anti-Russia smoke bomb protest at Venice Biennale
+Body = Protesters including Russian punk group Pussy Riot storm the opening of the Italian art show, which Russia is attending for the first time since its 2022 invasion of Ukraine.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Digimon Up Update- Pre-Registration Campaign Unlock 50k Tier
+Body = Digimon Up update! Pre-registrations have hit 50k, getting everyone 1000 DigiEmeralds.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = Digimon Web has opened a new fan vote. This is the 149th official web pol
 End = true
 
 [LIBRARY RNEWS]
+Title = Digimon Up- Digimon Showcase, Biyomon/Piyomon [...]
+Body = https://twitter.com/x/status/2051859495983427941 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Biyomon/Piyomon!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure: Streaming on Youtube Starting Friday- 10 Episodes Going Up A Week
+Body = https://twitter.com/x/status/2052071013832134663 Toei has announced that starting this Friday (May 8th), Digimon Adventure: will be streaming on their Youtube. Each Friday they will add 10 episodes until all the episodes are on the Youtube.
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Adventure 13+ Part 3 (Final) Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella
 Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. In the last few days he published Parts 1 and 2 of what he titled Digimon Adventure 13+, his text story of what we see bits of in the 25th anniversary short.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure 13+ Part 2 Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella
-Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. Yesterday he published Part 1 of what he titled Digimon Adventure 13+, his text story of what we see bits of in the 25th anniversary short.
-End = true
-
-[LIBRARY RNEWS]
-Title = The A.I. Raven - [Original Fiction/Digimon Homage]
-Body = Synopsis: As his winter semester nears its end, Adrian Ritter finds his class project ruined for unknown reasons. That same day, he realizes something is inside his computer, and it can talk.
 End = true
 
