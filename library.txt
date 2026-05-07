@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Fresh strikes in southern Lebanon, calls for Australia to improve self-reliance — as it happened
+Body = Local media reports Israeli strikes in a southern Lebanese town that has not been targeted in several weeks. Here's how the day unfolded on our Iran war blog.
+End = true
+
+[LIBRARY RNEWS]
+Title = Judge releases note purportedly penned in jail by Jeffrey Epstein
+Body = A note Jeffrey Epstein's cellmate claims he found after the convicted sex offender's first suspected attempt to take his own life in a New York jail has been made public.
+End = true
+
+[LIBRARY RNEWS]
 Title = Head-on collision between bus and fuel truck kills 16 people in Indonesia
 Body = The bus was carrying at least 20 people when it struck a tanker truck travelling in the opposite direction on Sumatra island, officials said.
 End = true
@@ -19,18 +29,13 @@ Body = Iran reviews a new peace-deal proposal from the US, which President Donal
 End = true
 
 [LIBRARY RNEWS]
-Title = Canary Islands leader does not want hantavirus-hit cruise ship to dock
-Body = A luxury cruise ship hit by a deadly hantavirus outbreak and marooned for days off the coast of Cape Verde with close to 150 people on board is on its way to Spain's Canary Islands, where a regional leader says it is not welcome.
+Title = Digimon Adventure: Streaming on Youtube Starting Friday- 10 Episodes Going Up A Week
+Body = https://twitter.com/x/status/2052071013832134663 Toei has announced that starting this Friday (May 8th), Digimon Adventure: will be streaming on their Youtube. Each Friday they will add 10 episodes until all the episodes are on the Youtube.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pussy Riot joins anti-Russia smoke bomb protest at Venice Biennale
-Body = Protesters including Russian punk group Pussy Riot storm the opening of the Italian art show, which Russia is attending for the first time since its 2022 invasion of Ukraine.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Update- Pre-Registration Campaign Unlock 50k Tier
-Body = Digimon Up update! Pre-registrations have hit 50k, getting everyone 1000 DigiEmeralds.
+Title = Digimon Beatbreak: Episode 30- Wings to Protect You
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 30, Wings to Protect You A preview of Episode 30 Episode 30 airs Sunday, May 10th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = Digimon Web has opened a new fan vote. This is the 149th official web pol
 End = true
 
 [LIBRARY RNEWS]
+Title = Digimon Up Update- Pre-Registration Campaign Unlock 50k Tier
+Body = Digimon Up update! Pre-registrations have hit 50k, getting everyone 1000 DigiEmeralds.
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Up- Digimon Showcase, Biyomon/Piyomon [...]
 Body = https://twitter.com/x/status/2051859495983427941 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Biyomon/Piyomon!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure: Streaming on Youtube Starting Friday- 10 Episodes Going Up A Week
-Body = https://twitter.com/x/status/2052071013832134663 Toei has announced that starting this Friday (May 8th), Digimon Adventure: will be streaming on their Youtube. Each Friday they will add 10 episodes until all the episodes are on the Youtube.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure 13+ Part 3 (Final) Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella
-Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. In the last few days he published Parts 1 and 2 of what he titled Digimon Adventure 13+, his text story of what we see bits of in the 25th anniversary short.
 End = true
 
