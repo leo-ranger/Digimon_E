@@ -9,33 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Fresh strikes in southern Lebanon, calls for Australia to improve self-reliance — as it happened
-Body = Local media reports Israeli strikes in a southern Lebanese town that has not been targeted in several weeks. Here's how the day unfolded on our Iran war blog.
+Title = Live: 'Led by lunatics': US and Iran exchange strikes in Strait of Hormuz
+Body = Iran's semi-official news agency is reporting Tehran's navy has targeted three US destroyers in the Strait of Hormuz. Follow live.
 End = true
 
 [LIBRARY RNEWS]
-Title = Judge releases note purportedly penned in jail by Jeffrey Epstein
-Body = A note Jeffrey Epstein's cellmate claims he found after the convicted sex offender's first suspected attempt to take his own life in a New York jail has been made public.
+Title = Why Russian nuclear reactors are spreading around the world
+Body = Russia is building nuclear power plants across the globe, and it's helping it build a network of dependence.
 End = true
 
 [LIBRARY RNEWS]
-Title = Head-on collision between bus and fuel truck kills 16 people in Indonesia
-Body = The bus was carrying at least 20 people when it struck a tanker truck travelling in the opposite direction on Sumatra island, officials said.
+Title = Ukraine launches major drone attack amid rows over Victory Day ceasefire
+Body = The Kremlin is taking extraordinary measures ahead of Russia's marking of the defeat of Nazi Germany, as Ukraine launches its second-biggest attack of the war so far.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran reviews US proposal as Trump says war could 'be at an end'
-Body = Iran reviews a new peace-deal proposal from the US, which President Donald Trump says could end the war, but an Iranian official describes it as an "American wish list".
+Title = More hantavirus cases expected as passengers prepare to disembark ship
+Body = A number of countries are scrambling to trace people who disembarked from an Atlantic cruise struck by a deadly virus outbreak.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure: Streaming on Youtube Starting Friday- 10 Episodes Going Up A Week
-Body = https://twitter.com/x/status/2052071013832134663 Toei has announced that starting this Friday (May 8th), Digimon Adventure: will be streaming on their Youtube. Each Friday they will add 10 episodes until all the episodes are on the Youtube.
+Title = Preview for Digimon Beatbreak Episode 30 Wings to Protect You
+Body = https://twitter.com/x/status/2050734583910711538 Time for a preview for Episode 30 Wings to Protect You! Watch episode 29 first!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 30- Wings to Protect You
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 30, Wings to Protect You A preview of Episode 30 Episode 30 airs Sunday, May 10th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Card Battle 263- DigiCa Times- Previews of Booster Sets 27, EX-14, Alysion This Year, and ST-25 & ST-26 Are Alysion Themed
+Body = Digimon Card Battle is back with episode 263. This time, we get DigiCa Times, going over upcoming card game news & info.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +44,12 @@ Body = Digimon Web has opened a new fan vote. This is the 149th official web pol
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up Update- Pre-Registration Campaign Unlock 50k Tier
-Body = Digimon Up update! Pre-registrations have hit 50k, getting everyone 1000 DigiEmeralds.
+Title = Digimon Adventure 13+ Part 3 (Final) Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella
+Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. In the last few days he published Parts 1 and 2 of what he titled Digimon Adventure 13+, his text story of what we see bits of in the 25th anniversary short.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Biyomon/Piyomon [...]
-Body = https://twitter.com/x/status/2051859495983427941 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Biyomon/Piyomon!
+Title = Digimon Adventure: Streaming on Youtube Starting Friday- 10 Episodes Going Up A Week
+Body = https://twitter.com/x/status/2052071013832134663 Toei has announced that starting this Friday (May 8th), Digimon Adventure: will be streaming on their Youtube. Each Friday they will add 10 episodes until all the episodes are on the Youtube.
 End = true
 
