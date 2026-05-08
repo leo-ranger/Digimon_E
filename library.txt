@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Live: 'Led by lunatics': US and Iran exchange strikes in Strait of Hormuz
-Body = Iran's semi-official news agency is reporting Tehran's navy has targeted three US destroyers in the Strait of Hormuz. Follow live.
-End = true
-
-[LIBRARY RNEWS]
 Title = Why Russian nuclear reactors are spreading around the world
 Body = Russia is building nuclear power plants across the globe, and it's helping it build a network of dependence.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ukraine launches major drone attack amid rows over Victory Day ceasefire
-Body = The Kremlin is taking extraordinary measures ahead of Russia's marking of the defeat of Nazi Germany, as Ukraine launches its second-biggest attack of the war so far.
+Title = What we know about renewed fighting between US and Iran
+Body = The US and Iran both blame each other for initiating renewed attacks as tensions in the Strait of Hormuz ratchet up, threatening the ceasefire.
 End = true
 
 [LIBRARY RNEWS]
-Title = More hantavirus cases expected as passengers prepare to disembark ship
-Body = A number of countries are scrambling to trace people who disembarked from an Atlantic cruise struck by a deadly virus outbreak.
+Title = US trade court rules against Trump's 10pc tariff rate
+Body = A United States trade court rules against President Donald Trump's universal 10 per cent tariff rate, dealing another blow to his signature economic policy.
+End = true
+
+[LIBRARY RNEWS]
+Title = Two purged Chinese ex-defence officials sentenced to death with reprieves
+Body = Two former defence ministers have received their sentences after a long-running corruption crackdown targeting China's military.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak English Dub Episodes 11-15 on Hulu
+Body = Episodes 11-15 of the English dub for Digimon Beatbreak are now streaming on Hulu. (2) Hulu has been simulcasting Beatbreak subbed, as has Crunchyroll, but with a different pace of release for the dub than CR, instead putting up the first 10 roughly a month and a half ago.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak- English Dub Discussion (Update- Episodes 16-20 Available)
+Body = Digimon Beatbreak has an English dub! The first five episodes are premiering today (December 27th) on Crunchyroll.
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Official Digimon Web Poll #149- Favorite Digimon Tamers 25th Anniversary Kenji Watanabe Art
 Body = Digimon Web has opened a new fan vote. This is the 149th official web poll on the current version of the site.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure 13+ Part 3 (Final) Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella
-Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. In the last few days he published Parts 1 and 2 of what he titled Digimon Adventure 13+, his text story of what we see bits of in the 25th anniversary short.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure: Streaming on Youtube Starting Friday- 10 Episodes Going Up A Week
-Body = https://twitter.com/x/status/2052071013832134663 Toei has announced that starting this Friday (May 8th), Digimon Adventure: will be streaming on their Youtube. Each Friday they will add 10 episodes until all the episodes are on the Youtube.
 End = true
 
