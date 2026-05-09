@@ -9,33 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = 'Is she still alive?' Aung San Suu Kyi's son in anguish
+Body = Aung San Suu Kyi's son demands proof his mother is still alive, as Myanmar's military junta keeps tens of thousands of political prisoners behind bars.
+End = true
+
+[LIBRARY RNEWS]
+Title = Kremlin tells Australian embassy in Kyiv to evacuate amid parade tensions
+Body = The Australian embassy in Ukraine is on high alert after the Kremlin warned staff to evacuate ahead of possible "massive missile strikes" this weekend, as Moscow prepares to hold a scaled-down military parade.
+End = true
+
+[LIBRARY RNEWS]
+Title = Palestine Marathon returns after two-year hiatus [...]
+Body = Thousands of local and international athletes competed in the 10th International Palestine Marathon in Bethlehem, in the West Bank, after two years of war halted the event.
+End = true
+
+[LIBRARY RNEWS]
 Title = US expects Iranian response on proposal to end war within hours
 Body = Iran and the US exchanged fire after weeks of relative calm in the Middle East, with each side claiming the other initiated the violence.
 End = true
 
 [LIBRARY RNEWS]
-Title = Japan confirms first fatal bear attack this year with two more suspected
-Body = Japanese authorities say a 55-year-old woman found dead last month was killed by a bear. It is the first confirmed fatal bear attack for 2026 following a record 13 deaths last year.
+Title = Digimon Beatbreak Episode 30 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 30, Wings to Protect You, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Three hikers killed in volcano eruption in Indonesia with 17 others rescued
-Body = Mount Dukono erupted on Friday morning, local time, sending plumes of ash some 10 kilometres into the sky.
-End = true
-
-[LIBRARY RNEWS]
-Title = Why Russian nuclear reactors are spreading around the world
-Body = Russia is building nuclear power plants across the globe, and it's helping it build a network of dependence.
+Title = Digimon Up- Digimon Showcase, Gomamon [...]
+Body = https://twitter.com/x/status/2052946669252092306 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Gomamon!
 End = true
 
 [LIBRARY RNEWS]
 Title = Preview for Digimon Beatbreak Episode 30 Wings to Protect You
 Body = https://twitter.com/x/status/2050734583910711538 Time for a preview for Episode 30 Wings to Protect You! Watch episode 29 first!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 30 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 30, Wings to Protect You, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Adventure: Streaming on Youtube Starting Friday- 10 Episodes Going Up A Week
 Body = https://twitter.com/x/status/2052071013832134663 Toei has announced that starting this Friday (May 8th), Digimon Adventure: will be streaming on their Youtube. Each Friday they will add 10 episodes until all the episodes are on the Youtube.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Live Episode 300- Monday, May 11th
-Body = Monday (May 11th) will be our next live Digimon podcast at 7pm (Pacific time.) For episode 300 we will be talking about Digimon Beatbreak episode 30, Digimon Adventure 13+'s finale, Adventure & Beatbreak streaming updates, card game & Up news, & more! Plus your questions!
 End = true
 
