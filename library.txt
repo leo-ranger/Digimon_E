@@ -9,33 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = US expects Iranian response on proposal to end war within hours
+Body = Iran and the US exchanged fire after weeks of relative calm in the Middle East, with each side claiming the other initiated the violence.
+End = true
+
+[LIBRARY RNEWS]
+Title = Japan confirms first fatal bear attack this year with two more suspected
+Body = Japanese authorities say a 55-year-old woman found dead last month was killed by a bear. It is the first confirmed fatal bear attack for 2026 following a record 13 deaths last year.
+End = true
+
+[LIBRARY RNEWS]
+Title = Three hikers killed in volcano eruption in Indonesia with 17 others rescued
+Body = Mount Dukono erupted on Friday morning, local time, sending plumes of ash some 10 kilometres into the sky.
+End = true
+
+[LIBRARY RNEWS]
 Title = Why Russian nuclear reactors are spreading around the world
 Body = Russia is building nuclear power plants across the globe, and it's helping it build a network of dependence.
-End = true
-
-[LIBRARY RNEWS]
-Title = What we know about renewed fighting between US and Iran
-Body = The US and Iran both blame each other for initiating renewed attacks as tensions in the Strait of Hormuz ratchet up, threatening the ceasefire.
-End = true
-
-[LIBRARY RNEWS]
-Title = US trade court rules against Trump's 10pc tariff rate
-Body = A United States trade court rules against President Donald Trump's universal 10 per cent tariff rate, dealing another blow to his signature economic policy.
-End = true
-
-[LIBRARY RNEWS]
-Title = Two purged Chinese ex-defence officials sentenced to death with reprieves
-Body = Two former defence ministers have received their sentences after a long-running corruption crackdown targeting China's military.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak English Dub Episodes 11-15 on Hulu
-Body = Episodes 11-15 of the English dub for Digimon Beatbreak are now streaming on Hulu. (2) Hulu has been simulcasting Beatbreak subbed, as has Crunchyroll, but with a different pace of release for the dub than CR, instead putting up the first 10 roughly a month and a half ago.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak- English Dub Discussion (Update- Episodes 16-20 Available)
-Body = Digimon Beatbreak has an English dub! The first five episodes are premiering today (December 27th) on Crunchyroll.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +34,22 @@ Body = https://twitter.com/x/status/2050734583910711538 Time for a preview for E
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Battle 263- DigiCa Times- Previews of Booster Sets 27, EX-14, Alysion This Year, and ST-25 & ST-26 Are Alysion Themed
-Body = Digimon Card Battle is back with episode 263. This time, we get DigiCa Times, going over upcoming card game news & info.
+Title = Digimon Beatbreak Episode 30 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 30, Wings to Protect You, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Official Digimon Web Poll #149- Favorite Digimon Tamers 25th Anniversary Kenji Watanabe Art
-Body = Digimon Web has opened a new fan vote. This is the 149th official web poll on the current version of the site.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure: Streaming on Youtube Starting Friday- 10 Episodes Going Up A Week
+Body = https://twitter.com/x/status/2052071013832134663 Toei has announced that starting this Friday (May 8th), Digimon Adventure: will be streaming on their Youtube. Each Friday they will add 10 episodes until all the episodes are on the Youtube.
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Live Episode 300- Monday, May 11th
+Body = Monday (May 11th) will be our next live Digimon podcast at 7pm (Pacific time.) For episode 300 we will be talking about Digimon Beatbreak episode 30, Digimon Adventure 13+'s finale, Adventure & Beatbreak streaming updates, card game & Up news, & more! Plus your questions!
 End = true
 
