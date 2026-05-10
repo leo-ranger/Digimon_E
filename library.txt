@@ -9,8 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Is she still alive?' Aung San Suu Kyi's son in anguish
-Body = Aung San Suu Kyi's son demands proof his mother is still alive, as Myanmar's military junta keeps tens of thousands of political prisoners behind bars.
+Title = MP threatens to challenge UK PM Starmer after local election defeat
+Body = UK Prime Minister Sir Keir Starmer is facing a new setback to his leadership after a former minister said she would challenge him for the top job.
+End = true
+
+[LIBRARY RNEWS]
+Title = Putin attends scaled-back Victory Day parade amid Ukraine worries
+Body = Once used to show off Russia's vast military, including its nuclear-capable missiles, this year's Victory Day parade had no tanks or other military equipment rolling over the cobblestones of Red Square.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,13 +24,18 @@ Body = The Australian embassy in Ukraine is on high alert after the Kremlin warn
 End = true
 
 [LIBRARY RNEWS]
-Title = Palestine Marathon returns after two-year hiatus [...]
-Body = Thousands of local and international athletes competed in the 10th International Palestine Marathon in Bethlehem, in the West Bank, after two years of war halted the event.
+Title = 'Is she still alive?' Aung San Suu Kyi's son in anguish
+Body = Aung San Suu Kyi's son demands proof his mother is still alive, as Myanmar's military junta keeps tens of thousands of political prisoners behind bars.
 End = true
 
 [LIBRARY RNEWS]
-Title = US expects Iranian response on proposal to end war within hours
-Body = Iran and the US exchanged fire after weeks of relative calm in the Middle East, with each side claiming the other initiated the violence.
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak- New Insert Song "Answer", Lyric Video Available
+Body = In episode 30 of Digimon Beatbreak we get a new insert song titled 'Answer' and they've put up a lyric video of the song. While you probably want to wait to listen until hearing it in the show, there isn't show footage, so if you really want to listen before seeing the new episode, you won't see any spoilers.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +44,12 @@ Body = Digimon Beatbreak episode 30, Wings to Protect You, is streaming tomorrow
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Gomamon [...]
-Body = https://twitter.com/x/status/2052946669252092306 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Gomamon!
+Title = Digimon Beatbreak Updates- Episode 29 Production Art & Animedia Preview
+Body = A few recent Digimon Beatbreak updates before we get episode 30 later today. We get episode 29 chief animation director's corrections for Reina, Rose...
 End = true
 
 [LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 30 Wings to Protect You
-Body = https://twitter.com/x/status/2050734583910711538 Time for a preview for Episode 30 Wings to Protect You! Watch episode 29 first!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure: Streaming on Youtube Starting Friday- 10 Episodes Going Up A Week
-Body = https://twitter.com/x/status/2052071013832134663 Toei has announced that starting this Friday (May 8th), Digimon Adventure: will be streaming on their Youtube. Each Friday they will add 10 episodes until all the episodes are on the Youtube.
+Title = Digimon Up- Parrotmon Pixel Art Shown Off [...]
+Body = https://twitter.com/x/status/2053078780155957475 They've shown off new pixel art of Parrotmon to celebrate the recent start of Digimon Up pre-registrations. (And definitely not that in Japan that the streaming Digimon Film Festival has started to stream the original Adventure movie 'cough'.) Pre-registration info, including bonuses, can be found here.
 End = true
 
