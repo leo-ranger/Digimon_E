@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = 'Easy to get influenced': What cheaper weight-loss drugs means for millions
+Body = India has become one of the first countries to introduce cheaper, generic brands of weight loss drugs like Ozempic and Wegovy, but health professionals warn a lack of regulation and oversight is causing problems.
+End = true
+
+[LIBRARY RNEWS]
+Title = Australian cafe owner looking to protect signature drink from imitators
+Body = Melbourne cafe owner Caleb Cha is looking into how he can legally stop shops in Indonesia from imitating his signature Tiger Bomb coffee.
+End = true
+
+[LIBRARY RNEWS]
 Title = MP threatens to challenge UK PM Starmer after local election defeat
 Body = UK Prime Minister Sir Keir Starmer is facing a new setback to his leadership after a former minister said she would challenge him for the top job.
 End = true
@@ -19,13 +29,8 @@ Body = Once used to show off Russia's vast military, including its nuclear-capab
 End = true
 
 [LIBRARY RNEWS]
-Title = Kremlin tells Australian embassy in Kyiv to evacuate amid parade tensions
-Body = The Australian embassy in Ukraine is on high alert after the Kremlin warned staff to evacuate ahead of possible "massive missile strikes" this weekend, as Moscow prepares to hold a scaled-down military parade.
-End = true
-
-[LIBRARY RNEWS]
-Title = 'Is she still alive?' Aung San Suu Kyi's son in anguish
-Body = Aung San Suu Kyi's son demands proof his mother is still alive, as Myanmar's military junta keeps tens of thousands of political prisoners behind bars.
+Title = Digimon Beatbreak: Episode 30- Wings to Protect You
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 30, Wings to Protect You A preview of Episode 30 Episode 30 airs Sunday, May 10th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Beatbreak Episode 30, Reina & Rose Birthdays, & Our War Game Social Art, Reference Book, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 30!
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Beatbreak- New Insert Song "Answer", Lyric Video Available
 Body = In episode 30 of Digimon Beatbreak we get a new insert song titled 'Answer' and they've put up a lyric video of the song. While you probably want to wait to listen until hearing it in the show, there isn't show footage, so if you really want to listen before seeing the new episode, you won't see any spoilers.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 30 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 30, Wings to Protect You, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Updates- Episode 29 Production Art & Animedia Preview
-Body = A few recent Digimon Beatbreak updates before we get episode 30 later today. We get episode 29 chief animation director's corrections for Reina, Rose...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Parrotmon Pixel Art Shown Off [...]
-Body = https://twitter.com/x/status/2053078780155957475 They've shown off new pixel art of Parrotmon to celebrate the recent start of Digimon Up pre-registrations. (And definitely not that in Japan that the streaming Digimon Film Festival has started to stream the original Adventure movie 'cough'.) Pre-registration info, including bonuses, can be found here.
 End = true
 
