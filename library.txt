@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Easy to get influenced': What cheaper weight-loss drugs means for millions
-Body = India has become one of the first countries to introduce cheaper, generic brands of weight loss drugs like Ozempic and Wegovy, but health professionals warn a lack of regulation and oversight is causing problems.
+Title = Australian plane gave 'critical' information as Russian jets flew over Estonia
+Body = A European official says they'd be "very happy" if Australia deployed the Wedgetail aircraft again, after it played an important role as NATO responded to an incursion of Russian jets over Estonia.
 End = true
 
 [LIBRARY RNEWS]
-Title = Person dies after being hit by plane in the US [...]
-Body = A person who jumped a fence at a US airport has been killed after being struck by a Frontier Airlines plane during take-off.
+Title = India tells citizens to shun gold, cut fuel use amid energy crisis
+Body = India's prime minister has urged Indians to work from home, avoid travel and stop buying gold, as the Iran War continues to send energy costs soaring.
 End = true
 
 [LIBRARY RNEWS]
-Title = Missing scientists may represent a 'grave threat to US national security'
-Body = The scientists supposedly all had access to sensitive government research, and the nature of their work has led to speculation that their cases might all be connected.
+Title = A tropical tax paradise sells much of Australia's gas
+Body = Amid renewed debate over whether Australia is getting enough tax from its gas exports, an investigation by the ABC shows how resource giants use shell companies to shift profit.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian cafe owner looking to protect signature drink from imitators
-Body = Melbourne cafe owner Caleb Cha is looking into how he can legally stop shops in Indonesia from imitating his signature Tiger Bomb coffee.
+Title = Netanyahu says Iran's uranium must be 'taken out' before war ends— as it happened
+Body = The Israeli prime minister says Iran's stockpile of enriched uranium must be "taken out" before the war against Iran can be considered over.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,13 +34,13 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Game- Card Images of Booster Set 25 Dual Revolution, Starter Decks 23 Beatbreak & 24 Savers/Data Squad, LM-07, & Recent Promo Cards!
-Body = After a bunch of previews we have the full card lineup for Booster Set 25 Dual Revolution for the Digimon Card Game! On top of that, we also have Starter Deck 23 Beatbreak & Starter Deck 24 Savers/Data Squad.
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
 [LIBRARY RNEWS]
-Title = Holy War (Digimon) [...]
-Body = This is the sequel to my Digimon story, "A Dragon in Shining Armour". Like it's predecessor, it focuses on the Royal Knights.
+Title = Digimon Card Game- Card Images of Booster Set 25 Dual Revolution, Starter Decks 23 Beatbreak & 24 Savers/Data Squad, LM-07, & Recent Promo Cards!
+Body = After a bunch of previews we have the full card lineup for Booster Set 25 Dual Revolution for the Digimon Card Game! On top of that, we also have Starter Deck 23 Beatbreak & Starter Deck 24 Savers/Data Squad.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +49,7 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 30, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 31 One Step Forward
-Body = https://twitter.com/x/status/2053399644877758488 Time for a preview for Episode 31 One Step Forward! Watch episode 30 first!
+Title = New Digimon Adventure Products at AniBirth on May 15th, May 22nd Online- Denim Themed
+Body = Product news time! (2) New Digimon Adventure products will show up at AniBirth on May 15th, in under a week.
 End = true
 
