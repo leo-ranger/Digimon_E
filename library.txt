@@ -14,23 +14,18 @@ Body = India has become one of the first countries to introduce cheaper, generic
 End = true
 
 [LIBRARY RNEWS]
+Title = Person dies after being hit by plane in the US [...]
+Body = A person who jumped a fence at a US airport has been killed after being struck by a Frontier Airlines plane during take-off.
+End = true
+
+[LIBRARY RNEWS]
+Title = Missing scientists may represent a 'grave threat to US national security'
+Body = The scientists supposedly all had access to sensitive government research, and the nature of their work has led to speculation that their cases might all be connected.
+End = true
+
+[LIBRARY RNEWS]
 Title = Australian cafe owner looking to protect signature drink from imitators
 Body = Melbourne cafe owner Caleb Cha is looking into how he can legally stop shops in Indonesia from imitating his signature Tiger Bomb coffee.
-End = true
-
-[LIBRARY RNEWS]
-Title = MP threatens to challenge UK PM Starmer after local election defeat
-Body = UK Prime Minister Sir Keir Starmer is facing a new setback to his leadership after a former minister said she would challenge him for the top job.
-End = true
-
-[LIBRARY RNEWS]
-Title = Putin attends scaled-back Victory Day parade amid Ukraine worries
-Body = Once used to show off Russia's vast military, including its nuclear-capable missiles, this year's Victory Day parade had no tanks or other military equipment rolling over the cobblestones of Red Square.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 30- Wings to Protect You
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 30, Wings to Protect You A preview of Episode 30 Episode 30 airs Sunday, May 10th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +34,22 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+Title = Digimon Card Game- Card Images of Booster Set 25 Dual Revolution, Starter Decks 23 Beatbreak & 24 Savers/Data Squad, LM-07, & Recent Promo Cards!
+Body = After a bunch of previews we have the full card lineup for Booster Set 25 Dual Revolution for the Digimon Card Game! On top of that, we also have Starter Deck 23 Beatbreak & Starter Deck 24 Savers/Data Squad.
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 30, Reina & Rose Birthdays, & Our War Game Social Art, Reference Book, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 30!
+Title = Holy War (Digimon) [...]
+Body = This is the sequel to my Digimon story, "A Dragon in Shining Armour". Like it's predecessor, it focuses on the Royal Knights.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak- New Insert Song "Answer", Lyric Video Available
-Body = In episode 30 of Digimon Beatbreak we get a new insert song titled 'Answer' and they've put up a lyric video of the song. While you probably want to wait to listen until hearing it in the show, there isn't show footage, so if you really want to listen before seeing the new episode, you won't see any spoilers.
+Title = Digimon Beatbreak: Episode 30- Wings to Protect You
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 30, Wings to Protect You A preview of Episode 30 Episode 30 airs Sunday, May 10th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Preview for Digimon Beatbreak Episode 31 One Step Forward
+Body = https://twitter.com/x/status/2053399644877758488 Time for a preview for Episode 31 One Step Forward! Watch episode 30 first!
 End = true
 
