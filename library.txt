@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Vanuatu drops limitations on China in key pact with Australia
+Body = The ABC can reveal that after months of difficult negotiations, the Nakamal Agreement has been approved by Vanuatu's cabinet but omits key limitations on China's influence.
+End = true
+
+[LIBRARY RNEWS]
+Title = Trump says Iran ceasefire on 'life support', with energy woes to continue
+Body = US President Donald Trump says he's aiming for "complete victory" in Iran as the US and Iran reach an impasse in negotiations.
+End = true
+
+[LIBRARY RNEWS]
+Title = Apple's Tim Cook and Tesla's Elon Musk among top US CEOs to accompany Trump to China
+Body = According to a list shared by a White House official, speaking on condition of anonymity, Elon Musk and Tim Cook will be accompanied by 15 other chief executive officers when Donald Trump visits China.
+End = true
+
+[LIBRARY RNEWS]
 Title = Dozens of MPs call on Starmer to quit despite bid to 'prove them wrong'
 Body = The British prime minister is fighting to fend off a growing threat to his leadership after a disastrous set of local election results last week.
-End = true
-
-[LIBRARY RNEWS]
-Title = Man charged with White House correspondents' dinner shooting pleads not guilty
-Body = Cole Tomas Allen, 31, has been charged with attempting to assassinate US president Donald Trump at the April dinner.
-End = true
-
-[LIBRARY RNEWS]
-Title = ICC arrest warrant for Philippine Senator Roland Dela Rosa over war on drugs
-Body = Video footage displayed during the Senate session showed Philippine senator Roland Dela Rosa running away from Philippine agents as the International Criminal Court confirmed an arrest warrant had been issued.
-End = true
-
-[LIBRARY RNEWS]
-Title = Australian plane gave 'critical' information as Russian jets flew over Estonia
-Body = A European official says they'd be "very happy" if Australia deployed the Wedgetail aircraft again, after it played an important role as NATO responded to an incursion of Russian jets over Estonia.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Beatbreak Episode 30, Reina & Rose Birthdays, & Our War Game Social Art, Reference Book, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 30!
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Card Game Limited Card Pack 9 Distancia Cero- Pre-Orders at Premium Bandai US
 Body = It's time for another Limited Card Pack! Digimon Card Game Limited Card Pack 9 Distancia Cero [LM-09] will be released later in the year, and they've announced all the cards for it...
 End = true
 
 [LIBRARY RNEWS]
-Title = dizzy_izzy's Colored Pencil Art [...]
-Body = It's a bit rough, but it was real fun to draw, along with coming up with poses for everyone. I did shrink Greymon and Kabuterimon to sit on the couch but eh who cares?
+Title = Meikyuu no Shiori(Labyrinth) [...]
+Body = Just got back from the theater watching the anime film Meikyuu no Shiori(Labyrinth). A girl having confidence issues with becoming a online star is sucked into the cyber world while her online persona assumes the girl's identity in the real world determined to achieve what she was too afraid to do.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Game- Card Images of Booster Set 25 Dual Revolution, Starter Decks 23 Beatbreak & 24 Savers/Data Squad, LM-07, & Recent Promo Cards!
-Body = After a bunch of previews we have the full card lineup for Booster Set 25 Dual Revolution for the Digimon Card Game! On top of that, we also have Starter Deck 23 Beatbreak & Starter Deck 24 Savers/Data Squad.
-End = true
-
-[LIBRARY RNEWS]
-Title = New Digimon Adventure Products at AniBirth on May 15th, May 22nd Online- Denim Themed
-Body = Product news time! (2) New Digimon Adventure products will show up at AniBirth on May 15th, in under a week.
+Title = Digimon Up- Digimon Showcase, Palmon [...]
+Body = https://twitter.com/x/status/2054033828356763771 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Palmon!
 End = true
 
