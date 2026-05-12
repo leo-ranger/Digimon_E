@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Dozens of MPs call on Starmer to quit despite bid to 'prove them wrong'
+Body = The British prime minister is fighting to fend off a growing threat to his leadership after a disastrous set of local election results last week.
+End = true
+
+[LIBRARY RNEWS]
+Title = Man charged with White House correspondents' dinner shooting pleads not guilty
+Body = Cole Tomas Allen, 31, has been charged with attempting to assassinate US president Donald Trump at the April dinner.
+End = true
+
+[LIBRARY RNEWS]
+Title = ICC arrest warrant for Philippine Senator Roland Dela Rosa over war on drugs
+Body = Video footage displayed during the Senate session showed Philippine senator Roland Dela Rosa running away from Philippine agents as the International Criminal Court confirmed an arrest warrant had been issued.
+End = true
+
+[LIBRARY RNEWS]
 Title = Australian plane gave 'critical' information as Russian jets flew over Estonia
 Body = A European official says they'd be "very happy" if Australia deployed the Wedgetail aircraft again, after it played an important role as NATO responded to an incursion of Russian jets over Estonia.
-End = true
-
-[LIBRARY RNEWS]
-Title = India tells citizens to shun gold, cut fuel use amid energy crisis
-Body = India's prime minister has urged Indians to work from home, avoid travel and stop buying gold, as the Iran War continues to send energy costs soaring.
-End = true
-
-[LIBRARY RNEWS]
-Title = A tropical tax paradise sells much of Australia's gas
-Body = Amid renewed debate over whether Australia is getting enough tax from its gas exports, an investigation by the ABC shows how resource giants use shell companies to shift profit.
-End = true
-
-[LIBRARY RNEWS]
-Title = Netanyahu says Iran's uranium must be 'taken out' before war ends— as it happened
-Body = The Israeli prime minister says Iran's stockpile of enriched uranium must be "taken out" before the war against Iran can be considered over.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,18 +34,18 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+Title = Digimon Card Game Limited Card Pack 9 Distancia Cero- Pre-Orders at Premium Bandai US
+Body = It's time for another Limited Card Pack! Digimon Card Game Limited Card Pack 9 Distancia Cero [LM-09] will be released later in the year, and they've announced all the cards for it...
+End = true
+
+[LIBRARY RNEWS]
+Title = dizzy_izzy's Colored Pencil Art [...]
+Body = It's a bit rough, but it was real fun to draw, along with coming up with poses for everyone. I did shrink Greymon and Kabuterimon to sit on the couch but eh who cares?
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Card Game- Card Images of Booster Set 25 Dual Revolution, Starter Decks 23 Beatbreak & 24 Savers/Data Squad, LM-07, & Recent Promo Cards!
 Body = After a bunch of previews we have the full card lineup for Booster Set 25 Dual Revolution for the Digimon Card Game! On top of that, we also have Starter Deck 23 Beatbreak & Starter Deck 24 Savers/Data Squad.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 30- Wings to Protect You
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 30, Wings to Protect You A preview of Episode 30 Episode 30 airs Sunday, May 10th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
