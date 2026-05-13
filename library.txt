@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Australia insists support for UAE does not involve action against Iran
+Body = The Albanese government insists Australia is not involved in any "offensive action against Iran" amid reports the UAE, which had been supplied a Wedgetail aircraft, carried out military strikes against the country.
+End = true
+
+[LIBRARY RNEWS]
+Title = Starmer faces more calls to quit as ministers resign
+Body = Sir Keir Starmer is striking a defiant tone despite a growing number of his Labour colleagues urging him to step down.
+End = true
+
+[LIBRARY RNEWS]
+Title = First openly gay NBA player Jason Collins dies at 47 of brain tumour
+Body = Collins, who went on to become a pioneer for inclusion and an ambassador for the league, has died from an aggressive brain tumour, his family announced Tuesday.
+End = true
+
+[LIBRARY RNEWS]
 Title = Vanuatu drops limitations on China in key pact with Australia
 Body = The ABC can reveal that after months of difficult negotiations, the Nakamal Agreement has been approved by Vanuatu's cabinet but omits key limitations on China's influence.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says Iran ceasefire on 'life support', with energy woes to continue
-Body = US President Donald Trump says he's aiming for "complete victory" in Iran as the US and Iran reach an impasse in negotiations.
-End = true
-
-[LIBRARY RNEWS]
-Title = Apple's Tim Cook and Tesla's Elon Musk among top US CEOs to accompany Trump to China
-Body = According to a list shared by a White House official, speaking on condition of anonymity, Elon Musk and Tim Cook will be accompanied by 15 other chief executive officers when Donald Trump visits China.
-End = true
-
-[LIBRARY RNEWS]
-Title = Dozens of MPs call on Starmer to quit despite bid to 'prove them wrong'
-Body = The British prime minister is fighting to fend off a growing threat to his leadership after a disastrous set of local election results last week.
+Title = Digimon Card Game Limited Card Pack 9 Distancia Cero- Pre-Orders at Premium Bandai US
+Body = It's time for another Limited Card Pack! Digimon Card Game Limited Card Pack 9 Distancia Cero [LM-09] will be released later in the year, and they've announced all the cards for it...
 End = true
 
 [LIBRARY RNEWS]
@@ -36,11 +41,6 @@ End = true
 [LIBRARY RNEWS]
 Title = Weekend Batch- Digimon Beatbreak Episode 30, Reina & Rose Birthdays, & Our War Game Social Art, Reference Book, Catch-Up for the Week, & More!
 Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 30!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Game Limited Card Pack 9 Distancia Cero- Pre-Orders at Premium Bandai US
-Body = It's time for another Limited Card Pack! Digimon Card Game Limited Card Pack 9 Distancia Cero [LM-09] will be released later in the year, and they've announced all the cards for it...
 End = true
 
 [LIBRARY RNEWS]
