@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Donald Trump tells Xi Jinping they will have 'fantastic future' in bilateral meeting — as it happened
+Body = The highly anticipated meeting saw Donald Trump meet his Chinese counterpart in Beijing for the first time in nearly nine years. Take a look back at the historic visit.
+End = true
+
+[LIBRARY RNEWS]
 Title = Only one leader has the upper hand in Trump-Xi China meeting
 Body = Nine years after his last meeting with Xi Jinping in China, Donald Trump is more aggressive and assertive. But so is Beijing.
 End = true
 
 [LIBRARY RNEWS]
-Title = US Senate confirms Trump's pick Kevin Warsh to lead Federal Reserve
-Body = The US Senate has confirmed Kevin Warsh, President Donald Trump's nominee to lead the Federal Reserve, bringing new leadership to the world's most powerful central bank at a fraught moment for the global economy.
+Title = UAE denies meeting with Netanyahu, Iran warns against neighbours 'colluding' with Israel - as it happened
+Body = Donald Trump is expected to ask for China's help to resolve the costly and unpopular conflict with Iran, but analysts say he is unlikely to get the support he wants.
 End = true
 
 [LIBRARY RNEWS]
-Title = Donald Trump arrives in Beijing ahead of Xi Jinping summit
-Body = The US and China are expected to agree to forums to facilitate mutual trade and investment.
+Title = Shots fired in Philippine Senate as ICC seeks to arrest ex-police chief
+Body = Authorities are still trying to work out who fired the gun shots inside the Senate building in the Philippines, prompting people to run for cover.
 End = true
 
 [LIBRARY RNEWS]
-Title = Kate tours Italy in first overseas visit since cancer recovery
-Body = The royal is visiting Reggio Emilia, the Italian city famed for its approach to early childhood education.
+Title = Hello and seeking guidance on where to... [...]
+Body = Hi. I have a fairly old, unopened Uniclo t-shirt with a type 3 digimon included.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- New Mobile Game Announced w/ Trailer, Website, Social Media
+Body = Digimon Up, a new Digimon mobile game has been announced. The game has well known Digimon features like training and battling.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digivice ring inquiry [...]
+Body = Hello all, im very new here and in search of a Patamon Digivice ring for my girlfriend. I have pretty much zero knowledge on the rarity of these or this forum so any info helps!
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 30- Wings to Protect You
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 30, Wings to Protect You A preview of Episode 30 Episode 30 airs Sunday, May 10th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = New Digimon Adventure Products at AniBirth on May 15th, May 22nd Online- Denim Themed
-Body = Product news time! (2) New Digimon Adventure products will show up at AniBirth on May 15th, in under a week.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Mentions in Toei & Bandai Fiscal Year (Ending in March) 2026 Report- Digimon Up Yet Again
-Body = A few Digimon mentions in new Toei fiscal reports (2). This covers fiscal year 2026 (April 2025 thru March 2026).
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 29- Dangerous Fandom [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 29, Dangerous Fandom A preview of Episode 29 Episode 29 airs Sunday, May 3rd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
