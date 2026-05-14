@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump labels critical news reports on Iran 'virtual treason' - as it happened
-Body = US President Donald Trump says he does not need help from Beijing to end the war with Iran but says he will talk at length with Chinese President Xi Jinping when they hold a summit this week.
+Title = Only one leader has the upper hand in Trump-Xi China meeting
+Body = Nine years after his last meeting with Xi Jinping in China, Donald Trump is more aggressive and assertive. But so is Beijing.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian-born MP at centre of 'palace coup' plot to knife British PM
-Body = Up until the past few days, Catherine West kept a low profile, as far as politicians go. Most Brits would never have come across the Australian-born, London-based MP before, but that all changed at the weekend.
+Title = US Senate confirms Trump's pick Kevin Warsh to lead Federal Reserve
+Body = The US Senate has confirmed Kevin Warsh, President Donald Trump's nominee to lead the Federal Reserve, bringing new leadership to the world's most powerful central bank at a fraught moment for the global economy.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australia insists support for UAE does not involve action against Iran
-Body = The Albanese government insists Australia is not involved in any "offensive action against Iran" amid reports the UAE, which had been supplied a Wedgetail aircraft, carried out military strikes against the country.
+Title = Donald Trump arrives in Beijing ahead of Xi Jinping summit
+Body = The US and China are expected to agree to forums to facilitate mutual trade and investment.
 End = true
 
 [LIBRARY RNEWS]
-Title = Starmer faces more calls to quit as ministers resign
-Body = Sir Keir Starmer is striking a defiant tone despite a growing number of his Labour colleagues urging him to step down.
+Title = Kate tours Italy in first overseas visit since cancer recovery
+Body = The royal is visiting Reggio Emilia, the Italian city famed for its approach to early childhood education.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = A bit ago, the official Digimon site put up a poll for your Favorite Gues
 End = true
 
 [LIBRARY RNEWS]
-Title = Digivice ring inquiry [...]
-Body = Hello all, im very new here and in search of a Patamon Digivice ring for my girlfriend. I have pretty much zero knowledge on the rarity of these or this forum so any info helps!
+Title = Digimon Beatbreak: Episode 30- Wings to Protect You
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 30, Wings to Protect You A preview of Episode 30 Episode 30 airs Sunday, May 10th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure 13+ Part 3 (Final) Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella
-Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. In the last few days he published Parts 1 and 2 of what he titled Digimon Adventure 13+, his text story of what we see bits of in the 25th anniversary short.
+Title = New Digimon Adventure Products at AniBirth on May 15th, May 22nd Online- Denim Themed
+Body = Product news time! (2) New Digimon Adventure products will show up at AniBirth on May 15th, in under a week.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 31- One Step Forward [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 31, One Step Forward A preview of Episode 31 Episode 31 airs Sunday, May 17th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Mentions in Toei & Bandai Fiscal Year (Ending in March) 2026 Report- Digimon Up Yet Again
+Body = A few Digimon mentions in new Toei fiscal reports (2). This covers fiscal year 2026 (April 2025 thru March 2026).
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up Pre-Registration Campaign Part 2 Announced
-Body = A second pre-registration campaign has begun for Digimon Up! Pre-registrations can be done on either the Apple App Store (for iOS) & the Google Play Store (for Android.) The new pre-registration campaign has the following unlocks: At 200k preregistrations everyone will get 3 Great Digimeta Seeds At 300k preregistrations everyone will get 2000 DigiEmeralds At 400k preregistrations everyone will get 1000 Hologram...
+Title = Digimon Beatbreak: Episode 29- Dangerous Fandom [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 29, Dangerous Fandom A preview of Episode 29 Episode 29 airs Sunday, May 3rd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
