@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Donald Trump tells Xi Jinping they will have 'fantastic future' in bilateral meeting — as it happened
-Body = The highly anticipated meeting saw Donald Trump meet his Chinese counterpart in Beijing for the first time in nearly nine years. Take a look back at the historic visit.
+Title = Leadership contenders edge towards challenging UK PM Starmer
+Body = The UK's health secretary has resigned from cabinet and another Labour MP has quit parliament paving the way for a potential leadership challenge to Prime Minister Keir Starmer.
 End = true
 
 [LIBRARY RNEWS]
-Title = Only one leader has the upper hand in Trump-Xi China meeting
-Body = Nine years after his last meeting with Xi Jinping in China, Donald Trump is more aggressive and assertive. But so is Beijing.
+Title = Sam Kerr to leave Chelsea after six years at London club
+Body = The Matildas star has spent over six years playing for the London-based team.
 End = true
 
 [LIBRARY RNEWS]
-Title = UAE denies meeting with Netanyahu, Iran warns against neighbours 'colluding' with Israel - as it happened
-Body = Donald Trump is expected to ask for China's help to resolve the costly and unpopular conflict with Iran, but analysts say he is unlikely to get the support he wants.
+Title = Food, music and praise served up at the Trump-Xi state banquet
+Body = Guests dined on Beijing roast duck and tiramisu while the People's Liberation Army band performed some classic hits.
 End = true
 
 [LIBRARY RNEWS]
-Title = Shots fired in Philippine Senate as ICC seeks to arrest ex-police chief
-Body = Authorities are still trying to work out who fired the gun shots inside the Senate building in the Philippines, prompting people to run for cover.
+Title = Latvian PM resigns in row over stray Ukrainian drones
+Body = Drones launched by Ukraine that were jammed by Russia either flew over or crashed in the Baltic country's territory, with local residents critical of the government's response.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- Digimon Showcase, Patamon [...]
+Body = https://twitter.com/x/status/2055121001831158022 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Patamon!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon That Have Never Been Raisable? [...]
+Body = A question I’ve had recently is about the number of Digimon that have never been raisable on any V-Pet. No Digimon wiki seems to have any list of unraisable species out there; and some of them have only been raisable on Bandai Asia products.
+End = true
+
+[LIBRARY RNEWS]
+Title = Cyber Sleuth & Hacker's Memory Pass 3 Million in Sales
+Body = The Japanese Digimon Game Twitter has posted a sales update for Cyber Sleuth! Specifically for Cyber Sleuth as a 'series' Cyber Sleuth and Hacker's Memory have sold over 3 million copies together worldwide.
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Up- New Mobile Game Announced w/ Trailer, Website, Social Media
 Body = Digimon Up, a new Digimon mobile game has been announced. The game has well known Digimon features like training and battling.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digivice ring inquiry [...]
-Body = Hello all, im very new here and in search of a Patamon Digivice ring for my girlfriend. I have pretty much zero knowledge on the rarity of these or this forum so any info helps!
-End = true
-
-[LIBRARY RNEWS]
-Title = Poll Results for Favorite Guest Digimon from Beatbreak Episodes 1 through 12
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Guest Digimon from Beatbreak Episodes 1 through 12! Recently the poll closed and we have the results!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 30- Wings to Protect You
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 30, Wings to Protect You A preview of Episode 30 Episode 30 airs Sunday, May 10th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
