@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = 'We want the straits open': Trump says China agrees on ending the Iran war — as it happened
+Body = Chinese President Xi Jinping praised the building of a "stable relationship" with the US as the two world leaders met in Beijing. Take a look back at the historic state visit.
+End = true
+
+[LIBRARY RNEWS]
+Title = Matthew Wale becomes Solomon Islands prime minister after secret ballot win
+Body = Matthew Wale is the new prime minister of Solomon Islands after winning a vote in the Pacific island nation's parliament.
+End = true
+
+[LIBRARY RNEWS]
 Title = Leadership contenders edge towards challenging UK PM Starmer
 Body = The UK's health secretary has resigned from cabinet and another Labour MP has quit parliament paving the way for a potential leadership challenge to Prime Minister Keir Starmer.
 End = true
@@ -19,13 +29,13 @@ Body = The Matildas star has spent over six years playing for the London-based t
 End = true
 
 [LIBRARY RNEWS]
-Title = Food, music and praise served up at the Trump-Xi state banquet
-Body = Guests dined on Beijing roast duck and tiramisu while the People's Liberation Army band performed some classic hits.
+Title = Digimon Card Game Limited Card Pack 9 Distancia Cero- Pre-Orders at Premium Bandai US
+Body = It's time for another Limited Card Pack! Digimon Card Game Limited Card Pack 9 Distancia Cero [LM-09] will be released later in the year, and they've announced all the cards for it...
 End = true
 
 [LIBRARY RNEWS]
-Title = Latvian PM resigns in row over stray Ukrainian drones
-Body = Drones launched by Ukraine that were jammed by Russia either flew over or crashed in the Baltic country's territory, with local residents critical of the government's response.
+Title = Wakana Yamazaki Passed- Voice Actor for Archnemon/Arukenimon
+Body = It's been announced that Wakana Yamazaki passed. Yamazaki had gone on hiatus starting in February for a treatment for an unspecified illness.
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Cyber Sleuth & Hacker's Memory Pass 3 Million in Sales
 Body = The Japanese Digimon Game Twitter has posted a sales update for Cyber Sleuth! Specifically for Cyber Sleuth as a 'series' Cyber Sleuth and Hacker's Memory have sold over 3 million copies together worldwide.
-End = true
-
-[LIBRARY RNEWS]
-Title = Hello and seeking guidance on where to... [...]
-Body = Hi. I have a fairly old, unopened Uniclo t-shirt with a type 3 digimon included.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- New Mobile Game Announced w/ Trailer, Website, Social Media
-Body = Digimon Up, a new Digimon mobile game has been announced. The game has well known Digimon features like training and battling.
 End = true
 
