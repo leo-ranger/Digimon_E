@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Israel targets Hamas leader, kills seven Palestinians
+Body = Seven Palestinians, including a child, have died in Friday's air strikes, which Israel said targeted Hamas militant leader Izz al-Din al-Haddad.
+End = true
+
+[LIBRARY RNEWS]
 Title = No major Iran war breakthroughs as Trump leaves Beijing
 Body = US President Donald Trump left China on Friday without securing tangible help from Beijing to end the Iran war, but praised China's President, Xi Jinping, during his visit.
 End = true
@@ -19,12 +24,32 @@ Body = The group was exploring a series of underwater caves at a depth of about 
 End = true
 
 [LIBRARY RNEWS]
-Title = Netanyahu's attempts to corral the UAE put Middle East politics on display
-Body = The question for the Gulf states is whether they are happy for Israel to be the dominant player in the Middle East.
+Title = New Hollywood film excites as Philippine culture hits the big screen
+Body = As animated film Forgotten Island gets ready to hit the big screen later this year, could it signal an end to Filipino typecasting in Hollywood?
 End = true
 
 [LIBRARY RNEWS]
-Title = New Hollywood film excites as Philippine culture hits the big screen
-Body = As animated film Forgotten Island gets ready to hit the big screen later this year, could it signal an end to Filipino typecasting in Hollywood?
+Title = Cyber Sleuth & Hacker's Memory Pass 3 Million in Sales
+Body = The Japanese Digimon Game Twitter has posted a sales update for Cyber Sleuth! Specifically for Cyber Sleuth as a 'series' Cyber Sleuth and Hacker's Memory have sold over 3 million copies together worldwide.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Card Game Limited Card Pack 9 Distancia Cero- Pre-Orders at Premium Bandai US
+Body = It's time for another Limited Card Pack! Digimon Card Game Limited Card Pack 9 Distancia Cero [LM-09] will be released later in the year, and they've announced all the cards for it...
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Live- Sunday, May 17th [...]
+Body = Sunday (May 17th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 31, updates on how the brand is doing, Digimon Up updates, & more! Sunday instead of our normal Monday!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Episode 31 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 31, One Step Forward, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Wakana Yamazaki Passed- Voice Actor for Archnemon/Arukenimon
+Body = It's been announced that Wakana Yamazaki passed. Yamazaki had gone on hiatus starting in February for a treatment for an unspecified illness.
 End = true
 
