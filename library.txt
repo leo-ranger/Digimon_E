@@ -9,47 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'We want the straits open': Trump says China agrees on ending the Iran war — as it happened
-Body = Chinese President Xi Jinping praised the building of a "stable relationship" with the US as the two world leaders met in Beijing. Take a look back at the historic state visit.
+Title = No major Iran war breakthroughs as Trump leaves Beijing
+Body = US President Donald Trump left China on Friday without securing tangible help from Beijing to end the Iran war, but praised China's President, Xi Jinping, during his visit.
 End = true
 
 [LIBRARY RNEWS]
-Title = Matthew Wale becomes Solomon Islands prime minister after secret ballot win
-Body = Matthew Wale is the new prime minister of Solomon Islands after winning a vote in the Pacific island nation's parliament.
+Title = Five die following cave diving incident [...]
+Body = The group was exploring a series of underwater caves at a depth of about 50 metres in Vaavu Atoll in the Maldives.
 End = true
 
 [LIBRARY RNEWS]
-Title = Leadership contenders edge towards challenging UK PM Starmer
-Body = The UK's health secretary has resigned from cabinet and another Labour MP has quit parliament paving the way for a potential leadership challenge to Prime Minister Keir Starmer.
+Title = Netanyahu's attempts to corral the UAE put Middle East politics on display
+Body = The question for the Gulf states is whether they are happy for Israel to be the dominant player in the Middle East.
 End = true
 
 [LIBRARY RNEWS]
-Title = Sam Kerr to leave Chelsea after six years at London club
-Body = The Matildas star has spent over six years playing for the London-based team.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Game Limited Card Pack 9 Distancia Cero- Pre-Orders at Premium Bandai US
-Body = It's time for another Limited Card Pack! Digimon Card Game Limited Card Pack 9 Distancia Cero [LM-09] will be released later in the year, and they've announced all the cards for it...
-End = true
-
-[LIBRARY RNEWS]
-Title = Wakana Yamazaki Passed- Voice Actor for Archnemon/Arukenimon
-Body = It's been announced that Wakana Yamazaki passed. Yamazaki had gone on hiatus starting in February for a treatment for an unspecified illness.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Patamon [...]
-Body = https://twitter.com/x/status/2055121001831158022 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Patamon!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon That Have Never Been Raisable? [...]
-Body = A question I’ve had recently is about the number of Digimon that have never been raisable on any V-Pet. No Digimon wiki seems to have any list of unraisable species out there; and some of them have only been raisable on Bandai Asia products.
-End = true
-
-[LIBRARY RNEWS]
-Title = Cyber Sleuth & Hacker's Memory Pass 3 Million in Sales
-Body = The Japanese Digimon Game Twitter has posted a sales update for Cyber Sleuth! Specifically for Cyber Sleuth as a 'series' Cyber Sleuth and Hacker's Memory have sold over 3 million copies together worldwide.
+Title = New Hollywood film excites as Philippine culture hits the big screen
+Body = As animated film Forgotten Island gets ready to hit the big screen later this year, could it signal an end to Filipino typecasting in Hollywood?
 End = true
 
