@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Taiwan remains committed to status quo after Trump's China trip
+Body = The Taiwanese government responds after US President Donald Trump's trip to China and his call for the two countries to "cool down".
+End = true
+
+[LIBRARY RNEWS]
 Title = Former UK health minister says he will stand in any contest to replace Starmer
 Body = Former health secretary Wes Streeting, who resigned from cabinet on Thursday in preparation for the challenge, says his party needs a "proper contest" with the best candidates on the field.
 End = true
@@ -24,18 +29,8 @@ Body = US President Donald Trump says American and Nigerian forces have killed t
 End = true
 
 [LIBRARY RNEWS]
-Title = Chinese undersea device found near Bali may be part of something bigger
-Body = The discovery of a Chinese undersea monitoring device in a strategic waterway "shows the extent of both China's reach and its undersea ambitions" and has implications for Australia's defence strategy, say experts.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 31- One Step Forward [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 31, One Step Forward A preview of Episode 31 Episode 31 airs Sunday, May 17th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Kaguyamon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Kaguyamon.
+Title = Wakana Yamazaki Passed- Voice Actor for Archnemon/Arukenimon
+Body = It's been announced that Wakana Yamazaki passed. Yamazaki had gone on hiatus starting in February for a treatment for an unspecified illness.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +39,17 @@ Body = https://twitter.com/x/status/2055798917619720232 We have a Digimon Up com
 End = true
 
 [LIBRARY RNEWS]
-Title = Wakana Yamazaki Passed- Voice Actor for Archnemon/Arukenimon
-Body = It's been announced that Wakana Yamazaki passed. Yamazaki had gone on hiatus starting in February for a treatment for an unspecified illness.
+Title = Digimon Beatbreak: Episode 31- One Step Forward [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 31, One Step Forward A preview of Episode 31 Episode 31 airs Sunday, May 17th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Battle 264- Digimon Card Game Booster Set 25 Rules Quiz
-Body = Digimon Card Battle is back with episode 264. This time, we return to Digimon Card Room where we get a quiz on new and updated rules coming with Booster Set 25 Dual Revolution!
+Title = Weekend Batch- Digimon Beatbreak Episode 31, Culumon, & Ghost Game Social Art, Photos, Catch-Up for the Week, & More!
+Body = Time for a weekend batch! We start with some Digimon Beatbreak art for episode 31!
+End = true
+
+[LIBRARY RNEWS]
+Title = Cyber Sleuth & Hacker's Memory Pass 3 Million in Sales
+Body = The Japanese Digimon Game Twitter has posted a sales update for Cyber Sleuth! Specifically for Cyber Sleuth as a 'series' Cyber Sleuth and Hacker's Memory have sold over 3 million copies together worldwide.
 End = true
 
