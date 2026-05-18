@@ -9,38 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Taiwan remains committed to status quo after Trump's China trip
-Body = The Taiwanese government responds after US President Donald Trump's trip to China and his call for the two countries to "cool down".
+Title = Iran weekly briefing: New front emerges as UAE strikes back
+Body = The UAE shifts from target to combatant amid reports the US and Israel are preparing to renew strikes on Iran, writes Matthew Doran.
 End = true
 
 [LIBRARY RNEWS]
-Title = Former UK health minister says he will stand in any contest to replace Starmer
-Body = Former health secretary Wes Streeting, who resigned from cabinet on Thursday in preparation for the challenge, says his party needs a "proper contest" with the best candidates on the field.
+Title = Inside the deadly search to recover four divers' bodies from a deep-sea Maldives cave
+Body = Expert divers have been sent to the Maldives to retrieve four bodies in a deep-sea cave network, in a search mission that's already killed one military rescue diver.
 End = true
 
 [LIBRARY RNEWS]
-Title = Who was still watching Harvey Weinstein almost a decade on from #MeToo?
-Body = Almost a decade after the #MeToo movement began, disgraced producer Harvey Weinstein's latest trial took place in a new climate. But supporters says its significance remains.
+Title = WHO declares Ebola outbreak an 'emergency of international concern'
+Body = At least 80 people have died in what the World Health Organization says potentially could be a "much larger outbreak than what is currently being detected and reported".
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says the US and Nigeria have killed second-in-command ISIS leader
-Body = US President Donald Trump says American and Nigerian forces have killed the second-in-command leader of ISIS.
+Title = Train driver charged after deadly crash in Thailand
+Body = Thai police have charged a train driver after a crash on Saturday in central Bangkok in which a freight train collided with a public bus, killing eight people.
 End = true
 
 [LIBRARY RNEWS]
-Title = Wakana Yamazaki Passed- Voice Actor for Archnemon/Arukenimon
-Body = It's been announced that Wakana Yamazaki passed. Yamazaki had gone on hiatus starting in February for a treatment for an unspecified illness.
+Title = With the Will Podcast Episode #301- Thorny Roses... (Beatbreak Episode 31, Brand Updates, & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 31, updates on how the brand is doing, Digimon Up updates, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up Commercials & Sticker Campaign [...]
-Body = https://twitter.com/x/status/2055798917619720232 We have a Digimon Up commercial, both short and longer variants. At the time of posting, just Japanese versions are available.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 31- One Step Forward [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 31, One Step Forward A preview of Episode 31 Episode 31 airs Sunday, May 17th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Up- Digimon Showcase, Gatomon/Tailmon [...]
+Body = https://twitter.com/x/status/2056208160474714116 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Gatomon/Tailmon!
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +44,12 @@ Body = Time for a weekend batch! We start with some Digimon Beatbreak art for ep
 End = true
 
 [LIBRARY RNEWS]
-Title = Cyber Sleuth & Hacker's Memory Pass 3 Million in Sales
-Body = The Japanese Digimon Game Twitter has posted a sales update for Cyber Sleuth! Specifically for Cyber Sleuth as a 'series' Cyber Sleuth and Hacker's Memory have sold over 3 million copies together worldwide.
+Title = Digimon Beatbreak: Episode 31- One Step Forward [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 31, One Step Forward A preview of Episode 31 Episode 31 airs Sunday, May 17th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Preview for Digimon Beatbreak Episode 32 Cold Rain
+Body = https://twitter.com/x/status/2055808014578487297 Time for a preview for Episode 32 Cold Rain! Watch episode 31 first!
 End = true
 
