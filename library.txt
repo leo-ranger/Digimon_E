@@ -9,28 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why the US, UK and NZ haven't raised interest rates in years
-Body = As Australians pay more on their mortgages, some countries have had no rise in their interest rate in recent years. So what's going on?
+Title = Elon Musk loses lawsuit against OpenAI and Sam Altman
+Body = The Tesla boss accused OpenAI of wrongfully trying to enrich investors and insiders at the nonprofit's expense, and failing to prioritise AI's safety.
 End = true
 
 [LIBRARY RNEWS]
-Title = What to know about the current Ebola outbreak in Uganda and the Congo
-Body = The WHO has declared a global health emergency after more than 80 cases of Ebola were confirmed across two African countries. Here's why the organisation is calling for preparedness, not panic.
+Title = Journalist in London stabbed at behest of Iran, court told
+Body = Pouria Zaratifoukolaei, who works for a Persian-language outlet critical of the Iranian government, was attacked near his home in London in 2024.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran weekly briefing: New front emerges as UAE strikes back
-Body = The UAE shifts from target to combatant amid reports the US and Israel are preparing to renew strikes on Iran, writes Matthew Doran.
+Title = What we know about the deadly shooting at a San Diego mosque
+Body = Two teenagers opened fire at the largest mosque in San Diego, California on Monday, killing three men. Here is what we know about the attack.
 End = true
 
 [LIBRARY RNEWS]
-Title = UAE slams 'dangerous escalation' after drone hits near nuclear plant
-Body = Abu Dhabi officials say radiation levels are normal and there was no damage to the plant, but authorities are now working to determine who carried out the attack.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Imperialdramon: Dragon Mode Pixel Art Shown Off
-Body = https://twitter.com/x/status/2055612978846642320 They've shown off new pixel art of Imperialdramon: Dragon Mode to celebrate the recent start of Digimon Up pre-registrations. (And definitely not that in Japan that the streaming Digimon Film Festival has started to stream Diablomon Strikes Back 'cough'.) Info on the most recent pre-registration campaign can be found here.
+Title = Detective in OJ Simpson murder trial Mark Fuhrman dies at 74
+Body = Mark Fuhrman was one of the first two police detectives sent to investigate the 1994 killings of OJ Simpson's ex-wife, Nicole Brown Simpson, and her friend, Ronald Goldman, in Los Angeles.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +34,22 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 31, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak- English Dub Discussion (Update- Episodes 16-20 Available)
-Body = Digimon Beatbreak has an English dub! The first five episodes are premiering today (December 27th) on Crunchyroll.
+Title = Digimon Up- Imperialdramon: Dragon Mode Pixel Art Shown Off
+Body = https://twitter.com/x/status/2055612978846642320 They've shown off new pixel art of Imperialdramon: Dragon Mode to celebrate the recent start of Digimon Up pre-registrations. (And definitely not that in Japan that the streaming Digimon Film Festival has started to stream Diablomon Strikes Back 'cough'.) Info on the most recent pre-registration campaign can be found here.
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 31, Culumon, & Ghost Game Social Art, Photos, Catch-Up for the Week, & More!
-Body = Time for a weekend batch! We start with some Digimon Beatbreak art for episode 31!
+Title = Digimon Up Commercials & Sticker Campaign [...]
+Body = https://twitter.com/x/status/2055798917619720232 We have a Digimon Up commercial, both short and longer variants. At the time of posting, just Japanese versions are available.
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Episode #301- Thorny Roses... (Beatbreak Episode 31, Brand Updates, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 31, updates on how the brand is doing, Digimon Up updates, & more! Plus your questions!
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- Digimon Showcase, Gatomon/Tailmon [...]
+Body = https://twitter.com/x/status/2056208160474714116 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Gatomon/Tailmon!
 End = true
 
