@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Shooters kill three people at San Diego mosque in suspected hate crime
-Body = Two teenage gunmen opened fire at San Diego's largest mosque, killing three men before they were later found dead, police say.
+Title = Vanuatu suggests Australia and China are 'undermining' it
+Body = Jotham Napat has confirmed Vanuatu has agreed to two pacts with both countries, but is not happy with either party.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says he has postponed a planned new strike on Iran
-Body = US President Donald Trump says an attack on Iran that was "scheduled for tomorrow" has been postponed at the request of Gulf state leaders.
+Title = Putin lands in China for meeting with 'dear friend' Xi
+Body = Russian President Vladimir Putin smiles as he greets Chinese Foreign Minister Wang Yi at the airport in Beijing.
 End = true
 
 [LIBRARY RNEWS]
-Title = Xi to welcome Putin for visit days after hosting Trump
-Body = While this meeting comes just days after Beijing hosted the US president, the Kremlin insists there is "no correlation" between the visits.
+Title = Far-right Israeli minister accuses ICC of making 'secret' request to arrest him
+Body = Reports have been circulating that the ICC is preparing to issue warrants against Israel's far-right finance minister, Bezalel Smotrich.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bodies of four missing Italian scuba divers found in underwater cave in Maldives
-Body = The bodies of four missing Italian scuba divers who died last week have been found in an underwater cave in the Maldives.
+Title = San Diego mosque shooters met online, shared 'hatred'
+Body = Authorities have revealed the teenagers who killed three people at a San Diego mosque met online and shared a "broad hatred" toward different religions and races.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 32- Cold Rain [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 32, Cold Rain A preview of Episode 32 Episode 32 airs Sunday, May 24th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Kakamon & Hanumon/Apemon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's...
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +49,7 @@ Body = Assuming that anybody is still here.. I joined this forum over a decade a
 End = true
 
 [LIBRARY RNEWS]
-Title = Agumon & Gekkomon at Toei Animation Museum & Digimon Adventure Movie Screenings on May 31st for Anime Project in Oizumi 2026 Event
-Body = The Toei Animation Museum has announced that as part of Anime Project in Oizumi 2026 the Agumon & Gekkomon mascots will be on hand to meet fans. In addition, the Oizumi Library has announced there will be screenings of the Digimon Adventure movie & Digimon Adventure: Our War Game at the library.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Update- Pre-Registration Campaign Unlock 200k Tier
-Body = Digimon Up update! Pre-registrations have hit 200k, getting everyone 3 Great Digimeta Seeds.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Imperialdramon: Dragon Mode Pixel Art Shown Off
-Body = https://twitter.com/x/status/2055612978846642320 They've shown off new pixel art of Imperialdramon: Dragon Mode to celebrate the recent start of Digimon Up pre-registrations. (And definitely not that in Japan that the streaming Digimon Film Festival has started to stream Diablomon Strikes Back 'cough'.) Info on the most recent pre-registration campaign can be found here.
+Title = [WTB] Digimon Savers / Data Squad Digivice Burst - Orange preferred
+Body = Hey everyone, I’m currently looking for a Digimon Savers / Data Squad Digivice Burst. Preferably the Orange version, but I may also consider Blue depending on condition and price.
 End = true
 
