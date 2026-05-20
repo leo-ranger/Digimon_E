@@ -14,23 +14,28 @@ Body = Jotham Napat has confirmed Vanuatu has agreed to two pacts with both coun
 End = true
 
 [LIBRARY RNEWS]
+Title = Maldives investigates if Italian divers went too deep in fatal cave dive
+Body = A Maldives government official says a permit was given to study soft corals, but authorities were unaware the group planned to cave dive.
+End = true
+
+[LIBRARY RNEWS]
 Title = Putin lands in China for meeting with 'dear friend' Xi
 Body = Russian President Vladimir Putin smiles as he greets Chinese Foreign Minister Wang Yi at the airport in Beijing.
 End = true
 
 [LIBRARY RNEWS]
-Title = Far-right Israeli minister accuses ICC of making 'secret' request to arrest him
-Body = Reports have been circulating that the ICC is preparing to issue warrants against Israel's far-right finance minister, Bezalel Smotrich.
+Title = Mosque shooting victims hailed as heroes and mourned by community
+Body = Three people killed by two shooters at a San Diego mosque were beloved pillars of the community and died while saving 140 children in the building at the time of the attack, authorities say.
 End = true
 
 [LIBRARY RNEWS]
-Title = San Diego mosque shooters met online, shared 'hatred'
-Body = Authorities have revealed the teenagers who killed three people at a San Diego mosque met online and shared a "broad hatred" toward different religions and races.
+Title = Gokuwmon/Gokuumon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Gokuwmon/Gokuumon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 32- Cold Rain [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 32, Cold Rain A preview of Episode 32 Episode 32 airs Sunday, May 24th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Official Digimon Web Poll #150- Favorite Guest Digimon from Beatbreak Episodes 13 through 24
+Body = Digimon Web has opened a new fan vote. This is the 150th official web poll on the current version of the site.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 31- One Step Forward [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 31, One Step Forward A preview of Episode 31 Episode 31 airs Sunday, May 17th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Adventure Handmade Edo Kiriko Glassware Available May 22nd- Agumon & Gabumon Designs, Only 200 Made of Each
+Body = Yuwara has announced (2) two high end pieces of Digimon Adventure glassware will be sold starting May 22nd. Agumon & Gabumon versions of Edo Kiriko glassware will be made available.
 End = true
 
 [LIBRARY RNEWS]
-Title = Re-Intro [...]
-Body = Assuming that anybody is still here.. I joined this forum over a decade ago.
-End = true
-
-[LIBRARY RNEWS]
-Title = [WTB] Digimon Savers / Data Squad Digivice Burst - Orange preferred
-Body = Hey everyone, I’m currently looking for a Digimon Savers / Data Squad Digivice Burst. Preferably the Orange version, but I may also consider Blue depending on condition and price.
+Title = Digimon Real Data Collection Vol. 02 Announcement on May 22nd
+Body = Plex posted a teaser for the 2nd Digimon Real Data Collection figure. The teaser reads...
 End = true
 
