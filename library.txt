@@ -9,28 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Vanuatu suggests Australia and China are 'undermining' it
-Body = Jotham Napat has confirmed Vanuatu has agreed to two pacts with both countries, but is not happy with either party.
+Title = Israeli minister posts video taunting detained activists of Global Sumud Flotilla
+Body = Some of the detained activists were being pushed and dragged along the ground by Israeli forces while Itamar Ben-Gvir was taunting them.
 End = true
 
 [LIBRARY RNEWS]
-Title = Maldives investigates if Italian divers went too deep in fatal cave dive
-Body = A Maldives government official says a permit was given to study soft corals, but authorities were unaware the group planned to cave dive.
+Title = Putin's China visit looked like Trump's but couldn't have been more different
+Body = Vladimir Putin and Xi Jinping agreed to a raft of deals in front of invited press less than a week after Donald Trump left China's capital with no confirmed deals.
 End = true
 
 [LIBRARY RNEWS]
-Title = Putin lands in China for meeting with 'dear friend' Xi
-Body = Russian President Vladimir Putin smiles as he greets Chinese Foreign Minister Wang Yi at the airport in Beijing.
+Title = Thailand tightens visa rules for nearly 100 countries including Australia
+Body = Thailand is reducing the visa-free period available to visitors from 90 countries, including Australia, with the duration decided on a country-by-country basis.
 End = true
 
 [LIBRARY RNEWS]
-Title = Mosque shooting victims hailed as heroes and mourned by community
-Body = Three people killed by two shooters at a San Diego mosque were beloved pillars of the community and died while saving 140 children in the building at the time of the attack, authorities say.
-End = true
-
-[LIBRARY RNEWS]
-Title = Gokuwmon/Gokuumon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Gokuwmon/Gokuumon.
+Title = Life inside one of the world's most dangerous waterways
+Body = Before rising conflict pushed the Strait of Hormuz into the spotlight as a choke point vital to economies globally, tourism transformed women's lives.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +34,22 @@ Body = Digimon Web has opened a new fan vote. This is the 150th official web pol
 End = true
 
 [LIBRARY RNEWS]
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon in July V-Jump- Digimon Up, Card Game Booster Set EX-12, plus Beatbreak, Adventure, & Tamers 25th Products
+Body = It's time for all the new Digimon content from the July 2026 cover dated issue of V-Jump! We start with a preview of Digimon Up.
+End = true
+
+[LIBRARY RNEWS]
+Title = Tamer Card Hiro Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Hiro.
+End = true
+
+[LIBRARY RNEWS]
 Title = Kakamon & Hanumon/Apemon Previews for Digimon Card Game Booster Set EX-12
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure Handmade Edo Kiriko Glassware Available May 22nd- Agumon & Gabumon Designs, Only 200 Made of Each
-Body = Yuwara has announced (2) two high end pieces of Digimon Adventure glassware will be sold starting May 22nd. Agumon & Gabumon versions of Edo Kiriko glassware will be made available.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Real Data Collection Vol. 02 Announcement on May 22nd
-Body = Plex posted a teaser for the 2nd Digimon Real Data Collection figure. The teaser reads...
 End = true
 
