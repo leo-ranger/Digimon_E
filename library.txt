@@ -9,47 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = 'We're not fleeing': The disappearing Pacific nation relocating its people to Australia
+Body = Tuvalu is building new land to hold back rising sea levels, but the majority of its people are applying to relocate to Australia. As they do, many are confronting a disturbing question.
+End = true
+
+[LIBRARY RNEWS]
+Title = Iran examining US proposal as Trump says talks in 'final stages'
+Body = Iran says it is examining the latest US proposal received from mediator Pakistan in talks to end the Middle East war, despite the two sides trading threats over resuming attacks.
+End = true
+
+[LIBRARY RNEWS]
+Title = Why Raúl Castro has been charged now over a plane downing 30 years ago
+Body = The United States has indicted former Cuban president Raúl Castro on murder charges stemming from 1996, reviving one of the lowest points in its tangled history with Cuba.
+End = true
+
+[LIBRARY RNEWS]
 Title = Israeli minister posts video taunting detained activists of Global Sumud Flotilla
 Body = Some of the detained activists were being pushed and dragged along the ground by Israeli forces while Itamar Ben-Gvir was taunting them.
-End = true
-
-[LIBRARY RNEWS]
-Title = Putin's China visit looked like Trump's but couldn't have been more different
-Body = Vladimir Putin and Xi Jinping agreed to a raft of deals in front of invited press less than a week after Donald Trump left China's capital with no confirmed deals.
-End = true
-
-[LIBRARY RNEWS]
-Title = Thailand tightens visa rules for nearly 100 countries including Australia
-Body = Thailand is reducing the visa-free period available to visitors from 90 countries, including Australia, with the duration decided on a country-by-country basis.
-End = true
-
-[LIBRARY RNEWS]
-Title = Life inside one of the world's most dangerous waterways
-Body = Before rising conflict pushed the Strait of Hormuz into the spotlight as a choke point vital to economies globally, tourism transformed women's lives.
-End = true
-
-[LIBRARY RNEWS]
-Title = Official Digimon Web Poll #150- Favorite Guest Digimon from Beatbreak Episodes 13 through 24
-Body = Digimon Web has opened a new fan vote. This is the 150th official web poll on the current version of the site.
-End = true
-
-[LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon in July V-Jump- Digimon Up, Card Game Booster Set EX-12, plus Beatbreak, Adventure, & Tamers 25th Products
-Body = It's time for all the new Digimon content from the July 2026 cover dated issue of V-Jump! We start with a preview of Digimon Up.
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Hiro Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Hiro.
-End = true
-
-[LIBRARY RNEWS]
-Title = Kakamon & Hanumon/Apemon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's...
 End = true
 
