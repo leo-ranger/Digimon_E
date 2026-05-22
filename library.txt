@@ -9,22 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Cuba accepts offer of $140m in American aid, Rubio says
+Body = Tensions between the longtime Cold War rivals have hit a new low in recent days after the US indicted the country's 94-year-old former president Raúl Castro.
+End = true
+
+[LIBRARY RNEWS]
+Title = Air France and Airbus fined for 2009 crash that killed 228
+Body = France's national airline Air France and Airbus have both been found guilty of involuntary manslaughter over a 2009 crash that killed 228 people.
+End = true
+
+[LIBRARY RNEWS]
 Title = 'We're not fleeing': The disappearing Pacific nation relocating its people to Australia
 Body = Tuvalu is building new land to hold back rising sea levels, but the majority of its people are applying to relocate to Australia. As they do, many are confronting a disturbing question.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran examining US proposal as Trump says talks in 'final stages'
-Body = Iran says it is examining the latest US proposal received from mediator Pakistan in talks to end the Middle East war, despite the two sides trading threats over resuming attacks.
+Title = US-bound plane diverted after passenger from Ebola-hit Congo boards 'in error'
+Body = The US has introduced new restrictions on travellers from countries exposed to an Ebola outbreak in Africa, requiring them to enter through Washington DC.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why Raúl Castro has been charged now over a plane downing 30 years ago
-Body = The United States has indicted former Cuban president Raúl Castro on murder charges stemming from 1996, reviving one of the lowest points in its tangled history with Cuba.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israeli minister posts video taunting detained activists of Global Sumud Flotilla
-Body = Some of the detained activists were being pushed and dragged along the ground by Israeli forces while Itamar Ben-Gvir was taunting them.
+Title = Digimon Beatbreak Collaboration at Karatez Karaoke- Art, Theme Drinks, Products, & More!
+Body = The Digimon karaoke collaborations have always been reasonably popular, and this time Karatez Karaoke returns (2) after about a year for a Digimon Beatbreak one! The collaboration has new art with a musical theme for Glowing Dawn and Tactics.
+End = true
+
+[LIBRARY RNEWS]
+Title = Site Downtime- 5/21/2026 [...]
+Body = Not a shock if you visited the site today you saw it was down. Despite the error message it was not an SSL certificate issue (at least at first.) Traffic zoomed up so the host pulled the site until we could dig through logs to see what was going on.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Real Data Collection vol. 02 is V-dramon! [...]
+Body = After being announced with a teaser yesterday, we know what Digimon will be the 2nd figure in the Digimon Real Data Collection line! V-dramon has been teased with a few images!
+End = true
+
+[LIBRARY RNEWS]
+Title = Amaterasumon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Amaterasumon.
 End = true
 
