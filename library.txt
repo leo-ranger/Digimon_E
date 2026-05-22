@@ -14,23 +14,23 @@ Body = Tensions between the longtime Cold War rivals have hit a new low in recen
 End = true
 
 [LIBRARY RNEWS]
-Title = Air France and Airbus fined for 2009 crash that killed 228
-Body = France's national airline Air France and Airbus have both been found guilty of involuntary manslaughter over a 2009 crash that killed 228 people.
+Title = Republican revolt over Trump 'weaponisation' fund stalls ICE funding vote
+Body = US Senate Republicans have furious internal disagreements over a proposed compensation fund for Trump allies who claim they have been unfairly targeted by federal agencies.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'We're not fleeing': The disappearing Pacific nation relocating its people to Australia
-Body = Tuvalu is building new land to hold back rising sea levels, but the majority of its people are applying to relocate to Australia. As they do, many are confronting a disturbing question.
+Title = More Australians with ISIS links leave Syria to attempt journey to Australia
+Body = The ABC has seen buses carrying the group, which left the al-Roj camp on Thursday afternoon, local time.
 End = true
 
 [LIBRARY RNEWS]
-Title = US-bound plane diverted after passenger from Ebola-hit Congo boards 'in error'
-Body = The US has introduced new restrictions on travellers from countries exposed to an Ebola outbreak in Africa, requiring them to enter through Washington DC.
+Title = Australia backs landmark UN climate change ruling as others try to block it
+Body = Australia joins 140 other countries in passing a major United Nations resolution backing a landmark legal ruling on climate change, despite efforts by the United States, Russia and Saudi Arabia to sink it.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Digimon Card Game Limited Card Pack 9 Distancia Cero- Pre-Orders at Premium Bandai US
+Body = It's time for another Limited Card Pack! Digimon Card Game Limited Card Pack 9 Distancia Cero [LM-09] will be released later in the year, and they've announced all the cards for it...
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = The Digimon karaoke collaborations have always been reasonably popular, a
 End = true
 
 [LIBRARY RNEWS]
-Title = Site Downtime- 5/21/2026 [...]
-Body = Not a shock if you visited the site today you saw it was down. Despite the error message it was not an SSL certificate issue (at least at first.) Traffic zoomed up so the host pulled the site until we could dig through logs to see what was going on.
+Title = Digimon Real Data Collection V-dramon/Veedramon Figure- Pre-Order Info & Images
+Body = After a day of teasers pre-orders are open for a figure it feels like many people have been waiting decades for, a gorgeous V-dramon/Veedramon figure! The second figure in the Digimon Real Data Collection figure line is the legendary V-dramon, based...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Real Data Collection vol. 02 is V-dramon! [...]
-Body = After being announced with a teaser yesterday, we know what Digimon will be the 2nd figure in the Digimon Real Data Collection line! V-dramon has been teased with a few images!
+Title = Digimon Beatbreak: Episode 31- One Step Forward [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 31, One Step Forward A preview of Episode 31 Episode 31 airs Sunday, May 17th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Amaterasumon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Amaterasumon.
+Title = Takahiro Fujiwara Passed- Voice Actor for Shutmon, Rebootmon, & Plutomon
+Body = It's been announced that Takahiro Fujiwara passed. Fujiwara passed on May 14th and private services were already held.
 End = true
 
