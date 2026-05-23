@@ -14,8 +14,8 @@ Body = The stalled $19.6 billion weapons purchase by Taiwan has been awaiting si
 End = true
 
 [LIBRARY RNEWS]
-Title = Putin says at least six people killed in 'terrorist' attack on student dormitory
-Body = Russian President Vladimir Putin has accused Ukraine of a "terrorist strike" on a student dormitory in the Russian-controlled Luhansk region that has killed at least six people and injured 39 others.
+Title = Putin vows retaliation after accusing Ukraine of deadly student dorm strike
+Body = Russian President Vladimir Putin has accused Ukraine of a "terrorist strike" on a student dormitory in the Russian-controlled Luhansk region, with a local official saying 10 were killed and 48 others injured.
 End = true
 
 [LIBRARY RNEWS]
@@ -29,8 +29,13 @@ Body = As power and petrol supplies run out, Cubans tell the ABC about their dai
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Collaboration at Karatez Karaoke- Art, Theme Drinks, Products, & More!
-Body = The Digimon karaoke collaborations have always been reasonably popular, and this time Karatez Karaoke returns (2) after about a year for a Digimon Beatbreak one! The collaboration has new art with a musical theme for Glowing Dawn and Tactics.
+Title = Metal Empire Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Metal Empire.
+End = true
+
+[LIBRARY RNEWS]
+Title = Amaterasumon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Amaterasumon.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Crunchyroll Anime Awards 2026 Later- Digimon Beatbreak Nominated
-Body = The Crunchyroll Anime Awards 2026 are later tonight. If you want to watch it live to see if Digimon Beatbreak wins in the category of 'Best Original Anime' (despite the misnomer) the pre-show is at 1am Pacific and the awards begin at 2am.
+Title = Digimon Beatbreak Collaboration at Karatez Karaoke- Art, Theme Drinks, Products, & More!
+Body = The Digimon karaoke collaborations have always been reasonably popular, and this time Karatez Karaoke returns (2) after about a year for a Digimon Beatbreak one! The collaboration has new art with a musical theme for Glowing Dawn and Tactics.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Takahiro Fujiwara Passed- Voice Actor for Shutmon, Rebootmon, & Plutomon
-Body = It's been announced that Takahiro Fujiwara passed. Fujiwara passed on May 14th and private services were already held.
+Title = Digimon Up Update- Pre-Registration Campaign Unlock 300k Tier
+Body = Digimon Up update! Pre-registrations have hit 300k, getting everyone getting 2000 DigiEmeralds.
 End = true
 
