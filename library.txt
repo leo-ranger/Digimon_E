@@ -9,28 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Cuba accepts offer of $140m in American aid, Rubio says
-Body = Tensions between the longtime Cold War rivals have hit a new low in recent days after the US indicted the country's 94-year-old former president Raúl Castro.
+Title = US pauses arms sales to Taiwan over Iran war [...]
+Body = The stalled $19.6 billion weapons purchase by Taiwan has been awaiting sign-off from US President Donald Trump.
 End = true
 
 [LIBRARY RNEWS]
-Title = Republican revolt over Trump 'weaponisation' fund stalls ICE funding vote
-Body = US Senate Republicans have furious internal disagreements over a proposed compensation fund for Trump allies who claim they have been unfairly targeted by federal agencies.
+Title = Putin says at least six people killed in 'terrorist' attack on student dormitory
+Body = Russian President Vladimir Putin has accused Ukraine of a "terrorist strike" on a student dormitory in the Russian-controlled Luhansk region that has killed at least six people and injured 39 others.
 End = true
 
 [LIBRARY RNEWS]
-Title = More Australians with ISIS links leave Syria to attempt journey to Australia
-Body = The ABC has seen buses carrying the group, which left the al-Roj camp on Thursday afternoon, local time.
+Title = Pacific leaders warned of 'prolonged' fuel crisis as new plan endorsed
+Body = A taskforce will see leaders get a better idea of threats to energy deliveries, while Australia and New Zealand provide expert analysis on future supply.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australia backs landmark UN climate change ruling as others try to block it
-Body = Australia joins 140 other countries in passing a major United Nations resolution backing a landmark legal ruling on climate change, despite efforts by the United States, Russia and Saudi Arabia to sink it.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Game Limited Card Pack 9 Distancia Cero- Pre-Orders at Premium Bandai US
-Body = It's time for another Limited Card Pack! Digimon Card Game Limited Card Pack 9 Distancia Cero [LM-09] will be released later in the year, and they've announced all the cards for it...
+Title = 'Stuck between two psychopaths': Cubans describe life as country goes dark
+Body = As power and petrol supplies run out, Cubans tell the ABC about their daily lives. "You can no longer find streets packed with travellers, music and dance," one says.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,13 +34,18 @@ Body = The Digimon karaoke collaborations have always been reasonably popular, a
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Real Data Collection V-dramon/Veedramon Figure- Pre-Order Info & Images
-Body = After a day of teasers pre-orders are open for a figure it feels like many people have been waiting decades for, a gorgeous V-dramon/Veedramon figure! The second figure in the Digimon Real Data Collection figure line is the legendary V-dramon, based...
+Title = Genshi Continent & Ashino Island Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Genshi Continent & Ashino Island.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 31- One Step Forward [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 31, One Step Forward A preview of Episode 31 Episode 31 airs Sunday, May 17th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Crunchyroll Anime Awards 2026 Later- Digimon Beatbreak Nominated
+Body = The Crunchyroll Anime Awards 2026 are later tonight. If you want to watch it live to see if Digimon Beatbreak wins in the category of 'Best Original Anime' (despite the misnomer) the pre-show is at 1am Pacific and the awards begin at 2am.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
