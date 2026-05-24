@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US pauses arms sales to Taiwan over Iran war [...]
-Body = The stalled $19.6 billion weapons purchase by Taiwan has been awaiting sign-off from US President Donald Trump.
+Title = The mission to save conjoined twin involved an airlift, five surgeons and a heartbreaking sacrifice
+Body = A team of doctors involved in the separation of conjoined Papua New Guinean twins Sawong and Tom have spoken for the first time about the rare and complex case.
 End = true
 
 [LIBRARY RNEWS]
-Title = Putin vows retaliation after accusing Ukraine of deadly student dorm strike
-Body = Russian President Vladimir Putin has accused Ukraine of a "terrorist strike" on a student dormitory in the Russian-controlled Luhansk region, with a local official saying 10 were killed and 48 others injured.
+Title = WHO upgrades risk assessment for Ebola outbreak in DRC to 'very high'
+Body = The World Health Organization raises its assessment of the outbreak going nation-wide as a province in the Congo's east bans funerals and suspends the local football league.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pacific leaders warned of 'prolonged' fuel crisis as new plan endorsed
-Body = A taskforce will see leaders get a better idea of threats to energy deliveries, while Australia and New Zealand provide expert analysis on future supply.
+Title = Death toll reaches 82 after Chinese coal mine blast
+Body = A gas explosion at a coal mine in northern China's Shanxi province sits at 82, state media reports. Two people remain missing.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Stuck between two psychopaths': Cubans describe life as country goes dark
-Body = As power and petrol supplies run out, Cubans tell the ABC about their daily lives. "You can no longer find streets packed with travellers, music and dance," one says.
+Title = How the Musk v Altman case revealed an 'uncomfortable' truth
+Body = After Sam Altman and OpenAI's recent victory in a drawn-out legal battle with billionaire Elon Musk, the bitter rivalry between the former friends is now set to move from the courtroom to Wall Street.
 End = true
 
 [LIBRARY RNEWS]
-Title = Metal Empire Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Metal Empire.
+Title = Digimon Beatbreak: Episode 32- Cold Rain [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 32, Cold Rain A preview of Episode 32 Episode 32 airs Sunday, May 24th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Amaterasumon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Amaterasumon.
+Title = Tamer Card Ruli Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Ruli.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- Digimon Showcase, Renamon [...]
+Body = https://twitter.com/x/status/2058344728836383052 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Renamon!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure Collaboration at Animate Cafe in Korea Starting June 5th- New Art, Drinks, Cookies, & More!
+Body = Animate Cafe Hongdae in Seoul, Korea has announced (2) they will have a Digimon Adventure collaboration. The collaboration features cute new SD art of the Digimon Adventure characters holding leaves to protect them from the rain.
 End = true
 
 [LIBRARY RNEWS]
 Title = Genshi Continent & Ashino Island Preview for Digimon Card Game Booster Set EX-12
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Genshi Continent & Ashino Island.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Collaboration at Karatez Karaoke- Art, Theme Drinks, Products, & More!
-Body = The Digimon karaoke collaborations have always been reasonably popular, and this time Karatez Karaoke returns (2) after about a year for a Digimon Beatbreak one! The collaboration has new art with a musical theme for Glowing Dawn and Tactics.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Update- Pre-Registration Campaign Unlock 300k Tier
-Body = Digimon Up update! Pre-registrations have hit 300k, getting everyone getting 2000 DigiEmeralds.
 End = true
 
