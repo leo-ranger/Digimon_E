@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says agreement with Iran over end of war is 'largely negotiated'
-Body = US President Donald Trump says a memorandum of understanding on a peace deal with Iran that would open the Strait of Hormuz has been "largely negotiated" and will be revealed soon, however Iran has sown doubt as to how far-reaching the agreement will be.
+Title = Trump says 'not to rush into a deal' as potential Iran agreement emerges
+Body = Regional officials say the US is close to reaching a deal with Iran that would end the war, reopen the Strait of Hormuz and see Iran give up its stockpile of highly enriched uranium.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump revives centuries-old doctrine that shaped US-Cuba relations
-Body = The Monroe Doctrine was once a core tenet of US foreign policy. US President Donald Trump has brought it back with a new interpretation.
+Title = Trump's deal-making leaves Iran in the driver's seat and Israel more vulnerable
+Body = Israel goes from looking like the new regional hegemon to looking like it is under greater threat now than it has in years, while Iran now has room to rebuild its proxies.
 End = true
 
 [LIBRARY RNEWS]
-Title = The mission to save conjoined twin involved an airlift, five surgeons and a heartbreaking sacrifice
-Body = A team of doctors involved in the separation of conjoined Papua New Guinean twins Sawong and Tom have spoken for the first time about the rare and complex case.
+Title = Turkish police raid opposition party HQ, fire tear gas at supporters
+Body = The raid marks the end of a three-day stand-off between members of the opposition CHP party and police.
 End = true
 
 [LIBRARY RNEWS]
-Title = WHO upgrades risk assessment for Ebola outbreak in DRC to 'very high'
-Body = The World Health Organization raises its assessment of the outbreak going nation-wide as a province in the Congo's east bans funerals and suspends the local football league.
+Title = At least 24 killed in Pakistan train blast claimed by separatist militants
+Body = A bomb blast has hit a shuttle train carrying Pakistani security personnel and their families in the latest major attack claimed by separatist militants.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up Update- Pre-Registration Campaign Unlock 400k Tier
+Body = Digimon Up update! Pre-registrations have hit 400k, getting everyone getting 1000 Hologram Tickets.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 32, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Angoramon & SymbareAngoramon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set... [...]
+Title = Preview for Digimon Beatbreak Episode 33 Midsummer Ghost
+Body = https://twitter.com/x/status/2058344729696453038 Time for a preview for Episode 33 Midsummer Ghost! Watch episode 32 first!
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 32 Social Art, V-dramon Profile Art, Photos & Events, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 32!
+Title = Diarbbitmon/Trusgain/Truskmore Advance Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Diarbbitmon/Trusgain/Truskmore Advance.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Ruli Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Ruli.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Renamon [...]
-Body = https://twitter.com/x/status/2058344728836383052 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Renamon!
+Title = Digimon Card Battle 265- Digimon Card Game Booster Set 25 Match, plus New Yujin Promo Card
+Body = Digimon Card Battle is back with episode 265. This time, we return to Digimon Card Room for a match featuring new cards from Booster Set 25.
 End = true
 
