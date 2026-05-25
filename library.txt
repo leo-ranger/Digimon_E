@@ -9,13 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says 'not to rush into a deal' as potential Iran agreement emerges
-Body = Regional officials say the US is close to reaching a deal with Iran that would end the war, reopen the Strait of Hormuz and see Iran give up its stockpile of highly enriched uranium.
+Title = Trump says a deal is close. Here are the sticking points still dividing the US and Iran
+Body = A possible US-Iran agreement is taking shape, but the toughest issues are still unsettled, including reopening the Strait of Hormuz, curbing Tehran's nuclear ambitions, and ending regional fighting.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump's deal-making leaves Iran in the driver's seat and Israel more vulnerable
-Body = Israel goes from looking like the new regional hegemon to looking like it is under greater threat now than it has in years, while Iran now has room to rebuild its proxies.
+Title = China launches astronauts into space amid new race to Moon
+Body = China has launched three astronauts into space, including one who will stay for a year for a study of the long-term impacts on a human in orbit, ahead of Beijing's goal of a crewed Moon landing by 2030.
 End = true
 
 [LIBRARY RNEWS]
@@ -26,6 +26,11 @@ End = true
 [LIBRARY RNEWS]
 Title = At least 24 killed in Pakistan train blast claimed by separatist militants
 Body = A bomb blast has hit a shuttle train carrying Pakistani security personnel and their families in the latest major attack claimed by separatist militants.
+End = true
+
+[LIBRARY RNEWS]
+Title = Classic Digimon Content Vanishes from Hulu Again [...]
+Body = As often happens every year or two, various Digimon content has left Hulu. As also tends to happen, it wouldn't be a shock if they reappeared in days, or a month or two.
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Diarbbitmon/Trusgain/Truskmore Advance Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Diarbbitmon/Trusgain/Truskmore Advance.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Battle 265- Digimon Card Game Booster Set 25 Match, plus New Yujin Promo Card
-Body = Digimon Card Battle is back with episode 265. This time, we return to Digimon Card Room for a match featuring new cards from Booster Set 25.
 End = true
 
