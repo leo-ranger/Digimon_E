@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why Trump's push to expand his Abraham Accords was met with silence
-Body = As US President Donald Trump pushes for a deal with Iran, he is reviving one of the signature foreign policy projects of his first term: the Abraham Accords.
+Title = At least 11 dead as Europe bakes in unprecedented heatwave
+Body = The British capital's previous hottest May day was set only one day prior, when the mercury topped 33.5C.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump calls on Arab nations to 'immediately sign the Abraham Accords'
-Body = Donald Trump has boldly tied negotiations to end his war with Iran to a swathe of Arab nations formally establishing diplomatic ties with Israel.
+Title = Navy chief says Chinese flotilla in Tasman Sea had 'impact'
+Body = Australia's Chief of Navy says China stirred "anger" in New Zealand when it sent a powerful naval flotilla into the Tasman Sea last year, encouraging political support on both sides of the ditch for increased defence spending.
 End = true
 
 [LIBRARY RNEWS]
-Title = Inside the Tehran press conference where the ABC was the only Western media present
-Body = While on assignment inside Iran, our reporter asked a foreign ministry official about the regime's plan for the Strait of Hormuz. The spokesperson responded that "there is no toll" but also signalled crossing the strait will not be entirely free.
+Title = Four dead, including two children, after train hits Belgian school bus
+Body = The train collided with a minibus, which was carrying nine people at the time, at a level crossing.
 End = true
 
 [LIBRARY RNEWS]
-Title = Thai cave rescuers work to free seven people trapped in flooded Laos cave
-Body = Seven villagers entered the cave in central Laos five days ago looking for gold when heavy rain caused flash flooding, trapping them inside.
+Title = Hypersonic missile attack a sign of Putin's 'bruised ego', expert says
+Body = Russia escalates attacks on Kyiv by using a hypersonic missile in one of its largest assaults on the Ukrainian capital since the start of the four-year war, and warns foreigners to leave the city ahead of further strikes.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Collaboration at Karatez Karaoke- Art, Theme Drinks, Products, & More!
-Body = The Digimon karaoke collaborations have always been reasonably popular, and this time Karatez Karaoke returns (2) after about a year for a Digimon Beatbreak one! The collaboration has new art with a musical theme for Glowing Dawn and Tactics.
+Title = Digimon Up- Digimon Showcase, Terriermon [...]
+Body = https://twitter.com/x/status/2059469654888997266 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Terriermon!
 End = true
 
 [LIBRARY RNEWS]
-Title = Cho-Hakkaimon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Cho-Hakkaimon.
+Title = Wankomon & Siesamon/Seasarmon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time...
 End = true
 
 [LIBRARY RNEWS]
-Title = Detailed plot of Digimon World Digital Card Battle
-Body = I played this game,and watched Japanese streamers play it and reading lines ,and with help of my knowledge of Japanese,and some translating,I managed to get the main story of this game almost completely right. I did something similar many years ago,but it was much shorter,and more innacurate.
+Title = Poll Results for Favorite Digimon Tamers 25th Anniversary Kenji Watanabe Art
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Digimon Tamers 25th Anniversary Kenji Watanabe Art! Recently the poll closed and we have the results!
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Episode #302- Many Fake Sugars (Beatbreak Episode 32, Collab Drinks, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 32, the new V-dramon figure, cards, events, & more! Plus AR is here to talk about new collaboration drinks!
+Title = Ultraman 60th Anniversary x Digimon Color V-Pets Announced
+Body = As part of the 60th anniversary celebration of Ultraman, an Ultraman 60th collaboration with Digimon has been announced and crossover V-Pets have been teased with a silhouette. No specific details have been announced minus a general silhouette of a Digimon Color.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 32- Cold Rain [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 32, Cold Rain A preview of Episode 32 Episode 32 airs Sunday, May 24th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Terriermon Assistant Lab- Digimon Up Previews & Info, Digimon Diagnosis Game, Card Guessing Game, Guess Favorite Digimon, & Pixel Art History
+Body = A few new episodes of Terriermon Assistant Lab! We'll do episode every few weeks if they continue to go up without subs, updating when/if they get English subs quicker, just so they don't build up too far, or when a more relevant episode appears, even if unsubbed.
 End = true
 
