@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Iran calls latest US strikes 'bad faith' sign as internet slowly restored
+Body = Iran has denounced US strikes in the country's south as a sign of "bad faith and unreliability" as negotiations toward a possible deal to end the war continue.
+End = true
+
+[LIBRARY RNEWS]
 Title = At least 11 dead as Europe bakes in unprecedented heatwave
 Body = The British capital's previous hottest May day was set only one day prior, when the mercury topped 33.5C.
+End = true
+
+[LIBRARY RNEWS]
+Title = Fidel Castro's daughter fled his regime, and has a warning for the US
+Body = Fidel Castro's daughter says the US has failed to find a way to deal with Cuba for decades. But she tells the ABC that the Trump administration has a difference that could spell the end of the regime she fled.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,28 +29,18 @@ Body = Australia's Chief of Navy says China stirred "anger" in New Zealand when 
 End = true
 
 [LIBRARY RNEWS]
-Title = Four dead, including two children, after train hits Belgian school bus
-Body = The train collided with a minibus, which was carrying nine people at the time, at a level crossing.
+Title = Detailed plot of Digimon World Digital Card Battle
+Body = I played this game,and watched Japanese streamers play it and reading lines ,and with help of my knowledge of Japanese,and some translating,I managed to get the main story of this game almost completely right. I did something similar many years ago,but it was much shorter,and more innacurate.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hypersonic missile attack a sign of Putin's 'bruised ego', expert says
-Body = Russia escalates attacks on Kyiv by using a hypersonic missile in one of its largest assaults on the Ukrainian capital since the start of the four-year war, and warns foreigners to leave the city ahead of further strikes.
+Title = Takutoumon & Token Paishu Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Booster Set EX-12. This time it's Takutoumon & Paishu.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Terriermon [...]
-Body = https://twitter.com/x/status/2059469654888997266 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Terriermon!
-End = true
-
-[LIBRARY RNEWS]
-Title = Wankomon & Siesamon/Seasarmon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time...
-End = true
-
-[LIBRARY RNEWS]
-Title = Poll Results for Favorite Digimon Tamers 25th Anniversary Kenji Watanabe Art
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Digimon Tamers 25th Anniversary Kenji Watanabe Art! Recently the poll closed and we have the results!
+Title = Shishimamon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Shishimamon.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +49,7 @@ Body = As part of the 60th anniversary celebration of Ultraman, an Ultraman 60th
 End = true
 
 [LIBRARY RNEWS]
-Title = Terriermon Assistant Lab- Digimon Up Previews & Info, Digimon Diagnosis Game, Card Guessing Game, Guess Favorite Digimon, & Pixel Art History
-Body = A few new episodes of Terriermon Assistant Lab! We'll do episode every few weeks if they continue to go up without subs, updating when/if they get English subs quicker, just so they don't build up too far, or when a more relevant episode appears, even if unsubbed.
+Title = Digimon Up- Digimon Showcase, Terriermon [...]
+Body = https://twitter.com/x/status/2059469654888997266 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Terriermon!
 End = true
 
