@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = US Justice Department launches criminal probe into E Jean Carroll
+Body = The probe is focused on whether Carroll committed perjury in testimony tied to two civil lawsuits that she won against Mr Trump — one tied to her allegations that he sexually abused her in a New York department store.
+End = true
+
+[LIBRARY RNEWS]
+Title = Israel kills new Hamas militant chief, along with his wife and children
+Body = An Israeli air strike in Gaza has killed new Hamas leader Mohammed Odeh, his wife and two of his children, the militant group has confirmed.
+End = true
+
+[LIBRARY RNEWS]
 Title = Israel warns all residents in southern Lebanon to leave
 Body = It is the first time Israel has made such a sweeping demand since US President Donald Trump announced in April a ceasefire had been imposed in Lebanon.
 End = true
@@ -19,28 +29,13 @@ Body = It comes as the White House rejects a draft deal being reported by Irania
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran's internet is back on. But it's not what it used to be
-Body = Reports of an increase in internet traffic are filtering through, but experts say Iran has a long way to go to get back up to speed.
+Title = Sagomon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Sagomon.
 End = true
 
 [LIBRARY RNEWS]
-Title = UK's social media ban could be harsher than Australia's. Here's how it compares
-Body = The UK could become the latest nation to implement a social media ban, after British Prime Minister Sir Keir Starmer vowed to introduce a "game changer" policy.
-End = true
-
-[LIBRARY RNEWS]
-Title = Kamemon & Gawappamon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 32- Cold Rain [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 32, Cold Rain A preview of Episode 32 Episode 32 airs Sunday, May 24th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Takutoumon & Token Paishu Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Booster Set EX-12. This time it's Takutoumon & Paishu.
+Title = Spinoff Discussion: Do you think Digimon BeatBreak should get a spinoff series?
+Body = I know it’s sudden and the possibility of it is between low and impossible, but what if Digimon BeatBreak gets a spinoff series of any form (OVA, manga, novel)? I had that thought ever since I had theories on some cleaners having stray digimon as their partner, and then an April fools poster idea about the protagonist and his Meicrackmon Vicious Mode in London.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +44,12 @@ Body = As part of the 60th anniversary celebration of Ultraman, an Ultraman 60th
 End = true
 
 [LIBRARY RNEWS]
-Title = Detailed plot of Digimon World Digital Card Battle
-Body = I played this game,and watched Japanese streamers play it and reading lines ,and with help of my knowledge of Japanese,and some translating,I managed to get the main story of this game almost completely right. I did something similar many years ago,but it was much shorter,and more innacurate.
+Title = Takutoumon & Token Paishu Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Booster Set EX-12. This time it's Takutoumon & Paishu.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 32- Cold Rain [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 32, Cold Rain A preview of Episode 32 Episode 32 airs Sunday, May 24th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
