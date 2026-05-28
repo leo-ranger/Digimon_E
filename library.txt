@@ -9,28 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran calls latest US strikes 'bad faith' sign as internet slowly restored
-Body = Iran has denounced US strikes in the country's south as a sign of "bad faith and unreliability" as negotiations toward a possible deal to end the war continue.
+Title = Israel warns all residents in southern Lebanon to leave
+Body = It is the first time Israel has made such a sweeping demand since US President Donald Trump announced in April a ceasefire had been imposed in Lebanon.
 End = true
 
 [LIBRARY RNEWS]
-Title = At least 11 dead as Europe bakes in unprecedented heatwave
-Body = The British capital's previous hottest May day was set only one day prior, when the mercury topped 33.5C.
+Title = Trump says US 'not satisfied' with Iran peace deal proposals
+Body = It comes as the White House rejects a draft deal being reported by Iranian state TV as a "fabrication".
 End = true
 
 [LIBRARY RNEWS]
-Title = Fidel Castro's daughter fled his regime, and has a warning for the US
-Body = Fidel Castro's daughter says the US has failed to find a way to deal with Cuba for decades. But she tells the ABC that the Trump administration has a difference that could spell the end of the regime she fled.
+Title = Iran's internet is back on. But it's not what it used to be
+Body = Reports of an increase in internet traffic are filtering through, but experts say Iran has a long way to go to get back up to speed.
 End = true
 
 [LIBRARY RNEWS]
-Title = Navy chief says Chinese flotilla in Tasman Sea had 'impact'
-Body = Australia's Chief of Navy says China stirred "anger" in New Zealand when it sent a powerful naval flotilla into the Tasman Sea last year, encouraging political support on both sides of the ditch for increased defence spending.
+Title = UK's social media ban could be harsher than Australia's. Here's how it compares
+Body = The UK could become the latest nation to implement a social media ban, after British Prime Minister Sir Keir Starmer vowed to introduce a "game changer" policy.
 End = true
 
 [LIBRARY RNEWS]
-Title = Detailed plot of Digimon World Digital Card Battle
-Body = I played this game,and watched Japanese streamers play it and reading lines ,and with help of my knowledge of Japanese,and some translating,I managed to get the main story of this game almost completely right. I did something similar many years ago,but it was much shorter,and more innacurate.
+Title = Kamemon & Gawappamon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 32- Cold Rain [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 32, Cold Rain A preview of Episode 32 Episode 32 airs Sunday, May 24th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from
 End = true
 
 [LIBRARY RNEWS]
-Title = Shishimamon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Shishimamon.
-End = true
-
-[LIBRARY RNEWS]
 Title = Ultraman 60th Anniversary x Digimon Color V-Pets Announced
 Body = As part of the 60th anniversary celebration of Ultraman, an Ultraman 60th collaboration with Digimon has been announced and crossover V-Pets have been teased with a silhouette. No specific details have been announced minus a general silhouette of a Digimon Color.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Terriermon [...]
-Body = https://twitter.com/x/status/2059469654888997266 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Terriermon!
+Title = Detailed plot of Digimon World Digital Card Battle
+Body = I played this game,and watched Japanese streamers play it and reading lines ,and with help of my knowledge of Japanese,and some translating,I managed to get the main story of this game almost completely right. I did something similar many years ago,but it was much shorter,and more innacurate.
 End = true
 
