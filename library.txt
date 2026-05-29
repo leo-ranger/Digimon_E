@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Netanyahu directs Israel's military to take over 70 per cent of Gaza
-Body = Israel effectively controls an estimated 64 per cent of Gaza, now bombarded to ruins by Israel's two-year military assault that followed the 2023 Hamas attack on southern Israel.
+Title = Iran fires missile at US air base in Kuwait in retaliation for attack
+Body = US President Donald Trump says he is not yet satisfied by negotiations to end the war in Iran, and the US is not discussing easing sanctions, which is one of Tehran's key demands.
+End = true
+
+[LIBRARY RNEWS]
+Title = Trump appointees push for $250 note featuring US president's face
+Body = The decision will be made by the US House and Senate, but reports say Donald Trump's supporters are pushing to expedite the process.
+End = true
+
+[LIBRARY RNEWS]
+Title = What the fight over London data centre plans tells us about the AI backlash
+Body = Last year in the US alone, projects collectively worth $200 billion were scuppered or delayed as communities protested the construction of new data centres promised to deliver the AI of the future.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,13 +29,8 @@ Body = The blaze reportedly started when a student set a mattress on fire inside
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian to join 'scary as hell' mission to rescue Laos villagers from cave
-Body = A diver describes the "emotional moment" when he found a group of men alive after they were trapped for more than a week in a Laos cave, while a South Australian renowned for his ability to navigate tight spaces joins the rescue mission.
-End = true
-
-[LIBRARY RNEWS]
-Title = Israel kills new Hamas militant chief, along with his wife and children
-Body = An Israeli air strike in Gaza has killed new Hamas leader Mohammed Odeh, his wife and two of his children, the militant group has confirmed.
+Title = New Digimon Tamers Products at AniBirth on June 5th, June 12th Online- Rainy Season Themed
+Body = Product news time! (2) New Digimon Tamers products will show up at AniBirth on June 5th, in about a week.
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Classic Digimon Content Vanishes from Hulu Again [...]
 Body = As often happens every year or two, various Digimon content has left Hulu. As also tends to happen, it wouldn't be a shock if they reappeared in days, or a month or two.
-End = true
-
-[LIBRARY RNEWS]
-Title = Sagomon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Sagomon.
 End = true
 
