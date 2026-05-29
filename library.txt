@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US Justice Department launches criminal probe into E Jean Carroll
-Body = The probe is focused on whether Carroll committed perjury in testimony tied to two civil lawsuits that she won against Mr Trump — one tied to her allegations that he sexually abused her in a New York department store.
+Title = Netanyahu directs Israel's military to take over 70 per cent of Gaza
+Body = Israel effectively controls an estimated 64 per cent of Gaza, now bombarded to ruins by Israel's two-year military assault that followed the 2023 Hamas attack on southern Israel.
+End = true
+
+[LIBRARY RNEWS]
+Title = At least 16 students dead as fire tears through Kenyan girls school
+Body = The blaze reportedly started when a student set a mattress on fire inside the school's dormitory, with a further 79 students taken to hospital with injuries.
+End = true
+
+[LIBRARY RNEWS]
+Title = Australian to join 'scary as hell' mission to rescue Laos villagers from cave
+Body = A diver describes the "emotional moment" when he found a group of men alive after they were trapped for more than a week in a Laos cave, while a South Australian renowned for his ability to navigate tight spaces joins the rescue mission.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,37 +29,27 @@ Body = An Israeli air strike in Gaza has killed new Hamas leader Mohammed Odeh, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel warns all residents in southern Lebanon to leave
-Body = It is the first time Israel has made such a sweeping demand since US President Donald Trump announced in April a ceasefire had been imposed in Lebanon.
+Title = Digimon Up Update- Pre-Registration Campaign Unlock Final 500k Tier- Numemon
+Body = Digimon Up update! Pre-registrations have hit 500k, getting everyone Numemon!
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says US 'not satisfied' with Iran peace deal proposals
-Body = It comes as the White House rejects a draft deal being reported by Iranian state TV as a "fabrication".
+Title = Caprimon/Kapurimon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Caprimon/Kapurimon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Erlangmon, Token Kotenken, & Promo Poster Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Booster Set EX-12... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Classic Digimon Content Vanishes from Hulu Again [...]
+Body = As often happens every year or two, various Digimon content has left Hulu. As also tends to happen, it wouldn't be a shock if they reappeared in days, or a month or two.
 End = true
 
 [LIBRARY RNEWS]
 Title = Sagomon Preview for Digimon Card Game Booster Set EX-12
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Sagomon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Spinoff Discussion: Do you think Digimon BeatBreak should get a spinoff series?
-Body = I know it’s sudden and the possibility of it is between low and impossible, but what if Digimon BeatBreak gets a spinoff series of any form (OVA, manga, novel)? I had that thought ever since I had theories on some cleaners having stray digimon as their partner, and then an April fools poster idea about the protagonist and his Meicrackmon Vicious Mode in London.
-End = true
-
-[LIBRARY RNEWS]
-Title = Ultraman 60th Anniversary x Digimon Color V-Pets Announced
-Body = As part of the 60th anniversary celebration of Ultraman, an Ultraman 60th collaboration with Digimon has been announced and crossover V-Pets have been teased with a silhouette. No specific details have been announced minus a general silhouette of a Digimon Color.
-End = true
-
-[LIBRARY RNEWS]
-Title = Takutoumon & Token Paishu Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Booster Set EX-12. This time it's Takutoumon & Paishu.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 32- Cold Rain [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 32, Cold Rain A preview of Episode 32 Episode 32 airs Sunday, May 24th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
