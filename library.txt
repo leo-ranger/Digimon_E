@@ -9,33 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran fires missile at US air base in Kuwait in retaliation for attack
-Body = US President Donald Trump says he is not yet satisfied by negotiations to end the war in Iran, and the US is not discussing easing sanctions, which is one of Tehran's key demands.
+Title = NATO slams 'reckless' Russia after drone hits Romanian apartment block
+Body = A Russian drone has struck an apartment building in NATO-member Romania, wounding two people.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump appointees push for $250 note featuring US president's face
-Body = The decision will be made by the US House and Senate, but reports say Donald Trump's supporters are pushing to expedite the process.
+Title = Canadian man accused of selling chemical online admits aiding suicide
+Body = In 2023, Interpol alerted Australian police that packages sold by the man, which contained a lethal substance, were sent to Australia, prompting authorities to check on the welfare of recipients.
 End = true
 
 [LIBRARY RNEWS]
-Title = What the fight over London data centre plans tells us about the AI backlash
-Body = Last year in the US alone, projects collectively worth $200 billion were scuppered or delayed as communities protested the construction of new data centres promised to deliver the AI of the future.
+Title = 'Horror night' of airstrikes leaves people in southern Lebanon fearing what's next
+Body = New waves of missile strikes and vast advisories from the Israeli government to evacuate have left residents in Lebanon's south uncertain of where to turn.
 End = true
 
 [LIBRARY RNEWS]
-Title = At least 16 students dead as fire tears through Kenyan girls school
-Body = The blaze reportedly started when a student set a mattress on fire inside the school's dormitory, with a further 79 students taken to hospital with injuries.
+Title = Blue Origin rocket explodes on launch pad during test
+Body = Billionaire Jeff Bezos's Blue Origin says all personnel are accounted for after experiencing an "anomaly", a term commonly used by rocket companies to describe a launch failure or explosion.
 End = true
 
 [LIBRARY RNEWS]
-Title = New Digimon Tamers Products at AniBirth on June 5th, June 12th Online- Rainy Season Themed
-Body = Product news time! (2) New Digimon Tamers products will show up at AniBirth on June 5th, in about a week.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Update- Pre-Registration Campaign Unlock Final 500k Tier- Numemon
-Body = Digimon Up update! Pre-registrations have hit 500k, getting everyone Numemon!
+Title = Nyaromon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Nyaromon.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +39,17 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Erlangmon, Token Kotenken, & Promo Poster Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Booster Set EX-12... [...]
+Title = ToyAgumon, Kokuwamon, & Hagurumon Previews for Digimon Card Game Booster Set EX-12
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Classic Digimon Content Vanishes from Hulu Again [...]
-Body = As often happens every year or two, various Digimon content has left Hulu. As also tends to happen, it wouldn't be a shock if they reappeared in days, or a month or two.
+Title = New Digimon in Digimon New Century- Taowu Beast, Likely Taowumon
+Body = Time for a new Digimon from Digimon: New Century, the Chinese mobile game. The Chinese name is 梼杌兽 (Taowu Beast), and it's based on the Taowu of the Four Perils, and likely to be named something akin to Taowumon once we get the Japanese and English name.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Episode 33 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 33, Midsummer Ghost, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
