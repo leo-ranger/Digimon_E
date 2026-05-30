@@ -9,38 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = NATO slams 'reckless' Russia after drone hits Romanian apartment block
-Body = A Russian drone has struck an apartment building in NATO-member Romania, wounding two people.
+Title = US won't let China impose 'hegemony' in Asia, Hegseth says
+Body = The US Defense Secretary addressed Asia's most important defence summit, but did not mention Taiwan as questions remain over a stalled weapons package.
 End = true
 
 [LIBRARY RNEWS]
-Title = Canadian man accused of selling chemical online admits aiding suicide
-Body = In 2023, Interpol alerted Australian police that packages sold by the man, which contained a lethal substance, were sent to Australia, prompting authorities to check on the welfare of recipients.
+Title = Bondi refuses to answer Trump questions in Epstein probe
+Body = Several survivors of Epstein's abuse gathered outside the Capitol office where the interview was taking place and made their presence known to Pam Bondi as she entered the room.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Horror night' of airstrikes leaves people in southern Lebanon fearing what's next
-Body = New waves of missile strikes and vast advisories from the Israeli government to evacuate have left residents in Lebanon's south uncertain of where to turn.
+Title = Trump concludes meeting on potential Iran deal without announcing decision
+Body = The US president has been weighing a tentative agreement that would open the Strait of Hormuz and begin talks on Tehran's nuclear program.
 End = true
 
 [LIBRARY RNEWS]
-Title = Blue Origin rocket explodes on launch pad during test
-Body = Billionaire Jeff Bezos's Blue Origin says all personnel are accounted for after experiencing an "anomaly", a term commonly used by rocket companies to describe a launch failure or explosion.
-End = true
-
-[LIBRARY RNEWS]
-Title = Nyaromon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Nyaromon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Caprimon/Kapurimon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Caprimon/Kapurimon.
-End = true
-
-[LIBRARY RNEWS]
-Title = ToyAgumon, Kokuwamon, & Hagurumon Previews for Digimon Card Game Booster Set EX-12
-Body = ... [...] [...]
+Title = Australian diver describes 'horrendous' conditions as first cave survivor rescued
+Body = Rescue divers in Laos have safely evacuated the first of five local villagers who had been trapped in a cave for more than a week by floodwaters.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +34,22 @@ Body = Time for a new Digimon from Digimon: New Century, the Chinese mobile game
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 33 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 33, Midsummer Ghost, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
+Title = Digimon Up- Digimon Showcase, Veemon/V-mon [...]
+Body = https://twitter.com/x/status/2060556813507133902 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Veemon/V-mon!
+End = true
+
+[LIBRARY RNEWS]
+Title = Plotmon/Salamon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Plotmon/Salamon.
+End = true
+
+[LIBRARY RNEWS]
+Title = ToyAgumon, Kokuwamon, & Hagurumon Previews for Digimon Card Game Booster Set EX-12
+Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Card Game Tamers Evolution Card Set: Nexus of Digimon- Images, Info, & Pre-Order Details
+Body = Digimon Card Game Tamers Evolution Card Set: Nexus of Digimon is a relatively high end card set meant to celebrate the 1 year of anniversary of the global unification of the card game across most regions. Nexus of Digimon is a deluxe accessory kit for the card...
 End = true
 
