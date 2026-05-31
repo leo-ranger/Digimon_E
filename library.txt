@@ -34,22 +34,22 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 33, 
 End = true
 
 [LIBRARY RNEWS]
+Title = Jellymon & TeslaJellymon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Beatbreak Episode 33 & Crunchyroll Awards Social Art, Event Photos, Catch-Up for the Week, & More!
+Body = Time for a weekend batch! We start with some Digimon Beatbreak art for episode 33!
+End = true
+
+[LIBRARY RNEWS]
+Title = Tailmon/Gatomon & Angewomon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time...
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Up Pre-Registration Campaign Part 3 Announced
 Body = A third pre-registration campaign has begun for Digimon Up! Pre-registrations can be done on either the Apple App Store (for iOS) & the Google Play Store (for Android.) The new pre-registration campaign has the following unlocks: At 600k preregistrations everyone will get 1000 bits.
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Kiyoshiro Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Kiyoshiro.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak English Dub Episodes 21-25 Premiere Tonight
-Body = https://twitter.com/x/status/2060753397901406370 Toei announced that the next batch of English dub episodes of Digimon Beatbreak would go up tonight on Crunchyroll, which is a bit delayed from the previously 'every 5 weeks' they ahd been doing. The newest batch will includes episodes 21 through 25.
-End = true
-
-[LIBRARY RNEWS]
-Title = How do I properly post a picture? [...]
-Body = I’ve tried the toolbar and the code method, and neither worked. The picture just comes up as a blank.
 End = true
 
