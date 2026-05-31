@@ -24,32 +24,32 @@ Body = The US president has been weighing a tentative agreement that would open 
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian diver describes 'horrendous' conditions as first cave survivor rescued
-Body = Rescue divers in Laos have safely evacuated the first of five local villagers who had been trapped in a cave for more than a week by floodwaters.
+Title = Ukraine war reaches 'a new phase', where Kyiv has the advantage
+Body = Ukraine has developed AI-enabled drones capable of making precision strikes from hundreds of kilometres away, and it means using Russia's vital logistics routes has become a dangerous "lottery".
 End = true
 
 [LIBRARY RNEWS]
-Title = New Digimon in Digimon New Century- Taowu Beast, Likely Taowumon
-Body = Time for a new Digimon from Digimon: New Century, the Chinese mobile game. The Chinese name is 梼杌兽 (Taowu Beast), and it's based on the Taowu of the Four Perils, and likely to be named something akin to Taowumon once we get the Japanese and English name.
+Title = Digimon Beatbreak: Episode 33- Midsummer Ghost [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 33, Midsummer Ghost A preview of Episode 33 Episode 33 airs Sunday, May 31st, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Veemon/V-mon [...]
-Body = https://twitter.com/x/status/2060556813507133902 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Veemon/V-mon!
+Title = Digimon Up Pre-Registration Campaign Part 3 Announced
+Body = A third pre-registration campaign has begun for Digimon Up! Pre-registrations can be done on either the Apple App Store (for iOS) & the Google Play Store (for Android.) The new pre-registration campaign has the following unlocks: At 600k preregistrations everyone will get 1000 bits.
 End = true
 
 [LIBRARY RNEWS]
-Title = Plotmon/Salamon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Plotmon/Salamon.
+Title = Tamer Card Kiyoshiro Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Kiyoshiro.
 End = true
 
 [LIBRARY RNEWS]
-Title = ToyAgumon, Kokuwamon, & Hagurumon Previews for Digimon Card Game Booster Set EX-12
-Body = ... [...] [...]
+Title = Digimon Beatbreak English Dub Episodes 21-25 Premiere Tonight
+Body = https://twitter.com/x/status/2060753397901406370 Toei announced that the next batch of English dub episodes of Digimon Beatbreak would go up tonight on Crunchyroll, which is a bit delayed from the previously 'every 5 weeks' they ahd been doing. The newest batch will includes episodes 21 through 25.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Game Tamers Evolution Card Set: Nexus of Digimon- Images, Info, & Pre-Order Details
-Body = Digimon Card Game Tamers Evolution Card Set: Nexus of Digimon is a relatively high end card set meant to celebrate the 1 year of anniversary of the global unification of the card game across most regions. Nexus of Digimon is a deluxe accessory kit for the card...
+Title = How do I properly post a picture? [...]
+Body = I’ve tried the toolbar and the code method, and neither worked. The picture just comes up as a blank.
 End = true
 
