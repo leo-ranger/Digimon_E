@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US won't let China impose 'hegemony' in Asia, Hegseth says
-Body = The US Defense Secretary addressed Asia's most important defence summit, but did not mention Taiwan as questions remain over a stalled weapons package.
+Title = Inside the new 'ghost proxy' terror group 'we need to take seriously'
+Body = Australia would be the "perfect" target for a fledgling Islamist terror network that has carried out antisemitic attacks in Europe, the UK and Canada, experts have warned.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bondi refuses to answer Trump questions in Epstein probe
-Body = Several survivors of Epstein's abuse gathered outside the Capitol office where the interview was taking place and made their presence known to Pam Bondi as she entered the room.
+Title = Inhumane conditions at ICE detention camp, lawsuit says
+Body = Civil rights groups allege people at the largest immigration detention centre in Texas are being beaten, abused and denied medical care at the camp.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump concludes meeting on potential Iran deal without announcing decision
-Body = The US president has been weighing a tentative agreement that would open the Strait of Hormuz and begin talks on Tehran's nuclear program.
+Title = Dozens killed by blast in rebel-held Myanmar village
+Body = Authorities say the blast was likely caused by explosives used for mining that had been stored in a warehouse.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ukraine war reaches 'a new phase', where Kyiv has the advantage
-Body = Ukraine has developed AI-enabled drones capable of making precision strikes from hundreds of kilometres away, and it means using Russia's vital logistics routes has become a dangerous "lottery".
+Title = 'Losing a generation': Why some countries are moving fast on AI in schools
+Body = Countries in Asia are emerging as the world's early adopters of AI in education, as the global race to lead in the technology accelerates.
+End = true
+
+[LIBRARY RNEWS]
+Title = Preview for Digimon Beatbreak Episode 34 Behind the Mask
+Body = https://twitter.com/x/status/2060881444164231202 Time for a preview for Episode 34 Behind the Mask! Watch episode 33 first!
+End = true
+
+[LIBRARY RNEWS]
+Title = Amphimon/Crystal Freezer/Frozen Crystal Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Amphimon/Crystal Freezer/Frozen Crystal.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,18 +44,8 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 33, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Jellymon & TeslaJellymon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 33 & Crunchyroll Awards Social Art, Event Photos, Catch-Up for the Week, & More!
-Body = Time for a weekend batch! We start with some Digimon Beatbreak art for episode 33!
-End = true
-
-[LIBRARY RNEWS]
-Title = Tailmon/Gatomon & Angewomon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time...
+Title = Amphimon/Crystal Freezer/Frozen Crystal Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Amphimon/Crystal Freezer/Frozen Crystal.
 End = true
 
 [LIBRARY RNEWS]
