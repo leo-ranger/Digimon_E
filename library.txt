@@ -19,23 +19,23 @@ Body = Civil rights groups allege people at the largest immigration detention ce
 End = true
 
 [LIBRARY RNEWS]
+Title = Italian and Brazilian authorities investigate possible Ebola cases as outbreak grows
+Body = The true reach of the Ebola outbreak in central Africa could be much wider than the official figures published by central African authorities, the World Health Organization is warning.
+End = true
+
+[LIBRARY RNEWS]
 Title = Dozens killed by blast in rebel-held Myanmar village
 Body = Authorities say the blast was likely caused by explosives used for mining that had been stored in a warehouse.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Losing a generation': Why some countries are moving fast on AI in schools
-Body = Countries in Asia are emerging as the world's early adopters of AI in education, as the global race to lead in the technology accelerates.
+Title = Discotek has Digimon Tamers- New Digital Remaster on Blu-ray, Dub First, Sub Later
+Body = https://twitter.com/x/status/2061504029386252338 Discotek Media has announced via social media that they have licensed Digimon Tamers. Like their releases of Seasons 1 and 2, various video work had been done to improve the quality of the dubbed version of the series for a new HD upscale.
 End = true
 
 [LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 34 Behind the Mask
-Body = https://twitter.com/x/status/2060881444164231202 Time for a preview for Episode 34 Behind the Mask! Watch episode 33 first!
-End = true
-
-[LIBRARY RNEWS]
-Title = Amphimon/Crystal Freezer/Frozen Crystal Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Amphimon/Crystal Freezer/Frozen Crystal.
+Title = Gusokumon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Gusokumon.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +44,12 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 33, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Amphimon/Crystal Freezer/Frozen Crystal Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Amphimon/Crystal Freezer/Frozen Crystal.
+Title = Classic Digimon Content Returns to Hulu [...]
+Body = A week ago: As often happens every year or two, various Digimon content was scheduled to leave Hulu, and did. Often right before, or right after, the various contracts are renewed, so we'll see what happens this time...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up Pre-Registration Campaign Part 3 Announced
-Body = A third pre-registration campaign has begun for Digimon Up! Pre-registrations can be done on either the Apple App Store (for iOS) & the Google Play Store (for Android.) The new pre-registration campaign has the following unlocks: At 600k preregistrations everyone will get 1000 bits.
+Title = Thetismon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Thetismon.
 End = true
 
