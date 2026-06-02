@@ -9,13 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Episode #303- Raitover There (Beatbreak Episode 33, Ultraman, Tamers Blu-ray, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 33, Digimon Tamers on Blu-ray, v-pet pre-orders plus an Ultraman x Digimon V-Pet announced, cards, Digimon Up news, & more! Plus your questions!
+Title = Trump rejects Iranian reports of peace talk suspension
+Body = Iranian state media is reporting that the country's government has halted negotiations with the United States over an end to the war in the Middle East, in protest over Israel's conduct in Lebanon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Hawkmon [...]
-Body = https://twitter.com/x/status/2061643969176518869 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Hawkmon!
+Title = UK's ex-US envoy slams 'bereft' Starmer leadership in new document drop
+Body = Among the more than 1,500 pages of documents were messages from Peter Mandelson voicing strong criticisms of Prime Minister Sir Keir Starmer's leadership of the UK government.
+End = true
+
+[LIBRARY RNEWS]
+Title = Race to develop Ebola vaccine as deadly strain of virus spreads
+Body = Nearly 250 people are suspected to have died, and more than 1,100 are infected with the rare strain of Ebola in the DRC and Uganda, though the true spread of the virus is feared to be much wider.
+End = true
+
+[LIBRARY RNEWS]
+Title = Ex-soldier, comedian and aspiring Martian is the Aussie face of Laos cave rescue
+Body = Josh Richards has made news for his diving and his interplanetary ambitions. Now he's using his skills to try to rescue others.
 End = true
 
 [LIBRARY RNEWS]
@@ -26,6 +36,16 @@ End = true
 [LIBRARY RNEWS]
 Title = Discotek has Digimon Tamers- New Digital Remaster on Blu-ray, Dub First, Sub Later
 Body = https://twitter.com/x/status/2061504029386252338 Discotek Media has announced via social media that they have licensed Digimon Tamers. Like their releases of Seasons 1 and 2, various video work had been done to improve the quality of the dubbed version of the series for a new HD upscale.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- Digimon Showcase, Hawkmon [...]
+Body = https://twitter.com/x/status/2061643969176518869 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Hawkmon!
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Episode #303- Raitover There (Beatbreak Episode 33, Ultraman, Tamers Blu-ray, & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 33, Digimon Tamers on Blu-ray, v-pet pre-orders plus an Ultraman x Digimon V-Pet announced, cards, Digimon Up news, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
