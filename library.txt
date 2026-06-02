@@ -9,23 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Inside the new 'ghost proxy' terror group 'we need to take seriously'
-Body = Australia would be the "perfect" target for a fledgling Islamist terror network that has carried out antisemitic attacks in Europe, the UK and Canada, experts have warned.
+Title = With the Will Podcast Episode #303- Raitover There (Beatbreak Episode 33, Ultraman, Tamers Blu-ray, & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 33, Digimon Tamers on Blu-ray, v-pet pre-orders plus an Ultraman x Digimon V-Pet announced, cards, Digimon Up news, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
-Title = Inhumane conditions at ICE detention camp, lawsuit says
-Body = Civil rights groups allege people at the largest immigration detention centre in Texas are being beaten, abused and denied medical care at the camp.
+Title = Digimon Up- Digimon Showcase, Hawkmon [...]
+Body = https://twitter.com/x/status/2061643969176518869 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Hawkmon!
 End = true
 
 [LIBRARY RNEWS]
-Title = Italian and Brazilian authorities investigate possible Ebola cases as outbreak grows
-Body = The true reach of the Ebola outbreak in central Africa could be much wider than the official figures published by central African authorities, the World Health Organization is warning.
-End = true
-
-[LIBRARY RNEWS]
-Title = Dozens killed by blast in rebel-held Myanmar village
-Body = Authorities say the blast was likely caused by explosives used for mining that had been stored in a warehouse.
+Title = Guardromon & Andromon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This...
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +31,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Gusokumon Preview for Digimon Card Game Booster Set EX-12
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Gusokumon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 33- Midsummer Ghost [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 33, Midsummer Ghost A preview of Episode 33 Episode 33 airs Sunday, May 31st, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Classic Digimon Content Returns to Hulu [...]
-Body = A week ago: As often happens every year or two, various Digimon content was scheduled to leave Hulu, and did. Often right before, or right after, the various contracts are renewed, so we'll see what happens this time...
-End = true
-
-[LIBRARY RNEWS]
-Title = Thetismon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Thetismon.
 End = true
 
