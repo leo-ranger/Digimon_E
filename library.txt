@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Heat-related deaths 'tip of the iceberg' in India as UN sends El Niño warning
+Body = India's deadly heatwave comes as the UN warns the world to prepare for a moderate to strong El Niño this year.
+End = true
+
+[LIBRARY RNEWS]
 Title = Israel and Hezbollah trade fire as Trump says US-Iran talks continue
 Body = Lebanese state media has reported Israeli strikes, some deadly, at about 30 locations in the country's south despite a partial ceasefire.
 End = true
@@ -19,37 +24,32 @@ Body = Moscow targeted Kyiv and other cities, killing multiple people, damaging 
 End = true
 
 [LIBRARY RNEWS]
-Title = Two men believed trapped in cave for nearly two weeks as rescue mission turns to vertical tunnels
-Body = Rescue efforts for two remaining men believed to be trapped in a cave in central Laos have shifted to investigating deep vertical tunnels in the jungle.
+Title = 'Even sleep is expensive': The challenge for a people forced to live in ruins
+Body = It's been seven months since the ceasefire in Gaza, but reconstruction has barely begun, water remains contaminated and minimal aid is getting into the strip. This is what life is like for its residents.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump's reportedly 'crazy' phone call to Netanyahu reminds world who calls the shots
-Body = Donald Trump's intervention in Benjamin Netanyahu's plans to strike Beirut goes to the heart of the relationship between the two sides, in that support may be limited, particularly if it threatens what the US president really wants.
-End = true
-
-[LIBRARY RNEWS]
-Title = Onibimon and Hanimon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's...
-End = true
-
-[LIBRARY RNEWS]
-Title = rant about dinosaurs on the internet [...]
-Body = I like dinosaurs, I'm not super into them, I can't name off that many types or can tell you which time period they come from, I just like them because they're cool. I like dinosaur digimon, and I think the first Jurassic park movie is amazing.
-End = true
-
-[LIBRARY RNEWS]
-Title = Mugendramon/Machinedramon Ace Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Mugendramon/Machinedramon Ace.
-End = true
-
-[LIBRARY RNEWS]
-Title = Discotek has Digimon Tamers- New Digital Remaster on Blu-ray, Dub First, Sub Later
-Body = https://twitter.com/x/status/2061504029386252338 Discotek Media has announced via social media that they have licensed Digimon Tamers. Like their releases of Seasons 1 and 2, various video work had been done to improve the quality of the dubbed version of the series for a new HD upscale.
+Title = Karakurumon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Karakurumon.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 33- Midsummer Ghost [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 33, Midsummer Ghost A preview of Episode 33 Episode 33 airs Sunday, May 31st, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- Digimon Showcase, Hawkmon [...]
+Body = https://twitter.com/x/status/2061643969176518869 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Hawkmon!
+End = true
+
+[LIBRARY RNEWS]
+Title = Kokeshimon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Kokeshimon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Discotek has Digimon Tamers- New Digital Remaster on Blu-ray, Dub First, Sub Later
+Body = https://twitter.com/x/status/2061504029386252338 Discotek Media has announced via social media that they have licensed Digimon Tamers. Like their releases of Seasons 1 and 2, various video work had been done to improve the quality of the dubbed version of the series for a new HD upscale.
 End = true
 
