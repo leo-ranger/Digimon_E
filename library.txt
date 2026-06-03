@@ -9,28 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump rejects Iranian reports of peace talk suspension
-Body = Iranian state media is reporting that the country's government has halted negotiations with the United States over an end to the war in the Middle East, in protest over Israel's conduct in Lebanon.
+Title = Israel and Hezbollah trade fire as Trump says US-Iran talks continue
+Body = Lebanese state media has reported Israeli strikes, some deadly, at about 30 locations in the country's south despite a partial ceasefire.
 End = true
 
 [LIBRARY RNEWS]
-Title = UK's ex-US envoy slams 'bereft' Starmer leadership in new document drop
-Body = Among the more than 1,500 pages of documents were messages from Peter Mandelson voicing strong criticisms of Prime Minister Sir Keir Starmer's leadership of the UK government.
+Title = Major Russian attack on Ukraine leaves at least 22 dead and dozens injured
+Body = Moscow targeted Kyiv and other cities, killing multiple people, damaging buildings and leaving wounded trapped under rubble, local authorities say.
 End = true
 
 [LIBRARY RNEWS]
-Title = Race to develop Ebola vaccine as deadly strain of virus spreads
-Body = Nearly 250 people are suspected to have died, and more than 1,100 are infected with the rare strain of Ebola in the DRC and Uganda, though the true spread of the virus is feared to be much wider.
+Title = Two men believed trapped in cave for nearly two weeks as rescue mission turns to vertical tunnels
+Body = Rescue efforts for two remaining men believed to be trapped in a cave in central Laos have shifted to investigating deep vertical tunnels in the jungle.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ex-soldier, comedian and aspiring Martian is the Aussie face of Laos cave rescue
-Body = Josh Richards has made news for his diving and his interplanetary ambitions. Now he's using his skills to try to rescue others.
+Title = Trump's reportedly 'crazy' phone call to Netanyahu reminds world who calls the shots
+Body = Donald Trump's intervention in Benjamin Netanyahu's plans to strike Beirut goes to the heart of the relationship between the two sides, in that support may be limited, particularly if it threatens what the US president really wants.
 End = true
 
 [LIBRARY RNEWS]
-Title = Guardromon & Andromon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This...
+Title = Onibimon and Hanimon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's...
+End = true
+
+[LIBRARY RNEWS]
+Title = rant about dinosaurs on the internet [...]
+Body = I like dinosaurs, I'm not super into them, I can't name off that many types or can tell you which time period they come from, I just like them because they're cool. I like dinosaur digimon, and I think the first Jurassic park movie is amazing.
+End = true
+
+[LIBRARY RNEWS]
+Title = Mugendramon/Machinedramon Ace Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Mugendramon/Machinedramon Ace.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +49,7 @@ Body = https://twitter.com/x/status/2061504029386252338 Discotek Media has annou
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Hawkmon [...]
-Body = https://twitter.com/x/status/2061643969176518869 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Hawkmon!
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #303- Raitover There (Beatbreak Episode 33, Ultraman, Tamers Blu-ray, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 33, Digimon Tamers on Blu-ray, v-pet pre-orders plus an Ultraman x Digimon V-Pet announced, cards, Digimon Up news, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Gusokumon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Gusokumon.
+Title = Digimon Beatbreak: Episode 33- Midsummer Ghost [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 33, Midsummer Ghost A preview of Episode 33 Episode 33 airs Sunday, May 31st, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
