@@ -9,38 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = 'Concerned' Australia to protest at China's ban on NZ MPs
+Body = Beijing's move to ban four New Zealand MPs from travelling to China, Hong Kong and Macau is largely unprecedented, causing alarm in Canberra and Wellington.
+End = true
+
+[LIBRARY RNEWS]
 Title = The US's slavery finding against Australia should come as no surprise
 Body = Donald Trump had been using tariffs to increase his power over other countries until America's Supreme Court stepped in. He was never going to cede that power easily.
 End = true
 
 [LIBRARY RNEWS]
-Title = Indonesian official behind meals program plagued by food poisoning arrested
-Body = The ex-chief of Indonesia's free school meals program linked to food poisoning cases has been arrested after a corruption probe.
+Title = Israel and Lebanon renew ceasefire but Hezbollah not present at talks
+Body = Lebanon and Israel have agreed to a ceasefire, according to a joint statement with the United States.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'A little perturbed': Trump confirms expletive-laden call with Netanyahu
-Body = In an interview with a US podcast, the US president says he was frustrated that Benjamin Netanyahu was "constantly fighting with Lebanon".
-End = true
-
-[LIBRARY RNEWS]
-Title = Delhi hotel fire kills at least 21 people, including foreigner visitors
-Body = More than 40 people were injured with some jumping out of the burning building to escape the flames.
-End = true
-
-[LIBRARY RNEWS]
-Title = Thunderballmon/Thundermon & Megadramon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure Taichi and Greymon GEM Figure Rerelease Announced- Pre-Orders Tomorrow
-Body = Megahouse has announced that the Digimon Adventure Taichi and Greymon GEM figure will be rereleased. It's been almost a decade since the figure originally came out.
-End = true
-
-[LIBRARY RNEWS]
-Title = Karakurumon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Karakurumon.
+Title = WHO says Ebola outbreak may have started as early as January
+Body = Militant attacks have hampered efforts to combat the Ebola outbreak in the Democratic Republic of Congo and Uganda.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +34,22 @@ Body = https://twitter.com/x/status/2061504029386252338 Discotek Media has annou
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 33- Midsummer Ghost [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 33, Midsummer Ghost A preview of Episode 33 Episode 33 airs Sunday, May 31st, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Thunderballmon/Thundermon & Megadramon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = HiAndromon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's HiAndromon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Card Battle 266- Digimon Card Game 16 Strong Decks
+Body = Digimon Card Battle is back with episode 266. This time, we return to Digimon Card Room, as Chiba and Maguro are joined by Hideyoshi, who plan to enter a 3 on 3 tournament together.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure Taichi and Greymon GEM Figure Rerelease Announced- Pre-Orders Tomorrow
+Body = Megahouse has announced that the Digimon Adventure Taichi and Greymon GEM figure will be rereleased. It's been almost a decade since the figure originally came out.
 End = true
 
