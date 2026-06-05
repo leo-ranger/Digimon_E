@@ -9,33 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = India's 'unsinkable carrier' could be 'devastating' for this tribe
+Body = India's Great Nicobar Island is home to one of the world's last isolated tribes who are believed to have lived there for thousands of years, but a rising China is set to see it undergo a major transformation at the Indian government's insistence.
+End = true
+
+[LIBRARY RNEWS]
 Title = Hezbollah rejects Lebanon ceasefire as Israeli strikes kill four
 Body = Iran has made a ceasefire in Lebanon a condition for any peace deal with Washington, and has suggested in recent days that it could intervene directly if Israel keeps up attacks there.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump slams bid to curb war powers, says Iran talks in 'final' phase
-Body = Donald Trump has condemned a House vote seeking to curb his war powers in Iran, as fresh fighting and diplomatic efforts unfold across the Middle East.
+Title = China warns Australia 55pc beef tariffs could apply within days
+Body = China is cracking down on beef imports and says it is ready to slap Australia with an additional 55 per cent tariff in the coming days.
 End = true
 
 [LIBRARY RNEWS]
-Title = China accuses US of 'smear' and distorting facts over Tiananmen Square
-Body = As vigils to mark the 37th anniversary were held around the world, Chinese authorities reportedly banned families of those who died in 1989 from visiting their graves.
+Title = Portugal and Austria defeat Germany for UN Security Council seats
+Body = Portugal and Austria have defeated Germany for seats on the powerful but deeply divided UN Security Council in a hotly contested race after intense campaigning.
 End = true
 
 [LIBRARY RNEWS]
-Title = Man presumed dead survives week on Mount Everest without food or oxygen
-Body = A Sherpa guide, presumed dead after failing to descend from Mount Everest, was found crawling down to base camp a week after he went missing.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Wormmon [...]
-Body = https://twitter.com/x/status/2062731142625652759 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Wormmon!
+Title = Mugendramon/Machinedramon Ace Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Mugendramon/Machinedramon Ace.
 End = true
 
 [LIBRARY RNEWS]
 Title = Random Commentary on Evolutionary Relationships V.6
 Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- Digimon Showcase, Wormmon [...]
+Body = https://twitter.com/x/status/2062731142625652759 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Wormmon!
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Card Game Tamer Battle Pack 32 & Official Store Tournament 2026 Vol. 3 Card Previews
 Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Chaosdramon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Chaosdramon.
 End = true
 
