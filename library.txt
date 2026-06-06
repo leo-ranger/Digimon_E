@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Anthropic calls for AI freeze with fears humans risk 'losing control'
+Body = As a major AI company warns of an increased risk of "humans losing control over AI systems", the Trump administration says it will accelerate the development and use of artificial intelligence for national security applications.
+End = true
+
+[LIBRARY RNEWS]
 Title = Putin says he sees 'no point' meeting Zelenskyy [...]
 Body = A Ukrainian naval drone has exploded in Romania's Black Sea port of Constanta, as European leaders warned the war in Ukraine is becoming a "direct threat" to countries along the EU's eastern border.
 End = true
@@ -24,13 +29,18 @@ Body = India's Great Nicobar Island is home to one of the world's last isolated 
 End = true
 
 [LIBRARY RNEWS]
-Title = What to know about the New World screwworm fly and its reappearance in the US
-Body = The New World screwworm fly is threatening the $US113 billion United States cattle industry for the first time in more than a half century.
+Title = WarGreymon & MetalGarurumon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 34 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 34, Behind the Mask, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
+Title = Omegamon/Omnimon & Susanoomon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Discotek has Digimon Tamers- New Digital Remaster on Blu-ray, Dub First, Sub Later
+Body = https://twitter.com/x/status/2061504029386252338 Discotek Media has announced via social media that they have licensed Digimon Tamers. Like their releases of Seasons 1 and 2, various video work had been done to improve the quality of the dubbed version of the series for a new HD upscale.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +49,7 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Purinui Plush Mascots- Out in September
-Body = Digimon Beatbreak Purinui Plush mascots are available to pre-order. All 4 Glowing Dawn partners include a carabiner to attach to a bag.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, June 8th [...]
-Body = Monday (June 8th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 34, plus updates & news for cards, Digimon Up, figures, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+Title = Digimon Beatbreak Episode 34 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 34, Behind the Mask, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
