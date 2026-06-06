@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Putin says he sees 'no point' meeting Zelenskyy [...]
+Body = A Ukrainian naval drone has exploded in Romania's Black Sea port of Constanta, as European leaders warned the war in Ukraine is becoming a "direct threat" to countries along the EU's eastern border.
+End = true
+
+[LIBRARY RNEWS]
+Title = Rare Xi trip to North Korea highlights warming ties with Kim regime
+Body = Kim Jong Un has been trying to improve ties with China, North Korea's biggest trading partner and provider of aid.
+End = true
+
+[LIBRARY RNEWS]
 Title = India's 'unsinkable carrier' could be 'devastating' for this tribe
 Body = India's Great Nicobar Island is home to one of the world's last isolated tribes who are believed to have lived there for thousands of years, but a rising China is set to see it undergo a major transformation at the Indian government's insistence.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hezbollah rejects Lebanon ceasefire as Israeli strikes kill four
-Body = Iran has made a ceasefire in Lebanon a condition for any peace deal with Washington, and has suggested in recent days that it could intervene directly if Israel keeps up attacks there.
+Title = What to know about the New World screwworm fly and its reappearance in the US
+Body = The New World screwworm fly is threatening the $US113 billion United States cattle industry for the first time in more than a half century.
 End = true
 
 [LIBRARY RNEWS]
-Title = China warns Australia 55pc beef tariffs could apply within days
-Body = China is cracking down on beef imports and says it is ready to slap Australia with an additional 55 per cent tariff in the coming days.
+Title = Digimon Beatbreak Episode 34 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 34, Behind the Mask, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Portugal and Austria defeat Germany for UN Security Council seats
-Body = Portugal and Austria have defeated Germany for seats on the powerful but deeply divided UN Security Council in a hotly contested race after intense campaigning.
+Title = Chaosdramon Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Chaosdramon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Mugendramon/Machinedramon Ace Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Mugendramon/Machinedramon Ace.
+Title = Digimon Beatbreak Purinui Plush Mascots- Out in September
+Body = Digimon Beatbreak Purinui Plush mascots are available to pre-order. All 4 Glowing Dawn partners include a carabiner to attach to a bag.
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Live- Monday, June 8th [...]
+Body = Monday (June 8th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 34, plus updates & news for cards, Digimon Up, figures, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
 Title = Random Commentary on Evolutionary Relationships V.6
 Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Wormmon [...]
-Body = https://twitter.com/x/status/2062731142625652759 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Wormmon!
-End = true
-
-[LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Game Tamer Battle Pack 32 & Official Store Tournament 2026 Vol. 3 Card Previews
-Body = ... [...] [...]
 End = true
 
