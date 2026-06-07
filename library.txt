@@ -9,28 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'We were so close': Laos cave rescue called off as conditions deteriorate
-Body = The search for two men trapped in a flooded cave in Laos has been postponed as rescuers say a "miracle" is needed.
+Title = Palestinian baby killed by Israeli gunfire in occupied West Bank, health ministry says
+Body = Israeli troops shot at a car in the occupied West Bank, killing a seven-month-old baby and wounding his parents, the Palestinian health ministry says.
 End = true
 
 [LIBRARY RNEWS]
-Title = Karen Read sues police for alleged misconduct over boyfriend's death
-Body = After being cleared of allegations she hit her police officer boyfriend and left him to die, Karen Read now claims agencies that investigated the incident were riddled with "bigotry, misogyny [and] systemic failures".
+Title = Multiple people shot near Ohio festival, US authorities say
+Body = Police are searching for multiple suspects after at least 12 people were injured in a shooting near the Old West End Festival in Toledo, Ohio.
 End = true
 
 [LIBRARY RNEWS]
-Title = No oxygen and just a few chocolates: Sherpa describes miracle Everest survival
-Body = A few chocolates found in his pocket and an avalanche may have been what saved Dawa Sherpa from almost certain death on Mount Everest.
+Title = India's 'cockroach' political movement spills onto Delhi's streets
+Body = India's largest online youth movement has taken to the streets for the first time, calling for the resignation of the education minister.
 End = true
 
 [LIBRARY RNEWS]
-Title = Patients 'chained' at Sri Lankan nursing home where 13 died in fire
-Body = A "chained" patient was among more than a dozen people who died during a fire at an unregistered nursing home in Sri Lanka, according to a staff member.
+Title = Ukraine renews attacks on St Petersburg after Putin rejects Zelenskyy meeting
+Body = A large-scale Ukrainian drone attack targets St Petersburg, with Russia intercepting 376 drones.
+End = true
+
+[LIBRARY RNEWS]
+Title = Discotek has Digimon Tamers- New Digital Remaster on Blu-ray, Dub First, Sub Later
+Body = https://twitter.com/x/status/2061504029386252338 Discotek Media has announced via social media that they have licensed Digimon Tamers. Like their releases of Seasons 1 and 2, various video work had been done to improve the quality of the dubbed version of the series for a new HD upscale.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 34- Behind the Mask [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 34, Behind the Mask A preview of Episode 34 Episode 34 airs Sunday, June 7th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Beatbreak Episode 34, Asuka Birthday, & June Social Art, Event, Cafe, & Figure Photos, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 34!
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Erlangmon, Token Kotenken, & Promo Poster Previews for Digimon Card Game Booster Set EX-12
 Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Booster Set EX-12... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = MarineBullmon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's MarineBullmon.
 End = true
 
