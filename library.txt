@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Anthropic calls for AI freeze with fears humans risk 'losing control'
-Body = As a major AI company warns of an increased risk of "humans losing control over AI systems", the Trump administration says it will accelerate the development and use of artificial intelligence for national security applications.
+Title = 'We were so close': Laos cave rescue called off as conditions deteriorate
+Body = The search for two men trapped in a flooded cave in Laos has been postponed as rescuers say a "miracle" is needed.
 End = true
 
 [LIBRARY RNEWS]
-Title = Putin says he sees 'no point' meeting Zelenskyy [...]
-Body = A Ukrainian naval drone has exploded in Romania's Black Sea port of Constanta, as European leaders warned the war in Ukraine is becoming a "direct threat" to countries along the EU's eastern border.
+Title = Karen Read sues police for alleged misconduct over boyfriend's death
+Body = After being cleared of allegations she hit her police officer boyfriend and left him to die, Karen Read now claims agencies that investigated the incident were riddled with "bigotry, misogyny [and] systemic failures".
 End = true
 
 [LIBRARY RNEWS]
-Title = Rare Xi trip to North Korea highlights warming ties with Kim regime
-Body = Kim Jong Un has been trying to improve ties with China, North Korea's biggest trading partner and provider of aid.
+Title = No oxygen and just a few chocolates: Sherpa describes miracle Everest survival
+Body = A few chocolates found in his pocket and an avalanche may have been what saved Dawa Sherpa from almost certain death on Mount Everest.
 End = true
 
 [LIBRARY RNEWS]
-Title = India's 'unsinkable carrier' could be 'devastating' for this tribe
-Body = India's Great Nicobar Island is home to one of the world's last isolated tribes who are believed to have lived there for thousands of years, but a rising China is set to see it undergo a major transformation at the Indian government's insistence.
+Title = Patients 'chained' at Sri Lankan nursing home where 13 died in fire
+Body = A "chained" patient was among more than a dozen people who died during a fire at an unregistered nursing home in Sri Lanka, according to a staff member.
 End = true
 
 [LIBRARY RNEWS]
-Title = WarGreymon & MetalGarurumon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set... [...]
+Title = Digimon Beatbreak: Episode 34- Behind the Mask [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 34, Behind the Mask A preview of Episode 34 Episode 34 airs Sunday, June 7th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Omegamon/Omnimon & Susanoomon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
+Title = Digimon Up Update- Pre-Registration Campaign Unlock 600k Tier
+Body = Digimon Up update! Pre-registrations have hit 600k, getting everyone 1000 bits.
 End = true
 
 [LIBRARY RNEWS]
-Title = Discotek has Digimon Tamers- New Digital Remaster on Blu-ray, Dub First, Sub Later
-Body = https://twitter.com/x/status/2061504029386252338 Discotek Media has announced via social media that they have licensed Digimon Tamers. Like their releases of Seasons 1 and 2, various video work had been done to improve the quality of the dubbed version of the series for a new HD upscale.
+Title = Erlangmon, Token Kotenken, & Promo Poster Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Booster Set EX-12... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Chaosdramon Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Chaosdramon.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 34 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 34, Behind the Mask, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
+Title = MarineBullmon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's MarineBullmon.
 End = true
 
