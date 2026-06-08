@@ -9,28 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Palestinian baby killed by Israeli gunfire in occupied West Bank, health ministry says
-Body = Israeli troops shot at a car in the occupied West Bank, killing a seven-month-old baby and wounding his parents, the Palestinian health ministry says.
+Title = Reports of explosions across Iran as Israel fires back following earlier strikes
+Body = The Israeli military has fired back at Iran, with state media reporting explosions in three cities after an Iranian strike on northern Israel this morning.
 End = true
 
 [LIBRARY RNEWS]
-Title = Multiple people shot near Ohio festival, US authorities say
-Body = Police are searching for multiple suspects after at least 12 people were injured in a shooting near the Old West End Festival in Toledo, Ohio.
+Title = Why sentiment in Japan has turned against foreigners despite a worker shortage
+Body = Japan's answer to One Nation skyrockets in popularity after adopting an anti-immigration stance, despite Japan needing foreign workers more than ever.
 End = true
 
 [LIBRARY RNEWS]
-Title = India's 'cockroach' political movement spills onto Delhi's streets
-Body = India's largest online youth movement has taken to the streets for the first time, calling for the resignation of the education minister.
+Title = Hundreds in Nigeria freed from militant group Boko Haram
+Body = Hundreds of men, women and children abducted by militant group Boko Haram have been rescued, according to the Nigerian military.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ukraine renews attacks on St Petersburg after Putin rejects Zelenskyy meeting
-Body = A large-scale Ukrainian drone attack targets St Petersburg, with Russia intercepting 376 drones.
+Title = Inside a Trump-linked plan to turn a communist-era military base into a luxe resort
+Body = Ivanka Trump has floated "manifestations" of luxury holidays. Meanwhile, Albanians are claiming "irreversible" ecological damage.
 End = true
 
 [LIBRARY RNEWS]
-Title = Discotek has Digimon Tamers- New Digital Remaster on Blu-ray, Dub First, Sub Later
-Body = https://twitter.com/x/status/2061504029386252338 Discotek Media has announced via social media that they have licensed Digimon Tamers. Like their releases of Seasons 1 and 2, various video work had been done to improve the quality of the dubbed version of the series for a new HD upscale.
+Title = Yena Mirror Mirror/Star Multi-Single Out This Week- Features Digimon Beatbreak ED3
+Body = We had missed this got announced. Mirror Mirror/Star is a multi-single from Yena, which features Mirror Mirror, the 3rd Digimon Beatbreak ED as one of its title tracks.
+End = true
+
+[LIBRARY RNEWS]
+Title = Greymon & Garurumon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time...
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 34, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 34, Asuka Birthday, & June Social Art, Event, Cafe, & Figure Photos, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 34!
+Title = Preview for Digimon Beatbreak Episode 35 Rampaging Instinct
+Body = https://twitter.com/x/status/2063418159953068299 Time for a preview for Episode 35 Rampaging Instinct! Watch episode 34 first!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up Update- Pre-Registration Campaign Unlock 600k Tier
-Body = Digimon Up update! Pre-registrations have hit 600k, getting everyone 1000 bits.
-End = true
-
-[LIBRARY RNEWS]
-Title = Erlangmon, Token Kotenken, & Promo Poster Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Booster Set EX-12... [...]
+Title = Discotek has Digimon Tamers- New Digital Remaster on Blu-ray, Dub First, Sub Later
+Body = https://twitter.com/x/status/2061504029386252338 Discotek Media has announced via social media that they have licensed Digimon Tamers. Like their releases of Seasons 1 and 2, various video work had been done to improve the quality of the dubbed version of the series for a new HD upscale.
 End = true
 
