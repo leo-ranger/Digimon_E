@@ -24,8 +24,8 @@ Body = Hundreds of men, women and children abducted by militant group Boko Haram
 End = true
 
 [LIBRARY RNEWS]
-Title = Inside a Trump-linked plan to turn a communist-era military base into a luxe resort
-Body = Ivanka Trump has floated "manifestations" of luxury holidays. Meanwhile, Albanians are claiming "irreversible" ecological damage.
+Title = Missing Melbourne teacher allegedly murdered by brother in India
+Body = Indian authorities allege Melbourne maths teacher Sunil Sharma was murdered by his brother and dumped in a canal. He had been in India to prepare a property for sale.
 End = true
 
 [LIBRARY RNEWS]
