@@ -9,28 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Both Israel and Iran seem to be outsmarting Trump [...]
+Body = The US president is in deepening trouble and he does not seem to know how to get himself out of it.
+End = true
+
+[LIBRARY RNEWS]
+Title = The bad blood between Poland and Ukraine left over from World War II
+Body = Poland is weighing whether to strip Ukrainian President Volodymyr Zelenskyy of its top honour for renaming an army unit after Ukrainian nationalist insurgents who massacred Poles in World War II.
+End = true
+
+[LIBRARY RNEWS]
+Title = The Taiwan crisis nobody is watching [...]
+Body = Taipei sits at the physical centre of the global AI economy but remains shut out of the diplomatic rooms where its sovereign rights are negotiated, often by others.
+End = true
+
+[LIBRARY RNEWS]
 Title = Iran and Israel stop trading blows but fighting continues in Lebanon
 Body = Israel and Iran have agreed to hold off attacks but Iran says it will not "retreat from any threat" and Israel warns it too it will "respond with full force" if attacks resume.
 End = true
 
 [LIBRARY RNEWS]
-Title = Armenia votes for pro-West party despite pressure from Russia
-Body = Prime Minister Nikol Pashinyan's party wins 49.8 per cent of votes, enough to secure a parliamentary majority under Armenia's electoral system.
+Title = Does anyone know the name of the song used in this commercial?
+Body = Sorry if this is only slightly digimon related. I have a feeling I've heard this song before, but I don't know the name so I can't look it up.
 End = true
 
 [LIBRARY RNEWS]
-Title = At least 35 dead after magnitude-7.8 earthquake hits Philippines
-Body = At least 35 people have been killed in a magnitude-7.8 earthquake that shook the Mindanao region in the southern Philippines, with a tsunami possible on some regional coasts.
-End = true
-
-[LIBRARY RNEWS]
-Title = Script reveals methods of Cambodian centre scamming Australians
-Body = Australian and Thai police release a script discovered in a Cambodian scam compound, revealing the high-pressure methods used to coerce Australian victims.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #304- A Gift for Whom (Beatbreak Episode 34 & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 34, plus updates & news for cards, Digimon Up, figures, & more! Plus your questions!
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = https://twitter.com/x/status/2064180694209925280 Another Digimon Up showc
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 34 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 34, Behind the Mask, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = rant about dinosaurs on the internet [...]
-Body = I like dinosaurs, I'm not super into them, I can't name off that many types or can tell you which time period they come from, I just like them because they're cool. I like dinosaur digimon, and I think the first Jurassic park movie is amazing.
-End = true
-
-[LIBRARY RNEWS]
 Title = Gasamon & Shellmon Previews for Digimon Card Game Booster Set EX-12
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 34- Behind the Mask [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 34, Behind the Mask A preview of Episode 34 Episode 34 airs Sunday, June 7th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
