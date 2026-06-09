@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Reports of explosions across Iran as Israel fires back following earlier strikes
-Body = The Israeli military has fired back at Iran, with state media reporting explosions in three cities after an Iranian strike on northern Israel this morning.
+Title = Iran and Israel stop trading blows but fighting continues in Lebanon
+Body = Israel and Iran have agreed to hold off attacks but Iran says it will not "retreat from any threat" and Israel warns it too it will "respond with full force" if attacks resume.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why sentiment in Japan has turned against foreigners despite a worker shortage
-Body = Japan's answer to One Nation skyrockets in popularity after adopting an anti-immigration stance, despite Japan needing foreign workers more than ever.
+Title = Armenia votes for pro-West party despite pressure from Russia
+Body = Prime Minister Nikol Pashinyan's party wins 49.8 per cent of votes, enough to secure a parliamentary majority under Armenia's electoral system.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hundreds in Nigeria freed from militant group Boko Haram
-Body = Hundreds of men, women and children abducted by militant group Boko Haram have been rescued, according to the Nigerian military.
+Title = At least 35 dead after magnitude-7.8 earthquake hits Philippines
+Body = At least 35 people have been killed in a magnitude-7.8 earthquake that shook the Mindanao region in the southern Philippines, with a tsunami possible on some regional coasts.
 End = true
 
 [LIBRARY RNEWS]
-Title = Missing Melbourne teacher allegedly murdered by brother in India
-Body = Indian authorities allege Melbourne maths teacher Sunil Sharma was murdered by his brother and dumped in a canal. He had been in India to prepare a property for sale.
+Title = Script reveals methods of Cambodian centre scamming Australians
+Body = Australian and Thai police release a script discovered in a Cambodian scam compound, revealing the high-pressure methods used to coerce Australian victims.
 End = true
 
 [LIBRARY RNEWS]
-Title = Yena Mirror Mirror/Star Multi-Single Out This Week- Features Digimon Beatbreak ED3
-Body = We had missed this got announced. Mirror Mirror/Star is a multi-single from Yena, which features Mirror Mirror, the 3rd Digimon Beatbreak ED as one of its title tracks.
+Title = With the Will Podcast Episode #304- A Gift for Whom (Beatbreak Episode 34 & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 34, plus updates & news for cards, Digimon Up, figures, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
-Title = Greymon & Garurumon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time...
+Title = Digimon Up- Digimon Showcase, Armadillomon/Armadimon
+Body = https://twitter.com/x/status/2064180694209925280 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Armadillomon/Armadimon!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 34- Behind the Mask [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 34, Behind the Mask A preview of Episode 34 Episode 34 airs Sunday, June 7th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Beatbreak Episode 34 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 34, Behind the Mask, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 35 Rampaging Instinct
-Body = https://twitter.com/x/status/2063418159953068299 Time for a preview for Episode 35 Rampaging Instinct! Watch episode 34 first!
+Title = rant about dinosaurs on the internet [...]
+Body = I like dinosaurs, I'm not super into them, I can't name off that many types or can tell you which time period they come from, I just like them because they're cool. I like dinosaur digimon, and I think the first Jurassic park movie is amazing.
 End = true
 
 [LIBRARY RNEWS]
-Title = Discotek has Digimon Tamers- New Digital Remaster on Blu-ray, Dub First, Sub Later
-Body = https://twitter.com/x/status/2061504029386252338 Discotek Media has announced via social media that they have licensed Digimon Tamers. Like their releases of Seasons 1 and 2, various video work had been done to improve the quality of the dubbed version of the series for a new HD upscale.
+Title = Gasamon & Shellmon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's...
 End = true
 
