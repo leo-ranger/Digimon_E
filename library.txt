@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Why Xi's visit to North Korea is a flex for a new world order
+Body = Xi Jinping and Kim Jong Un's bilateral talks in North Korea were a big departure from the Chinese president's usual diplomacy playbook because, for this first time this year, he was the one travelling abroad to make the meeting happen.
+End = true
+
+[LIBRARY RNEWS]
 Title = Eight killed in south Lebanon strike as Israel warns entire city to evacuate
 Body = For the first time, Israel's military has warned the entire city of Tyre to evacuate, causing thousands of people to flee.
 End = true
@@ -19,37 +24,32 @@ Body = A UN report finds that Palestinians are being subjected to "mass atrociti
 End = true
 
 [LIBRARY RNEWS]
-Title = Search for survivors as deadly Philippines quake displaces tens of thousands
-Body = Rescuers are combing through collapsed buildings in the southern Philippines after a powerful earthquake devastated coastal communities.
-End = true
-
-[LIBRARY RNEWS]
 Title = NASA announces Artemis III crew [...]
 Body = NASA has revealed the crew for its Artemis III mission, the next step in the US space agency's plan to eventually land astronauts on the moon.
 End = true
 
 [LIBRARY RNEWS]
+Title = Sanzomon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Sanzomon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Story: Time Stranger Switch 2 & 1 Demo Available
+Body = Demos for the Switch 2 & 1 versions of Digimon Story: Time Stranger were announced (2) earlier in the day, and versions on the US Nintendo eShop have now gone up (we expect it's also showing up in other regions, so check your local eShop.) This is the same demo we saw on other platforms before the game came out on those, which contains: 1- The first part of the game, and the save can be imported into the... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Official Digimon Web Poll #151- Favorite Five Stars Partner Digimon
+Body = Digimon Web has opened a new fan vote. This is the 151st official web poll on the current version of the site.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- Digimon Showcase, Armadillomon/Armadimon
+Body = https://twitter.com/x/status/2064180694209925280 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Armadillomon/Armadimon!
+End = true
+
+[LIBRARY RNEWS]
 Title = Takinmon & Hakubamon Previews for Digimon Card Game Booster Set EX-12
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 34 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 34, Behind the Mask, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = General fan-made Digimon thread. [...]
-Body = This is a thread for the various fan-made digimon profiles I've written up for my various projects. Some I plan to use in stories, some I just write and conceptualize for the hell of it.
-End = true
-
-[LIBRARY RNEWS]
-Title = Does anyone know the name of the song used in this commercial?
-Body = Sorry if this is only slightly digimon related. I have a feeling I've heard this song before, but I don't know the name so I can't look it up.
 End = true
 
