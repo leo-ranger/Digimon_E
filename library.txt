@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Prosecutors cast LA arson suspect as dejected loner, angry at society
+Body = Jonathan Rinderknecht's attorney countered that a hilltop blaze was triggered by fireworks, not his client, and that the massive Palisades inferno that killed 12 people was a separate fire set by others.
+End = true
+
+[LIBRARY RNEWS]
+Title = Stabbing victim's family calls for calm amid violent protests in Northern Ireland
+Body = The family of a Northern Irish man who lost an eye in a knife attack has appealed for calm after anti-immigrant violence in Belfast.
+End = true
+
+[LIBRARY RNEWS]
 Title = Trump says US secretly helped ships move oil through Strait of Hormuz
 Body = The US president says his military has been running a "secret mission" to help tankers and commercial ships defy Iran's blockade.
 End = true
@@ -19,28 +29,8 @@ Body = Four military intelligence officers are sentenced to up to three years in
 End = true
 
 [LIBRARY RNEWS]
-Title = Hong Kong authorities charge seven people over deadly 2025 fire
-Body = The seven people charged included directors and inspectors of a consultancy firm involved in the estate's renovation.
-End = true
-
-[LIBRARY RNEWS]
-Title = Bear attack in Japan car park captured on CCTV as cities record more wild encounters
-Body = Bear encounters are rising in Japan, and the problem is not confined to the wilderness.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Gekkomon [...]
-Body = https://twitter.com/x/status/2064905459396645231 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Gekkomon!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger Switch 2 & 1 Demo Available
-Body = Demos for the Switch 2 & 1 versions of Digimon Story: Time Stranger were announced (2) earlier in the day, and versions on the US Nintendo eShop have now gone up (we expect it's also showing up in other regions, so check your local eShop.) This is the same demo we saw on other platforms before the game came out on those, which contains: 1- The first part of the game, and the save can be imported into the... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Gammamon & BetelGammamon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set... [...]
+Title = Proximamon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Proximamon.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +39,17 @@ Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no mor
 End = true
 
 [LIBRARY RNEWS]
-Title = Official Digimon Web Poll #151- Favorite Five Stars Partner Digimon
-Body = Digimon Web has opened a new fan vote. This is the 151st official web poll on the current version of the site.
+Title = Digimon Beatbreak: Episode 35- Rampaging Instinct [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 35, Rampaging Instinct A preview of Episode 35 Episode 35 airs Sunday, June 14th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Canoweissmon Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Canoweissmon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Gammamon & BetelGammamon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set... [...]
 End = true
 
