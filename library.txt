@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why Xi's visit to North Korea is a flex for a new world order
-Body = Xi Jinping and Kim Jong Un's bilateral talks in North Korea were a big departure from the Chinese president's usual diplomacy playbook because, for this first time this year, he was the one travelling abroad to make the meeting happen.
+Title = Trump says US secretly helped ships move oil through Strait of Hormuz
+Body = The US president says his military has been running a "secret mission" to help tankers and commercial ships defy Iran's blockade.
 End = true
 
 [LIBRARY RNEWS]
-Title = Eight killed in south Lebanon strike as Israel warns entire city to evacuate
-Body = For the first time, Israel's military has warned the entire city of Tyre to evacuate, causing thousands of people to flee.
+Title = Military officers behind acid attack on Indonesian activist sentenced
+Body = Four military intelligence officers are sentenced to up to three years in jail, after they threw sulphuric acid over a human rights activist in a brazen attack in Central Jakarta.
 End = true
 
 [LIBRARY RNEWS]
-Title = UN inquiry finds Israeli forces shield settlers during attacks on Palestinians
-Body = A UN report finds that Palestinians are being subjected to "mass atrocities" by Israeli forces and being "violently repressed and controlled by the very faction that claims to govern them".
+Title = Hong Kong authorities charge seven people over deadly 2025 fire
+Body = The seven people charged included directors and inspectors of a consultancy firm involved in the estate's renovation.
 End = true
 
 [LIBRARY RNEWS]
-Title = NASA announces Artemis III crew [...]
-Body = NASA has revealed the crew for its Artemis III mission, the next step in the US space agency's plan to eventually land astronauts on the moon.
+Title = Bear attack in Japan car park captured on CCTV as cities record more wild encounters
+Body = Bear encounters are rising in Japan, and the problem is not confined to the wilderness.
 End = true
 
 [LIBRARY RNEWS]
-Title = Sanzomon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Sanzomon.
+Title = Digimon Up- Digimon Showcase, Gekkomon [...]
+Body = https://twitter.com/x/status/2064905459396645231 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Gekkomon!
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = Demos for the Switch 2 & 1 versions of Digimon Story: Time Stranger were 
 End = true
 
 [LIBRARY RNEWS]
+Title = Gammamon & BetelGammamon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
 Title = Official Digimon Web Poll #151- Favorite Five Stars Partner Digimon
 Body = Digimon Web has opened a new fan vote. This is the 151st official web poll on the current version of the site.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Armadillomon/Armadimon
-Body = https://twitter.com/x/status/2064180694209925280 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Armadillomon/Armadimon!
-End = true
-
-[LIBRARY RNEWS]
-Title = Takinmon & Hakubamon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time...
 End = true
 
