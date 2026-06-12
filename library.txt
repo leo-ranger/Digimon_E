@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Prosecutors cast LA arson suspect as dejected loner, angry at society
-Body = Jonathan Rinderknecht's attorney countered that a hilltop blaze was triggered by fireworks, not his client, and that the massive Palisades inferno that killed 12 people was a separate fire set by others.
+Title = 'It is what it is': Solomon Islands says it can't release details of China security deal
+Body = Prime Minister Matthew Wale says it is legally impossible to publish the final document because the Sogavare government made binding commitments to the Chinese government when it signed the agreement in 2022.
 End = true
 
 [LIBRARY RNEWS]
-Title = Stabbing victim's family calls for calm amid violent protests in Northern Ireland
-Body = The family of a Northern Irish man who lost an eye in a knife attack has appealed for calm after anti-immigrant violence in Belfast.
+Title = Thai court sentences two Uyghur men to death for 2015 Bangkok bombing
+Body = The men were accused of carrying out the attack on the popular Erawan Shrine that killed 20 people, many of whom were Chinese tourists.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says US secretly helped ships move oil through Strait of Hormuz
-Body = The US president says his military has been running a "secret mission" to help tankers and commercial ships defy Iran's blockade.
+Title = Ebola outbreak grows to almost 600 confirmed cases
+Body = In just two weeks the number of confirmed Ebola virus cases has increased more than eightfold, with at least 100 people now dead.
 End = true
 
 [LIBRARY RNEWS]
-Title = Military officers behind acid attack on Indonesian activist sentenced
-Body = Four military intelligence officers are sentenced to up to three years in jail, after they threw sulphuric acid over a human rights activist in a brazen attack in Central Jakarta.
+Title = 'Just chill, relax': Infantino defends World Cup visa issues, ticket prices
+Body = FIFA president Gianni Infantino defends soccer's governing body's handling of visa issues and ticket prices ahead of the World Cup.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+End = true
+
+[LIBRARY RNEWS]
+Title = Erlangmon, Nezhamon, & Takutoumon Parallel/Alt Art Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Erlangmon, Nezhamon, & Takutoumon.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +44,12 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
+Title = General fan-made Digimon thread. [...]
+Body = This is a thread for the various fan-made digimon profiles I've written up for my various projects. Some I plan to use in stories, some I just write and conceptualize for the hell of it.
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Rumble Arena fangame *read the first post before posting*
 Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 35- Rampaging Instinct [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 35, Rampaging Instinct A preview of Episode 35 Episode 35 airs Sunday, June 14th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Canoweissmon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Canoweissmon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Gammamon & BetelGammamon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set... [...]
 End = true
 
