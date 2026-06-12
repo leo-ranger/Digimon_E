@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Iran signals caution as Trump says peace deal could come 'this weekend' — as it happened
+Body = Iran says a final decision has not yet been made on a possible peace agreement with the US, after Donald Trump claimed one could be signed this weekend. Read how events unfolded on Friday, June 12.
+End = true
+
+[LIBRARY RNEWS]
+Title = UK minister's shock exit derails Australians' defence visit
+Body = Defence Minister Richard Marles's visit to the United Kingdom has been thrown into chaos after his British counterpart John Healey resigned hours before they were due to speak.
+End = true
+
+[LIBRARY RNEWS]
+Title = US forecasters say potentially record-breaking El Niño underway
+Body = There is a high chance this year's Pacific climate phenomenon will be among the strongest on record, which could lead to hotter temperatures across the globe.
+End = true
+
+[LIBRARY RNEWS]
 Title = 'It is what it is': Solomon Islands says it can't release details of China security deal
 Body = Prime Minister Matthew Wale says it is legally impossible to publish the final document because the Sogavare government made binding commitments to the Chinese government when it signed the agreement in 2022.
 End = true
 
 [LIBRARY RNEWS]
-Title = Thai court sentences two Uyghur men to death for 2015 Bangkok bombing
-Body = The men were accused of carrying out the attack on the popular Erawan Shrine that killed 20 people, many of whom were Chinese tourists.
-End = true
-
-[LIBRARY RNEWS]
-Title = Ebola outbreak grows to almost 600 confirmed cases
-Body = In just two weeks the number of confirmed Ebola virus cases has increased more than eightfold, with at least 100 people now dead.
-End = true
-
-[LIBRARY RNEWS]
-Title = 'Just chill, relax': Infantino defends World Cup visa issues, ticket prices
-Body = FIFA president Gianni Infantino defends soccer's governing body's handling of visa issues and ticket prices ahead of the World Cup.
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
-Title = Erlangmon, Nezhamon, & Takutoumon Parallel/Alt Art Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Erlangmon, Nezhamon, & Takutoumon.
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
 [LIBRARY RNEWS]
-Title = Proximamon Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Proximamon.
+Title = Official Digimon Web Poll #151- Favorite Five Stars Partner Digimon
+Body = Digimon Web has opened a new fan vote. This is the 151st official web poll on the current version of the site.
 End = true
 
 [LIBRARY RNEWS]
-Title = General fan-made Digimon thread. [...]
-Body = This is a thread for the various fan-made digimon profiles I've written up for my various projects. Some I plan to use in stories, some I just write and conceptualize for the hell of it.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Tachikawa Showa Kinen Park Fireworks Festival Announces All Digimon Collaboration for 2026 Event on July 25th
+Body = It's been announced there will be a Digimon collaboration with the 65th Tachikawa Showa Kinen Park Fireworks Festival. The fireworks festival will be on July 25th at Showa Kinen Park.
 End = true
 
