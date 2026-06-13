@@ -29,6 +29,11 @@ Body = Princess Bajrakitiyabha Narendira Debyavati, who had spent the past three
 End = true
 
 [LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
 Title = Agumon & Gabumon Previews for Digimon Card Game Booster Set EX-12
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's...
 End = true
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Kaguyamon, Amaterasumon, & Ryugumon Parallel/Alt Art Previews for Digimon Card Game Booster Set EX-12
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Kaguyamon, Amaterasumon, & Ryugumon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
