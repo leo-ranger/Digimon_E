@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = SpaceX surges past $US2 trillion in Nasdaq debut, closing in on Amazon
-Body = "SpaceX wants to be able to take you to the Moon, take you to Mars, and ultimately beyond," Elon Musk says at a launch event in Starbase, Texas.
+Title = US and Iran edge closer to peace deal, though Tehran disputes timing
+Body = Pakistan's Prime Minister Shehbaz Sharif says a deal aimed at ending the war in the Middle East is closer than "ever before" and is expected to be finalised within 24 hours.
 End = true
 
 [LIBRARY RNEWS]
-Title = Two dead after Taliban opens fire on dress code violation protest
-Body = The protest followed the arrests of dozens of women for alleged dress code violation in the Afghan city of Herat.
+Title = Australia's AI access cut after Trump order [...]
+Body = The US government restrictions cite national security concerns over the AI models Fable 5 and Mythos 5.
 End = true
 
 [LIBRARY RNEWS]
-Title = David Hockney, giant of British art, dies aged 88 [...]
-Body = British artist David Hockney, whose paintings of pools shimmering in the Los Angeles sunshine became icons of 20th-century art, dies aged 88.
+Title = Why the Swiss population cap is dividing the nation
+Body = The Swiss will go to the polls on Sunday to vote on whether to back a referendum that would see its population capped at 10 million.
 End = true
 
 [LIBRARY RNEWS]
-Title = Thai king's eldest daughter dies after long illness
-Body = Princess Bajrakitiyabha Narendira Debyavati, who had spent the past three and a half years in a coma due to a heart condition, is being remembered for her efforts to improve the livelihoods of female prisoners and her diplomatic career.
+Title = Trump says US has killed leader of Venezuelan drug cartel in air strike
+Body = The US president said he would continue to track down Tren de Aragua members and "send them to the depths of hell where they belong".
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = Agumon & Gabumon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's...
+Title = MetalGarurumon, Omegamon/Omnimon, & WarGreymon Parallel/Alt Art Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's MetalGarurumon, Omegamon/Omnimon, & WarGreymon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 35 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 35, Rampaging Instinct, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
+Title = Digimon Beatbreak: Episode 35- Rampaging Instinct [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 35, Rampaging Instinct A preview of Episode 35 Episode 35 airs Sunday, June 14th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Live- Sunday, June 14th [...]
-Body = Sunday (June 14th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 35, Digimon Story: Time Stranger demo for Switch 2 & 1, card previews, & more! Sunday instead of our normal Monday!
+Title = Digimon Up- Digimon Showcase, Greymon [...]
+Body = https://twitter.com/x/status/2065954874622165214 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Greymon!
 End = true
 
 [LIBRARY RNEWS]
-Title = Kaguyamon, Amaterasumon, & Ryugumon Parallel/Alt Art Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Kaguyamon, Amaterasumon, & Ryugumon.
+Title = Giant Meat Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Giant Meat.
 End = true
 
