@@ -29,13 +29,8 @@ Body = The US president said he would continue to track down Tren de Aragua memb
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
-End = true
-
-[LIBRARY RNEWS]
-Title = MetalGarurumon, Omegamon/Omnimon, & WarGreymon Parallel/Alt Art Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's MetalGarurumon, Omegamon/Omnimon, & WarGreymon.
+Title = Digimon D3 Digivice transparent blue [...]
+Body = Hello all I've been trying to sell this Digimon digivice on eBay for some tim. I asked a seller who was selling similar items how much it was worth and they told me it was pretty rare and would value at about £350.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +39,17 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 35, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Greymon [...]
-Body = https://twitter.com/x/status/2065954874622165214 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Greymon!
+Title = MetalGarurumon, Omegamon/Omnimon, & WarGreymon Parallel/Alt Art Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's MetalGarurumon, Omegamon/Omnimon, & WarGreymon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Giant Meat Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Giant Meat.
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Beatbreak Episode 35 & Miharu Birthday Social Art, Reference Book Updates, Museum Photos, Catch-Up for the Week, & More!
+Body = Time for a weekend batch! We start with some Digimon Beatbreak art for episode 35!
 End = true
 
