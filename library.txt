@@ -9,8 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US and Iran announce ceasefire and plans to reopen Strait of Hormuz
-Body = The United States and Iran reach an agreement to end the war and open the Strait of Hormuz, offering relief to the global economy after three months of fighting.
+Title = Plans to open Strait of Hormuz after US-Iran ceasefire reached — as it happened
+Body = Pakistan, which has been negotiating peace talks between the US and Iran, says a deal to end the war has been agreed.
+End = true
+
+[LIBRARY RNEWS]
+Title = China's ability to hit Australia with missiles 'real and growing'
+Body = New analysis warns that China's military is developing a "real and growing" ability to hit the Australian mainland with missiles, and can already threaten Australia's trade routes, subsea cables and critical infrastructure.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,28 +24,8 @@ Body = The country is taking a big step in its efforts to address gay rights but
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran briefing: Before the ceasefire, Trump resumed dropping f-bombs
-Body = Donald Trump is reported to unleash another expletive-laden outburst at Benjamin Netanyahu over Israeli strikes as the US and Iran finalise a peace deal.
-End = true
-
-[LIBRARY RNEWS]
 Title = Palestinians fear 'archaeology has become a tool' in Israel's plans for West Bank
 Body = Palestinians believe there is more to Israel's recently announced plans to develop heritage sites along the West Bank, arguing archaeology has "become a tool, a mechanism, to justify settlement and justify the displacement of Palestinians" across the area.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 35- Rampaging Instinct [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 35, Rampaging Instinct A preview of Episode 35 Episode 35 airs Sunday, June 14th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #305- Bombermon Hero (Beatbreak Episode 35, Time Stranger Demos, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 35, Digimon Story: Time Stranger demo for Switch 2 & 1, card previews, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +34,22 @@ Body = Time to start a new thread from: https://withthewill.net/threads/random-c
 End = true
 
 [LIBRARY RNEWS]
-Title = Proximamon Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Proximamon.
+Title = Giant Meat Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Giant Meat.
+End = true
+
+[LIBRARY RNEWS]
+Title = Official Digimon Web Poll #151- Favorite Five Stars Partner Digimon
+Body = Digimon Web has opened a new fan vote. This is the 151st official web poll on the current version of the site.
+End = true
+
+[LIBRARY RNEWS]
+Title = Gammamon & BetelGammamon Previews for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Beatbreak Episode 35 & Miharu Birthday Social Art, Reference Book Updates, Museum Photos, Catch-Up for the Week, & More!
+Body = Time for a weekend batch! We start with some Digimon Beatbreak art for episode 35!
 End = true
 
