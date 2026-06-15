@@ -9,28 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US and Iran edge closer to peace deal, though Tehran disputes timing
-Body = Pakistan's Prime Minister Shehbaz Sharif says a deal aimed at ending the war in the Middle East is closer than "ever before" and is expected to be finalised within 24 hours.
+Title = US and Iran announce ceasefire and plans to reopen Strait of Hormuz
+Body = The United States and Iran reach an agreement to end the war and open the Strait of Hormuz, offering relief to the global economy after three months of fighting.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australia's AI access cut after Trump order [...]
-Body = The US government restrictions cite national security concerns over the AI models Fable 5 and Mythos 5.
+Title = Japan to roll out nationwide LGBTQIA+ education for the first time
+Body = The country is taking a big step in its efforts to address gay rights but not everyone is convinced it goes far enough.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why the Swiss population cap is dividing the nation
-Body = The Swiss will go to the polls on Sunday to vote on whether to back a referendum that would see its population capped at 10 million.
+Title = Iran briefing: Before the ceasefire, Trump resumed dropping f-bombs
+Body = Donald Trump is reported to unleash another expletive-laden outburst at Benjamin Netanyahu over Israeli strikes as the US and Iran finalise a peace deal.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says US has killed leader of Venezuelan drug cartel in air strike
-Body = The US president said he would continue to track down Tren de Aragua members and "send them to the depths of hell where they belong".
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon D3 Digivice transparent blue [...]
-Body = Hello all I've been trying to sell this Digimon digivice on eBay for some tim. I asked a seller who was selling similar items how much it was worth and they told me it was pretty rare and would value at about £350.
+Title = Palestinians fear 'archaeology has become a tool' in Israel's plans for West Bank
+Body = Palestinians believe there is more to Israel's recently announced plans to develop heritage sites along the West Bank, arguing archaeology has "become a tool, a mechanism, to justify settlement and justify the displacement of Palestinians" across the area.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +34,22 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 35, 
 End = true
 
 [LIBRARY RNEWS]
-Title = MetalGarurumon, Omegamon/Omnimon, & WarGreymon Parallel/Alt Art Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's MetalGarurumon, Omegamon/Omnimon, & WarGreymon.
-End = true
-
-[LIBRARY RNEWS]
 Title = Digimon Channel: Pics and Translation Thread [...]
 Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 35 & Miharu Birthday Social Art, Reference Book Updates, Museum Photos, Catch-Up for the Week, & More!
-Body = Time for a weekend batch! We start with some Digimon Beatbreak art for episode 35!
+Title = With the Will Podcast Episode #305- Bombermon Hero (Beatbreak Episode 35, Time Stranger Demos, & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 35, Digimon Story: Time Stranger demo for Switch 2 & 1, card previews, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+End = true
+
+[LIBRARY RNEWS]
+Title = Proximamon Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Proximamon.
 End = true
 
