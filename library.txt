@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump and Iran sign deal, sparking anger in Israel as G7 begins
-Body = Conflicting information is being released about the US-Iran ceasefire agreement announced at the weekend, including whether Iran will introduce tolls on the Strait of Hormuz in the future.
+Title = Strike on UNESCO-listed cathedral leaves another cultural scar on Ukraine
+Body = The historic Dormition Cathedral of the Kyiv-Pechersk Lavra suffered "extensive" damage in an attack Ukraine says was targeted at erasing its cultural heritage and identity.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump denies reports of US payout to Iran, Hezbollah launches rockets at Israeli troops — as it happened
-Body = US President Donald Trump rejects reports that Iran could have access to a $300 billion reconstruction fund, calling it "fake news" in a post on Truth Social.
+Title = Reflecting Pool was painted 'American flag blue' for $20m before turning green
+Body = A $20 million renovation of Washington, DC's Reflecting Pool set out to fix leaks and turn the water blue. Mother Nature had other plans.
 End = true
 
 [LIBRARY RNEWS]
-Title = Heritage-listed Ukrainian monastery severely damaged by Russian strike
-Body = Four people are dead after a Russian strike hit a 900-year-old monastery in central Kyiv.
+Title = The ceasefire deal shows one country's influence and it isn't the US or Iran
+Body = Chinese, Russian and Iranian officials met about a day before the deal was publicly announced, with experts saying it proves Beijing and Moscow helped shape the agreement.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Sharp increase' in drone strikes leads to 1,000 civilian deaths in Sudan
-Body = The United Nations condemns an increase in drone attacks in Sudan, where four years of war has created the world's largest displacement and hunger crises.
+Title = Solomon Islands PM floats Pacific-wide security treaty in sharp pivot
+Body = Solomon Islands's new prime minister raises the idea of a Pacific-wide security treaty while meeting Prime Minister Anthony Albanese this month.
+End = true
+
+[LIBRARY RNEWS]
+Title = Erlangmon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- Digimon Showcase, Garurumon [...]
+Body = https://twitter.com/x/status/2066717405091381752 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Garurumon!
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Nezhamon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This...
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
-End = true
-
-[LIBRARY RNEWS]
-Title = Official Digimon Web Poll #151- Favorite Five Stars Partner Digimon
-Body = Digimon Web has opened a new fan vote. This is the 151st official web poll on the current version of the site.
 End = true
 
