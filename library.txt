@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Plans to open Strait of Hormuz after US-Iran ceasefire reached — as it happened
-Body = Pakistan, which has been negotiating peace talks between the US and Iran, says a deal to end the war has been agreed.
+Title = Trump and Iran sign deal, sparking anger in Israel as G7 begins
+Body = Conflicting information is being released about the US-Iran ceasefire agreement announced at the weekend, including whether Iran will introduce tolls on the Strait of Hormuz in the future.
 End = true
 
 [LIBRARY RNEWS]
-Title = China's ability to hit Australia with missiles 'real and growing'
-Body = New analysis warns that China's military is developing a "real and growing" ability to hit the Australian mainland with missiles, and can already threaten Australia's trade routes, subsea cables and critical infrastructure.
+Title = Trump denies reports of US payout to Iran, Hezbollah launches rockets at Israeli troops — as it happened
+Body = US President Donald Trump rejects reports that Iran could have access to a $300 billion reconstruction fund, calling it "fake news" in a post on Truth Social.
 End = true
 
 [LIBRARY RNEWS]
-Title = Japan to roll out nationwide LGBTQIA+ education for the first time
-Body = The country is taking a big step in its efforts to address gay rights but not everyone is convinced it goes far enough.
+Title = Heritage-listed Ukrainian monastery severely damaged by Russian strike
+Body = Four people are dead after a Russian strike hit a 900-year-old monastery in central Kyiv.
 End = true
 
 [LIBRARY RNEWS]
-Title = Palestinians fear 'archaeology has become a tool' in Israel's plans for West Bank
-Body = Palestinians believe there is more to Israel's recently announced plans to develop heritage sites along the West Bank, arguing archaeology has "become a tool, a mechanism, to justify settlement and justify the displacement of Palestinians" across the area.
+Title = 'Sharp increase' in drone strikes leads to 1,000 civilian deaths in Sudan
+Body = The United Nations condemns an increase in drone attacks in Sudan, where four years of war has created the world's largest displacement and hunger crises.
 End = true
 
 [LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
+Title = Nezhamon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This...
+End = true
+
+[LIBRARY RNEWS]
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+End = true
+
+[LIBRARY RNEWS]
 Title = Official Digimon Web Poll #151- Favorite Five Stars Partner Digimon
 Body = Digimon Web has opened a new fan vote. This is the 151st official web poll on the current version of the site.
-End = true
-
-[LIBRARY RNEWS]
-Title = Gammamon & BetelGammamon Previews for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 35 & Miharu Birthday Social Art, Reference Book Updates, Museum Photos, Catch-Up for the Week, & More!
-Body = Time for a weekend batch! We start with some Digimon Beatbreak art for episode 35!
 End = true
 
