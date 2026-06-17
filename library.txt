@@ -19,13 +19,28 @@ Body = The US president levels more criticism at Israel's prime minister and sug
 End = true
 
 [LIBRARY RNEWS]
+Title = A close look at Iran's 14-point plan reveals what Tehran could gain
+Body = Iran agreeing to a ceasefire deal with the United States tells us Tehran likely had something to gain from signing on. This is what Iran is promoting as the 14-point deal.
+End = true
+
+[LIBRARY RNEWS]
 Title = Russian frigate fires warning shots near UK waters to avert yacht collision
 Body = Britain and Russia have issued statements to confirm that a Russian frigate fired warning shots to divert a UK-flagged civilian yacht near British territorial waters on Tuesday.
 End = true
 
 [LIBRARY RNEWS]
-Title = Time for Russia to make a deal to end Ukraine war, Trump says
-Body = Donald Trump says Moscow should "make a deal" to end the war with Ukraine as G7 leaders have agreed to intensify pressure on Russia.
+Title = Digimon Card Battle 268- Learning About Digital World Shambala
+Body = Digimon Card Battle is back with episode 268. This time, we return to Digimon Card Room, as Chiba and Maguro are joined by Sasaki.
+End = true
+
+[LIBRARY RNEWS]
+Title = think we'll ever see the trailmon again? [...]
+Body = i love locomon, but i love the personality the trailmon types brought to the field. i know anything related to frontier is pretty controversial but i loved them myself, the concept of the only form of transportation being complete cowards and straight up refusing to take you anywhere?
+End = true
+
+[LIBRARY RNEWS]
+Title = Amaterasumon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster... [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Ryugumon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Season 3 (English) Remastered Blu-ray Out on August 25th from Discotek, Pre-Orders Open
-Body = After being announced earlier this month, pre-orders are open for the Blu-ray release of the English version of Digimon Season 3 (Tamers.) The set includes all of the English dub of Tamers, as many people would have seen on Fox Kids, Fox Family, ABC Family, Jetix, and more (to say nothing of various places on streaming over so many years.) https://twitter.com/x/status/2066959356252594450 Like previous Digimon Blu-rays from... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Takutoumon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Erlangmon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12... [...]
 End = true
 
