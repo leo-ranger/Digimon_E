@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Strike on UNESCO-listed cathedral leaves another cultural scar on Ukraine
-Body = The historic Dormition Cathedral of the Kyiv-Pechersk Lavra suffered "extensive" damage in an attack Ukraine says was targeted at erasing its cultural heritage and identity.
+Title = The ultimate 'infidel' killed Khamenei. These women want revenge on Trump
+Body = As we journey into the heart of Iran, we meet the women who support the clerics and want revenge on the man who killed Ayatollah Ali Khamenei.
 End = true
 
 [LIBRARY RNEWS]
-Title = Reflecting Pool was painted 'American flag blue' for $20m before turning green
-Body = A $20 million renovation of Washington, DC's Reflecting Pool set out to fix leaks and turn the water blue. Mother Nature had other plans.
+Title = Trump intensifies pressure on Netanyahu over Lebanon attacks
+Body = The US president levels more criticism at Israel's prime minister and suggests asking Syria to take on Hezbollah "if Israel can't do the job without killing everyone else".
 End = true
 
 [LIBRARY RNEWS]
-Title = The ceasefire deal shows one country's influence and it isn't the US or Iran
-Body = Chinese, Russian and Iranian officials met about a day before the deal was publicly announced, with experts saying it proves Beijing and Moscow helped shape the agreement.
+Title = Russian frigate fires warning shots near UK waters to avert yacht collision
+Body = Britain and Russia have issued statements to confirm that a Russian frigate fired warning shots to divert a UK-flagged civilian yacht near British territorial waters on Tuesday.
 End = true
 
 [LIBRARY RNEWS]
-Title = Solomon Islands PM floats Pacific-wide security treaty in sharp pivot
-Body = Solomon Islands's new prime minister raises the idea of a Pacific-wide security treaty while meeting Prime Minister Anthony Albanese this month.
+Title = Time for Russia to make a deal to end Ukraine war, Trump says
+Body = Donald Trump says Moscow should "make a deal" to end the war with Ukraine as G7 leaders have agreed to intensify pressure on Russia.
+End = true
+
+[LIBRARY RNEWS]
+Title = Poll Results for Favorite Guest Digimon from Beatbreak Episodes 13 through 24
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Guest Digimon from Beatbreak Episodes 13 through 24! Recently the poll closed and we have the results!
+End = true
+
+[LIBRARY RNEWS]
+Title = Ryugumon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Season 3 (English) Remastered Blu-ray Out on August 25th from Discotek, Pre-Orders Open
+Body = After being announced earlier this month, pre-orders are open for the Blu-ray release of the English version of Digimon Season 3 (Tamers.) The set includes all of the English dub of Tamers, as many people would have seen on Fox Kids, Fox Family, ABC Family, Jetix, and more (to say nothing of various places on streaming over so many years.) https://twitter.com/x/status/2066959356252594450 Like previous Digimon Blu-rays from... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Takutoumon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12... [...]
 End = true
 
 [LIBRARY RNEWS]
 Title = Erlangmon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Garurumon [...]
-Body = https://twitter.com/x/status/2066717405091381752 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Garurumon!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
-End = true
-
-[LIBRARY RNEWS]
-Title = Giant Meat Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Giant Meat.
-End = true
-
-[LIBRARY RNEWS]
-Title = Nezhamon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This...
 End = true
 
