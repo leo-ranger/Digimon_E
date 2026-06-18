@@ -9,38 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = The ultimate 'infidel' killed Khamenei. These women want revenge on Trump
-Body = As we journey into the heart of Iran, we meet the women who support the clerics and want revenge on the man who killed Ayatollah Ali Khamenei.
+Title = 'It's signed': US and Iran agree to end war within 60 days
+Body = The US and Iran have signed a memorandum of understanding to end the war and reopen the Strait of Hormuz.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump intensifies pressure on Netanyahu over Lebanon attacks
-Body = The US president levels more criticism at Israel's prime minister and suggests asking Syria to take on Hezbollah "if Israel can't do the job without killing everyone else".
+Title = US-Iran deal covers Lebanon, Strait of Hormuz and Iran's uranium
+Body = The presidents of the United States and Iran have officially signed a memorandum of understanding aimed at ending the war and reopening the Strait of Hormuz.
 End = true
 
 [LIBRARY RNEWS]
-Title = A close look at Iran's 14-point plan reveals what Tehran could gain
-Body = Iran agreeing to a ceasefire deal with the United States tells us Tehran likely had something to gain from signing on. This is what Iran is promoting as the 14-point deal.
+Title = US releases text of ceasefire deal struck with Iran
+Body = A senior US official says both sides of the war can still walk away from the agreement, which contains 14 points.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian frigate fires warning shots near UK waters to avert yacht collision
-Body = Britain and Russia have issued statements to confirm that a Russian frigate fired warning shots to divert a UK-flagged civilian yacht near British territorial waters on Tuesday.
+Title = Cambodia says 310,000 suspected scammers left country amid crackdown
+Body = A report by Amnesty International casts doubt on the impact of Cambodia's high-profile scam industry crackdown, finding authorities failed to dismantle the "vast majority" of operations.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Battle 268- Learning About Digital World Shambala
-Body = Digimon Card Battle is back with episode 268. This time, we return to Digimon Card Room, as Chiba and Maguro are joined by Sasaki.
+Title = The A.I. Raven - [Original Fiction/Digimon Homage]
+Body = Synopsis: As his winter semester nears its end, Adrian Ritter finds his class project ruined for unknown reasons. That same day, he realizes something is inside his computer, and it can talk.
 End = true
 
 [LIBRARY RNEWS]
-Title = think we'll ever see the trailmon again? [...]
-Body = i love locomon, but i love the personality the trailmon types brought to the field. i know anything related to frontier is pretty controversial but i loved them myself, the concept of the only form of transportation being complete cowards and straight up refusing to take you anywhere?
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
 [LIBRARY RNEWS]
-Title = Amaterasumon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster... [...]
+Title = Susanoomon Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Susanoomon.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +49,7 @@ Body = A bit ago, the official Digimon site put up a poll for your Favorite Gues
 End = true
 
 [LIBRARY RNEWS]
-Title = Ryugumon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This...
+Title = Digimon Beatbreak: Episode 35- Rampaging Instinct [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 35, Rampaging Instinct A preview of Episode 35 Episode 35 airs Sunday, June 14th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
