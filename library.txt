@@ -19,13 +19,28 @@ Body = The presidents of the United States and Iran have officially signed a mem
 End = true
 
 [LIBRARY RNEWS]
-Title = US releases text of ceasefire deal struck with Iran
-Body = A senior US official says both sides of the war can still walk away from the agreement, which contains 14 points.
+Title = Cambodia says 310,000 suspected scammers left country amid crackdown
+Body = A report by Amnesty International casts doubt on the impact of Cambodia's high-profile scam industry crackdown, finding authorities failed to dismantle the "vast majority" of operations.
 End = true
 
 [LIBRARY RNEWS]
-Title = Cambodia says 310,000 suspected scammers left country amid crackdown
-Body = A report by Amnesty International casts doubt on the impact of Cambodia's high-profile scam industry crackdown, finding authorities failed to dismantle the "vast majority" of operations.
+Title = Serial killer jailed for life over eight Long Island murders
+Body = A New York architect was sentenced to three consecutive life sentences plus 100 years after pleading guilty to the murders of at least eight women in Long Island's Gilgo Beach.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 36- Twisted Code [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 36, Twisted Code A preview of Episode 36 Episode 36 airs Sunday, June 21st, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Original New Wave 2 V-Pet Details & Images- Out July in Japan, No Date Yet for US
+Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Susanoomon Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Susanoomon.
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Random Commentary on Evolutionary Relationships V.6
 Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
-End = true
-
-[LIBRARY RNEWS]
-Title = Susanoomon Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-12
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set EX-12. This time it's Susanoomon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Poll Results for Favorite Guest Digimon from Beatbreak Episodes 13 through 24
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Guest Digimon from Beatbreak Episodes 13 through 24! Recently the poll closed and we have the results!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 35- Rampaging Instinct [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 35, Rampaging Instinct A preview of Episode 35 Episode 35 airs Sunday, June 14th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
