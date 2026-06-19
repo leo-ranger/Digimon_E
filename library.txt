@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = 'Wake up': Vance slams Israeli critics of Iran deal
+Body = US Vice-President JD Vance lashes out at Israeli critics of the Iran deal, saying Donald Trump is Israel's only ally, in a sharp rebuke that referenced the billions in American defence aid the country receives.
+End = true
+
+[LIBRARY RNEWS]
 Title = Hegseth blasts NATO members, announces review of US forces in Europe
 Body = He said that too many NATO allies failed to support the US on Iran in what he called a "shameful" denial of access, basing and overflight.
 End = true
@@ -24,18 +29,8 @@ Body = The US and Iran have signed a memorandum of understanding to end the war 
 End = true
 
 [LIBRARY RNEWS]
-Title = Fans push back against Trump administration's anime posts
-Body = Both fans and the Japanese government push back after a series of Trump administration posts using images from popular anime and manga.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger Updates- Game Update on July 9th- Playable Terriermon Assistant, Photo Mode, Digifarm Update, & Graphics Modes
-Body = A few Digimon Story: Time Stranger updates! We knew there would be a title update that added graphics options for the PS5 and Xbox Series versions around when the Switch 2/Switch versions came out, along with other unspecified updates, and they've finally given a few more details!
-End = true
-
-[LIBRARY RNEWS]
-Title = Poll Results for Favorite Guest Digimon from Beatbreak Episodes 13 through 24
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Guest Digimon from Beatbreak Episodes 13 through 24! Recently the poll closed and we have the results!
+Title = Anyone have a high quality scan of the newest Jump's DIGIMON UP ad?
+Body = The above is the best I have seen floating around and its mondo blurry.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +39,17 @@ Body = Time to start a new thread from: https://withthewill.net/threads/random-c
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Game Updates- Previews for EX-12 Susanoomon Special Parallel/Alt Art, BT-26, EX-13, BT-27, EX-14, BT-28, Sleeves, & More!
-Body = From the Bandai Card Game Next Plan Announcement stream we have a whole mess of previews and Digimon Card Game updates. First up, from Booster Set EX-12...
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 36- Twisted Code [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 36, Twisted Code A preview of Episode 36 Episode 36 airs Sunday, June 21st, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Story: Time Stranger Updates- Game Update on July 9th- Playable Terriermon Assistant, Photo Mode, Digifarm Update, & Graphics Modes
+Body = A few Digimon Story: Time Stranger updates! We knew there would be a title update that added graphics options for the PS5 and Xbox Series versions around when the Switch 2/Switch versions came out, along with other unspecified updates, and they've finally given a few more details!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- Digimon Showcase, Monzaemon [...]
+Body = https://twitter.com/x/status/2067804567937413153 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Monzaemon!
 End = true
 
