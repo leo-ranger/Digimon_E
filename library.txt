@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = UK PM vows to fight for job after rival's stunning by-election win
+Body = Sir Keir Starmer's principal rival, Andy Burnham, has stormed back into parliament after a near-decade absence with a by-election win.
+End = true
+
+[LIBRARY RNEWS]
 Title = Man released on bail after boy injured in UK zoo crocodile enclosure
 Body = The man, who was arrested on suspicion of attempted murder after a three-year-old boy ended up in a zoo's crocodile enclosure, has been released on bail after police assessed him as not fit for an interview.
+End = true
+
+[LIBRARY RNEWS]
+Title = Meloni hits back at Trump's claim she 'begged' him for photo
+Body = The Italian prime minister accused her one-time close ally of fabricating a story about her, after the US President told an Italian TV channel that she had "begged" him to take a photo with her at a G7 summit.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,18 +29,18 @@ Body = Malaysia has one of the highest rates of bullying in the world and new an
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Wake up': Vance slams Israeli critics of Iran deal
-Body = US Vice-President JD Vance lashes out at Israeli critics of the Iran deal, saying Donald Trump is Israel's only ally, in a sharp rebuke that referenced the billions in American defence aid the country receives.
-End = true
-
-[LIBRARY RNEWS]
-Title = How Ukraine is breaking through defences to bring war home to Moscow
-Body = Ukraine's growing arsenal of locally produced long-range drones are getting increasingly sophisticated, allowing Kyiv to increasingly strike targets across Moscow.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Channel: Pics and Translation Thread [...]
 Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+End = true
+
+[LIBRARY RNEWS]
+Title = Promo Trailer for Digimon Card Game Booster Set EX-12
+Body = With Digimon Card Game Booster Set EX-12 Digital World Shambala out in a couple weeks, we have a promo trailer. This continues the recent promo trailers being a decent size and showing off the main bullet points of the set.
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon in August V-Jump- Digimon Card Game Booster Set EX-12, Time Stranger Switch 2 & Switch, Digimon Up, & Original New Wave 2 V-Pets
 Body = It's time for all the new Digimon content from the August 2026 cover dated issue of V-Jump! We start with the Digimon Card Game, showing off Booster Set EX-12, with a focus on Susanoomon, as you'd expect.
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
-End = true
-
-[LIBRARY RNEWS]
-Title = Poll Results for Favorite Guest Digimon from Beatbreak Episodes 13 through 24
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Guest Digimon from Beatbreak Episodes 13 through 24! Recently the poll closed and we have the results!
 End = true
 
