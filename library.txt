@@ -9,33 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Man released on bail after boy injured in UK zoo crocodile enclosure
+Body = The man, who was arrested on suspicion of attempted murder after a three-year-old boy ended up in a zoo's crocodile enclosure, has been released on bail after police assessed him as not fit for an interview.
+End = true
+
+[LIBRARY RNEWS]
+Title = Parents in Malaysia now liable if their children bully others
+Body = Malaysia has one of the highest rates of bullying in the world and new anti-bullying laws aim to tackle the problem.
+End = true
+
+[LIBRARY RNEWS]
 Title = 'Wake up': Vance slams Israeli critics of Iran deal
 Body = US Vice-President JD Vance lashes out at Israeli critics of the Iran deal, saying Donald Trump is Israel's only ally, in a sharp rebuke that referenced the billions in American defence aid the country receives.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hegseth blasts NATO members, announces review of US forces in Europe
-Body = He said that too many NATO allies failed to support the US on Iran in what he called a "shameful" denial of access, basing and overflight.
-End = true
-
-[LIBRARY RNEWS]
-Title = Democrats chewing nails as Trump targets controversial Senate pick
-Body = A Democrat is accused of being a Republican in disguise; a Republican is accused of being a Democrat plant. It is primaries season in the US, and suspicions of dirty pool are rife.
-End = true
-
-[LIBRARY RNEWS]
-Title = 'It's signed': US and Iran agree to end war within 60 days
-Body = The US and Iran have signed a memorandum of understanding to end the war and reopen the Strait of Hormuz.
-End = true
-
-[LIBRARY RNEWS]
-Title = Anyone have a high quality scan of the newest Jump's DIGIMON UP ad?
-Body = The above is the best I have seen floating around and its mondo blurry.
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+Title = How Ukraine is breaking through defences to bring war home to Moscow
+Body = Ukraine's growing arsenal of locally produced long-range drones are getting increasingly sophisticated, allowing Kyiv to increasingly strike targets across Moscow.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +34,22 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger Updates- Game Update on July 9th- Playable Terriermon Assistant, Photo Mode, Digifarm Update, & Graphics Modes
-Body = A few Digimon Story: Time Stranger updates! We knew there would be a title update that added graphics options for the PS5 and Xbox Series versions around when the Switch 2/Switch versions came out, along with other unspecified updates, and they've finally given a few more details!
+Title = Digimon Beatbreak Fluffy Swaddled Plushies Out in October 2026
+Body = Tapioca has announced (2) new Digimon Beatbreak plushies. These are a follow-up to the Digimon Adventure, 02, & Tamers ones they did recently (although not all of those have shipped yet.) The fluffy swaddled plushes have the Beatbreak humans wrapped up in a fluffy egg shaped plush bit...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Monzaemon [...]
-Body = https://twitter.com/x/status/2067804567937413153 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Monzaemon!
+Title = Digimon in August V-Jump- Digimon Card Game Booster Set EX-12, Time Stranger Switch 2 & Switch, Digimon Up, & Original New Wave 2 V-Pets
+Body = It's time for all the new Digimon content from the August 2026 cover dated issue of V-Jump! We start with the Digimon Card Game, showing off Booster Set EX-12, with a focus on Susanoomon, as you'd expect.
+End = true
+
+[LIBRARY RNEWS]
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+End = true
+
+[LIBRARY RNEWS]
+Title = Poll Results for Favorite Guest Digimon from Beatbreak Episodes 13 through 24
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Guest Digimon from Beatbreak Episodes 13 through 24! Recently the poll closed and we have the results!
 End = true
 
