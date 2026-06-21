@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = UK PM vows to fight for job after rival's stunning by-election win
-Body = Sir Keir Starmer's principal rival, Andy Burnham, has stormed back into parliament after a near-decade absence with a by-election win.
+Title = Counterterrorism police investigate Edinburgh attacks
+Body = Three of the five men injured during the attacks in the city's north and west require hospital treatment.
 End = true
 
 [LIBRARY RNEWS]
-Title = Man released on bail after boy injured in UK zoo crocodile enclosure
-Body = The man, who was arrested on suspicion of attempted murder after a three-year-old boy ended up in a zoo's crocodile enclosure, has been released on bail after police assessed him as not fit for an interview.
+Title = Europe swelters as more heat records set to tumble
+Body = Much of Western Europe is sweltering in a heatwave with the mercury expected to continue rising in the coming days, likely shattering yet more temperature records.
 End = true
 
 [LIBRARY RNEWS]
-Title = Meloni hits back at Trump's claim she 'begged' him for photo
-Body = The Italian prime minister accused her one-time close ally of fabricating a story about her, after the US President told an Italian TV channel that she had "begged" him to take a photo with her at a G7 summit.
+Title = UK police investigate train crash that killed a driver and injured 80
+Body = Nine people are in a critical condition after a collision between two passenger trains in central England.
 End = true
 
 [LIBRARY RNEWS]
-Title = Parents in Malaysia now liable if their children bully others
-Body = Malaysia has one of the highest rates of bullying in the world and new anti-bullying laws aim to tackle the problem.
+Title = Bolivia's president declares state of emergency over blockade crisis
+Body = Bolivia's President Rodrigo Paz declares a state of emergency across the country, after more than six weeks of protests and road blockades.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Digimon Beatbreak: Episode 36- Twisted Code [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 36, Twisted Code A preview of Episode 36 Episode 36 airs Sunday, June 21st, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+Title = Digimon Up Update- Pre-Registration Campaign Unlock 800k Tier
+Body = Digimon Up update! Pre-registrations have hit 800k, getting everyone Patamon Pajamas for your character.
 End = true
 
 [LIBRARY RNEWS]
-Title = Promo Trailer for Digimon Card Game Booster Set EX-12
-Body = With Digimon Card Game Booster Set EX-12 Digital World Shambala out in a couple weeks, we have a promo trailer. This continues the recent promo trailers being a decent size and showing off the main bullet points of the set.
+Title = Digimon Times Stream Next Week, on June 26th [...]
+Body = Next week, on Friday, June 26th at 6pm Japan time (2am Pacific), there will be a new Digimon Times stream on the Digimon Youtube. A time converter can be found here.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Fluffy Swaddled Plushies Out in October 2026
-Body = Tapioca has announced (2) new Digimon Beatbreak plushies. These are a follow-up to the Digimon Adventure, 02, & Tamers ones they did recently (although not all of those have shipped yet.) The fluffy swaddled plushes have the Beatbreak humans wrapped up in a fluffy egg shaped plush bit...
+Title = Digimon Beatbreak on Hiatus Next Week, Back the Weekend of July 4th- Staff Audio Discussion on Twitter Next Weekend
+Body = Digimon Beatbreak will be on hiatus next weekend. The show will return the weekend of July 4/5 for episode 37.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon in August V-Jump- Digimon Card Game Booster Set EX-12, Time Stranger Switch 2 & Switch, Digimon Up, & Original New Wave 2 V-Pets
-Body = It's time for all the new Digimon content from the August 2026 cover dated issue of V-Jump! We start with the Digimon Card Game, showing off Booster Set EX-12, with a focus on Susanoomon, as you'd expect.
+Title = Box Topper Previews for Digimon Card Game Booster Set EX-12
+Body = ... [...] [...]
 End = true
 
