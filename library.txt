@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = War helped 're-enliven' Iran's regime. Trump's truce may complicate that
+Body = For decades the Islamic republic has been using its "main enemy" America to distract from its repressive regime, analysts say. But the recent truce with Donald Trump could change that.
+End = true
+
+[LIBRARY RNEWS]
+Title = 'Old wine in a new bottle': Activists raise alarm over deepfake videos
+Body = AI-generated deepfake videos of prominent West Papuan rights campaigners spark concerns about how disinformation is being used as a form of "digital colonisation".
+End = true
+
+[LIBRARY RNEWS]
+Title = Al Jazeera cameraman killed in Israeli strike in Gaza
+Body = Gaza health officials say Israeli strikes have killed at least 11 people, including two children and an Al Jazeera cameraman, in the latest violence to rock the Palestinian territory despite a ceasefire.
+End = true
+
+[LIBRARY RNEWS]
 Title = Counterterrorism police investigate Edinburgh attacks
 Body = Three of the five men injured during the attacks in the city's north and west require hospital treatment.
 End = true
 
 [LIBRARY RNEWS]
-Title = Europe swelters as more heat records set to tumble
-Body = Much of Western Europe is sweltering in a heatwave with the mercury expected to continue rising in the coming days, likely shattering yet more temperature records.
+Title = Digimon Adventure 13+ Part 3 (Final) Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella
+Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. In the last few days he published Parts 1 and 2 of what he titled Digimon Adventure 13+, his text story of what we see bits of in the 25th anniversary short.
 End = true
 
 [LIBRARY RNEWS]
-Title = UK police investigate train crash that killed a driver and injured 80
-Body = Nine people are in a critical condition after a collision between two passenger trains in central England.
-End = true
-
-[LIBRARY RNEWS]
-Title = Bolivia's president declares state of emergency over blockade crisis
-Body = Bolivia's President Rodrigo Paz declares a state of emergency across the country, after more than six weeks of protests and road blockades.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +44,12 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 36, 
 End = true
 
 [LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Episode 36, Birthdays, & Digimon Story 20th Anniversary Social Art, Figure & Museum Photos, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 36!
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Up Update- Pre-Registration Campaign Unlock 800k Tier
 Body = Digimon Up update! Pre-registrations have hit 800k, getting everyone Patamon Pajamas for your character.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Times Stream Next Week, on June 26th [...]
-Body = Next week, on Friday, June 26th at 6pm Japan time (2am Pacific), there will be a new Digimon Times stream on the Digimon Youtube. A time converter can be found here.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak on Hiatus Next Week, Back the Weekend of July 4th- Staff Audio Discussion on Twitter Next Weekend
-Body = Digimon Beatbreak will be on hiatus next weekend. The show will return the weekend of July 4/5 for episode 37.
-End = true
-
-[LIBRARY RNEWS]
-Title = Box Topper Previews for Digimon Card Game Booster Set EX-12
-Body = ... [...] [...]
 End = true
 
