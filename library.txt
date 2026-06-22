@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = War helped 're-enliven' Iran's regime. Trump's truce may complicate that
-Body = For decades the Islamic republic has been using its "main enemy" America to distract from its repressive regime, analysts say. But the recent truce with Donald Trump could change that.
+Title = France on 'red alert' as temps hit 40C in Europe heatwave
+Body = Half of France is set to be placed on "red alert" as temperatures climb beyond 40 degrees Celsius across mainland Europe.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Old wine in a new bottle': Activists raise alarm over deepfake videos
-Body = AI-generated deepfake videos of prominent West Papuan rights campaigners spark concerns about how disinformation is being used as a form of "digital colonisation".
+Title = Trump warns he may resume war as Vance holds talks with Iran
+Body = US President Donald Trump has threatened to restart the US war with Iran at the same time his vice-president has been meeting with Iranian officials for the first talks under an interim peace deal.
 End = true
 
 [LIBRARY RNEWS]
-Title = Al Jazeera cameraman killed in Israeli strike in Gaza
-Body = Gaza health officials say Israeli strikes have killed at least 11 people, including two children and an Al Jazeera cameraman, in the latest violence to rock the Palestinian territory despite a ceasefire.
+Title = The UK's version of One Nation just got smashed. Could our PM learn from it?
+Body = Britain's unpopular Labour government just scored a thumping by-election victory, but what could look like a blueprint for combating a populist opponent could actually be a warning for Anthony Albanese.
 End = true
 
 [LIBRARY RNEWS]
-Title = Counterterrorism police investigate Edinburgh attacks
-Body = Three of the five men injured during the attacks in the city's north and west require hospital treatment.
+Title = Trump says Reflecting Pool may be drained for repairs after 'vandalism'
+Body = Donald Trump says the newly revamped Reflecting Pool needs "repairs" and that multiple people have been arrested for vandalising the Washington DC water feature.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 36- Twisted Code [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 36, Twisted Code A preview of Episode 36 Episode 36 airs Sunday, June 21st, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Episode #306- Gift to Remember (Beatbreak Episode 36, Time Stranger Updates, & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 36, Digimon Story: Time Stranger updates soon, card previews, new v-pets, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Preview for Digimon Beatbreak Episode 37 Kind Magic
+Body = https://twitter.com/x/status/2068491589010534627 Time for a preview for Episode 37 Kind Magic! Watch episode 36 first!
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Rumble Arena fangame *read the first post before posting*
 Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 36- Twisted Code [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 36, Twisted Code A preview of Episode 36 Episode 36 airs Sunday, June 21st, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Episode 36, Birthdays, & Digimon Story 20th Anniversary Social Art, Figure & Museum Photos, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 36!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Update- Pre-Registration Campaign Unlock 800k Tier
-Body = Digimon Up update! Pre-registrations have hit 800k, getting everyone Patamon Pajamas for your character.
 End = true
 
