@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Fijians fear cartels will come looking for cocaine bricks washed up on beach
+Body = Twenty-seven bricks of cocaine have washed up around Fiji's remote Komo Island in recent weeks. Residents are worried about what the find will bring.
+End = true
+
+[LIBRARY RNEWS]
+Title = 'You won't make it back': Trump's threat to Iran reps at peace talks
+Body = Donald Trump warns the Iranian delegation they might not return home from talks in Switzerland as the US and Iran argue over the fate of the Strait of Hormuz.
+End = true
+
+[LIBRARY RNEWS]
 Title = France on 'red alert' as temps hit 40C in Europe heatwave
 Body = Half of France is set to be placed on "red alert" as temperatures climb beyond 40 degrees Celsius across mainland Europe.
 End = true
@@ -19,18 +29,18 @@ Body = US President Donald Trump has threatened to restart the US war with Iran 
 End = true
 
 [LIBRARY RNEWS]
-Title = The UK's version of One Nation just got smashed. Could our PM learn from it?
-Body = Britain's unpopular Labour government just scored a thumping by-election victory, but what could look like a blueprint for combating a populist opponent could actually be a warning for Anthony Albanese.
-End = true
-
-[LIBRARY RNEWS]
-Title = Trump says Reflecting Pool may be drained for repairs after 'vandalism'
-Body = Donald Trump says the newly revamped Reflecting Pool needs "repairs" and that multiple people have been arrested for vandalising the Washington DC water feature.
-End = true
-
-[LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 36- Twisted Code [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 36, Twisted Code A preview of Episode 36 Episode 36 airs Sunday, June 21st, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Episode 36, Birthdays, & Digimon Story 20th Anniversary Social Art, Figure & Museum Photos, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 36!
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Preview for Digimon Beatbreak Episode 37 Kind Magic
 Body = https://twitter.com/x/status/2068491589010534627 Time for a preview for Episode 37 Kind Magic! Watch episode 36 first!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure 13+ Part 3 (Final) Translated Overview- Director Kakudou Puts up Digimon Adventure Beyond Novella
-Body = When Digimon Adventure Beyond came out, Director Kakudou had mentioned how backround/story info would be posted eventually. In the last few days he published Parts 1 and 2 of what he titled Digimon Adventure 13+, his text story of what we see bits of in the 25th anniversary short.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
