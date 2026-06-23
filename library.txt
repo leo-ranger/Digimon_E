@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Fijians fear cartels will come looking for cocaine bricks washed up on beach
-Body = Twenty-seven bricks of cocaine have washed up around Fiji's remote Komo Island in recent weeks. Residents are worried about what the find will bring.
+Title = Andy Burnham sworn in as MP in hours after Starmer's resignation
+Body = Sir Keir Starmer says he will resign as prime minister of the United Kingdom and spend more time as a husband and father.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'You won't make it back': Trump's threat to Iran reps at peace talks
-Body = Donald Trump warns the Iranian delegation they might not return home from talks in Switzerland as the US and Iran argue over the fate of the Strait of Hormuz.
+Title = Children die in hot car as Europe bakes [...]
+Body = At least 18 people died in France, including two children left in a hot car, as a heatwave hung over Europe, smashing temperature records in several cities.
 End = true
 
 [LIBRARY RNEWS]
-Title = France on 'red alert' as temps hit 40C in Europe heatwave
-Body = Half of France is set to be placed on "red alert" as temperatures climb beyond 40 degrees Celsius across mainland Europe.
+Title = Japan to increase entry visa fees by more than five times current amount
+Body = Japan will quintuple entry visa fees starting from July 1, but most Australians will not be affected.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump warns he may resume war as Vance holds talks with Iran
-Body = US President Donald Trump has threatened to restart the US war with Iran at the same time his vice-president has been meeting with Iranian officials for the first talks under an interim peace deal.
+Title = This artist 'stole' the Rosetta Stone from the UK and took it home to Egypt
+Body = The Rosetta Stone changed the way we understood Ancient Egypt. It sits in the British Museum but this artist wanted to return it home.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 36, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
 Title = Weekend Batch- Digimon Episode 36, Birthdays, & Digimon Story 20th Anniversary Social Art, Figure & Museum Photos, Catch-Up for the Week, & More!
 Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 36!
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Episode #306- Gift to Remember (Beatbreak Episode 36, Time Stranger Updates, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 36, Digimon Story: Time Stranger updates soon, card previews, new v-pets, & more! Plus your questions!
+Title = Digimon Story: Time Stranger Updates- Game Update on July 9th- Playable Terriermon Assistant, Photo Mode, Digifarm Update, & Graphics Modes
+Body = A few Digimon Story: Time Stranger updates! We knew there would be a title update that added graphics options for the PS5 and Xbox Series versions around when the Switch 2/Switch versions came out, along with other unspecified updates, and they've finally given a few more details!
 End = true
 
 [LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 37 Kind Magic
-Body = https://twitter.com/x/status/2068491589010534627 Time for a preview for Episode 37 Kind Magic! Watch episode 36 first!
+Title = Digimon Card Game Acrylic Charm Collection 02 Out in September- Original Card Game Themed Keychains
+Body = The Digimon Card Game Acrylic Charm Collection 02 (2) is coming out September, for 300 yen per Gashapon pull and available online. ...
+End = true
+
+[LIBRARY RNEWS]
+Title = New Digimon Adventure Apparel & Accessories at Avail Starting June 27th
+Body = Avail, the Japanese casual fashion store chain, has announced Digimon Adventure merchandise they will begin stocking beginning June 27th. The products will be various decently priced apparel and accessories.
 End = true
 
