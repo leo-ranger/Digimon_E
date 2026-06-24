@@ -9,47 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Animals 'disappearing' from the wild as more people seek exotic pets
-Body = Australian and international authorities are "struggling" to keep up with regulating and policing the exotic pet market as demand surges.
+Title = 'Historic blunder': US Senate votes to seek to prevent further military action in Iran
+Body = It is the 10th time the Senate has tried to stop the war, and the outcome, on a vote of 50–48, is a stunning turnaround from past efforts.
 End = true
 
 [LIBRARY RNEWS]
-Title = At least 40 drownings reported in France as Europe swelters
-Body = Schools are being ordered to close in the UK and railways are urging against non-essential travel across the continent as record-breaking heat takes hold.
+Title = PNG reverses bird flu ban on Australian chicken and egg imports
+Body = Australia's largest chicken meat buyer, Papua New Guinea, has reversed its decision to suspend Australian poultry and egg imports due to the H5N1 bird flu outbreak.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'We lost our son': India's medical exams scandal leads to tragedy and uproar
-Body = More than 2 million students across India have resat the country's highly competitive medical entrance exam after last month's test was cancelled amid allegations that questions had been leaked.
+Title = What stolen party funds bought Nicola Sturgeon's husband
+Body = Court documents have revealed what former Scottish first minister Nicola Sturgeon's husband Peter Murrell bought with funds he embezzled from the party over 12 years.
 End = true
 
 [LIBRARY RNEWS]
-Title = Savannah Guthrie says family in 'agony' amid ransom note reports
-Body = NBC's Today show host Savannah Guthrie makes an emotional appeal to viewers to come forward with any information about her missing mother.
-End = true
-
-[LIBRARY RNEWS]
-Title = New Digimon Adventure Apparel & Accessories at Avail Starting June 27th
-Body = Avail, the Japanese casual fashion store chain, has announced Digimon Adventure merchandise they will begin stocking beginning June 27th. The products will be various decently priced apparel and accessories.
-End = true
-
-[LIBRARY RNEWS]
-Title = Hi! [...]
-Body = Hi! Just a casual Digi fan since '99, i enjoy Digimon as it brings a lot of core/nostalgic memories for me.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 36- Twisted Code [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 36, Twisted Code A preview of Episode 36 Episode 36 airs Sunday, June 21st, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Episode 36, Birthdays, & Digimon Story 20th Anniversary Social Art, Figure & Museum Photos, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 36!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Game Acrylic Charm Collection 02 Out in September- Original Card Game Themed Keychains
-Body = The Digimon Card Game Acrylic Charm Collection 02 (2) is coming out September, for 300 yen per Gashapon pull and available online. ...
+Title = Port Moresby's water supply network showing 'signs of imminent failure'
+Body = A decades-old pipeline supplying water to nearly 1 million people in Papua New Guinea's capital is at risk of collapsing without urgent repairs, threatening to cut off more than half of the city's water supply.
 End = true
 
