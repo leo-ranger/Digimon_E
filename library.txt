@@ -9,33 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Andy Burnham sworn in as MP in hours after Starmer's resignation
-Body = Sir Keir Starmer says he will resign as prime minister of the United Kingdom and spend more time as a husband and father.
+Title = Animals 'disappearing' from the wild as more people seek exotic pets
+Body = Australian and international authorities are "struggling" to keep up with regulating and policing the exotic pet market as demand surges.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australians have record-low trust in the United States, new poll finds
-Body = The Lowy Institute's latest poll shows Australia's trust in the US has fallen to a record low.
+Title = At least 40 drownings reported in France as Europe swelters
+Body = Schools are being ordered to close in the UK and railways are urging against non-essential travel across the continent as record-breaking heat takes hold.
 End = true
 
 [LIBRARY RNEWS]
-Title = Children die in hot car as Europe bakes [...]
-Body = At least 18 people died in France, including two children left in a hot car, as a heatwave hung over Europe, smashing temperature records in several cities.
+Title = 'We lost our son': India's medical exams scandal leads to tragedy and uproar
+Body = More than 2 million students across India have resat the country's highly competitive medical entrance exam after last month's test was cancelled amid allegations that questions had been leaked.
 End = true
 
 [LIBRARY RNEWS]
-Title = Japan to increase entry visa fees by more than five times current amount
-Body = Japan will quintuple entry visa fees starting from July 1, but most Australians will not be affected.
+Title = Savannah Guthrie says family in 'agony' amid ransom note reports
+Body = NBC's Today show host Savannah Guthrie makes an emotional appeal to viewers to come forward with any information about her missing mother.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Frigimon/Yukidarumon
-Body = https://twitter.com/x/status/2069270306796237126 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Frigimon/Yukidarumon!
+Title = New Digimon Adventure Apparel & Accessories at Avail Starting June 27th
+Body = Avail, the Japanese casual fashion store chain, has announced Digimon Adventure merchandise they will begin stocking beginning June 27th. The products will be various decently priced apparel and accessories.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Hi! [...]
+Body = Hi! Just a casual Digi fan since '99, i enjoy Digimon as it brings a lot of core/nostalgic memories for me.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +49,7 @@ Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger Updates- Game Update on July 9th- Playable Terriermon Assistant, Photo Mode, Digifarm Update, & Graphics Modes
-Body = A few Digimon Story: Time Stranger updates! We knew there would be a title update that added graphics options for the PS5 and Xbox Series versions around when the Switch 2/Switch versions came out, along with other unspecified updates, and they've finally given a few more details!
+Title = Digimon Card Game Acrylic Charm Collection 02 Out in September- Original Card Game Themed Keychains
+Body = The Digimon Card Game Acrylic Charm Collection 02 (2) is coming out September, for 300 yen per Gashapon pull and available online. ...
 End = true
 
