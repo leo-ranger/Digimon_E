@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = France and Vanuatu clash over remote Pacific island where 'god resides'
+Body = Tensions are rising between Vanuatu and France as they negotiate a sovereignty dispute over two volcanic islands, believed to be inhabited by a god.
+End = true
+
+[LIBRARY RNEWS]
 Title = Powerful, back-to-back earthquakes slam Venezuela [...]
 Body = Two earthquakes struck Venezuela on Wednesday evening, local time, collapsing buildings in the capital of Caracas.
 End = true
@@ -24,8 +29,18 @@ Body = The US Senate approved a war powers resolution seeking to block military 
 End = true
 
 [LIBRARY RNEWS]
-Title = Traffic cones on statues and a sea of orange: The traditions taking over the World Cup
-Body = Every four years, the World Cup provides the perfect backdrop for fans to showcase their culture's traditional football rituals in front of millions.
+Title = Terriermon Assistant Lab- Making a Digimon Quiz Only 1% of Fans Can Answer & Digimon Story: Time Stranger Introduction Presentations & Update Info
+Body = A few new episodes of Terriermon Assistant Lab! We'll do episode every few weeks if they continue to go up without subs, updating when/if they get English subs quicker, just so they don't build up too far, or when a more relevant episode appears, even if unsubbed.
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Episode 36, Birthdays, & Digimon Story 20th Anniversary Social Art, Figure & Museum Photos, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 36!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Season 3 (English) Remastered Blu-ray Out on August 25th from Discotek, Pre-Orders Open
+Body = After being announced earlier this month, pre-orders are open for the Blu-ray release of the English version of Digimon Season 3 (Tamers.) The set includes all of the English dub of Tamers, as many people would have seen on Fox Kids, Fox Family, ABC Family, Jetix, and more (to say nothing of various places on streaming over so many years.) https://twitter.com/x/status/2066959356252594450 Like previous Digimon Blu-rays from... [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Godzilla vs. Digimon- Toho Great Monster Series MetalGarurumon: "G" Erosion Mode Figure Announced- Pre-Orders Tomorrow
 Body = We knew more Godzilla vs. Digimon figures were coming, and one has been announced by Plex!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Original New Wave 2 V-Pet Details & Images- Out July in Japan, No Date Yet for US
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Season 3 (English) Remastered Blu-ray Out on August 25th from Discotek, Pre-Orders Open
-Body = After being announced earlier this month, pre-orders are open for the Blu-ray release of the English version of Digimon Season 3 (Tamers.) The set includes all of the English dub of Tamers, as many people would have seen on Fox Kids, Fox Family, ABC Family, Jetix, and more (to say nothing of various places on streaming over so many years.) https://twitter.com/x/status/2066959356252594450 Like previous Digimon Blu-rays from... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Episode 36, Birthdays, & Digimon Story 20th Anniversary Social Art, Figure & Museum Photos, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 36!
 End = true
 
