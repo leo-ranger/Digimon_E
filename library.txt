@@ -9,22 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Historic blunder': US Senate votes to seek to prevent further military action in Iran
-Body = It is the 10th time the Senate has tried to stop the war, and the outcome, on a vote of 50–48, is a stunning turnaround from past efforts.
+Title = Powerful, back-to-back earthquakes slam Venezuela [...]
+Body = Two earthquakes struck Venezuela on Wednesday evening, local time, collapsing buildings in the capital of Caracas.
 End = true
 
 [LIBRARY RNEWS]
-Title = PNG reverses bird flu ban on Australian chicken and egg imports
-Body = Australia's largest chicken meat buyer, Papua New Guinea, has reversed its decision to suspend Australian poultry and egg imports due to the H5N1 bird flu outbreak.
+Title = UN maritime body starts enacting plan to move sailors out of Gulf
+Body = An evacuation plan to enable hundreds of ships to sail through the Strait of Hormuz is being enacted, according to the UN's International Maritime Organization.
 End = true
 
 [LIBRARY RNEWS]
-Title = What stolen party funds bought Nicola Sturgeon's husband
-Body = Court documents have revealed what former Scottish first minister Nicola Sturgeon's husband Peter Murrell bought with funds he embezzled from the party over 12 years.
+Title = Will Congress demanding US military halt action in Iran end the war?
+Body = The US Senate approved a war powers resolution seeking to block military action against Iran on Tuesday. But don't expect the war to end.
 End = true
 
 [LIBRARY RNEWS]
-Title = Port Moresby's water supply network showing 'signs of imminent failure'
-Body = A decades-old pipeline supplying water to nearly 1 million people in Papua New Guinea's capital is at risk of collapsing without urgent repairs, threatening to cut off more than half of the city's water supply.
+Title = Traffic cones on statues and a sea of orange: The traditions taking over the World Cup
+Body = Every four years, the World Cup provides the perfect backdrop for fans to showcase their culture's traditional football rituals in front of millions.
+End = true
+
+[LIBRARY RNEWS]
+Title = Official Digimon Web Poll #152- Favorite Perfect Form that a Glowing Dawn Digimon Evolved To
+Body = Digimon Web has opened a new fan vote. This is the 152nd official web poll on the current version of the site.
+End = true
+
+[LIBRARY RNEWS]
+Title = Godzilla vs. Digimon- Toho Great Monster Series MetalGarurumon: "G" Erosion Mode Figure Announced- Pre-Orders Tomorrow
+Body = We knew more Godzilla vs. Digimon figures were coming, and one has been announced by Plex!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Original New Wave 2 V-Pet Details & Images- Out July in Japan, No Date Yet for US
+Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Season 3 (English) Remastered Blu-ray Out on August 25th from Discotek, Pre-Orders Open
+Body = After being announced earlier this month, pre-orders are open for the Blu-ray release of the English version of Digimon Season 3 (Tamers.) The set includes all of the English dub of Tamers, as many people would have seen on Fox Kids, Fox Family, ABC Family, Jetix, and more (to say nothing of various places on streaming over so many years.) https://twitter.com/x/status/2066959356252594450 Like previous Digimon Blu-rays from... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Episode 36, Birthdays, & Digimon Story 20th Anniversary Social Art, Figure & Museum Photos, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 36!
 End = true
 
