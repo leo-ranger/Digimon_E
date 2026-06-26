@@ -14,23 +14,28 @@ Body = Jorge Rodríguez, who heads Venezuela's national assembly, says at least 
 End = true
 
 [LIBRARY RNEWS]
+Title = Death toll rises to at least 235 as major rescue operation continues — as it happened
+Body = More than 250 buildings have been lost or damaged after the devastating double quake, National Assembly president Jorge Rodríguez says.
+End = true
+
+[LIBRARY RNEWS]
+Title = H5N1 emerged in Asia 30 years ago. Here's what happened next
+Body = Experts say Asia's decades-long experience fighting bird flu has shown there is no magic bullet and that fragmented responses to the disease will fail.
+End = true
+
+[LIBRARY RNEWS]
 Title = Parent asks if 'warning signs' missed after Chinese language school closure
 Body = The shock closure of a Chinese language school after 17 years leaves parents and teachers with "unanswered questions" over the school's financial management.
 End = true
 
 [LIBRARY RNEWS]
-Title = France and Vanuatu clash over remote Pacific island where 'god resides'
-Body = Tensions are rising between Vanuatu and France as they negotiate a sovereignty dispute over two volcanic islands, believed to be inhabited by a god.
+Title = Digital World Illiad- Info on the Second Digital World, New Digimon, & More!
+Body = Digital World Illiad has shown up in a few small ways over the years, then in a large way last year in Digimon Story: Time Stranger. Now Digimon Web has added a dedicated page explaining the second Digital World.
 End = true
 
 [LIBRARY RNEWS]
-Title = Olympian arrested at reflecting pool is Trump 'scapegoat', lawyer says
-Body = A lawyer for the Olympian arrested at Washington's reflecting pool says his client is a scapegoat who was targeted to distract Americans from the Trump administration's failures.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Digitamamon [...]
-Body = https://twitter.com/x/status/2070341277258850776 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Digitamamon!
+Title = Digimon Pendulum Color V-Pet 8 Celestial Walker & 9 Astral Sentinel- Pre-Order Details, Images, & Info
+Body = After getting new Shambala-based Digimon Pendulum Color V-Pets this year, Illiad gets to join the line. And we have info and pre-order details!
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = More for the 29th anniversary of the franchise, and likely to get formall
 End = true
 
 [LIBRARY RNEWS]
-Title = Godzilla vs. Digimon- Toho Great Monster Series MetalGarurumon: "G" Erosion Mode Figure- Pre-Order Info, Images, & More!
-Body = While only announced less than a day ago the Godzilla vs. Digimon- Toho Great Monster Series MetalGarurumon: "G" Erosion Mode figure was a bit unexpected to pop up so quickly.
+Title = Digimon Times (June 26th, 2026) Stream Updates [...]
+Body = Digimon Times is roughly half an hour from the time of this post! To celebrate the 29th anniversary of the Digimon franchise today, we get a news stream!
 End = true
 
 [LIBRARY RNEWS]
-Title = General fan-made Digimon thread. [...]
-Body = This is a thread for the various fan-made digimon profiles I've written up for my various projects. Some I plan to use in stories, some I just write and conceptualize for the hell of it.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon is 29 Years Old! Digimon Times Stream Later With News to Celebrate
-Body = The original V-Pets came out on June 26th, 1997 in Japan, and since it's the 26th in Japan already... Digimon is now officially 29 years old It's been a solid year for Digimon: the anime series Digimon Beatbreak had been running for 3/4 of a year Digmon Story: Time Stranger and 3 DLC packs came out, with another coming next year, plus ports to the Switch 2 & 1 a couple weeks away new Digimon Pendulum Colors came out, on top...
+Title = Digimon Pendulum Color Iremon Cases Color 2- Pre-Order Details, Images, & Info
+Body = With the reveal of new Digimon Pendulum Colors, we also get new cases. The new Iremon cases are based on the original Pendulum cases, but updated for the Digimon Pendulum Color.
 End = true
 
