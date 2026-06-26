@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Thousands feared dead in Venezuela quakes as rescuers search rubble
+Body = Jorge Rodríguez, who heads Venezuela's national assembly, says at least 235 people have died, 1,520 people have been injured, and at least 250 buildings have been damaged or destroyed.
+End = true
+
+[LIBRARY RNEWS]
+Title = Parent asks if 'warning signs' missed after Chinese language school closure
+Body = The shock closure of a Chinese language school after 17 years leaves parents and teachers with "unanswered questions" over the school's financial management.
+End = true
+
+[LIBRARY RNEWS]
 Title = France and Vanuatu clash over remote Pacific island where 'god resides'
 Body = Tensions are rising between Vanuatu and France as they negotiate a sovereignty dispute over two volcanic islands, believed to be inhabited by a god.
 End = true
 
 [LIBRARY RNEWS]
-Title = Powerful, back-to-back earthquakes slam Venezuela [...]
-Body = Two earthquakes struck Venezuela on Wednesday evening, local time, collapsing buildings in the capital of Caracas.
+Title = Olympian arrested at reflecting pool is Trump 'scapegoat', lawyer says
+Body = A lawyer for the Olympian arrested at Washington's reflecting pool says his client is a scapegoat who was targeted to distract Americans from the Trump administration's failures.
 End = true
 
 [LIBRARY RNEWS]
-Title = UN maritime body starts enacting plan to move sailors out of Gulf
-Body = An evacuation plan to enable hundreds of ships to sail through the Strait of Hormuz is being enacted, according to the UN's International Maritime Organization.
+Title = Digimon Up- Digimon Showcase, Digitamamon [...]
+Body = https://twitter.com/x/status/2070341277258850776 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Digitamamon!
 End = true
 
 [LIBRARY RNEWS]
-Title = Will Congress demanding US military halt action in Iran end the war?
-Body = The US Senate approved a war powers resolution seeking to block military action against Iran on Tuesday. But don't expect the war to end.
+Title = Digimon Adventure Digivice Version Revival Pre-Orders Starting- Out in August
+Body = More for the 29th anniversary of the franchise, and likely to get formally announced during the Digimon Times announcement video later! After being teased for awhile the Digimon Adventure Digivice version Revival has shown up at Amazon Japan.
 End = true
 
 [LIBRARY RNEWS]
-Title = Terriermon Assistant Lab- Making a Digimon Quiz Only 1% of Fans Can Answer & Digimon Story: Time Stranger Introduction Presentations & Update Info
-Body = A few new episodes of Terriermon Assistant Lab! We'll do episode every few weeks if they continue to go up without subs, updating when/if they get English subs quicker, just so they don't build up too far, or when a more relevant episode appears, even if unsubbed.
+Title = Godzilla vs. Digimon- Toho Great Monster Series MetalGarurumon: "G" Erosion Mode Figure- Pre-Order Info, Images, & More!
+Body = While only announced less than a day ago the Godzilla vs. Digimon- Toho Great Monster Series MetalGarurumon: "G" Erosion Mode figure was a bit unexpected to pop up so quickly.
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Episode 36, Birthdays, & Digimon Story 20th Anniversary Social Art, Figure & Museum Photos, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 36!
+Title = General fan-made Digimon thread. [...]
+Body = This is a thread for the various fan-made digimon profiles I've written up for my various projects. Some I plan to use in stories, some I just write and conceptualize for the hell of it.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Season 3 (English) Remastered Blu-ray Out on August 25th from Discotek, Pre-Orders Open
-Body = After being announced earlier this month, pre-orders are open for the Blu-ray release of the English version of Digimon Season 3 (Tamers.) The set includes all of the English dub of Tamers, as many people would have seen on Fox Kids, Fox Family, ABC Family, Jetix, and more (to say nothing of various places on streaming over so many years.) https://twitter.com/x/status/2066959356252594450 Like previous Digimon Blu-rays from... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Official Digimon Web Poll #152- Favorite Perfect Form that a Glowing Dawn Digimon Evolved To
-Body = Digimon Web has opened a new fan vote. This is the 152nd official web poll on the current version of the site.
-End = true
-
-[LIBRARY RNEWS]
-Title = Godzilla vs. Digimon- Toho Great Monster Series MetalGarurumon: "G" Erosion Mode Figure Announced- Pre-Orders Tomorrow
-Body = We knew more Godzilla vs. Digimon figures were coming, and one has been announced by Plex!
+Title = Digimon is 29 Years Old! Digimon Times Stream Later With News to Celebrate
+Body = The original V-Pets came out on June 26th, 1997 in Japan, and since it's the 26th in Japan already... Digimon is now officially 29 years old It's been a solid year for Digimon: the anime series Digimon Beatbreak had been running for 3/4 of a year Digmon Story: Time Stranger and 3 DLC packs came out, with another coming next year, plus ports to the Switch 2 & 1 a couple weeks away new Digimon Pendulum Colors came out, on top...
 End = true
 
