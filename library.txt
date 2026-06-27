@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = US strikes Iran after Trump calls Hormuz attack 'foolish' ceasefire breach
+Body = Iran's Revolutionary Guards vows a "swift and decisive" response, according to Iranian state television, claiming they repelled a US attack on Sirik Island, on the shores of the Strait of Hormuz.
+End = true
+
+[LIBRARY RNEWS]
 Title = Why Venezuela doesn't have an 'earthquake preparedness culture'
 Body = As a rare one-two punch of earthquakes hit Venezuela this week, residents in the capital Caracas watched in horror as buildings shook and were sent "pancaking" before their eyes.
 End = true
@@ -24,18 +29,13 @@ Body = The Australian government raises concerns directly with China over the co
 End = true
 
 [LIBRARY RNEWS]
-Title = H5N1 emerged in Asia 30 years ago. Here's what happened next
-Body = Experts say Asia's decades-long experience fighting bird flu has shown there is no magic bullet and that fragmented responses to the disease will fail.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
 Title = Random Commentary on Evolutionary Relationships V.6
 Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Pendulum Color V-Pet 8 Celestial Walker & 9 Astral Sentinel- Pre-Order Details, Images, & Info
+Body = After getting new Shambala-based Digimon Pendulum Color V-Pets this year, Illiad gets to join the line. And we have info and pre-order details!
 End = true
 
 [LIBRARY RNEWS]
@@ -44,8 +44,8 @@ Body = Digital World Illiad has shown up in a few small ways over the years, the
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Pendulum Color V-Pet 8 Celestial Walker & 9 Astral Sentinel- Pre-Order Details, Images, & Info
-Body = After getting new Shambala-based Digimon Pendulum Color V-Pets this year, Illiad gets to join the line. And we have info and pre-order details!
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
