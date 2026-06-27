@@ -9,13 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Thousands feared dead in Venezuela quakes as rescuers search rubble
-Body = Jorge Rodríguez, who heads Venezuela's national assembly, says at least 235 people have died, 1,520 people have been injured, and at least 250 buildings have been damaged or destroyed.
+Title = Why Venezuela doesn't have an 'earthquake preparedness culture'
+Body = As a rare one-two punch of earthquakes hit Venezuela this week, residents in the capital Caracas watched in horror as buildings shook and were sent "pancaking" before their eyes.
 End = true
 
 [LIBRARY RNEWS]
-Title = Death toll rises to at least 235 as major rescue operation continues — as it happened
-Body = More than 250 buildings have been lost or damaged after the devastating double quake, National Assembly president Jorge Rodríguez says.
+Title = Ukraine launches one of its heaviest drone attacks on Russia
+Body = Authorities in Russian-annexed Crimea have declared an "emergency situation".
+End = true
+
+[LIBRARY RNEWS]
+Title = How China's new 'ethnic unity' law could target people in Australia
+Body = The Australian government raises concerns directly with China over the country's new ethnic unity law, which allows Beijing to target people overseas.
 End = true
 
 [LIBRARY RNEWS]
@@ -24,8 +29,13 @@ Body = Experts say Asia's decades-long experience fighting bird flu has shown th
 End = true
 
 [LIBRARY RNEWS]
-Title = Parent asks if 'warning signs' missed after Chinese language school closure
-Body = The shock closure of a Chinese language school after 17 years leaves parents and teachers with "unanswered questions" over the school's financial management.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +49,7 @@ Body = After getting new Shambala-based Digimon Pendulum Color V-Pets this year,
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure Digivice Version Revival Pre-Orders Starting- Out in August
-Body = More for the 29th anniversary of the franchise, and likely to get formally announced during the Digimon Times announcement video later! After being teased for awhile the Digimon Adventure Digivice version Revival has shown up at Amazon Japan.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Times (June 26th, 2026) Stream Updates [...]
-Body = Digimon Times is roughly half an hour from the time of this post! To celebrate the 29th anniversary of the Digimon franchise today, we get a news stream!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Pendulum Color Iremon Cases Color 2- Pre-Order Details, Images, & Info
-Body = With the reveal of new Digimon Pendulum Colors, we also get new cases. The new Iremon cases are based on the original Pendulum cases, but updated for the Digimon Pendulum Color.
+Title = With the Will Podcast Live- Monday, June 29th [...]
+Body = Monday (June 29th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about all the news from Digimon Times & the 29th anniversary including new Pendulum Colors, new Digivice releases, figures, early 30th anniversary info, & more while Beatbreak is on hiatus! Plus your questions!
 End = true
 
