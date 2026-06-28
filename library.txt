@@ -9,33 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = In Beirut, a sacred ceremony also becomes display of Hezbollah's force
+Body = Tens of thousands of Shiite Muslims gathered in Beirut for the largest Ashura procession in years, as Hezbollah used the holy day to project strength despite growing pressure to disarm after months of war with Israel.
+End = true
+
+[LIBRARY RNEWS]
+Title = Iran says it hit US-linked targets as Bahrain reports drone attack
+Body = Also in the Strait of Hormuz an oil tanker has been damaged by an "unidentified projectile", while an Israeli drone has reportedly struck an area of southern Lebanon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Australian arrested after teenage girl's body found in Thailand
+Body = A 45-year-old Australian man is in custody as investigations continue into the discovery of the body of a teenage girl found stuffed inside a suitcase.
+End = true
+
+[LIBRARY RNEWS]
 Title = US strikes Iran after Trump calls Hormuz attack 'foolish' ceasefire breach
 Body = Iran's Revolutionary Guards vows a "swift and decisive" response, according to Iranian state television, claiming they repelled a US attack on Sirik Island, on the shores of the Strait of Hormuz.
-End = true
-
-[LIBRARY RNEWS]
-Title = Why Venezuela doesn't have an 'earthquake preparedness culture'
-Body = As a rare one-two punch of earthquakes hit Venezuela this week, residents in the capital Caracas watched in horror as buildings shook and were sent "pancaking" before their eyes.
-End = true
-
-[LIBRARY RNEWS]
-Title = Ukraine launches one of its heaviest drone attacks on Russia
-Body = Authorities in Russian-annexed Crimea have declared an "emergency situation".
-End = true
-
-[LIBRARY RNEWS]
-Title = How China's new 'ethnic unity' law could target people in Australia
-Body = The Australian government raises concerns directly with China over the country's new ethnic unity law, which allows Beijing to target people overseas.
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Pendulum Color V-Pet 8 Celestial Walker & 9 Astral Sentinel- Pre-Order Details, Images, & Info
-Body = After getting new Shambala-based Digimon Pendulum Color V-Pets this year, Illiad gets to join the line. And we have info and pre-order details!
 End = true
 
 [LIBRARY RNEWS]
@@ -44,8 +34,18 @@ Body = Digital World Illiad has shown up in a few small ways over the years, the
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Digimon Beatbreak ED4 Announced as 'Break It' by Kiss of Life- Starts on July 5th Episode
+Body = The 4th ending theme for Digimon Beatbreak has been announced! The song is 'Break It' from Kiss of Life!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Updates- Hiatus This Week w/ Episode 37 Previews, Episode 36 Production Art, & Staff Talk Later Today
+Body = A few recent Digimon Beatbreak updates... but no Beatbreak later, it's on a hiatus this week due to the World Cup.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Pendulum Color V-Pet 8 Celestial Walker & 9 Astral Sentinel- Pre-Order Details, Images, & Info
+Body = After getting new Shambala-based Digimon Pendulum Color V-Pets this year, Illiad gets to join the line. And we have info and pre-order details!
 End = true
 
 [LIBRARY RNEWS]
