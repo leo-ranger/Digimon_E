@@ -29,6 +29,21 @@ Body = Iran's Revolutionary Guards vows a "swift and decisive" response, accordi
 End = true
 
 [LIBRARY RNEWS]
+Title = Digimon Pendulum Color V-Pet 8 Celestial Walker & 9 Astral Sentinel- Pre-Order Details, Images, & Info
+Body = After getting new Shambala-based Digimon Pendulum Color V-Pets this year, Illiad gets to join the line. And we have info and pre-order details!
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon 29th Anniversary & Beatbreak Hiatus Social Art, Photos, Miyazaki Concert Info, Catch-Up for the Week, & More!
+Body = Time for a weekend batch! If you missed it, Digimon Web put up some social media art to celebrate the 29th anniversary of Digimon!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon is 29 Years Old! Digimon Times Stream Later With News to Celebrate
+Body = The original V-Pets came out on June 26th, 1997 in Japan, and since it's the 26th in Japan already... Digimon is now officially 29 years old It's been a solid year for Digimon: the anime series Digimon Beatbreak had been running for 3/4 of a year Digmon Story: Time Stranger and 3 DLC packs came out, with another coming next year, plus ports to the Switch 2 & 1 a couple weeks away new Digimon Pendulum Colors came out, on top...
+End = true
+
+[LIBRARY RNEWS]
 Title = Digital World Illiad- Info on the Second Digital World, New Digimon, & More!
 Body = Digital World Illiad has shown up in a few small ways over the years, then in a large way last year in Digimon Story: Time Stranger. Now Digimon Web has added a dedicated page explaining the second Digital World.
 End = true
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak ED4 Announced as 'Break It' by Kiss of Life- Starts on July 5th Episode
 Body = The 4th ending theme for Digimon Beatbreak has been announced! The song is 'Break It' from Kiss of Life!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Updates- Hiatus This Week w/ Episode 37 Previews, Episode 36 Production Art, & Staff Talk Later Today
-Body = A few recent Digimon Beatbreak updates... but no Beatbreak later, it's on a hiatus this week due to the World Cup.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Pendulum Color V-Pet 8 Celestial Walker & 9 Astral Sentinel- Pre-Order Details, Images, & Info
-Body = After getting new Shambala-based Digimon Pendulum Color V-Pets this year, Illiad gets to join the line. And we have info and pre-order details!
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, June 29th [...]
-Body = Monday (June 29th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about all the news from Digimon Times & the 29th anniversary including new Pendulum Colors, new Digivice releases, figures, early 30th anniversary info, & more while Beatbreak is on hiatus! Plus your questions!
 End = true
 
