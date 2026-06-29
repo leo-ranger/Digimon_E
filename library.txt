@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = In Beirut, a sacred ceremony also becomes display of Hezbollah's force
-Body = Tens of thousands of Shiite Muslims gathered in Beirut for the largest Ashura procession in years, as Hezbollah used the holy day to project strength despite growing pressure to disarm after months of war with Israel.
+Title = Australia to 'finally' sign Nakamal pact amid jockeying with China
+Body = Vanuatu's Prime Minister Jotham Napat and Australian Prime Minister Anthony Albanese are set to ink the Nakamal Agreement, almost 10 months after Mr Napat pulled out of a planned signing ceremony in Port Vila, citing concerns around sovereignty.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran says it hit US-linked targets as Bahrain reports drone attack
-Body = Also in the Strait of Hormuz an oil tanker has been damaged by an "unidentified projectile", while an Israeli drone has reportedly struck an area of southern Lebanon.
+Title = Trump allies seek largest reduction in Black representation ever
+Body = States in America's South are scrambling to draw up new electoral maps that would eliminate majority-Black electorates.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian arrested after teenage girl's body found in Thailand
-Body = A 45-year-old Australian man is in custody as investigations continue into the discovery of the body of a teenage girl found stuffed inside a suitcase.
+Title = Skydiving plane crashes in France, killing all 11 people on board
+Body = A small aircraft carrying skydivers has crashed in eastern France, killing all 11 people on board, local authorities say.
 End = true
 
 [LIBRARY RNEWS]
-Title = US strikes Iran after Trump calls Hormuz attack 'foolish' ceasefire breach
-Body = Iran's Revolutionary Guards vows a "swift and decisive" response, according to Iranian state television, claiming they repelled a US attack on Sirik Island, on the shores of the Strait of Hormuz.
+Title = Thai teenager's father 'deeply saddened' as Australian charged with murder
+Body = The family of a 17-year-old girl in Thailand speak of their grief as an Australian man is charged with her murder.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = After getting new Shambala-based Digimon Pendulum Color V-Pets this year,
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon 29th Anniversary & Beatbreak Hiatus Social Art, Photos, Miyazaki Concert Info, Catch-Up for the Week, & More!
-Body = Time for a weekend batch! If you missed it, Digimon Web put up some social media art to celebrate the 29th anniversary of Digimon!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon is 29 Years Old! Digimon Times Stream Later With News to Celebrate
-Body = The original V-Pets came out on June 26th, 1997 in Japan, and since it's the 26th in Japan already... Digimon is now officially 29 years old It's been a solid year for Digimon: the anime series Digimon Beatbreak had been running for 3/4 of a year Digmon Story: Time Stranger and 3 DLC packs came out, with another coming next year, plus ports to the Switch 2 & 1 a couple weeks away new Digimon Pendulum Colors came out, on top...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digital World Illiad- Info on the Second Digital World, New Digimon, & More!
-Body = Digital World Illiad has shown up in a few small ways over the years, then in a large way last year in Digimon Story: Time Stranger. Now Digimon Web has added a dedicated page explaining the second Digital World.
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak ED4 Announced as 'Break It' by Kiss of Life- Starts on July 5th Episode
 Body = The 4th ending theme for Digimon Beatbreak has been announced! The song is 'Break It' from Kiss of Life!
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon 29th Anniversary & Beatbreak Hiatus Social Art, Photos, Miyazaki Concert Info, Catch-Up for the Week, & More!
+Body = Time for a weekend batch! If you missed it, Digimon Web put up some social media art to celebrate the 29th anniversary of Digimon!
 End = true
 
