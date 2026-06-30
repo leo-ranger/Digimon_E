@@ -9,47 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Strait of Hormuz strikes likely to disrupt shipping again
+Body = Fresh attacks on commercial vessels in the Strait of Hormuz have exposed the fragility of the 60-day ceasefire deal between the US and Iran, which was meant to allow ships to transit through the waterway again.
+End = true
+
+[LIBRARY RNEWS]
 Title = PM-in-waiting Andy Burnham lays out plan to fix 'broken' British politics
 Body = Andy Burnham, the British MP tipped to replace the outgoing prime minister Sir Keir Starmer, promised "radical change" to the nation's "broken" political system as he laid out his vision to lead the country on Monday.
 End = true
 
 [LIBRARY RNEWS]
+Title = Court rejects Trump's final bid to overturn E Jean Carroll verdict
+Body = The US Supreme Court declined to hear US President Donald Trump's bid to overturn a $5 million USD verdict in a case in which a jury found him liable for sexually abusing and defaming E Jean Carroll.
+End = true
+
+[LIBRARY RNEWS]
 Title = Putin says Russia will press on despite fuel shortages
 Body = President Vladimir Putin has said Russia will press ahead with its battlefield aim of fully capturing four Ukrainian regions, rejecting diplomatic overtures from Ukraine.
-End = true
-
-[LIBRARY RNEWS]
-Title = Six killed in German 'family tragedy' shooting, say police
-Body = Two people have been arrested after a shooting in the northern German town of Stade.
-End = true
-
-[LIBRARY RNEWS]
-Title = Penelope Keith, star of The Good Life and To the Manor Born, dead at 86
-Body = Beloved British actress Dame Penelope Keith, who rose to fame in the hit 1970s UK sitcom The Good Life, has died aged 86.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Meramon [...]
-Body = https://twitter.com/x/status/2071790836937793966 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Meramon!
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #307- Time for a Break (Digimon 29th Anniversary News & More!)
-Body = This time we will be talking about all the news from Digimon Times & the 29th anniversary including new Pendulum Colors, new Digivice releases, figures, early 30th anniversary info, & more while Beatbreak is on hiatus! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
-End = true
-
-[LIBRARY RNEWS]
-Title = Holy War (Digimon) [...]
-Body = This is the sequel to my Digimon story, "A Dragon in Shining Armour". Like it's predecessor, it focuses on the Royal Knights.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure Garurumon & Yamato GEM Figure Rerelease Announced- Pre-Orders in July
-Body = Not a shock after they teased it by showing off an image, but at Digimon Times it was announced the Digimon Adventure Garurumon & Yamato GEM figure would get a rerelease. (The image above also mentions the recently open to pre-order rerelease of Greymon & Taichi.) Pre-orders open in early July.
 End = true
 
