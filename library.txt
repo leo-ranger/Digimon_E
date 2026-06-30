@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Unlucky being born as Iranian': Diaspora's social fabric under strain
-Body = Iranian Australians are grappling with mistrust, harassment and isolation within a community deeply traumatised by an oppressive regime.
+Title = PM-in-waiting Andy Burnham lays out plan to fix 'broken' British politics
+Body = Andy Burnham, the British MP tipped to replace the outgoing prime minister Sir Keir Starmer, promised "radical change" to the nation's "broken" political system as he laid out his vision to lead the country on Monday.
 End = true
 
 [LIBRARY RNEWS]
-Title = US and Iran to halt strikes as talks set to continue
-Body = The US and Iran will stand down on strikes and vessels will be allowed to move freely, as technical talks are slated to continue on all areas of the memorandum of understanding.
+Title = Putin says Russia will press on despite fuel shortages
+Body = President Vladimir Putin has said Russia will press ahead with its battlefield aim of fully capturing four Ukrainian regions, rejecting diplomatic overtures from Ukraine.
 End = true
 
 [LIBRARY RNEWS]
-Title = Baby, young boys pulled alive from Venezuela earthquake rubble
-Body = The three children are among at least 33 people rescued during a weekend multinational operation that continued searching for survivors, while thousands remained unaccounted-for.
+Title = Six killed in German 'family tragedy' shooting, say police
+Body = Two people have been arrested after a shooting in the northern German town of Stade.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump allies seek largest reduction in Black representation ever
-Body = States in America's South are scrambling to draw up new electoral maps that would eliminate majority-Black electorates.
+Title = Penelope Keith, star of The Good Life and To the Manor Born, dead at 86
+Body = Beloved British actress Dame Penelope Keith, who rose to fame in the hit 1970s UK sitcom The Good Life, has died aged 86.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Pendulum Color V-Pet 8 Celestial Walker & 9 Astral Sentinel- Pre-Order Details, Images, & Info
-Body = After getting new Shambala-based Digimon Pendulum Color V-Pets this year, Illiad gets to join the line. And we have info and pre-order details!
+Title = Digimon Up- Digimon Showcase, Meramon [...]
+Body = https://twitter.com/x/status/2071790836937793966 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Meramon!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure Digivice ver. Revival Update- Outside of Japan Release Planned
-Body = From Digimon Times an update on the Digimon Adventure Digivice ver. Revival that went up to pre-order in Japan earlier.
+Title = With the Will Podcast Episode #307- Time for a Break (Digimon 29th Anniversary News & More!)
+Body = This time we will be talking about all the news from Digimon Times & the 29th anniversary including new Pendulum Colors, new Digivice releases, figures, early 30th anniversary info, & more while Beatbreak is on hiatus! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+End = true
+
+[LIBRARY RNEWS]
+Title = Holy War (Digimon) [...]
+Body = This is the sequel to my Digimon story, "A Dragon in Shining Armour". Like it's predecessor, it focuses on the Royal Knights.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Adventure Garurumon & Yamato GEM Figure Rerelease Announced- Pre-Orders in July
 Body = Not a shock after they teased it by showing off an image, but at Digimon Times it was announced the Digimon Adventure Garurumon & Yamato GEM figure would get a rerelease. (The image above also mentions the recently open to pre-order rerelease of Greymon & Taichi.) Pre-orders open in early July.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
