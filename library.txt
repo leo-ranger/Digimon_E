@@ -14,6 +14,11 @@ Body = New photographs reveal the cluttered room where 17-year-old Tunchanok Don
 End = true
 
 [LIBRARY RNEWS]
+Title = Venezuelan earthquake rescuers save 3yo boy after six days under rubble
+Body = The death toll from Venezuela's devastating two earthquakes has risen to more than 1,900 as tens of thousands of people still remain unaccounted for.
+End = true
+
+[LIBRARY RNEWS]
 Title = US Supreme Court rejects Trump's bid to end birthright citizenship
 Body = Donald Trump's controversial attempt to restrict birthright citizenship in the US is rejected by the Supreme Court, up-ending the president's hardline agenda on immigration.
 End = true
@@ -24,8 +29,13 @@ Body = Workers had been repairing tiles on a decrepit building in Lahore when th
 End = true
 
 [LIBRARY RNEWS]
-Title = Intelligence reports Germany under threat from extremists and foreign powers
-Body = Moscow-recruited saboteurs, Chinese spies, Iran-backed Islamist militants and violent neo-Nazis are growing problems, says intelligence service BfV.
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+End = true
+
+[LIBRARY RNEWS]
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Up- Digimon Showcase, Meramon [...]
 Body = https://twitter.com/x/status/2071790836937793966 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Meramon!
-End = true
-
-[LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Pendulum Color V-Pet 8 Celestial Walker & 9 Astral Sentinel- Pre-Order Details, Images, & Info
-Body = After getting new Shambala-based Digimon Pendulum Color V-Pets this year, Illiad gets to join the line. And we have info and pre-order details!
 End = true
 
