@@ -9,22 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Strait of Hormuz strikes likely to disrupt shipping again
-Body = Fresh attacks on commercial vessels in the Strait of Hormuz have exposed the fragility of the 60-day ceasefire deal between the US and Iran, which was meant to allow ships to transit through the waterway again.
+Title = Photos show room where police allege Thai teenager was last seen
+Body = New photographs reveal the cluttered room where 17-year-old Tunchanok Donhomla was allegedly murdered by Australian man Simon Peter Carman.
 End = true
 
 [LIBRARY RNEWS]
-Title = PM-in-waiting Andy Burnham lays out plan to fix 'broken' British politics
-Body = Andy Burnham, the British MP tipped to replace the outgoing prime minister Sir Keir Starmer, promised "radical change" to the nation's "broken" political system as he laid out his vision to lead the country on Monday.
+Title = US Supreme Court rejects Trump's bid to end birthright citizenship
+Body = Donald Trump's controversial attempt to restrict birthright citizenship in the US is rejected by the Supreme Court, up-ending the president's hardline agenda on immigration.
 End = true
 
 [LIBRARY RNEWS]
-Title = Court rejects Trump's final bid to overturn E Jean Carroll verdict
-Body = The US Supreme Court declined to hear US President Donald Trump's bid to overturn a $5 million USD verdict in a case in which a jury found him liable for sexually abusing and defaming E Jean Carroll.
+Title = 14 children die as Pakistan learning centre roof collapses
+Body = Workers had been repairing tiles on a decrepit building in Lahore when the roof gave way and crushed the youngsters.
 End = true
 
 [LIBRARY RNEWS]
-Title = Putin says Russia will press on despite fuel shortages
-Body = President Vladimir Putin has said Russia will press ahead with its battlefield aim of fully capturing four Ukrainian regions, rejecting diplomatic overtures from Ukraine.
+Title = Intelligence reports Germany under threat from extremists and foreign powers
+Body = Moscow-recruited saboteurs, Chinese spies, Iran-backed Islamist militants and violent neo-Nazis are growing problems, says intelligence service BfV.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure Digivice ver. Revival Update- Outside of Japan Release Planned
+Body = From Digimon Times an update on the Digimon Adventure Digivice ver. Revival that went up to pre-order in Japan earlier.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Collaboration with Expelled from Paradise: Resonance of the Heart Film- Art Shown & Postcards this Weekend
+Body = Digimon Beatbreak is getting a collaboration with the Toei produced film, Expelled from Paradise: Resonance of the Heart. They showed off the main element of the collaboration, collaboration art.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- Digimon Showcase, Meramon [...]
+Body = https://twitter.com/x/status/2071790836937793966 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Meramon!
+End = true
+
+[LIBRARY RNEWS]
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Pendulum Color V-Pet 8 Celestial Walker & 9 Astral Sentinel- Pre-Order Details, Images, & Info
+Body = After getting new Shambala-based Digimon Pendulum Color V-Pets this year, Illiad gets to join the line. And we have info and pre-order details!
 End = true
 
