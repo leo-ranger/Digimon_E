@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = As they mourn their daughter, family wants a ‘life for a life’ from accused man
+Body = The family of a Thai teenager allegedly killed by an Australian man has placed her cremated ashes to rest at a local Buddhist temple as they seek justice for her murder.
+End = true
+
+[LIBRARY RNEWS]
+Title = US Navy crew member missing as chopper goes down in Arabian Sea
+Body = A US Navy service member is missing and three others are injured after their MH-60S Sea Hawk helicopter went down in the Arabian Sea.
+End = true
+
+[LIBRARY RNEWS]
+Title = Satellite images show Venezuelan earthquakes wiped out entire towns
+Body = Venezuela's devastating earthquakes flattened buildings and coated parts of the northern coast in dust and debris, satellite imagery shows.
+End = true
+
+[LIBRARY RNEWS]
 Title = Russian daredevils climb Empire State Building to unfurl 'love' banner
 Body = Two Russian daredevils, Angela Nikolau and Vanya Beerkus, claim to be the duo who scaled the 102-storey, 443-metre tower for an apparent show of love and a marriage proposal.
 End = true
 
 [LIBRARY RNEWS]
-Title = Indonesian tech entrepreneur jailed over Chromebooks purchase
-Body = Indonesian tech entrepreneur and former education minister Nadiem Makarim has been sentenced to 10 years' jail in a corruption case linked to the procurement of Google Chromebooks.
+Title = Poll Results for Favorite Five Stars Partner Digimon
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Five Stars Partner Digimon! Recently the poll closed and we have the results!
 End = true
 
 [LIBRARY RNEWS]
-Title = Murder case throws Thai sex tourism hub into global spotlight
-Body = It has become the centre of international attention after an Australian allegedly murdered a teenage girl, but Pattaya City has had an international reputation for decades.
+Title = Digimon Adventure Garurumon & Yamato GEM Figure Rerelease- Pre-Orders & Images
+Body = Roughly 10 years after its original release, the Digimon Adventure Garurumon & Yamato GEM figure gets a rerelease for anyone who missed out last time, or didn't even know this figure existed. A short wait on this one, we only found out the rerelease was happening under a week ago!
 End = true
 
 [LIBRARY RNEWS]
-Title = 'I can't breathe': Police who handcuffed Henry Nowak being investigated
-Body = Student Henry Nowak, 18, died while handcuffed by police in the English city of Southampton, after calling out "I can't breathe" and "I've been stabbed".
+Title = Digimon Beatbreak: Episode 37- Kind Magic [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 37, Kind Magic A preview of Episode 37 Episode 37 airs Sunday, July 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Up- Digimon Showcase, Meramon [...]
 Body = https://twitter.com/x/status/2071790836937793966 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Meramon!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 36- Twisted Code [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 36, Twisted Code A preview of Episode 36 Episode 36 airs Sunday, June 21st, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure Digivice ver. Revival Update- Outside of Japan Release Planned
-Body = From Digimon Times an update on the Digimon Adventure Digivice ver. Revival that went up to pre-order in Japan earlier.
 End = true
 
