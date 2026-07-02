@@ -9,28 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Photos show room where police allege Thai teenager was last seen
-Body = New photographs reveal the cluttered room where 17-year-old Tunchanok Donhomla was allegedly murdered by Australian man Simon Peter Carman.
+Title = Russian daredevils climb Empire State Building to unfurl 'love' banner
+Body = Two Russian daredevils, Angela Nikolau and Vanya Beerkus, claim to be the duo who scaled the 102-storey, 443-metre tower for an apparent show of love and a marriage proposal.
 End = true
 
 [LIBRARY RNEWS]
-Title = Venezuelan earthquake rescuers save 3yo boy after six days under rubble
-Body = The death toll from Venezuela's devastating two earthquakes has risen to more than 1,900 as tens of thousands of people still remain unaccounted for.
+Title = Indonesian tech entrepreneur jailed over Chromebooks purchase
+Body = Indonesian tech entrepreneur and former education minister Nadiem Makarim has been sentenced to 10 years' jail in a corruption case linked to the procurement of Google Chromebooks.
 End = true
 
 [LIBRARY RNEWS]
-Title = US Supreme Court rejects Trump's bid to end birthright citizenship
-Body = Donald Trump's controversial attempt to restrict birthright citizenship in the US is rejected by the Supreme Court, up-ending the president's hardline agenda on immigration.
+Title = Murder case throws Thai sex tourism hub into global spotlight
+Body = It has become the centre of international attention after an Australian allegedly murdered a teenage girl, but Pattaya City has had an international reputation for decades.
 End = true
 
 [LIBRARY RNEWS]
-Title = 14 children die as Pakistan learning centre roof collapses
-Body = Workers had been repairing tiles on a decrepit building in Lahore when the roof gave way and crushed the youngsters.
+Title = 'I can't breathe': Police who handcuffed Henry Nowak being investigated
+Body = Student Henry Nowak, 18, died while handcuffed by police in the English city of Southampton, after calling out "I can't breathe" and "I've been stabbed".
 End = true
 
 [LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+Title = Digimon Card Battle 270- Digimon Card Game Booster Set EX-12 Unboxing
+Body = Digimon Card Battle is back with episode 270. This time the English episode is just the news segment.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- Digimon Showcase, Meramon [...]
+Body = https://twitter.com/x/status/2071790836937793966 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Meramon!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 36- Twisted Code [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 36, Twisted Code A preview of Episode 36 Episode 36 airs Sunday, June 21st, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Adventure Digivice ver. Revival Update- Outside of Japan Release Planned
 Body = From Digimon Times an update on the Digimon Adventure Digivice ver. Revival that went up to pre-order in Japan earlier.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Collaboration with Expelled from Paradise: Resonance of the Heart Film- Art Shown & Postcards this Weekend
-Body = Digimon Beatbreak is getting a collaboration with the Toei produced film, Expelled from Paradise: Resonance of the Heart. They showed off the main element of the collaboration, collaboration art.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Meramon [...]
-Body = https://twitter.com/x/status/2071790836937793966 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Meramon!
 End = true
 
