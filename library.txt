@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = 'What's really going on' inside Venezuela? The ABC hears the worst is to come
+Body = On the ground in Venezuela, death and desperation linger but they are juxtaposed against miracle survival stories.
+End = true
+
+[LIBRARY RNEWS]
 Title = As they mourn their daughter, family wants a ‘life for a life’ from accused man
 Body = The family of a Thai teenager allegedly killed by an Australian man has placed her cremated ashes to rest at a local Buddhist temple as they seek justice for her murder.
 End = true
 
 [LIBRARY RNEWS]
-Title = US Navy crew member missing as chopper goes down in Arabian Sea
-Body = A US Navy service member is missing and three others are injured after their MH-60S Sea Hawk helicopter went down in the Arabian Sea.
+Title = Pictures show interior of Trump's new Air Force One jet
+Body = The jet, gifted to the US government by Qatar, has been retrofitted, with Trump shaking off concerns over the cost.
 End = true
 
 [LIBRARY RNEWS]
-Title = Satellite images show Venezuelan earthquakes wiped out entire towns
-Body = Venezuela's devastating earthquakes flattened buildings and coated parts of the northern coast in dust and debris, satellite imagery shows.
+Title = UK PM apologises over forced adoptions, calls practice a 'stain on history'
+Body = UK PM Keir Starmer has formally apologised for the British state's role in separating tens of thousands of unmarried mothers from their babies.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian daredevils climb Empire State Building to unfurl 'love' banner
-Body = Two Russian daredevils, Angela Nikolau and Vanya Beerkus, claim to be the duo who scaled the 102-storey, 443-metre tower for an apparent show of love and a marriage proposal.
+Title = Digimon Up- Digimon Showcase, Numemon [...]
+Body = https://twitter.com/x/status/2072515617715081371 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Numemon!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 37- Kind Magic [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 37, Kind Magic A preview of Episode 37 Episode 37 airs Sunday, July 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Battle 270- Digimon Card Game Booster Set EX-12 Unboxing
-Body = Digimon Card Battle is back with episode 270. This time the English episode is just the news segment.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Meramon [...]
-Body = https://twitter.com/x/status/2071790836937793966 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Meramon!
 End = true
 
