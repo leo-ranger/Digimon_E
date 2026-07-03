@@ -9,33 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Photos show site of US pilot's killing at hands of Papua rebels
+Body = A Papua separatist group has shot dead an American pilot who allegedly transported Indonesian troops into the restive province.
+End = true
+
+[LIBRARY RNEWS]
+Title = Support growing for Pacific-wide security agreement, Solomon Islands PM says
+Body = Solomon Islands Prime Minister Matthew Wale says there is "growing consensus" in support of his proposal for a Pacific-wide security agreement.
+End = true
+
+[LIBRARY RNEWS]
 Title = 'What's really going on' inside Venezuela? The ABC hears the worst is to come
 Body = On the ground in Venezuela, death and desperation linger but they are juxtaposed against miracle survival stories.
 End = true
 
 [LIBRARY RNEWS]
-Title = As they mourn their daughter, family wants a ‘life for a life’ from accused man
-Body = The family of a Thai teenager allegedly killed by an Australian man has placed her cremated ashes to rest at a local Buddhist temple as they seek justice for her murder.
-End = true
-
-[LIBRARY RNEWS]
-Title = Pictures show interior of Trump's new Air Force One jet
-Body = The jet, gifted to the US government by Qatar, has been retrofitted, with Trump shaking off concerns over the cost.
-End = true
-
-[LIBRARY RNEWS]
-Title = UK PM apologises over forced adoptions, calls practice a 'stain on history'
-Body = UK PM Keir Starmer has formally apologised for the British state's role in separating tens of thousands of unmarried mothers from their babies.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Numemon [...]
-Body = https://twitter.com/x/status/2072515617715081371 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Numemon!
+Title = UK uncovers international network of men drugging and assaulting women
+Body = In echoes of the high-profile Gisele Pelicot case, the National Crime Agency says it has identified more than 270 individuals linked to an online forum and its offshoots.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Rumble Arena fangame *read the first post before posting*
 Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- Digimon Showcase, Numemon [...]
+Body = https://twitter.com/x/status/2072515617715081371 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Numemon!
 End = true
 
 [LIBRARY RNEWS]
