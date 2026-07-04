@@ -29,27 +29,27 @@ Body = A Papua separatist group has shot dead an American pilot who allegedly tr
 End = true
 
 [LIBRARY RNEWS]
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Pendulum Color V-Pet 8 Celestial Walker & 9 Astral Sentinel- Pre-Order Details, Images, & Info
+Body = After getting new Shambala-based Digimon Pendulum Color V-Pets this year, Illiad gets to join the line. And we have info and pre-order details!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Universe: AppliMonsters Pop Up Shop at eeo on July 10th- Bubbles & Rainy Day GraffArt Art & Product Details- Online Sales Also
+Body = A new Digimon Universe: AppliMonsters pop-up shop has been announced (2) (3). The Digimon Universe: AppliMonsters Pop-Up Shop features new artwork of the characters themed around playing with bubbles (and wearing white outfits.) It's still technically in the 10th anniversary year of Appmon, but the shop isn't branded as such (it appears they stopped branding it when the anniversaries from last year...
+End = true
+
+[LIBRARY RNEWS]
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Adventure Movie, Our War Game, & Adventure 02: Hurricane Touchdown Screenings Over the Next Week in Shinagawa
 Body = For those in Tokyo during the next week, there will be screenings of the original Digimon Adventure movie, Digimon Adventure: Our War Game, and Digimon Adventure 02: Hurricane Touchdown/Transcendent Evolution! The Golden Digimentals.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak ED4 Break It by Kiss of Life- Full Song Release
-Body = Break It by Kiss of Life, the 4th ED theme to Digimon Beatbreak has had the full version of the song released as a digital single in advance of its appearance as the end theme of the show tomorrow. The digital single is also on various music services, of which they have an incomplete list here.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, July 6th [...]
-Body = Monday (July 6th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 37, the end of the Gift Arc, & a collab with Expelled from Paradise, the new Digimon Eggs manga, figure rereleases, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Poll Results for Favorite Five Stars Partner Digimon
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Five Stars Partner Digimon! Recently the poll closed and we have the results!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Eggs Manga by Ayumu Minato Starts in Saikyo Jump October 3rd
-Body = A new Digimon manga has been announced! Digimon Eggs will run monthly in Saikyo Jump starting with the November cover dated issue, being released on October 3rd.
 End = true
 
