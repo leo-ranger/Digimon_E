@@ -9,33 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Interpol issues wanted notice for Monaco bombing suspect
+Body = Investigators are hunting for a woman they say "disguised herself as a man" in connection with in a bomb attack that targeted a wealthy businessman in Monaco.
+End = true
+
+[LIBRARY RNEWS]
+Title = 'Panicked' Putin has big decision to make, and 'could go nuclear'
+Body = The Russian president's decision to annex Crimea showed the world his authoritarian muscle. These days, it is a "personal humiliation".
+End = true
+
+[LIBRARY RNEWS]
+Title = China's latest activities near Taiwan indicate new strategy
+Body = Australia raises concerns about China's latest activities near Taiwan "directly to Chinese officials" as tensions simmer in the region.
+End = true
+
+[LIBRARY RNEWS]
 Title = Photos show site of US pilot's killing at hands of Papua rebels
 Body = A Papua separatist group has shot dead an American pilot who allegedly transported Indonesian troops into the restive province.
 End = true
 
 [LIBRARY RNEWS]
-Title = Support growing for Pacific-wide security agreement, Solomon Islands PM says
-Body = Solomon Islands Prime Minister Matthew Wale says there is "growing consensus" in support of his proposal for a Pacific-wide security agreement.
+Title = Digimon Adventure Movie, Our War Game, & Adventure 02: Hurricane Touchdown Screenings Over the Next Week in Shinagawa
+Body = For those in Tokyo during the next week, there will be screenings of the original Digimon Adventure movie, Digimon Adventure: Our War Game, and Digimon Adventure 02: Hurricane Touchdown/Transcendent Evolution! The Golden Digimentals.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'What's really going on' inside Venezuela? The ABC hears the worst is to come
-Body = On the ground in Venezuela, death and desperation linger but they are juxtaposed against miracle survival stories.
+Title = Digimon Beatbreak ED4 Break It by Kiss of Life- Full Song Release
+Body = Break It by Kiss of Life, the 4th ED theme to Digimon Beatbreak has had the full version of the song released as a digital single in advance of its appearance as the end theme of the show tomorrow. The digital single is also on various music services, of which they have an incomplete list here.
 End = true
 
 [LIBRARY RNEWS]
-Title = UK uncovers international network of men drugging and assaulting women
-Body = In echoes of the high-profile Gisele Pelicot case, the National Crime Agency says it has identified more than 270 individuals linked to an online forum and its offshoots.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Numemon [...]
-Body = https://twitter.com/x/status/2072515617715081371 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Numemon!
+Title = With the Will Podcast Live- Monday, July 6th [...]
+Body = Monday (July 6th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 37, the end of the Gift Arc, & a collab with Expelled from Paradise, the new Digimon Eggs manga, figure rereleases, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +49,7 @@ Body = A bit ago, the official Digimon site put up a poll for your Favorite Five
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure Garurumon & Yamato GEM Figure Rerelease- Pre-Orders & Images
-Body = Roughly 10 years after its original release, the Digimon Adventure Garurumon & Yamato GEM figure gets a rerelease for anyone who missed out last time, or didn't even know this figure existed. A short wait on this one, we only found out the rerelease was happening under a week ago!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 37- Kind Magic [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 37, Kind Magic A preview of Episode 37 Episode 37 airs Sunday, July 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Eggs Manga by Ayumu Minato Starts in Saikyo Jump October 3rd
+Body = A new Digimon manga has been announced! Digimon Eggs will run monthly in Saikyo Jump starting with the November cover dated issue, being released on October 3rd.
 End = true
 
