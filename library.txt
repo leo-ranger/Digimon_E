@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Interpol issues wanted notice for Monaco bombing suspect
-Body = Investigators are hunting for a woman they say "disguised herself as a man" in connection with in a bomb attack that targeted a wealthy businessman in Monaco.
+Title = Ukraine retaliates, striking St Petersburg following deadliest attack
+Body = Ukraine has retaliated after Russia's attack on Kyiv killed at least 27 people.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Panicked' Putin has big decision to make, and 'could go nuclear'
-Body = The Russian president's decision to annex Crimea showed the world his authoritarian muscle. These days, it is a "personal humiliation".
+Title = Trump made money off his meme coin, did its investors?
+Body = US President Donald Trump made huge amounts of money from his family's crypto and meme coin ventures last year, but did his investors?
 End = true
 
 [LIBRARY RNEWS]
-Title = China's latest activities near Taiwan indicate new strategy
-Body = Australia raises concerns about China's latest activities near Taiwan "directly to Chinese officials" as tensions simmer in the region.
+Title = Robotic rescue mission underway to save space telescope falling to Earth
+Body = NASA launched a mission on Friday, local time, to try to prevent one of its aging telescopes from burning up in the atmosphere, a complicated operation expected to last months.
 End = true
 
 [LIBRARY RNEWS]
-Title = Photos show site of US pilot's killing at hands of Papua rebels
-Body = A Papua separatist group has shot dead an American pilot who allegedly transported Indonesian troops into the restive province.
+Title = Three men acquitted of murdering journalist Lyra McKee
+Body = The 29-year-old was shot by a member of a dissident Irish Republican Army splinter group while covering a riot in Derry/Londonderry in 2019.
 End = true
 
 [LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+Title = Digimon Beatbreak English Dub Episodes 26-30 Available
+Body = The next batch of English dub episodes of Digimon Beatbreak went up tonight on Crunchyroll, without any further annoucement. The newest batch will includes episodes 26 through 30.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Pendulum Color V-Pet 8 Celestial Walker & 9 Astral Sentinel- Pre-Order Details, Images, & Info
-Body = After getting new Shambala-based Digimon Pendulum Color V-Pets this year, Illiad gets to join the line. And we have info and pre-order details!
+Title = Digimon Beatbreak: Episode 37- Kind Magic [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 37, Kind Magic A preview of Episode 37 Episode 37 airs Sunday, July 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Universe: AppliMonsters Pop Up Shop at eeo on July 10th- Bubbles & Rainy Day GraffArt Art & Product Details- Online Sales Also
-Body = A new Digimon Universe: AppliMonsters pop-up shop has been announced (2) (3). The Digimon Universe: AppliMonsters Pop-Up Shop features new artwork of the characters themed around playing with bubbles (and wearing white outfits.) It's still technically in the 10th anniversary year of Appmon, but the shop isn't branded as such (it appears they stopped branding it when the anniversaries from last year...
+Title = Digimon Beatbreak: Episode 34- Behind the Mask [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 34, Behind the Mask A preview of Episode 34 Episode 34 airs Sunday, June 7th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+Title = Digimon Beatbreak- ED4 featuring Break It by Kiss of Life
+Body = With episode 37 of Beatbreak having aired in Japan, we have the video for ED4, Break It by Kiss of Life! This ED focuses on the main characters from Glowing Dawn with some nice stylized colored visuals.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure Movie, Our War Game, & Adventure 02: Hurricane Touchdown Screenings Over the Next Week in Shinagawa
-Body = For those in Tokyo during the next week, there will be screenings of the original Digimon Adventure movie, Digimon Adventure: Our War Game, and Digimon Adventure 02: Hurricane Touchdown/Transcendent Evolution! The Golden Digimentals.
+Title = Digimon Beatbreak- 4th Arc Key Art, Title, & New Character Reveal
+Body = While episode 37 of Digimon Beatbreak has aired in Japan, at the time of posting they haven't formally announced what is next. Except Toei Thailand posted stuff (2) a bit early it appears...
 End = true
 
