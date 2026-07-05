@@ -9,28 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = The Trump era echoes the messy truth behind the founding of America
+Body = US Independence Day was never the simple morality tale Americans often tell themselves. Under Donald Trump the debate over its meaning is more politically charged than ever.
+End = true
+
+[LIBRARY RNEWS]
+Title = Japan's LGBTQIA+ education plan has been released. Some aren't happy
+Body = The first national plan of its kind is broadly criticised by gay rights proponents and legal experts for supporting the status quo.
+End = true
+
+[LIBRARY RNEWS]
 Title = Ukraine retaliates, striking St Petersburg following deadliest attack
 Body = Ukraine has retaliated after Russia's attack on Kyiv killed at least 27 people.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump made money off his meme coin, did its investors?
-Body = US President Donald Trump made huge amounts of money from his family's crypto and meme coin ventures last year, but did his investors?
-End = true
-
-[LIBRARY RNEWS]
-Title = Robotic rescue mission underway to save space telescope falling to Earth
-Body = NASA launched a mission on Friday, local time, to try to prevent one of its aging telescopes from burning up in the atmosphere, a complicated operation expected to last months.
-End = true
-
-[LIBRARY RNEWS]
-Title = Three men acquitted of murdering journalist Lyra McKee
-Body = The 29-year-old was shot by a member of a dissident Irish Republican Army splinter group while covering a riot in Derry/Londonderry in 2019.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak English Dub Episodes 26-30 Available
-Body = The next batch of English dub episodes of Digimon Beatbreak went up tonight on Crunchyroll, without any further annoucement. The newest batch will includes episodes 26 through 30.
+Title = Crowds gather in Iran to farewell body of assassinated supreme leader
+Body = Millions of Iranians have gathered in Tehran as the country begins a week of funeral ceremonies for former supreme leader, Ayatollah Ali Khamenei.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +34,22 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 37, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 34- Behind the Mask [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 34, Behind the Mask A preview of Episode 34 Episode 34 airs Sunday, June 7th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Weekend Batch- Digimon Beatbreak Episode 37, Birthday, Ghost Game, & July Social Art, Behind the Scenes & More Photos, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 37!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak- ED4 featuring Break It by Kiss of Life
-Body = With episode 37 of Beatbreak having aired in Japan, we have the video for ED4, Break It by Kiss of Life! This ED focuses on the main characters from Glowing Dawn with some nice stylized colored visuals.
+Title = Digimon Up- Digimon Showcase, Bakemon [...]
+Body = https://twitter.com/x/status/2073602781852975303 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Bakemon!
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak- 4th Arc Key Art, Title, & New Character Reveal
 Body = While episode 37 of Digimon Beatbreak has aired in Japan, at the time of posting they haven't formally announced what is next. Except Toei Thailand posted stuff (2) a bit early it appears...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak- English Dub Discussion (Update- Episodes 26-30 Available)
+Body = Digimon Beatbreak has an English dub! The first five episodes are premiering today (December 27th) on Crunchyroll.
 End = true
 
