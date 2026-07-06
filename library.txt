@@ -9,38 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = The Trump era echoes the messy truth behind the founding of America
-Body = US Independence Day was never the simple morality tale Americans often tell themselves. Under Donald Trump the debate over its meaning is more politically charged than ever.
+Title = Wildfires devastate forests in Europe as temperatures rise again
+Body = Firefighters have been battling forest infernos in heatwave-scarred Europe, as temperatures rise again.
 End = true
 
 [LIBRARY RNEWS]
-Title = Japan's LGBTQIA+ education plan has been released. Some aren't happy
-Body = The first national plan of its kind is broadly criticised by gay rights proponents and legal experts for supporting the status quo.
+Title = Fears for imprisoned Gaza doctor Hussam Abu Safiya
+Body = Hussam Abu Safiya's lawyers believe he is at risk of being killed behind bars in an Israeli prison.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ukraine retaliates, striking St Petersburg following deadliest attack
-Body = Ukraine has retaliated after Russia's attack on Kyiv killed at least 27 people.
+Title = Ebola treatment trial begins in Congo as outbreak continues to grow
+Body = A trial for an experimental Ebola treatment starts in Congo, where the largest-ever Ebola outbreak continues to grow.
 End = true
 
 [LIBRARY RNEWS]
-Title = Crowds gather in Iran to farewell body of assassinated supreme leader
-Body = Millions of Iranians have gathered in Tehran as the country begins a week of funeral ceremonies for former supreme leader, Ayatollah Ali Khamenei.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 37- Kind Magic [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 37, Kind Magic A preview of Episode 37 Episode 37 airs Sunday, July 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 37, Birthday, Ghost Game, & July Social Art, Behind the Scenes & More Photos, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 37!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Digimon Showcase, Bakemon [...]
-Body = https://twitter.com/x/status/2073602781852975303 Another Digimon Up showcase of a Digimon that will be appearing in the upcoming mobile game. This time is Bakemon!
+Title = Meet Mr Row Row, the man who invented Norway's viral World Cup Viking row
+Body = Ole Frøystad has always been a passionate football fan and when Norway qualified for its first men's World Cup since 1998, he was inspired to create the iconic chant that's become a global sensation.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +34,22 @@ Body = While episode 37 of Digimon Beatbreak has aired in Japan, at the time of 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak- English Dub Discussion (Update- Episodes 26-30 Available)
-Body = Digimon Beatbreak has an English dub! The first five episodes are premiering today (December 27th) on Crunchyroll.
+Title = Digimon Beatbreak: Episode 37- Kind Magic [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 37, Kind Magic A preview of Episode 37 Episode 37 airs Sunday, July 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Preview for Digimon Beatbreak Episode 38 Hollow Thirst
+Body = https://twitter.com/x/status/2073693368799187032 Time for a preview for Episode 38 Hollow Thirst! Watch episode 37 first!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Kyo Arc Key Art & New Character- 4 Episodes, Special Screening in August w/ Guests and Gifts
+Body = We got the info a bit early yesterday, but there is enough new info might as well just do a new thread... First up, the new arc (2) is called the Kyo Arc.
+End = true
+
+[LIBRARY RNEWS]
+Title = It's the 16th Anniversary of Digimon Xros Wars! [...]
+Body = It's the 16th anniversary of Digimon Xros Wars since it's July 6th in Japan! Digimon Xros Wars premiered on July 6th, 2010 in Japan, and was later brought to the US as Digimon Fusion.
 End = true
 
