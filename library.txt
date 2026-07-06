@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Wildfires devastate forests in Europe as temperatures rise again
-Body = Firefighters have been battling forest infernos in heatwave-scarred Europe, as temperatures rise again.
+Title = China warns Australia over landmark military alliance in the Pacific
+Body = China has warned Australia not to harm its interests in the Pacific after Anthony Albanese struck a landmark military alliance with Fiji.
+End = true
+
+[LIBRARY RNEWS]
+Title = Nigel Farage referred to watchdog over 'gifts' from crypto investor 'Posh George'
+Body = Nigel Farage was reportedly provided with security services, social media support and accommodation by George Cottrell, a 32-year-old crypto investor who previously served eight months in prison for wire fraud.
+End = true
+
+[LIBRARY RNEWS]
+Title = The world is getting pure Trump and the US presidency may never be the same
+Body = Donald Trump is undertaking regime change, not just in Venezuela, but on US soil and it is unlikely the presidency will ever be the same.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,13 +29,8 @@ Body = Hussam Abu Safiya's lawyers believe he is at risk of being killed behind 
 End = true
 
 [LIBRARY RNEWS]
-Title = Ebola treatment trial begins in Congo as outbreak continues to grow
-Body = A trial for an experimental Ebola treatment starts in Congo, where the largest-ever Ebola outbreak continues to grow.
-End = true
-
-[LIBRARY RNEWS]
-Title = Meet Mr Row Row, the man who invented Norway's viral World Cup Viking row
-Body = Ole Frøystad has always been a passionate football fan and when Norway qualified for its first men's World Cup since 1998, he was inspired to create the iconic chant that's become a global sensation.
+Title = Digimon Beatbreak: Episode 37- Kind Magic [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 37, Kind Magic A preview of Episode 37 Episode 37 airs Sunday, July 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = While episode 37 of Digimon Beatbreak has aired in Japan, at the time of 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 37- Kind Magic [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 37, Kind Magic A preview of Episode 37 Episode 37 airs Sunday, July 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 38 Hollow Thirst
-Body = https://twitter.com/x/status/2073693368799187032 Time for a preview for Episode 38 Hollow Thirst! Watch episode 37 first!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Kyo Arc Key Art & New Character- 4 Episodes, Special Screening in August w/ Guests and Gifts
-Body = We got the info a bit early yesterday, but there is enough new info might as well just do a new thread... First up, the new arc (2) is called the Kyo Arc.
+Title = Digimon Up Key Art Shown Off [...]
+Body = To tempt more pre-registrations on the road to 1 million in the current pre-registration campaign, we get key art for Digimon Up! Slightly different for English and Japanese logos.
 End = true
 
 [LIBRARY RNEWS]
 Title = It's the 16th Anniversary of Digimon Xros Wars! [...]
 Body = It's the 16th anniversary of Digimon Xros Wars since it's July 6th in Japan! Digimon Xros Wars premiered on July 6th, 2010 in Japan, and was later brought to the US as Digimon Fusion.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Kyo Arc Key Art & New Character- 4 Episodes, Special Screening in August w/ Guests and Gifts
+Body = We got the info a bit early yesterday, but there is enough new info might as well just do a new thread... First up, the new arc (2) is called the Kyo Arc.
 End = true
 
