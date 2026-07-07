@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Dozens killed and more than 100 injured in Sri Lanka prison riot
-Body = Victims with cuts and gunshot injuries have been rushed to hospital near the capital Colombo following the country's deadliest prison riot in years.
+Title = After months of Trump threats, Cuba says he's committing 'genocide'
+Body = The lives of ordinary Cubans have ground to a halt under an economic and humanitarian crisis that has developed over years and been aggravated by US President Donald Trump's harsh restrictions, experts say.
 End = true
 
 [LIBRARY RNEWS]
-Title = China warns Australia over landmark military alliance in the Pacific
-Body = China warns Australia not to harm its interests in the Pacific after Anthony Albanese strikes a landmark military alliance with Fiji.
+Title = Mourners throng funeral procession in Tehran for Ali Khamenei
+Body = The Islamic Republic's supreme leader was killed in the early days of conflict between the United States, Israel and Iran.
 End = true
 
 [LIBRARY RNEWS]
-Title = Second Russian attack on Kyiv in less than a week kills 28
-Body = President Volodymyr ⁠Zelenskyy urges NATO to take "strong decisions" on boosting Ukraine's air defences following the strike.
+Title = 'Bad blood' between US and European allies as NATO summit begins
+Body = Dozens of world leaders are descending on Türkiye this week to rubber-stamp significant NATO commitments, but the dynamics on the sidelines could prove more interesting to watch.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Assassination plot' impeachment trial involving Duterte dynasty begins in Manila
-Body = A highly consequential impeachment trial against Philippines Vice-President Sara Duterte could spell the end for her political career and shape the nation's 2028 election.
+Title = Democrats' Platner accused of sexual assault, dashing party's US Senate hopes
+Body = Maine Senate candidate Graham Platner says the allegation is "categorically false", but is considering his next steps as the report prompts several key backers to withdraw their endorsements.
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Episode #308- Get that Gift (Beatbreak Episode 37, Eggs Manga, & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 37, the end of the Gift Arc, & a collab with Expelled from Paradise, the new Digimon Eggs manga, figure rereleases, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak- 4th Arc Key Art, Title, & New Character Reveal
 Body = While episode 37 of Digimon Beatbreak has aired in Japan, at the time of posting they haven't formally announced what is next. Except Toei Thailand posted stuff (2) a bit early it appears...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Key Art Shown Off [...]
-Body = To tempt more pre-registrations on the road to 1 million in the current pre-registration campaign, we get key art for Digimon Up! Slightly different for English and Japanese logos.
 End = true
 
