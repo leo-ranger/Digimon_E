@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = After months of Trump threats, Cuba says he's committing 'genocide'
-Body = The lives of ordinary Cubans have ground to a halt under an economic and humanitarian crisis that has developed over years and been aggravated by US President Donald Trump's harsh restrictions, experts say.
+Title = Huge arms deals struck at NATO but Trump 'disappointed' with leaders
+Body = In a sign they are heeding calls from the United States to spend more to defend Europe, NATO leaders agree to deals worth about $72 billion.
 End = true
 
 [LIBRARY RNEWS]
-Title = Mourners throng funeral procession in Tehran for Ali Khamenei
-Body = The Islamic Republic's supreme leader was killed in the early days of conflict between the United States, Israel and Iran.
+Title = Monaco bomb suspect found dead near Kyiv [...]
+Body = A Ukrainian woman suspected of a bomb attack that targeted a wealthy Ukrainian-born businessman in Monaco has been found shot dead in Ukraine, according to Ukraine's prosecutor general's office.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Bad blood' between US and European allies as NATO summit begins
-Body = Dozens of world leaders are descending on Türkiye this week to rubber-stamp significant NATO commitments, but the dynamics on the sidelines could prove more interesting to watch.
+Title = US toddler found in pool and declared dead later found alive
+Body = Five hours after the young boy was pronounced dead next to a suburban swimming pool in the US state of Arizona, police were notified that the child was breathing again at a local hospital.
 End = true
 
 [LIBRARY RNEWS]
-Title = Democrats' Platner accused of sexual assault, dashing party's US Senate hopes
-Body = Maine Senate candidate Graham Platner says the allegation is "categorically false", but is considering his next steps as the report prompts several key backers to withdraw their endorsements.
+Title = Prosecutors argue man accused of killing Charlie Kirk should stand trial
+Body = Utah prosecutors have begun presenting their case against Tyler James Robinson, the man accused of killing conservative activist Charlie Kirk, at a week-long preliminary trial.
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Episode #308- Get that Gift (Beatbreak Episode 37, Eggs Manga, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 37, the end of the Gift Arc, & a collab with Expelled from Paradise, the new Digimon Eggs manga, figure rereleases, & more! Plus your questions!
+Title = Digimon Up- Announcement Tonight, plus More Game Previews
+Body = A few bits of Digimon Up news... Digimon Up producer Kimi will release a message/announcement later tonight at 8PM Pacific.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +44,12 @@ Body = We got the info a bit early yesterday, but there is enough new info might
 End = true
 
 [LIBRARY RNEWS]
-Title = It's the 16th Anniversary of Digimon Xros Wars! [...]
-Body = It's the 16th anniversary of Digimon Xros Wars since it's July 6th in Japan! Digimon Xros Wars premiered on July 6th, 2010 in Japan, and was later brought to the US as Digimon Fusion.
+Title = Seven Code Pad Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Seven Code Pad.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak- 4th Arc Key Art, Title, & New Character Reveal
-Body = While episode 37 of Digimon Beatbreak has aired in Japan, at the time of posting they haven't formally announced what is next. Except Toei Thailand posted stuff (2) a bit early it appears...
+Title = Terriermon Assistant Livestreaming Sword Art Online: Echoes of Aincrad Pre-Launch Event Tonight
+Body = Terriermon Assistant Lab is on break this week. (2) Tonight will be Terriermon Assistant Lab's first livestream at 8pm Japan time on the official Digimon Youtube.
 End = true
 
