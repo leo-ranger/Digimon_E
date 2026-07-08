@@ -9,38 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Huge arms deals struck at NATO but Trump 'disappointed' with leaders
-Body = In a sign they are heeding calls from the United States to spend more to defend Europe, NATO leaders agree to deals worth about $72 billion.
+Title = Iran targets sites in Bahrain and Kuwait after wave of US strikes
+Body = Iran's Revolutionary Guards target US military sites in Bahrain and Kuwait after the US launched a wave of military strikes on Iran.
 End = true
 
 [LIBRARY RNEWS]
-Title = Monaco bomb suspect found dead near Kyiv [...]
-Body = A Ukrainian woman suspected of a bomb attack that targeted a wealthy Ukrainian-born businessman in Monaco has been found shot dead in Ukraine, according to Ukraine's prosecutor general's office.
+Title = China missile test hits a bullseye in the Pacific — but it's one they didn't want
+Body = This week, perhaps for the first time in a long time, some sections of the Pacific are signalling a slight adjustment to their relationship with China.
 End = true
 
 [LIBRARY RNEWS]
-Title = US toddler found in pool and declared dead later found alive
-Body = Five hours after the young boy was pronounced dead next to a suburban swimming pool in the US state of Arizona, police were notified that the child was breathing again at a local hospital.
+Title = 'We spoke for Palestine': Egypt fans on historic World Cup after heartbreaking loss
+Body = After initial disappointment after a late loss to Argentina, many Egypt football fans are joyously reflecting on the team's historic campaign, while using the stage to show support for Palestinians.
 End = true
 
 [LIBRARY RNEWS]
-Title = Prosecutors argue man accused of killing Charlie Kirk should stand trial
-Body = Utah prosecutors have begun presenting their case against Tyler James Robinson, the man accused of killing conservative activist Charlie Kirk, at a week-long preliminary trial.
+Title = Seventeen dead, 900 snakes set loose as storms lash China
+Body = China's president calls for "all out" rescue efforts after storms kill at least 17 people and force the evacuation of tens of thousands.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up- Announcement Tonight, plus More Game Previews
-Body = A few bits of Digimon Up news... Digimon Up producer Kimi will release a message/announcement later tonight at 8PM Pacific.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 37- Kind Magic [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 37, Kind Magic A preview of Episode 37 Episode 37 airs Sunday, July 5th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Kyo Arc Key Art & New Character- 4 Episodes, Special Screening in August w/ Guests and Gifts
-Body = We got the info a bit early yesterday, but there is enough new info might as well just do a new thread... First up, the new arc (2) is called the Kyo Arc.
+Title = Official Digimon Web Poll #153- Favorite of the New Digimon Pendulum Colors
+Body = Digimon Web has opened a new fan vote. This is the 153rd official web poll on the current version of the site.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +39,17 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Terriermon Assistant Livestreaming Sword Art Online: Echoes of Aincrad Pre-Launch Event Tonight
-Body = Terriermon Assistant Lab is on break this week. (2) Tonight will be Terriermon Assistant Lab's first livestream at 8pm Japan time on the official Digimon Youtube.
+Title = Digimon Beatbreak Kyo Arc Key Art & New Character- 4 Episodes, Special Screening in August w/ Guests and Gifts
+Body = We got the info a bit early yesterday, but there is enough new info might as well just do a new thread... First up, the new arc (2) is called the Kyo Arc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up Contest to Win Digimon Card Game Promo Card
+Body = With Digimon Up coming out next week, they are doing campaigns in Japan & the US to win a promo card for the Digimon Card Game themed after the game. The card is a parallel card to Future Potential, and features sprites from the game, along with the...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up Mobile Game Releasing on July 15th, Next Week
+Body = https://twitter.com/x/status/2074689944308920789 The announcement from Digimon Up producer Kimi was... Digimon Up will release next week on July 15th!
 End = true
 
