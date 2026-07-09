@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran targets sites in Bahrain and Kuwait after wave of US strikes
-Body = Iran's Revolutionary Guards target US military sites in Bahrain and Kuwait after the US launched a wave of military strikes on Iran.
+Title = US strikes Iran, reinstates oil sanctions, but Tehran has already raked in billions
+Body = The ceasefire between the United States and Iran is fraying and Washington has attempted to crush the regime's oil sales, but Tehran made its move when the blockade lifted weeks ago.
+End = true
+
+[LIBRARY RNEWS]
+Title = US carries out strikes on Iran after Donald Trump declares ceasefire 'over'
+Body = The United States military is carrying out renewed strikes on Iran aimed at further degrading its ability to "threaten freedom of navigation in the Strait of Hormuz", after US President Donald Trump earlier threatened a "big attack" was coming.
+End = true
+
+[LIBRARY RNEWS]
+Title = 'Twenty minutes or so': The blunt warning of China's nuclear capability
+Body = Victor Gao, the vice-president of a major Chinese think tank, conducts some sabre-rattling in the wake of China's missile test in the Pacific.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,18 +29,18 @@ Body = This week, perhaps for the first time in a long time, some sections of th
 End = true
 
 [LIBRARY RNEWS]
-Title = 'We spoke for Palestine': Egypt fans on historic World Cup after heartbreaking loss
-Body = After initial disappointment after a late loss to Argentina, many Egypt football fans are joyously reflecting on the team's historic campaign, while using the stage to show support for Palestinians.
+Title = Digimon Story: Time Stranger Switch 2 & Switch plus Update Patch Out Over Next Couple Days (Patch Tonight), Info & More
+Body = Big week for Digimon Story: Time Stranger, so a few things to go over. First up, a launch trailer!
 End = true
 
 [LIBRARY RNEWS]
-Title = Seventeen dead, 900 snakes set loose as storms lash China
-Body = China's president calls for "all out" rescue efforts after storms kill at least 17 people and force the evacuation of tens of thousands.
+Title = Digimon Up Update- Pre-Registration Campaign Unlock Final 1 Million Tier- Taichi & Agumon
+Body = Digimon Up update! Pre-registrations have hit 1 million, getting everyone Taichi & Agumon!
 End = true
 
 [LIBRARY RNEWS]
-Title = Official Digimon Web Poll #153- Favorite of the New Digimon Pendulum Colors
-Body = Digimon Web has opened a new fan vote. This is the 153rd official web poll on the current version of the site.
+Title = Digimon Up Mobile Game Releasing on July 15th, Next Week
+Body = https://twitter.com/x/status/2074689944308920789 The announcement from Digimon Up producer Kimi was... Digimon Up will release next week on July 15th!
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +49,7 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Kyo Arc Key Art & New Character- 4 Episodes, Special Screening in August w/ Guests and Gifts
-Body = We got the info a bit early yesterday, but there is enough new info might as well just do a new thread... First up, the new arc (2) is called the Kyo Arc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Contest to Win Digimon Card Game Promo Card
-Body = With Digimon Up coming out next week, they are doing campaigns in Japan & the US to win a promo card for the Digimon Card Game themed after the game. The card is a parallel card to Future Potential, and features sprites from the game, along with the...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Mobile Game Releasing on July 15th, Next Week
-Body = https://twitter.com/x/status/2074689944308920789 The announcement from Digimon Up producer Kimi was... Digimon Up will release next week on July 15th!
+Title = It's the 16th Anniversary of Digimon Xros Wars! [...]
+Body = It's the 16th anniversary of Digimon Xros Wars since it's July 6th in Japan! Digimon Xros Wars premiered on July 6th, 2010 in Japan, and was later brought to the US as Digimon Fusion.
 End = true
 
