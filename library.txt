@@ -9,47 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Modi tells Melbourne crowd India aspires to 'grow more, achieve more'
-Body = More than 20,000 people have given a rapturous welcome to Narendra Modi at Melbourne's Docklands Stadium as Anthony Albanese heaps praise on Australia's Indian diaspora.
+Title = Iran targets US military sites in Gulf as Israel warns it could 'strike again'
+Body = Iranian armed forces launched reciprocal attacks on US military infrastructure in Gulf states following US strikes on Iran's south and east regions, straining a three-week-old ceasefire.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ebola outbreak is 'fastest-growing ever' after 600 deaths, Africa CDC says
-Body = New numbers from health agencies show there have been 1,759 confirmed cases in DR Congo since the outbreak was declared.
+Title = Wildfire in southern Spain kills 12 as heatwave continues
+Body = A fast-moving wildfire in southern Spain kills 12 as a heatwave pushes temperatures up over much of the country.
 End = true
 
 [LIBRARY RNEWS]
-Title = World leaders gifted vintage revolvers by Erdogan after NATO summit
-Body = Turkish President Recep Tayyip Erdogan said the gifts were intended as a showcase of his nation's defence industry.
+Title = Girls married off as a climate change 'coping strategy'
+Body = Climate change is now believed to be a leading contributor to more frequent and younger nuptials, with 12 million girls tipped to become child brides this year.
 End = true
 
 [LIBRARY RNEWS]
-Title = At least 28 killed in shoe factory fire in China, state media says
-Body = More than 180 firefighters battled the deadly blaze at a factory in China's 'shoe capital'.
-End = true
-
-[LIBRARY RNEWS]
-Title = Official Digimon Web Poll #153- Favorite of the New Digimon Pendulum Colors
-Body = Digimon Web has opened a new fan vote. This is the 153rd official web poll on the current version of the site.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger Switch 2 & Switch plus Update Patch Out Over Next Couple Days (Patch Tonight), Info & More
-Body = Big week for Digimon Story: Time Stranger, so a few things to go over. First up, a launch trailer!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 38- Hollow Thirst [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 38, Hollow Thirst A preview of Episode 38 Episode 38 airs Sunday, July 12th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Battle 271- Digimon Card Game Booster Set EX-12 Match
-Body = Digimon Card Battle is back with episode 271. This time, we return to Digimon Card Room for another Booster Set EX-12 match!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Game Info 3: Supporter Digimon and Skill Cards
-Body = Another preview of mechanics for Digimon Up! Game Info ③ - Supporter Digimon and Skill Cards - These are your keys to victory!
+Title = How China's military goals in the Pacific are rapidly progressing
+Body = China's firing of a dummy warhead was the first time in two years it tested its long-range missile arsenal — and the first time ever it had launched such a rocket from a nuclear-powered submarine.
 End = true
 
