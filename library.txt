@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Search for crew continues after Boeing cargo plane crash
-Body = Rescue crews battle rough sea conditions to recover parts of a Boeing cargo plane that crashed into the Arabian Sea. Five crew members remain missing.
+Title = Modi tells Melbourne crowd India aspires to 'grow more, achieve more'
+Body = More than 20,000 people have given a rapturous welcome to Narendra Modi at Melbourne's Docklands Stadium as Anthony Albanese heaps praise on Australia's Indian diaspora.
 End = true
 
 [LIBRARY RNEWS]
-Title = US carries out strikes on Iran after Donald Trump declares ceasefire 'over'
-Body = The United States military carries out renewed strikes on Iran aimed at further degrading its ability to "threaten freedom of navigation in the Strait of Hormuz", after US President Donald Trump earlier threatened a "big attack" was coming.
+Title = Ebola outbreak is 'fastest-growing ever' after 600 deaths, Africa CDC says
+Body = New numbers from health agencies show there have been 1,759 confirmed cases in DR Congo since the outbreak was declared.
 End = true
 
 [LIBRARY RNEWS]
-Title = The UK's next PM has a carefully curated image. Not everyone is buying it
-Body = For some, Andy Burnham's casual communication style is refreshing. Others say it's a carefully crafted facade, disguising the fact that he's a ruthless Labour Party lifer.
+Title = World leaders gifted vintage revolvers by Erdogan after NATO summit
+Body = Turkish President Recep Tayyip Erdogan said the gifts were intended as a showcase of his nation's defence industry.
 End = true
 
 [LIBRARY RNEWS]
-Title = Judge approves $8m payment to E Jean Carroll in Trump sex abuse case
-Body = A Manhattan judge orders the payment to the former Elle magazine advice columnist, who a jury found was sexually abused by Donald Trump.
+Title = At least 28 killed in shoe factory fire in China, state media says
+Body = More than 180 firefighters battled the deadly blaze at a factory in China's 'shoe capital'.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Battle 271- Digimon Card Game Booster Set EX-12 Match
-Body = Digimon Card Battle is back with episode 271. This time, we return to Digimon Card Room for another Booster Set EX-12 match!
+Title = Official Digimon Web Poll #153- Favorite of the New Digimon Pendulum Colors
+Body = Digimon Web has opened a new fan vote. This is the 153rd official web poll on the current version of the site.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = Big week for Digimon Story: Time Stranger, so a few things to go over. Fi
 End = true
 
 [LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 38- Hollow Thirst [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 38, Hollow Thirst A preview of Episode 38 Episode 38 airs Sunday, July 12th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Card Battle 271- Digimon Card Game Booster Set EX-12 Match
+Body = Digimon Card Battle is back with episode 271. This time, we return to Digimon Card Room for another Booster Set EX-12 match!
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Up- Game Info 3: Supporter Digimon and Skill Cards
 Body = Another preview of mechanics for Digimon Up! Game Info ③ - Supporter Digimon and Skill Cards - These are your keys to victory!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Update- Pre-Registration Campaign Unlock Final 1 Million Tier- Taichi & Agumon
-Body = Digimon Up update! Pre-registrations have hit 1 million, getting everyone Taichi & Agumon!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Mobile Game Releasing on July 15th, Next Week
-Body = https://twitter.com/x/status/2074689944308920789 The announcement from Digimon Up producer Kimi was... Digimon Up will release next week on July 15th!
 End = true
 
