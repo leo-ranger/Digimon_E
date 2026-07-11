@@ -29,6 +29,11 @@ Body = Climate change is now believed to be a leading contributor to more freque
 End = true
 
 [LIBRARY RNEWS]
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Savers Pop Up Corner in eeo Store on August 1st- 20th Anniversary Formal Attire & GraffArt & Product Details- Online Sales Also
 Body = A new Digimon Savers pop-up shop has been announced! The Digimon Savers eeo Pop-Up Corner features new artwork of the characters wearing formal attire to celebrate the 20th anniversary of the anime.
 End = true
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = With the Will Podcast Live- Monday, July 13th [...]
 Body = Monday (July 13th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 38, the start of the Kyo Arc, Digimon Story: Time Stranger is out on the Switch 2 & 1 plus the update patch, Digimon Up out next week, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 38 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 38, Hollow Thirst, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
