@@ -9,8 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran targets US military sites in Gulf as Israel warns it could 'strike again'
-Body = Iranian armed forces launched reciprocal attacks on US military infrastructure in Gulf states following US strikes on Iran's south and east regions, straining a three-week-old ceasefire.
+Title = Trump wanted NATO to be about him. Instead, it was about everyone else
+Body = Trump demanded to be the centre of attention. But the more significant news out of NATO was really about everyone else.
+End = true
+
+[LIBRARY RNEWS]
+Title = Iran denies requesting US talks, as Trump maintains ceasefire is 'over'
+Body = Qatari negotiators meet with officials in Iran to seek de-escalation, as Iran denies requesting talks with the United States following a statement from US President Donald Trump.
 End = true
 
 [LIBRARY RNEWS]
@@ -24,7 +29,27 @@ Body = Climate change is now believed to be a leading contributor to more freque
 End = true
 
 [LIBRARY RNEWS]
-Title = How China's military goals in the Pacific are rapidly progressing
-Body = China's firing of a dummy warhead was the first time in two years it tested its long-range missile arsenal — and the first time ever it had launched such a rocket from a nuclear-powered submarine.
+Title = Digimon Savers Pop Up Corner in eeo Store on August 1st- 20th Anniversary Formal Attire & GraffArt & Product Details- Online Sales Also
+Body = A new Digimon Savers pop-up shop has been announced! The Digimon Savers eeo Pop-Up Corner features new artwork of the characters wearing formal attire to celebrate the 20th anniversary of the anime.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Kyo Arc Key Art & New Character- 4 Episodes, Special Screening in August w/ Guests and Gifts
+Body = We got the info a bit early yesterday, but there is enough new info might as well just do a new thread... First up, the new arc (2) is called the Kyo Arc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up- Game Info 4: Battles and Tamer Interactions
+Body = Another preview of mechanics for Digimon Up! Game Info ④ - Battles and Tamer Interactions - Digimons will fight automatically in the main battle screen.
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Live- Monday, July 13th [...]
+Body = Monday (July 13th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 38, the start of the Kyo Arc, Digimon Story: Time Stranger is out on the Switch 2 & 1 plus the update patch, Digimon Up out next week, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Episode 38 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 38, Hollow Thirst, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
