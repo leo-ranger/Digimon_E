@@ -9,33 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump wanted NATO to be about him. Instead, it was about everyone else
-Body = Trump demanded to be the centre of attention. But the more significant news out of NATO was really about everyone else.
+Title = Australian man dies in Bali while awaiting deportation
+Body = An Australian man has died in a Bali immigration detention centre while awaiting deportation.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran denies requesting US talks, as Trump maintains ceasefire is 'over'
-Body = Qatari negotiators meet with officials in Iran to seek de-escalation, as Iran denies requesting talks with the United States following a statement from US President Donald Trump.
+Title = South African World Cup player dies aged 25 [...]
+Body = Jayden Adams, who made three appearances for South Africa at the World Cup, has died aged 25.
 End = true
 
 [LIBRARY RNEWS]
-Title = Wildfire in southern Spain kills 12 as heatwave continues
-Body = A fast-moving wildfire in southern Spain kills 12 as a heatwave pushes temperatures up over much of the country.
+Title = Speedboat capsize off Vietnam's Phu Quoc island kills 15 tourists
+Body = A tourist boat returning from an island trip in southern Vietnam has capsized, killing 15 Indian visitors, state media has reported.
 End = true
 
 [LIBRARY RNEWS]
-Title = Girls married off as a climate change 'coping strategy'
-Body = Climate change is now believed to be a leading contributor to more frequent and younger nuptials, with 12 million girls tipped to become child brides this year.
+Title = Iran's supreme leader pledges revenge for father's death
+Body = Iran's supreme leader Ayatollah Mojtaba Khamenei has said that avenging his father was "the demand of the nation" and "must certainly" take place.
 End = true
 
 [LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+Title = Tamer Card Kyo Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Kyo.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Savers Pop Up Corner in eeo Store on August 1st- 20th Anniversary Formal Attire & GraffArt & Product Details- Online Sales Also
-Body = A new Digimon Savers pop-up shop has been announced! The Digimon Savers eeo Pop-Up Corner features new artwork of the characters wearing formal attire to celebrate the 20th anniversary of the anime.
+Title = Digimon Beatbreak- ED4 featuring Break It by Kiss of Life
+Body = With episode 37 of Beatbreak having aired in Japan, we have the video for ED4, Break It by Kiss of Life! This ED focuses on the main characters from Glowing Dawn with some nice stylized colored visuals.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +44,12 @@ Body = We got the info a bit early yesterday, but there is enough new info might
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up- Game Info 4: Battles and Tamer Interactions
-Body = Another preview of mechanics for Digimon Up! Game Info ④ - Battles and Tamer Interactions - Digimons will fight automatically in the main battle screen.
+Title = Digimon Beatbreak Updates- Episode 37 Production Art, Animedia Preview, & Yena Clip
+Body = A few recent Digimon Beatbreak updates before we get episode 38 later today. We get episode 37 chief animation...
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, July 13th [...]
-Body = Monday (July 13th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 38, the start of the Kyo Arc, Digimon Story: Time Stranger is out on the Switch 2 & 1 plus the update patch, Digimon Up out next week, & more! Plus your questions!
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
