@@ -9,47 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = As Japan's population shrinks, 'urban bears' are moving in
+Body = When Araki Osamu first heard reports a bear had been seen in the streets of his home town, a 1-hour bullet train ride north of Tokyo, he dismissed it as "fake news".
+End = true
+
+[LIBRARY RNEWS]
+Title = Typhoon makes landfall in China as millions of people take shelter
+Body = Typhoon Bavi brings strong winds and heavy rain as it makes landfall in Zhejiang province in eastern China.
+End = true
+
+[LIBRARY RNEWS]
+Title = Israeli court battle threatens to turn into constitutional crisis
+Body = A Trumpian clash between the Netanyahu government and Israel's most senior court is rapidly building into a major constitutional crisis.
+End = true
+
+[LIBRARY RNEWS]
 Title = Australian man dies in Bali while awaiting deportation
 Body = An Australian man has died in a Bali immigration detention centre while awaiting deportation.
-End = true
-
-[LIBRARY RNEWS]
-Title = South African World Cup player dies aged 25 [...]
-Body = Jayden Adams, who made three appearances for South Africa at the World Cup, has died aged 25.
-End = true
-
-[LIBRARY RNEWS]
-Title = Speedboat capsize off Vietnam's Phu Quoc island kills 15 tourists
-Body = A tourist boat returning from an island trip in southern Vietnam has capsized, killing 15 Indian visitors, state media has reported.
-End = true
-
-[LIBRARY RNEWS]
-Title = Iran's supreme leader pledges revenge for father's death
-Body = Iran's supreme leader Ayatollah Mojtaba Khamenei has said that avenging his father was "the demand of the nation" and "must certainly" take place.
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Kyo Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Kyo.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak- ED4 featuring Break It by Kiss of Life
-Body = With episode 37 of Beatbreak having aired in Japan, we have the video for ED4, Break It by Kiss of Life! This ED focuses on the main characters from Glowing Dawn with some nice stylized colored visuals.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Kyo Arc Key Art & New Character- 4 Episodes, Special Screening in August w/ Guests and Gifts
-Body = We got the info a bit early yesterday, but there is enough new info might as well just do a new thread... First up, the new arc (2) is called the Kyo Arc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Updates- Episode 37 Production Art, Animedia Preview, & Yena Clip
-Body = A few recent Digimon Beatbreak updates before we get episode 38 later today. We get episode 37 chief animation...
-End = true
-
-[LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
