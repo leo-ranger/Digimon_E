@@ -9,8 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran has a new warning for the US: 'Reality is knocking'
-Body = As another round of strikes rattles the Gulf region, Iran's lead negotiator makes it very clear where the regime stands on the Strait of Hormuz.
+Title = Trump vows to charge fees in Strait of Hormuz as US resumes Iran strikes
+Body = Donald Trump says the US is reinstating its blockade of Iran in the Strait of Hormuz and will start charging for ships from elsewhere to transit through it.
+End = true
+
+[LIBRARY RNEWS]
+Title = Australian woman was cunning 'Sharia judge' in Syrian camp, ABC told
+Body = Speaking exclusively to the ABC, a security source who dealt directly with Australian woman Hodan Abby calls her a driving force behind many of a Syrian detention camp's problems.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,28 +24,13 @@ Body = Fresh attacks have rocked Iran and Kuwait as Tehran and Washington square
 End = true
 
 [LIBRARY RNEWS]
-Title = Bangkok pub fire kills at least 27 people and injures 63 others
-Body = A huge fire engulfed a pub in Bangkok, killing at least 27 people before firefighters brought the blaze under control.
+Title = UK counter-terrorism police now leading Widdecombe murder investigation
+Body = The counter-terrorism unit has taken charge of the case due to "new information and evidence" on the suspected murder of the former minister, the UK Home Secretary says.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel to vote in October as Netanyahu support slips amid controversies
-Body = Israelis will head to the polls on the last Tuesday in October for an election that will serve as a referendum on the legacy of the country's longest-serving prime minister, Benjamin Netanyahu.
-End = true
-
-[LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Mochocho Tactics Products Available to Pre-Order, Ship in October- New Cartoony SD Art
-Body = It's been announced (2) that Sync Innovation will be doing a second wave of Digimon Beatbreak products under their mochocho line. The seond wave features cartoony SD designs of the members of Tactics.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Countdown- 2 Days to Release [...]
-Body = https://twitter.com/x/status/2076501884924215468 With 2 days until Digimon up releases they've put up a little animation teaser with Numemon. Digimon Up releases in a few days on July 15th.
+Title = Aegiochusmon: Holy & Aegiochusmon: Dark Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26... [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +39,17 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Tamers 25th Kenji Watanabe, Digimon Beatbreak, & Digimon Con Products Available to Pre-Order at Premium Bandai
-Body = We have a big wave of multiple sets of Digimon merchandise up at Premium Bandai to pre-order, a good number of which we knew was coming. The three waves include: Digimon Tamers 25th anniversary merchandise featuring new art by Kenji Watanabe Digimon Beatbreak Digimon Con shirts Pre-orders for...
+Title = Preview for Digimon Beatbreak Episode 39 Lip Service
+Body = https://twitter.com/x/status/2076101734142034208 Time for a preview for Episode 39 Lip Service! Watch episode 38 first!
+End = true
+
+[LIBRARY RNEWS]
+Title = Shout! Studios currently has Tri back on YouTube for free!
+Body = Shout! Studios (distribution license holders of the Tri, Last Evolution Kizuna, & 02: The Beginning English dubs) currently has Tri back up on their YouTube channel free to watch: Digimon Adventure tri.
+End = true
+
+[LIBRARY RNEWS]
+Title = PicoDevimon/DemiDevimon & Devimon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
 End = true
 
