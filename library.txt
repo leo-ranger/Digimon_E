@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump vows to charge fees in Strait of Hormuz as US resumes Iran strikes
-Body = Donald Trump says the US is reinstating its blockade of Iran in the Strait of Hormuz and will start charging for ships from elsewhere to transit through it.
+Title = Mid-East ceasefire in tatters as Trump reinstates blockade, Iran strikes US bases
+Body = US President Donald Trump says the US is reinstating its blockade of Iran in the Strait of Hormuz and will start charging for ships from elsewhere to transit through it.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian woman was cunning 'Sharia judge' in Syrian camp, ABC told
-Body = Speaking exclusively to the ABC, a security source who dealt directly with Australian woman Hodan Abby calls her a driving force behind many of a Syrian detention camp's problems.
+Title = Deadly flashover the 'point of no return' for trapped pub patrons: Expert
+Body = A video analysis of an explosive pub fire in Thailand, which killed 30 people, appears to show a flashover "point of no return" that would have made evacuation nearly impossible, an expert says.
 End = true
 
 [LIBRARY RNEWS]
-Title = US announces new Iran strikes after attacks reported in Kuwait, Bahrain
-Body = Fresh attacks have rocked Iran and Kuwait as Tehran and Washington square off over the Strait of Hormuz, offering contradicting statements as to whether the vital waterway was open to traffic.
+Title = Ukraine and allies join to protect Europe from ballistic missiles
+Body = Ukraine and nine other countries will form a coalition to protect Europe from ballistic missiles, utilising Kyiv's experience in fighting Russia's full-scale invasion for over four years.
 End = true
 
 [LIBRARY RNEWS]
-Title = UK counter-terrorism police now leading Widdecombe murder investigation
-Body = The counter-terrorism unit has taken charge of the case due to "new information and evidence" on the suspected murder of the former minister, the UK Home Secretary says.
+Title = ICE agents shoot and kill driver who witnesses say 'tried to stop'
+Body = A federal immigration officer has fatally shot a motorist in Maine, the second time in a week that US Immigration and Customs Enforcement agents have used deadly force.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
+Title = Jupitermon/Wide Plasment Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Jupitermon/Wide Plasment.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up Countdown- 1 Days to Release [...]
+Body = https://twitter.com/x/status/2076864264162173336 With 1 day until Digimon up releases they've put up a little animation teaser with Taichi & Agumon. With the game out in a day, they'll be a lot more to see about the game shortly.
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Episode #309- Kyo Gets Damp (Beatbreak Episode 38, Time Stranger, & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 38, the start of the Kyo Arc, Digimon Story: Time Stranger is out on the Switch 2 & 1 plus the update patch, Digimon Up out tomorrow, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
 Title = Ghostmon & Flarelizamon/Flarerizamon Previews for Digimon Card Game Booster Set 26
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time...
-End = true
-
-[LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 39 Lip Service
-Body = https://twitter.com/x/status/2076101734142034208 Time for a preview for Episode 39 Lip Service! Watch episode 38 first!
-End = true
-
-[LIBRARY RNEWS]
-Title = Shout! Studios currently has Tri back on YouTube for free!
-Body = Shout! Studios (distribution license holders of the Tri, Last Evolution Kizuna, & 02: The Beginning English dubs) currently has Tri back up on their YouTube channel free to watch: Digimon Adventure tri.
-End = true
-
-[LIBRARY RNEWS]
-Title = PicoDevimon/DemiDevimon & Devimon Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
 End = true
 
