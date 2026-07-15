@@ -9,33 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump ditches plan for 20 per cent toll on Strait of Hormuz shipping
-Body = Donald Trump reneges on his pledge to charge a 20 per cent fee on shipping in the Strait of Hormuz, a day after saying he would introduce it.
+Title = Scam compounds uncovered in Timor-Leste [...]
+Body = Police in Timor-Leste uncover a major international scam centre in the country, arresting more than 300 Chinese, Indonesian and Cambodian nationals in raids across the capital, Dili.
 End = true
 
 [LIBRARY RNEWS]
-Title = Revelations about Bill Gates's ties to Epstein prompts charity investor to exit
-Body = The American investor will end his longtime donations to the Microsoft co-founder's non-profit.
+Title = US, Iran exchange fire as Trump issues new threats — as it happened
+Body = US President Donald Trump says he will not charge a 20 per cent toll on traffic in the Strait of Hormuz, as the US military confirms its blockade of Iran has come into effect.
 End = true
 
 [LIBRARY RNEWS]
-Title = Deadly flashover the 'point of no return' for trapped pub patrons: Expert
-Body = A video analysis of an explosive pub fire in Thailand, which killed 30 people, appears to show a flashover "point of no return" that would have made evacuation nearly impossible, an expert says.
+Title = Child exploitation 'hiding in plain sight' in Thailand's sex industry
+Body = Thailand is struggling against a "hidden" world of child sexual exploitation that requires action from both the tourism industry and law enforcement agencies, according to NGOs.
 End = true
 
 [LIBRARY RNEWS]
-Title = ICE agents shoot and kill driver who witnesses say 'tried to stop'
-Body = A federal immigration officer has fatally shot a motorist in Maine, the second time in a week that US Immigration and Customs Enforcement agents have used deadly force.
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Kanan Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Kanan.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Releasing Today [...]
-Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
+Title = Japan ramps up defence spending to 'safeguard territory'
+Body = While the world has been watching the rise of China, Japan has been in the middle of its biggest defence shift since World War II.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +34,22 @@ Body = So I read the random commentary on evolution relationships thread and tho
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 38- Hollow Thirst [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 38, Hollow Thirst A preview of Episode 38 Episode 38 airs Sunday, July 12th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Up Releasing Today [...]
+Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
 End = true
 
 [LIBRARY RNEWS]
-Title = Lost Chronicles II: One World [...]
-Body = Chapter 1 - The Beginning of the End And so it is that I, Wisemon, shall begin the creation of a new documentation of history as it continues to transpire. The preceding day, I finished with my previous telling of history the way it was five hundred years ago.
+Title = Tamer Card Kanan Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Kanan.
+End = true
+
+[LIBRARY RNEWS]
+Title = Poll Results for Favorite Perfect Form that a Glowing Dawn Digimon Evolved To
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Perfect Form that a Glowing Dawn Digimon Evolved To! Recently the poll closed and we have the results!
+End = true
+
+[LIBRARY RNEWS]
+Title = Tamer Card Kanan Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Kanan.
 End = true
 
