@@ -9,8 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Mid-East ceasefire in tatters as Trump reinstates blockade, Iran strikes US bases
-Body = US President Donald Trump says the US is reinstating its blockade of Iran in the Strait of Hormuz and will start charging for ships from elsewhere to transit through it.
+Title = Trump ditches plan for 20 per cent toll on Strait of Hormuz shipping
+Body = Donald Trump reneges on his pledge to charge a 20 per cent fee on shipping in the Strait of Hormuz, a day after saying he would introduce it.
+End = true
+
+[LIBRARY RNEWS]
+Title = Revelations about Bill Gates's ties to Epstein prompts charity investor to exit
+Body = The American investor will end his longtime donations to the Microsoft co-founder's non-profit.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,37 +24,32 @@ Body = A video analysis of an explosive pub fire in Thailand, which killed 30 pe
 End = true
 
 [LIBRARY RNEWS]
-Title = Ukraine and allies join to protect Europe from ballistic missiles
-Body = Ukraine and nine other countries will form a coalition to protect Europe from ballistic missiles, utilising Kyiv's experience in fighting Russia's full-scale invasion for over four years.
-End = true
-
-[LIBRARY RNEWS]
 Title = ICE agents shoot and kill driver who witnesses say 'tried to stop'
 Body = A federal immigration officer has fatally shot a motorist in Maine, the second time in a week that US Immigration and Customs Enforcement agents have used deadly force.
 End = true
 
 [LIBRARY RNEWS]
-Title = Aegiochusmon: Holy & Aegiochusmon: Dark Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26... [...]
+Title = Tamer Card Kanan Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Kanan.
 End = true
 
 [LIBRARY RNEWS]
-Title = Jupitermon/Wide Plasment Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Jupitermon/Wide Plasment.
+Title = Digimon Up Releasing Today [...]
+Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up Countdown- 1 Days to Release [...]
-Body = https://twitter.com/x/status/2076864264162173336 With 1 day until Digimon up releases they've put up a little animation teaser with Taichi & Agumon. With the game out in a day, they'll be a lot more to see about the game shortly.
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Episode #309- Kyo Gets Damp (Beatbreak Episode 38, Time Stranger, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 38, the start of the Kyo Arc, Digimon Story: Time Stranger is out on the Switch 2 & 1 plus the update patch, Digimon Up out tomorrow, & more! Plus your questions!
+Title = Digimon Beatbreak: Episode 38- Hollow Thirst [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 38, Hollow Thirst A preview of Episode 38 Episode 38 airs Sunday, July 12th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Ghostmon & Flarelizamon/Flarerizamon Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time...
+Title = Lost Chronicles II: One World [...]
+Body = Chapter 1 - The Beginning of the End And so it is that I, Wisemon, shall begin the creation of a new documentation of history as it continues to transpire. The preceding day, I finished with my previous telling of history the way it was five hundred years ago.
 End = true
 
