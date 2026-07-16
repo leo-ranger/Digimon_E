@@ -9,38 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = US launches fresh strikes on Iranian targets 'threatening' Strait shipping
+Body = US Central Command says it launched a 90-minute attack targeting Iran's strategic Greater Tunb Island.
+End = true
+
+[LIBRARY RNEWS]
+Title = UK's Reform proposes round-the-clock protection for MPs
+Body = Britain's populist Reform UK, led by Nigel Farage, has called for all lawmakers to be given "full security" if they want it after the alleged murder of Ann Widdecombe, a prominent member of the party.
+End = true
+
+[LIBRARY RNEWS]
+Title = Global reserves that spared the worst of the oil shock are spent, IMF says
+Body = The International Monetary Fund says the global economy was spared the worst of the oil price shock because of large reserves. Now they are running out.
+End = true
+
+[LIBRARY RNEWS]
 Title = Scam compounds uncovered in Timor-Leste [...]
 Body = Police in Timor-Leste uncover a major international scam centre in the country, arresting more than 300 Chinese, Indonesian and Cambodian nationals in raids across the capital, Dili.
-End = true
-
-[LIBRARY RNEWS]
-Title = US, Iran exchange fire as Trump issues new threats — as it happened
-Body = US President Donald Trump says he will not charge a 20 per cent toll on traffic in the Strait of Hormuz, as the US military confirms its blockade of Iran has come into effect.
-End = true
-
-[LIBRARY RNEWS]
-Title = Child exploitation 'hiding in plain sight' in Thailand's sex industry
-Body = Thailand is struggling against a "hidden" world of child sexual exploitation that requires action from both the tourism industry and law enforcement agencies, according to NGOs.
-End = true
-
-[LIBRARY RNEWS]
-Title = Japan ramps up defence spending to 'safeguard territory'
-Body = While the world has been watching the rise of China, Japan has been in the middle of its biggest defence shift since World War II.
-End = true
-
-[LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Releasing Today [...]
-Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Kanan Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Kanan.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +34,22 @@ Body = A bit ago, the official Digimon site put up a poll for your Favorite Perf
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Kanan Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Kanan.
+Title = Pinamon & Falcomon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up Releasing Today [...]
+Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 38- Hollow Thirst [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 38, Hollow Thirst A preview of Episode 38 Episode 38 airs Sunday, July 12th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
