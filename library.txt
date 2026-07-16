@@ -19,13 +19,28 @@ Body = Britain's populist Reform UK, led by Nigel Farage, has called for all law
 End = true
 
 [LIBRARY RNEWS]
-Title = Global reserves that spared the worst of the oil shock are spent, IMF says
-Body = The International Monetary Fund says the global economy was spared the worst of the oil price shock because of large reserves. Now they are running out.
+Title = Iran frees US citizen after almost two years of imprisonment
+Body = Iran has freed a US-Iranian citizen detained since December, 2024 in what Trump says was a 'gesture of goodwill'.
 End = true
 
 [LIBRARY RNEWS]
-Title = Scam compounds uncovered in Timor-Leste [...]
-Body = Police in Timor-Leste uncover a major international scam centre in the country, arresting more than 300 Chinese, Indonesian and Cambodian nationals in raids across the capital, Dili.
+Title = Hegseth unveils plan to screen troops for low testosterone
+Body = Under the policy US troops will be offered the chance to undergo testosterone replacement therapy.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up Releasing Today [...]
+Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Card Battle 272- Digimon Card Game Booster Set EX-12 Match
+Body = Digimon Card Battle is back with episode 272. This time, we return to Digimon Card Room for another Booster Set EX-12 match!
+End = true
+
+[LIBRARY RNEWS]
+Title = Tamer Card Ikuto/Keenan Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Ikuto/Keenan.
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Pinamon & Falcomon Previews for Digimon Card Game Booster Set 26
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Releasing Today [...]
-Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 38- Hollow Thirst [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 38, Hollow Thirst A preview of Episode 38 Episode 38 airs Sunday, July 12th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
