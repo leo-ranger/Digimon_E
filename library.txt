@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Autocue operator 'made more than $100,000' betting on Trump speeches
+Body = US President Donald Trump's longtime technician allegedly made over $142,000 by placing bets on what Donald Trump would say in speeches.
+End = true
+
+[LIBRARY RNEWS]
+Title = NZ's South Island struck by magnitude-5.9 earthquake
+Body = The earthquake struck 40 kilometres north of Te Anau, with the west coast of the South Island from Milford Sound to Puysegur Point, likely to be affected.
+End = true
+
+[LIBRARY RNEWS]
 Title = US launches fresh strikes on Iranian targets 'threatening' Strait shipping
 Body = US Central Command says it launched a 90-minute attack targeting Iran's strategic Greater Tunb Island.
 End = true
 
 [LIBRARY RNEWS]
-Title = UK's Reform proposes round-the-clock protection for MPs
-Body = Britain's populist Reform UK, led by Nigel Farage, has called for all lawmakers to be given "full security" if they want it after the alleged murder of Ann Widdecombe, a prominent member of the party.
+Title = New monkey species with orange lips discovered after years of searching
+Body = The monkey — Colobus congoensis — is only the fifth new species of African monkey to be discovered in the past 75 years.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran frees US citizen after almost two years of imprisonment
-Body = Iran has freed a US-Iranian citizen detained since December, 2024 in what Trump says was a 'gesture of goodwill'.
+Title = Ravemon Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Ravemon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hegseth unveils plan to screen troops for low testosterone
-Body = Under the policy US troops will be offered the chance to undergo testosterone replacement therapy.
+Title = Digimon Adventure Digivice Version Revival Pre-Orders Starting- Out in August
+Body = More for the 29th anniversary of the franchise, and likely to get formally announced during the Digimon Times announcement video later! After being teased for awhile the Digimon Adventure Digivice version Revival has shown up at Amazon Japan.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +44,12 @@ Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Battle 272- Digimon Card Game Booster Set EX-12 Match
-Body = Digimon Card Battle is back with episode 272. This time, we return to Digimon Card Room for another Booster Set EX-12 match!
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Ikuto/Keenan Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Ikuto/Keenan.
-End = true
-
-[LIBRARY RNEWS]
 Title = Poll Results for Favorite Perfect Form that a Glowing Dawn Digimon Evolved To
 Body = A bit ago, the official Digimon site put up a poll for your Favorite Perfect Form that a Glowing Dawn Digimon Evolved To! Recently the poll closed and we have the results!
 End = true
 
 [LIBRARY RNEWS]
-Title = Pinamon & Falcomon Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
+Title = Digimon Story: Time Stranger Switch 2 & Switch plus Update Patch Out, Info & More
+Body = Big week for Digimon Story: Time Stranger, so a few things to go over. First up, a launch trailer!
 End = true
 
