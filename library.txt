@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Autocue operator 'made more than $100,000' betting on Trump speeches
-Body = US President Donald Trump's longtime technician allegedly made over $142,000 by placing bets on what Donald Trump would say in speeches.
+Title = Father 'disgusted' over inadequacy of charges after Laos methanol poisoning
+Body = A Melbourne father whose daughter died from methanol poisoning in Laos has said he is "disgusted" over the inadequacy of charges expected to be laid.
 End = true
 
 [LIBRARY RNEWS]
-Title = NZ's South Island struck by magnitude-5.9 earthquake
-Body = The earthquake struck 40 kilometres north of Te Anau, with the west coast of the South Island from Milford Sound to Puysegur Point, likely to be affected.
+Title = AI needs more memory. South Korea is selling it at a price
+Body = South Korea is doubling down on its bid to lead in AI, unveiling plans last month to spend hundreds of billions on developing its chip manufacturing.
 End = true
 
 [LIBRARY RNEWS]
-Title = US launches fresh strikes on Iranian targets 'threatening' Strait shipping
-Body = US Central Command says it launched a 90-minute attack targeting Iran's strategic Greater Tunb Island.
+Title = Trump claims China acquired personal information of 220m US voters — as it happened
+Body = Donald Trump claims declassified documents reveal China carried out the "largest compromise of election data in history".
 End = true
 
 [LIBRARY RNEWS]
-Title = New monkey species with orange lips discovered after years of searching
-Body = The monkey — Colobus congoensis — is only the fifth new species of African monkey to be discovered in the past 75 years.
+Title = Smoke from Canada wildfires crosses into US prompting warnings to stay indoors
+Body = Heavy, pungent wildfire smoke darkens skies in the US from the Great Lakes to parts of the East Coast, reducing visibility and prompting warnings that breathing the air outside could be dangerous.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,13 +34,13 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure Digivice Version Revival Pre-Orders Starting- Out in August
-Body = More for the 29th anniversary of the franchise, and likely to get formally announced during the Digimon Times announcement video later! After being teased for awhile the Digimon Adventure Digivice version Revival has shown up at Amazon Japan.
+Title = Digimon Up Releasing Today [...]
+Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up Releasing Today [...]
-Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
+Title = Mailmon & Ropuremon/Roleplaymon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
 End = true
 
 [LIBRARY RNEWS]
