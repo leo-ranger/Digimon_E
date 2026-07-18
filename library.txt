@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Father 'disgusted' over inadequacy of charges after Laos methanol poisoning
-Body = A Melbourne father whose daughter died from methanol poisoning in Laos has said he is "disgusted" over the inadequacy of charges expected to be laid.
+Title = Cricket legend Sir Garfield Sobers dies aged 89 [...]
+Body = Sir Don Bradman once described Sobers as "the greatest all-round cricketer I ever saw".
 End = true
 
 [LIBRARY RNEWS]
-Title = AI needs more memory. South Korea is selling it at a price
-Body = South Korea is doubling down on its bid to lead in AI, unveiling plans last month to spend hundreds of billions on developing its chip manufacturing.
+Title = Ukraine says it destroyed Russian bomber at Engels airbase
+Body = Ukrainian President Volodymyr Zelenskyy said the military plane was used by Russia for missile strikes on Ukraine.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump claims China acquired personal information of 220m US voters — as it happened
-Body = Donald Trump claims declassified documents reveal China carried out the "largest compromise of election data in history".
+Title = Lao authorities charge distillery owners over fatal methanol poisoning
+Body = Bianca Jones and Holly Morton-Bowles, both 19, died after the incident at the Nana Backpackers Hostel in Vang Vieng in November 2024.
 End = true
 
 [LIBRARY RNEWS]
-Title = Smoke from Canada wildfires crosses into US prompting warnings to stay indoors
-Body = Heavy, pungent wildfire smoke darkens skies in the US from the Great Lakes to parts of the East Coast, reducing visibility and prompting warnings that breathing the air outside could be dangerous.
+Title = Eight killed, dozens missing as landslide buries people in China
+Body = A landslide in south-western China's Chongqing municipality has buried people in rubble and destroyed a roadway and a number of buildings, according to state media.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ravemon Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Ravemon.
+Title = Budmon & Lalamon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Budmon &...
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a
 End = true
 
 [LIBRARY RNEWS]
-Title = Mailmon & Ropuremon/Roleplaymon Previews for Digimon Card Game Booster Set 26
+Title = Gomimon & Tellermon Previews for Digimon Card Game Booster Set 26
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
 End = true
 
 [LIBRARY RNEWS]
-Title = Poll Results for Favorite Perfect Form that a Glowing Dawn Digimon Evolved To
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Perfect Form that a Glowing Dawn Digimon Evolved To! Recently the poll closed and we have the results!
+Title = With the Will Podcast Live- Sunday, July 19th [...]
+Body = Sunday (July 19th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 39, Digimon Up is out, we have some Time Stranger Switch 2 & 1 sales info, cards, & more! Sunday instead of our normal Monday!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger Switch 2 & Switch plus Update Patch Out, Info & More
-Body = Big week for Digimon Story: Time Stranger, so a few things to go over. First up, a launch trailer!
+Title = Digimon Beatbreak Episode 39 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 39, Lip Service, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
