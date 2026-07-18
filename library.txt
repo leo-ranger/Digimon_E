@@ -9,33 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Cricket legend Sir Garfield Sobers dies aged 89 [...]
-Body = Sir Don Bradman once described Sobers as "the greatest all-round cricketer I ever saw".
+Title = Why India is reopening a nuclear power plant built in the 1960s
+Body = Despite repeated setbacks and isolation, India continues to hold onto its nuclear dream.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ukraine says it destroyed Russian bomber at Engels airbase
-Body = Ukrainian President Volodymyr Zelenskyy said the military plane was used by Russia for missile strikes on Ukraine.
+Title = The race to find routes around the Strait of Hormuz and which nation is winning
+Body = Amid uncertainty around the Strait of Hormuz, for months Gulf countries and oil companies have been finding ways to bypass the choke point.
 End = true
 
 [LIBRARY RNEWS]
-Title = Lao authorities charge distillery owners over fatal methanol poisoning
-Body = Bianca Jones and Holly Morton-Bowles, both 19, died after the incident at the Nana Backpackers Hostel in Vang Vieng in November 2024.
+Title = Burnham to become next UK PM after Australian candidate gets one vote
+Body = Andy Burnham will be Britain's seventh prime minister in 10 years next week after winning a Labour leadership contest in which his only challenger, an Australian, received just one vote.
 End = true
 
 [LIBRARY RNEWS]
-Title = Eight killed, dozens missing as landslide buries people in China
-Body = A landslide in south-western China's Chongqing municipality has buried people in rubble and destroyed a roadway and a number of buildings, according to state media.
-End = true
-
-[LIBRARY RNEWS]
-Title = Budmon & Lalamon Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Budmon &...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Releasing Today [...]
-Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
+Title = Artist behind Clinton portrait in Epstein files remembers first piece
+Body = A high school art portrait launched Petrina Ryan-Kleid's career. Forty years and several satirical portraits later, she has been reunited with the person who bought her first work.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +34,22 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Live- Sunday, July 19th [...]
-Body = Sunday (July 19th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 39, Digimon Up is out, we have some Time Stranger Switch 2 & 1 sales info, cards, & more! Sunday instead of our normal Monday!
+Title = Gekkomon Mascot at Jump Victory Carnival This & Next Weekend for Photos & Digimon Novelty Gifts
+Body = Jump Victory Carnival is this weekend and next, and we have a few Digimon related items at hand for it. First up...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 39 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 39, Lip Service, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
+Title = Sunflowmon & Lilamon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Caravan- Details Announced for Digimon Events in August & September
+Body = With a few weeks until the first Digimon Caravan event, we finally have some more solid event details. As a general reminder, 3 Digimon Caravan events will be the Digimon summer/fall event this year, instead of DigiFes or Digimon Expo.
+End = true
+
+[LIBRARY RNEWS]
+Title = Budmon & Lalamon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Budmon &...
 End = true
 
