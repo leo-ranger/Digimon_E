@@ -29,6 +29,21 @@ Body = Washington and Tehran have been testing the limits of escalation since th
 End = true
 
 [LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 39- Lip Service [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 39, Lip Service A preview of Episode 39 Episode 39 airs Sunday, July 19th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Chiropmon & NightChiropmon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This...
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Beatbreak Episode 39 & Digimon Tamers: The Adventurers' Battle Social Media Art, Event Photos, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 39!
+End = true
+
+[LIBRARY RNEWS]
 Title = Poll Results for Favorite Perfect Form that a Glowing Dawn Digimon Evolved To
 Body = A bit ago, the official Digimon site put up a poll for your Favorite Perfect Form that a Glowing Dawn Digimon Evolved To! Recently the poll closed and we have the results!
 End = true
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Tamer Card Makoto Preview for Digimon Card Game Booster Set 26
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Makoto.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 38- Hollow Thirst [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 38, Hollow Thirst A preview of Episode 38 Episode 38 airs Sunday, July 12th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Releasing Today [...]
-Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Updates- Episode 38 Production Art, Kiss of Life w/ Gekkomon Promos, Staff/Cast at Karatez Karaoke, & Jump Victory Carnival Preview
-Body = A few recent Digimon Beatbreak updates before we get episode 39 later today. We get episode 38 chief animation...
 End = true
 
