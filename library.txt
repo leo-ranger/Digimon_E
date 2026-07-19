@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = 'Palestine will disappear before our eyes': Calls for Israel to stop settlements
+Body = The two former world leaders are demanding the international community heap more pressure on Israel to change course.
+End = true
+
+[LIBRARY RNEWS]
 Title = Why India is reopening a nuclear power plant built in the 1960s
 Body = Despite repeated setbacks and isolation, India continues to hold onto its nuclear dream.
 End = true
 
 [LIBRARY RNEWS]
-Title = The race to find routes around the Strait of Hormuz and which nation is winning
-Body = Amid uncertainty around the Strait of Hormuz, for months Gulf countries and oil companies have been finding ways to bypass the choke point.
+Title = Travel alert level for Laos raised as distillery owner charged
+Body = Authorities say tourists should exercise a high degree of caution in the country due to the risk of methanol poisoning, which killed Australian women Bianca Jones and Holly Morton-Bowles in 2024.
 End = true
 
 [LIBRARY RNEWS]
-Title = Burnham to become next UK PM after Australian candidate gets one vote
-Body = Andy Burnham will be Britain's seventh prime minister in 10 years next week after winning a Labour leadership contest in which his only challenger, an Australian, received just one vote.
+Title = US targets bridges, Iran hits Bahraini targets as war threat widens
+Body = Washington and Tehran have been testing the limits of escalation since their ceasefire agreement collapsed last week, raising the prospect of a return to all-out war.
 End = true
 
 [LIBRARY RNEWS]
-Title = Artist behind Clinton portrait in Epstein files remembers first piece
-Body = A high school art portrait launched Petrina Ryan-Kleid's career. Forty years and several satirical portraits later, she has been reunited with the person who bought her first work.
+Title = Poll Results for Favorite Perfect Form that a Glowing Dawn Digimon Evolved To
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Perfect Form that a Glowing Dawn Digimon Evolved To! Recently the poll closed and we have the results!
 End = true
 
 [LIBRARY RNEWS]
-Title = Gomimon & Tellermon Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
+Title = Tamer Card Makoto Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Makoto.
 End = true
 
 [LIBRARY RNEWS]
-Title = Gekkomon Mascot at Jump Victory Carnival This & Next Weekend for Photos & Digimon Novelty Gifts
-Body = Jump Victory Carnival is this weekend and next, and we have a few Digimon related items at hand for it. First up...
+Title = Digimon Beatbreak: Episode 38- Hollow Thirst [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 38, Hollow Thirst A preview of Episode 38 Episode 38 airs Sunday, July 12th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Sunflowmon & Lilamon Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
+Title = Digimon Up Releasing Today [...]
+Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Caravan- Details Announced for Digimon Events in August & September
-Body = With a few weeks until the first Digimon Caravan event, we finally have some more solid event details. As a general reminder, 3 Digimon Caravan events will be the Digimon summer/fall event this year, instead of DigiFes or Digimon Expo.
-End = true
-
-[LIBRARY RNEWS]
-Title = Budmon & Lalamon Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Budmon &...
+Title = Digimon Beatbreak Updates- Episode 38 Production Art, Kiss of Life w/ Gekkomon Promos, Staff/Cast at Karatez Karaoke, & Jump Victory Carnival Preview
+Body = A few recent Digimon Beatbreak updates before we get episode 39 later today. We get episode 38 chief animation...
 End = true
 
