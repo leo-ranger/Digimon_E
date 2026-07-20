@@ -9,33 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Palestine will disappear before our eyes': Calls for Israel to stop settlements
-Body = The two former world leaders are demanding the international community heap more pressure on Israel to change course.
+Title = US ally Jordan summons Iranian ambassador after missile strikes
+Body = The US warns its citizens to stay away from air and sea ports at Aqaba in southern Jordan, hours before Israeli authorities announced that Iranian missiles had been launched towards the city.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why India is reopening a nuclear power plant built in the 1960s
-Body = Despite repeated setbacks and isolation, India continues to hold onto its nuclear dream.
+Title = Russia pounds Kyiv in major ballistic missile attack
+Body = Ukrainian President Volodymyr Zelenskyy says Russia battered Ukraine's capital Kyiv overnight into Sunday local time, with one of its biggest ballistic missile barrages of the war.
 End = true
 
 [LIBRARY RNEWS]
-Title = Travel alert level for Laos raised as distillery owner charged
-Body = Authorities say tourists should exercise a high degree of caution in the country due to the risk of methanol poisoning, which killed Australian women Bianca Jones and Holly Morton-Bowles in 2024.
+Title = 'My heart is empty': Millions of Chinese forced to end AI relationships
+Body = A boyfriend betrayed 17-year-old Xiaoxue, so she made an AI partner. But now the government is trying to end her relationship.
 End = true
 
 [LIBRARY RNEWS]
-Title = US targets bridges, Iran hits Bahraini targets as war threat widens
-Body = Washington and Tehran have been testing the limits of escalation since their ceasefire agreement collapsed last week, raising the prospect of a return to all-out war.
+Title = Andrew and Tristan Tate arrested on sex trafficking offences
+Body = British prosecutors say they are seeking the extradition of the Tate brothers from the US on rape and sex trafficking charges.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 39- Lip Service [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 39, Lip Service A preview of Episode 39 Episode 39 airs Sunday, July 19th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = ScourgeChiropmon/Despair Blast Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (22) has updated with card previews from Booster Set 26. This time it's ScourgeChiropmon/Despair Blast.
 End = true
 
 [LIBRARY RNEWS]
-Title = Chiropmon & NightChiropmon Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This...
+Title = Anime Profile Art of Pafumon & Zurumon Variants from Digimon Beatbreak
+Body = The Digimon Beatbreak website updated with the evolution paths for Pristimon and Chiropmon after last night's episode of the series. We knew they looked like existing baby Digimon, but the names used on the page match the existing Digimon names, so we have new variants of Pafumon & Zurumon with a tweak each...
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +44,12 @@ Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 
 End = true
 
 [LIBRARY RNEWS]
-Title = Poll Results for Favorite Perfect Form that a Glowing Dawn Digimon Evolved To
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Perfect Form that a Glowing Dawn Digimon Evolved To! Recently the poll closed and we have the results!
+Title = Greetings! [...]
+Body = Hello! An avid Digimon fan here! [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Makoto Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Makoto.
+Title = Chiropmon & NightChiropmon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This...
 End = true
 
