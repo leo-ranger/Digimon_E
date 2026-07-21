@@ -19,28 +19,18 @@ Body = Thousands of supporters of India's youth-led "cockroach" movement gathere
 End = true
 
 [LIBRARY RNEWS]
-Title = Moscow targeted by drones while Russia bombards Kyiv
-Body = Ukraine launches its latest attack on the Russian capital, firing more than 400 drones, while the Kremlin deploys more ballistic missiles against targets across Ukraine.
+Title = Nicaragua's president extends rule, says country will not hold elections soon
+Body = Daniel Ortega dashes opposition hopes that he might heed their demands for a democratic vote, effectively cancelled Nicaragua's next elections.
 End = true
 
 [LIBRARY RNEWS]
-Title = US, Iran trade fire as Trump says Iran will 'pay' for soldiers' deaths
-Body = The United States has launched a new wave of strikes on Iran after identifying two soldiers killed while defending against Iranian missile and drone attacks in Jordan.
+Title = Diplomatic efforts to keep US from cutting ties with UNHCR begin, sources say
+Body = The Trump administration is said to be weighing cutting ties with the UN refugee agency, prompting a campaign for the US to maintain support.
 End = true
 
 [LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
-End = true
-
-[LIBRARY RNEWS]
-Title = Dark Field Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Dark Field.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Releasing Today [...]
-Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
+Title = Plotmon/Salamon & Gekomon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +39,17 @@ Body = The Digimon Beatbreak website updated with the evolution paths for Pristi
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up Releasing Today [...]
+Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
+End = true
+
+[LIBRARY RNEWS]
+Title = Dark Field Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Dark Field.
 End = true
 
