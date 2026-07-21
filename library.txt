@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US ally Jordan summons Iranian ambassador after missile strikes
-Body = The US warns its citizens to stay away from air and sea ports at Aqaba in southern Jordan, hours before Israeli authorities announced that Iranian missiles had been launched towards the city.
+Title = Iran-backed Houthis declare maritime blockade on Saudi Arabia
+Body = In a statement, the Houthis' military spokesperson Yahya Saree says the group will enforce the blockade against its "criminal Saudi enemy", effective immediately.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russia pounds Kyiv in major ballistic missile attack
-Body = Ukrainian President Volodymyr Zelenskyy says Russia battered Ukraine's capital Kyiv overnight into Sunday local time, with one of its biggest ballistic missile barrages of the war.
+Title = India's 'cockroach' movement supporters caned by police
+Body = Thousands of supporters of India's youth-led "cockroach" movement gathered in New Delhi to march on parliament seeking the resignation of the education minister, despite police denying permission for the protest.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'My heart is empty': Millions of Chinese forced to end AI relationships
-Body = A boyfriend betrayed 17-year-old Xiaoxue, so she made an AI partner. But now the government is trying to end her relationship.
+Title = Moscow targeted by drones while Russia bombards Kyiv
+Body = Ukraine launches its latest attack on the Russian capital, firing more than 400 drones, while the Kremlin deploys more ballistic missiles against targets across Ukraine.
 End = true
 
 [LIBRARY RNEWS]
-Title = US launches further strikes on Iran as Tehran attacks oil tankers
-Body = The US launches a new round of air strikes on Iran after announcing the death of another American service member, and the Islamic Revolutionary Guard Corps says it has immobilised two oil tankers in the Strait of Hormuz.
+Title = US, Iran trade fire as Trump says Iran will 'pay' for soldiers' deaths
+Body = The United States has launched a new wave of strikes on Iran after identifying two soldiers killed while defending against Iranian missile and drone attacks in Jordan.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = Time to start a new thread from: https://withthewill.net/threads/random-c
 End = true
 
 [LIBRARY RNEWS]
+Title = Dark Field Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Dark Field.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Up Releasing Today [...]
+Body = The newest Digimon mobile game, Digimon Up, releases later today. It is a battle game featuring various Digimon, with more to be added on an ongoing basis.
+End = true
+
+[LIBRARY RNEWS]
 Title = Anime Profile Art of Pafumon & Zurumon Variants from Digimon Beatbreak
 Body = The Digimon Beatbreak website updated with the evolution paths for Pristimon and Chiropmon after last night's episode of the series. We knew they looked like existing baby Digimon, but the names used on the page match the existing Digimon names, so we have new variants of Pafumon & Zurumon with a tweak each...
 End = true
 
 [LIBRARY RNEWS]
-Title = ScourgeChiropmon/Despair Blast Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (22) has updated with card previews from Booster Set 26. This time it's ScourgeChiropmon/Despair Blast.
-End = true
-
-[LIBRARY RNEWS]
-Title = Kuwagamon & Okuwamon Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #310- Gold Gone Away (Beatbreak Episode 39, Up, Time Stranger, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 39, Digimon Up is out, we have some Time Stranger Switch 2 & 1 sales info, cards, & more! Plus your questions!
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
