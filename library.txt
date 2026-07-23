@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = From Mumbai to New York, young Indians gather in unprecedented movement
+Body = A student who started a youth uprising across India is fast becoming the biggest challenge to Prime Minister Narendra Modi's 12-year reign.
+End = true
+
+[LIBRARY RNEWS]
+Title = US and Saudi Arabia reach nuclear power deal [...]
+Body = Israeli officials and US politicians from both parties have voiced concern that a civilian nuclear project in Saudi Arabia could be used to eventually develop nuclear weapons.
+End = true
+
+[LIBRARY RNEWS]
 Title = China demands Australia stop 'inciting confrontation' over South China Sea
 Body = China's Ministry of Foreign Affairs has demanded Australia stop "exaggerating tensions and inciting confrontation" over the South China Sea after Penny Wong warned Beijing against "destabilising" conduct in the region.
 End = true
@@ -16,15 +26,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Ukraine hits more warehouses of top Russian retailer Wildberries
 Body = Volodymyr Zelenskyy said Kyiv struck "logistics hubs" supplying the Russian army with "drone components, navigation equipment and other gear".
-End = true
-
-[LIBRARY RNEWS]
-Title = French modelling scout with links to Epstein found dead, prosecutors say
-Body = A French modelling scout with close ties to the late US financier Jeffrey Epstein has been found dead at his home outside Paris, prosecutors say.
-End = true
-
-[LIBRARY RNEWS]
-Title = How one of Iran's 'Axis' allies is threatening to widen the war
-Body = The Houthi rebels, described as one of Iran's "merchants of chaos", have threatened to widen the conflict in the Middle East by declaring a maritime blockade on Saudi Arabia. Here's what could happen next.
 End = true
 
