@@ -9,47 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = China demands Australia stop 'inciting confrontation' over South China Sea
+Body = China's Ministry of Foreign Affairs has demanded Australia stop "exaggerating tensions and inciting confrontation" over the South China Sea after Penny Wong warned Beijing against "destabilising" conduct in the region.
+End = true
+
+[LIBRARY RNEWS]
+Title = Ukraine hits more warehouses of top Russian retailer Wildberries
+Body = Volodymyr Zelenskyy said Kyiv struck "logistics hubs" supplying the Russian army with "drone components, navigation equipment and other gear".
+End = true
+
+[LIBRARY RNEWS]
+Title = French modelling scout with links to Epstein found dead, prosecutors say
+Body = A French modelling scout with close ties to the late US financier Jeffrey Epstein has been found dead at his home outside Paris, prosecutors say.
+End = true
+
+[LIBRARY RNEWS]
 Title = How one of Iran's 'Axis' allies is threatening to widen the war
 Body = The Houthi rebels, described as one of Iran's "merchants of chaos", have threatened to widen the conflict in the Middle East by declaring a maritime blockade on Saudi Arabia. Here's what could happen next.
-End = true
-
-[LIBRARY RNEWS]
-Title = Hegseth outlines cost of Iran war at Senate hearing
-Body = US Defense Secretary Pete Hegseth is being questioned on the cost of the war against Iran, his idea of testosterone screening for troops, and the number of service people who have died.
-End = true
-
-[LIBRARY RNEWS]
-Title = Gates Foundation met with Epstein about 30 times, review finds
-Body = Bill Gates was aware of Jeffrey Epstein's 2008 sex offence conviction during their association, an external review of the Gates Foundation finds.
-End = true
-
-[LIBRARY RNEWS]
-Title = Zelenskyy names new Ukrainian commander-in-chief [...]
-Body = Ukrainian President Volodymyr Zelenskyy replaces the country's commander-in-chief after protests against his sacking of the defence minister last week.
-End = true
-
-[LIBRARY RNEWS]
-Title = Plutomon Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Plutomon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
-End = true
-
-[LIBRARY RNEWS]
-Title = Official Digimon Web Poll #154- Favorite Guest Digimon from Beatbreak Episodes 25 through 37
-Body = Digimon Web has opened a new fan vote. This is the 154th official web poll on the current version of the site.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up- Upcoming Time Stranger Character Event & DigiEmeralds Promo Code
-Body = A few relevant Digimon Up bits for those currently playing the game. First up...
-End = true
-
-[LIBRARY RNEWS]
-Title = Anime Profile Art of Pafumon & Zurumon Variants from Digimon Beatbreak
-Body = The Digimon Beatbreak website updated with the evolution paths for Pristimon and Chiropmon after last night's episode of the series. We knew they looked like existing baby Digimon, but the names used on the page match the existing Digimon names, so we have new variants of Pafumon & Zurumon with a tweak each...
 End = true
 
