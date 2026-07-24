@@ -9,22 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Saudi Arabia must recognise Israel for nuclear deal, says Trump
+Body = Donald Trump is insisting the US deal allowing Saudi Arabia to develop a nuclear energy industry has one major condition — the Arab kingdom must formally recognise the State of Israel.
+End = true
+
+[LIBRARY RNEWS]
+Title = Death toll climbs after flooding in India, Afghanistan and Pakistan
+Body = At least 82 people have died and more than 650,000 have been impacted after heavy rain and flash flooding in India, Pakistan and Afghanistan.
+End = true
+
+[LIBRARY RNEWS]
+Title = Taiwanese woman sentenced for attempted murder of Australian exchange student
+Body = Taiwanese media has reported Yang Jinping has been sentenced for the attempted murder of Brisbane exchange student Alex Shorey in 2023.
+End = true
+
+[LIBRARY RNEWS]
 Title = From Mumbai to New York, young Indians gather in unprecedented movement
 Body = A student who started a youth uprising across India is fast becoming the biggest challenge to Prime Minister Narendra Modi's 12-year reign.
-End = true
-
-[LIBRARY RNEWS]
-Title = US and Saudi Arabia reach nuclear power deal [...]
-Body = Israeli officials and US politicians from both parties have voiced concern that a civilian nuclear project in Saudi Arabia could be used to eventually develop nuclear weapons.
-End = true
-
-[LIBRARY RNEWS]
-Title = China demands Australia stop 'inciting confrontation' over South China Sea
-Body = China's Ministry of Foreign Affairs has demanded Australia stop "exaggerating tensions and inciting confrontation" over the South China Sea after Penny Wong warned Beijing against "destabilising" conduct in the region.
-End = true
-
-[LIBRARY RNEWS]
-Title = Ukraine hits more warehouses of top Russian retailer Wildberries
-Body = Volodymyr Zelenskyy said Kyiv struck "logistics hubs" supplying the Russian army with "drone components, navigation equipment and other gear".
 End = true
 
