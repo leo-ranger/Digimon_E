@@ -14,17 +14,17 @@ Body = Donald Trump is insisting the US deal allowing Saudi Arabia to develop a 
 End = true
 
 [LIBRARY RNEWS]
-Title = Death toll climbs after flooding in India, Afghanistan and Pakistan
-Body = At least 82 people have died and more than 650,000 have been impacted after heavy rain and flash flooding in India, Pakistan and Afghanistan.
+Title = When Dewi gave up her baby, she immediately regretted the decision
+Body = Police in Indonesia are more regularly busting baby trafficking and illegal adoption rings, with officials worried poverty may be driving the practice.
 End = true
 
 [LIBRARY RNEWS]
-Title = Taiwanese woman sentenced for attempted murder of Australian exchange student
-Body = Taiwanese media has reported Yang Jinping has been sentenced for the attempted murder of Brisbane exchange student Alex Shorey in 2023.
+Title = Australian government arguing 'very forcefully' against Trump's new 12.5pc tariffs
+Body = A new levy on exports from Australia into the US has taken effect, superseding the 10 per cent tariff that was expiring. Dozens of other countries have also been hit, but Australia's tariff is among the highest.
 End = true
 
 [LIBRARY RNEWS]
-Title = From Mumbai to New York, young Indians gather in unprecedented movement
-Body = A student who started a youth uprising across India is fast becoming the biggest challenge to Prime Minister Narendra Modi's 12-year reign.
+Title = Zelenskyy just scored an 'own goal' and it cost him big time
+Body = The Ukrainian president's decision to fire his popular, tech-savvy 35-year-old Defence Minister Mykhailo Fedorov last week baffled many. Analysts say what happens next could be pivotal to the war.
 End = true
 
