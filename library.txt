@@ -9,38 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US, Iran trade strikes after Trump vows 'major military punishment'
-Body = The strikes came after the US President vowed "major military punishment" for Tehran and its Houthi allies in Yemen over moves to block a second major international shipping route.
+Title = ICC dismisses prosecutor Karim Khan for serious misconduct
+Body = The International Criminal Court has dismissed prosecutor Karim Khan following an investigation into sexual misconduct allegations.
 End = true
 
 [LIBRARY RNEWS]
-Title = Villagers hold vigil for stranger as PNG boat tragedy victims wash ashore
-Body = Twenty-seven people including families with young children went missing after two boats capsized in rough seas in Papua New Guinea's north-east on Saturday.
+Title = US, Iran trade strikes after Trump vows 'major military punishment'
+Body = The strikes came after the US president vowed "major military punishment" for Tehran and its Houthi allies in Yemen over moves to block a second major international shipping route.
+End = true
+
+[LIBRARY RNEWS]
+Title = Four Palestinian villagers, 2 Israeli soldiers killed in West Bank clashes
+Body = Violent clashes in the occupied West Bank have left two Israeli soldiers and four Palestinian villagers dead.
 End = true
 
 [LIBRARY RNEWS]
 Title = Russian missile strike kills 10 at Ukraine defence industry event
 Body = A Russian ballistic missile strike has killed 10 people and injured almost 100 at a defence industry event near Kyiv, as the Kremlin says it will keep fighting while awaiting new US peace proposals.
-End = true
-
-[LIBRARY RNEWS]
-Title = Police intercept car with 'significant' bomb near Northern Ireland border
-Body = The driver, a woman in her 20s, and a man in his 40s have been arrested on suspicion of offences against the state.
-End = true
-
-[LIBRARY RNEWS]
-Title = Monimon Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Monimon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Up Discussion [...]
-Body = For now we're going to use the game release thread for any general discussion, minus other threads that get made by people, etc. That thread can be found here.
-End = true
-
-[LIBRARY RNEWS]
-Title = Podcast on Hiatus for a Few Weeks due to Water [...]
-Body = https://twitter.com/x/status/2080743490716357070 Podcast is on hiatus for a few weeks. Isn't really possible to record with our full title card and recording setup at the moment.
 End = true
 
 [LIBRARY RNEWS]
@@ -51,5 +36,20 @@ End = true
 [LIBRARY RNEWS]
 Title = Kotemon, Musyamon, & Zanbamon Previews for Digimon Card Game Booster Set 26
 Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Kyaromon & Pagumon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
+End = true
+
+[LIBRARY RNEWS]
+Title = Tachikawa Showa Kinen Park Fireworks Festival Today with Digimon Collaboration- Photos of Digimon Themed Staff Shirts
+Body = The 65th Tachikawa Showa Kinen Park Fireworks Festival is later today, which features a Digimon collaboration with a number of Digimon related things at the park the event is taking place at. They showed off the staff exclusive shirts which are Digimon themed.
+End = true
+
+[LIBRARY RNEWS]
+Title = Monimon Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Monimon.
 End = true
 
