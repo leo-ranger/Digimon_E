@@ -29,27 +29,27 @@ Body = Black teen Nolan Wells went to a party with white friends and didn't come
 End = true
 
 [LIBRARY RNEWS]
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+End = true
+
+[LIBRARY RNEWS]
 Title = Let's play a jogress game [...]
 Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bearcatmon/Penetrate Blow Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Bearcatmon/Penetrate Blow.
+Title = Digimon Beatbreak: Episode 40- Unfading Night [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 40, Unfading Night A preview of Episode 40 Episode 40 airs Sunday, July 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure Partner Plushies Products Announced for Family Mart on July 30th
-Body = Family Mart has announced (2) a small line of Digimon Adventure merchandise. The products feature the chosen children and their Digimon each holding their 'partner plushie.' They'll start to be available in Family...
+Title = Wolvermon Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Wolvermon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Caravan- Info on Event Giveaways & On-Site Card Events
-Body = With the 3 Digimon Caravan events in August and September, we have a few more details. First up, we knew there would be event gifts and novelties and those have been announced.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Pendulum Color Info & New Digimon Names, Art, & Info from MonMon Memo
-Body = Time for a new MonMon Memo! MonMon Memo 128 introduces the new Digimon Pendulum Colors.
+Title = NeoPlayerOne Digimon Neo-Classic Series MetalGreymon 1st Edition Color Figure Announced- Only 10 Being Made, Ludicrously Expensive
+Body = A bit of a different one, sort of, has been announced... A NeoPlayerOne Digimon figure.
 End = true
 
