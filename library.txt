@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = ICC dismisses prosecutor Karim Khan for serious misconduct
-Body = The International Criminal Court has dismissed prosecutor Karim Khan following an investigation into sexual misconduct allegations.
+Title = Iran's attacks on US bases in the Middle East mark 'end of an era'
+Body = Five months into a war Donald Trump said would last only weeks, the Iran conflict has so far cost the US tens of billions of dollars and brought about "the end of an era" in American military strategy.
 End = true
 
 [LIBRARY RNEWS]
-Title = US, Iran trade strikes after Trump vows 'major military punishment'
-Body = The strikes came after the US president vowed "major military punishment" for Tehran and its Houthi allies in Yemen over moves to block a second major international shipping route.
+Title = India's Gen Z are filming 'fit checks' while running from police
+Body = Across the country's protest hotspots, India's gen Z are using meme culture as part of their hopes to bring the country into a new dawn.
 End = true
 
 [LIBRARY RNEWS]
-Title = Four Palestinian villagers, 2 Israeli soldiers killed in West Bank clashes
-Body = Violent clashes in the occupied West Bank have left two Israeli soldiers and four Palestinian villagers dead.
+Title = Japan's royal crisis sparks debate about women on the throne
+Body = There are only three people in line to inherit Japan's Chrysanthemum Throne, and one of them is 90 years old. All three of them are men.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian missile strike kills 10 at Ukraine defence industry event
-Body = A Russian ballistic missile strike has killed 10 people and injured almost 100 at a defence industry event near Kyiv, as the Kremlin says it will keep fighting while awaiting new US peace proposals.
+Title = How Black teenager's death has rocked the US Deep South into racial division
+Body = Black teen Nolan Wells went to a party with white friends and didn't come home alive. His death is now shrouded in rampant speculation and an air of racial division.
+End = true
+
+[LIBRARY RNEWS]
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+End = true
+
+[LIBRARY RNEWS]
+Title = Bearcatmon/Penetrate Blow Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Bearcatmon/Penetrate Blow.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure Partner Plushies Products Announced for Family Mart on July 30th
+Body = Family Mart has announced (2) a small line of Digimon Adventure merchandise. The products feature the chosen children and their Digimon each holding their 'partner plushie.' They'll start to be available in Family...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Caravan- Info on Event Giveaways & On-Site Card Events
+Body = With the 3 Digimon Caravan events in August and September, we have a few more details. First up, we knew there would be event gifts and novelties and those have been announced.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Pendulum Color Info & New Digimon Names, Art, & Info from MonMon Memo
 Body = Time for a new MonMon Memo! MonMon Memo 128 introduces the new Digimon Pendulum Colors.
-End = true
-
-[LIBRARY RNEWS]
-Title = Kotemon, Musyamon, & Zanbamon Previews for Digimon Card Game Booster Set 26
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Kyaromon & Pagumon Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
-End = true
-
-[LIBRARY RNEWS]
-Title = Tachikawa Showa Kinen Park Fireworks Festival Today with Digimon Collaboration- Photos of Digimon Themed Staff Shirts
-Body = The 65th Tachikawa Showa Kinen Park Fireworks Festival is later today, which features a Digimon collaboration with a number of Digimon related things at the park the event is taking place at. They showed off the staff exclusive shirts which are Digimon themed.
-End = true
-
-[LIBRARY RNEWS]
-Title = Monimon Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Monimon.
 End = true
 
