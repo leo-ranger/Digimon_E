@@ -9,33 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran's attacks on US bases in the Middle East mark 'end of an era'
-Body = Five months into a war Donald Trump said would last only weeks, the Iran conflict has so far cost the US tens of billions of dollars and brought about "the end of an era" in American military strategy.
+Title = Alleged attacker at Berlin Pride event shot dead by police
+Body = A nationwide manhunt in Germany ends as details about the suspected attacker, Abdul B, who was born in Germany in 2005, begin to emerge.
 End = true
 
 [LIBRARY RNEWS]
-Title = India's Gen Z are filming 'fit checks' while running from police
-Body = Across the country's protest hotspots, India's gen Z are using meme culture as part of their hopes to bring the country into a new dawn.
+Title = They were called 'cockroaches'. Now they've brought down a Modi 'pillar'
+Body = Narendra Modi's government has a history of taking a tough stance on protesters, but with millions of India's young people at the gates, something finally had to give.
 End = true
 
 [LIBRARY RNEWS]
-Title = Japan's royal crisis sparks debate about women on the throne
-Body = There are only three people in line to inherit Japan's Chrysanthemum Throne, and one of them is 90 years old. All three of them are men.
+Title = Israeli air strike kills top Hamas official in Gaza
+Body = The head of the Hamas-run Palestinian internal security service in central Gaza and an associate are dead after their vehicle was targeted by an Israeli air strike.
 End = true
 
 [LIBRARY RNEWS]
-Title = How Black teenager's death has rocked the US Deep South into racial division
-Body = Black teen Nolan Wells went to a party with white friends and didn't come home alive. His death is now shrouded in rampant speculation and an air of racial division.
+Title = How two boats with 500 people disappeared almost without trace
+Body = The disappearance of two boats carrying more than 500 Rohingya asylum seekers off the coast of Myanmar in recent weeks brings the number of people reported lost at sea in the region this year to more than 800.
 End = true
 
 [LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
-End = true
-
-[LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+Title = Preview for Digimon Beatbreak Episode 41 A Golden Tomorrow
+Body = https://twitter.com/x/status/2081176030254113202 Time for a preview for Episode 41 A Golden Tomorrow! Watch episode 40 first!
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +39,17 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 40, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Wolvermon Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Wolvermon.
+Title = Swipemon Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Swipemon.
 End = true
 
 [LIBRARY RNEWS]
-Title = NeoPlayerOne Digimon Neo-Classic Series MetalGreymon 1st Edition Color Figure Announced- Only 10 Being Made, Ludicrously Expensive
-Body = A bit of a different one, sort of, has been announced... A NeoPlayerOne Digimon figure.
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+End = true
+
+[LIBRARY RNEWS]
+Title = Godzilla vs. Digimon Mini Soft Vinyl Chronicle Mini Figures Announced For Fall
+Body = At Wonder Festival 2026 Summer it was announced that Godzilla vs. Digimon would join the ongoing series of Godzilla Mini Soft Vinyl Chronicle figure releases.
 End = true
 
