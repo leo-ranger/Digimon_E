@@ -14,6 +14,11 @@ Body = A nationwide manhunt in Germany ends as details about the suspected attac
 End = true
 
 [LIBRARY RNEWS]
+Title = Hopes US and Iran will return to negotiating table after lull in hostilities
+Body = Iran has passed another night without US air strikes, as Washington pauses a war nearing its fifth month and reports emerge that concerns over dwindling munitions are restraining plans for further escalation.
+End = true
+
+[LIBRARY RNEWS]
 Title = They were called 'cockroaches'. Now they've brought down a Modi 'pillar'
 Body = Narendra Modi's government has a history of taking a tough stance on protesters, but with millions of India's young people at the gates, something finally had to give.
 End = true
@@ -24,23 +29,8 @@ Body = The head of the Hamas-run Palestinian internal security service in centra
 End = true
 
 [LIBRARY RNEWS]
-Title = How two boats with 500 people disappeared almost without trace
-Body = The disappearance of two boats carrying more than 500 Rohingya asylum seekers off the coast of Myanmar in recent weeks brings the number of people reported lost at sea in the region this year to more than 800.
-End = true
-
-[LIBRARY RNEWS]
 Title = Preview for Digimon Beatbreak Episode 41 A Golden Tomorrow
 Body = https://twitter.com/x/status/2081176030254113202 Time for a preview for Episode 41 A Golden Tomorrow! Watch episode 40 first!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 40- Unfading Night [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 40, Unfading Night A preview of Episode 40 Episode 40 airs Sunday, July 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Swipemon Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Swipemon.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +39,17 @@ Body = So I read the random commentary on evolution relationships thread and tho
 End = true
 
 [LIBRARY RNEWS]
-Title = Godzilla vs. Digimon Mini Soft Vinyl Chronicle Mini Figures Announced For Fall
-Body = At Wonder Festival 2026 Summer it was announced that Godzilla vs. Digimon would join the ongoing series of Godzilla Mini Soft Vinyl Chronicle figure releases.
+Title = Holy War (Digimon) [...]
+Body = This is the sequel to my Digimon story, "A Dragon in Shining Armour". Like it's predecessor, it focuses on the Royal Knights.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 40- Unfading Night [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 40, Unfading Night A preview of Episode 40 Episode 40 airs Sunday, July 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Copipemon Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Copipemon.
 End = true
 
