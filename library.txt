@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Alleged attacker at Berlin Pride event shot dead by police
-Body = A nationwide manhunt in Germany ends as details about the suspected attacker, Abdul B, who was born in Germany in 2005, begin to emerge.
+Title = France and Spain race to curb wildfires before new heatwave arrives
+Body = Spanish Prime Minister Pedro Sanchez highlighted the impact of climate change, saying the wildfires were "more ferocious" and "heatwaves more frequent".
 End = true
 
 [LIBRARY RNEWS]
-Title = Hopes US and Iran will return to negotiating table after lull in hostilities
-Body = Iran has passed another night without US air strikes, as Washington pauses a war nearing its fifth month and reports emerge that concerns over dwindling munitions are restraining plans for further escalation.
+Title = UK PM Burnham meets Zelenskyy and vows 'unwavering' support for Ukraine
+Body = Downing Street said the meeting was designed to underscore Britain's steadfast support for Ukraine.
 End = true
 
 [LIBRARY RNEWS]
-Title = They were called 'cockroaches'. Now they've brought down a Modi 'pillar'
-Body = Narendra Modi's government has a history of taking a tough stance on protesters, but with millions of India's young people at the gates, something finally had to give.
+Title = Netanyahu accuses New York's Mamdani of making Jews feel 'unsafe'
+Body = Israeli Prime Minister Benjamin Netanyahu says he will still attend the United Nations General Assembly in September despite claiming the "rhetoric" of New York Mayor Zohran Mamdani is making Jews feel "unsafe" in the city.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israeli air strike kills top Hamas official in Gaza
-Body = The head of the Hamas-run Palestinian internal security service in central Gaza and an associate are dead after their vehicle was targeted by an Israeli air strike.
+Title = Settler violence in the West Bank escalates after violent clash
+Body = More than 130 Palestinians have been detained in weekend raids across the occupied West Bank, according to Israel's military, following a deadly clash between settlers and Palestinians last week.
 End = true
 
 [LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 41 A Golden Tomorrow
-Body = https://twitter.com/x/status/2081176030254113202 Time for a preview for Episode 41 A Golden Tomorrow! Watch episode 40 first!
+Title = Drimogemon & Giromon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
 End = true
 
 [LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
 [LIBRARY RNEWS]
-Title = Holy War (Digimon) [...]
-Body = This is the sequel to my Digimon story, "A Dragon in Shining Armour". Like it's predecessor, it focuses on the Royal Knights.
+Title = Medicmon & Weatherdramon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
+End = true
+
+[LIBRARY RNEWS]
+Title = Japan Trip [...]
+Body = Hello everyone, this september i'm going on a trip to Japan!!!! Can you recommend me some digimon themed places to visit and if i need to book?
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 40- Unfading Night [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 40, Unfading Night A preview of Episode 40 Episode 40 airs Sunday, July 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Copipemon Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Copipemon.
 End = true
 
