@@ -9,8 +9,8 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = France and Spain race to curb wildfires before new heatwave arrives
-Body = Spanish Prime Minister Pedro Sanchez highlighted the impact of climate change, saying the wildfires were "more ferocious" and "heatwaves more frequent".
+Title = Body pulled from landslide at Solomon Islands gold mine
+Body = A man's body has been recovered from the site of a landslide at Solomon Islands's only large-scale gold mine.
 End = true
 
 [LIBRARY RNEWS]
@@ -29,8 +29,8 @@ Body = More than 130 Palestinians have been detained in weekend raids across the
 End = true
 
 [LIBRARY RNEWS]
-Title = Drimogemon & Giromon Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
+Title = Gokumon/Reapermon Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Gokumon/Reapermon.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = Time to start a new thread from: https://withthewill.net/threads/random-c
 End = true
 
 [LIBRARY RNEWS]
-Title = Medicmon & Weatherdramon Previews for Digimon Card Game Booster Set 26
+Title = Digimon Beatbreak: Episode 40- Unfading Night [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 40, Unfading Night A preview of Episode 40 Episode 40 airs Sunday, July 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Drimogemon & Giromon Previews for Digimon Card Game Booster Set 26
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
 End = true
 
 [LIBRARY RNEWS]
-Title = Japan Trip [...]
-Body = Hello everyone, this september i'm going on a trip to Japan!!!! Can you recommend me some digimon themed places to visit and if i need to book?
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 40- Unfading Night [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 40, Unfading Night A preview of Episode 40 Episode 40 airs Sunday, July 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Medicmon & Weatherdramon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
 End = true
 
