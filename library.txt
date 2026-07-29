@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Multiple people feared dead in collapsed shopping mall following Japan quake
+Body = Japan's south-western Kyushu island has been struck by two strong earthquakes within an hour, with two women confirmed dead after an explosion at a shopping centre.
+End = true
+
+[LIBRARY RNEWS]
+Title = Home for digital nomads in Malaysian 'ghost city' shut down
+Body = Malaysian authorities revoke the business licence of a US tech entrepreneur who was building a start-up community in a largely empty city.
+End = true
+
+[LIBRARY RNEWS]
+Title = US pharma giant to pay out $7.9 billion over baby powder lawsuits
+Body = A US pharmaceutical company will pay $7.9 billion to settle thousands of lawsuits that claim its baby powder caused ovarian cancer.
+End = true
+
+[LIBRARY RNEWS]
 Title = Body pulled from landslide at Solomon Islands gold mine
 Body = A man's body has been recovered from the site of a landslide at Solomon Islands's only large-scale gold mine.
 End = true
 
 [LIBRARY RNEWS]
-Title = UK PM Burnham meets Zelenskyy and vows 'unwavering' support for Ukraine
-Body = Downing Street said the meeting was designed to underscore Britain's steadfast support for Ukraine.
+Title = Digimon Beatbreak: Episode 40- Unfading Night [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 40, Unfading Night A preview of Episode 40 Episode 40 airs Sunday, July 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Netanyahu accuses New York's Mamdani of making Jews feel 'unsafe'
-Body = Israeli Prime Minister Benjamin Netanyahu says he will still attend the United Nations General Assembly in September despite claiming the "rhetoric" of New York Mayor Zohran Mamdani is making Jews feel "unsafe" in the city.
-End = true
-
-[LIBRARY RNEWS]
-Title = Settler violence in the West Bank escalates after violent clash
-Body = More than 130 Palestinians have been detained in weekend raids across the occupied West Bank, according to Israel's military, following a deadly clash between settlers and Palestinians last week.
+Title = Digimon Up- One Million Download Celebration- Contest & Wallpapers
+Body = A few things are being done to celebrate Digimon Up getting one million downloads. First up, a contest for those in the US.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +49,7 @@ Body = Time to start a new thread from: https://withthewill.net/threads/random-c
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 40- Unfading Night [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 40, Unfading Night A preview of Episode 40 Episode 40 airs Sunday, July 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
 Title = Drimogemon & Giromon Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
-End = true
-
-[LIBRARY RNEWS]
-Title = Medicmon & Weatherdramon Previews for Digimon Card Game Booster Set 26
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
 End = true
 
