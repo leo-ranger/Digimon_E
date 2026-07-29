@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = US school pauses humanoid robot plan after link with sexbot company raised
+Body = A school in rural upstate New York has puts its plans for a humanoid robot on hold, after concerns were raised about the maker's links to a company that produces sexbots.
+End = true
+
+[LIBRARY RNEWS]
 Title = Multiple people feared dead in collapsed shopping mall following Japan quake
 Body = Japan's south-western Kyushu island has been struck by two strong earthquakes within an hour, with two women confirmed dead after an explosion at a shopping centre.
 End = true
 
 [LIBRARY RNEWS]
-Title = Home for digital nomads in Malaysian 'ghost city' shut down
-Body = Malaysian authorities revoke the business licence of a US tech entrepreneur who was building a start-up community in a largely empty city.
+Title = China's singing sailors could be latest weapon in fight for South China Sea
+Body = China's state media releases an English version of a love ballad about lovesick sailors in the South China Sea.
 End = true
 
 [LIBRARY RNEWS]
-Title = US pharma giant to pay out $7.9 billion over baby powder lawsuits
-Body = A US pharmaceutical company will pay $7.9 billion to settle thousands of lawsuits that claim its baby powder caused ovarian cancer.
+Title = New Pacific aid map shows 'striking' shift away from China
+Body = Australia supplants China as the dominant lender and infrastructure investor across the Pacific as the government ploughs billions of dollars into the region through both foreign aid and loans.
 End = true
 
 [LIBRARY RNEWS]
-Title = Body pulled from landslide at Solomon Islands gold mine
-Body = A man's body has been recovered from the site of a landslide at Solomon Islands's only large-scale gold mine.
+Title = Digimon 29th Anniversary: Digimon & Meat Themed Project Part 1- Hina Art by Okada Anmitsu
+Body = Digimon Web put up something a bit special. It's tagged as a MonMon Memo, but doesn't appear to be listed or treated as such, so for now we aren't listing it as once.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Card Battle 273 & 274- Digimon Card Family Reunites & Digimon Card Game Booster Set 26 Team Matches
+Body = Digimon Card Battle is back with episode 273 and 274 (delay in posting for various reasons, so two at once.) The Digimon Card Family reunites, minus Kano who has a concert to work on. ...
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Up- One Million Download Celebration- Contest & Wallpapers
 Body = A few things are being done to celebrate Digimon Up getting one million downloads. First up, a contest for those in the US.
-End = true
-
-[LIBRARY RNEWS]
-Title = Gokumon/Reapermon Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Gokumon/Reapermon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
-End = true
-
-[LIBRARY RNEWS]
-Title = Drimogemon & Giromon Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's...
 End = true
 
