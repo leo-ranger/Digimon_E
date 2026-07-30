@@ -29,27 +29,27 @@ Body = Police arrest the teen just two days before the planned hit on an unident
 End = true
 
 [LIBRARY RNEWS]
-Title = Gokumon/Reapermon Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Gokumon/Reapermon.
+Title = Do you like collecting Digimon TCG? [...]
+Body = According to Digi TCG Scan on my smartphone, I have a total of 778 rares, including duplicates, and the collection value is currently $567. I paid for 8 different booster boxes, and the Classic Collection is my favorite of the bunch because of nostalgia.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 40- Unfading Night [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 40, Unfading Night A preview of Episode 40 Episode 40 airs Sunday, July 26th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Queen of Thorns Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Queen of Thorns.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Rosemon: Burst Mode/Aguichant Lèvres Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Rosemon: Burst Mode/Aguichant Lèvres.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Times Special Version Stream on August 1st for Odaiba Memorial
-Body = In a bit over 2 days on Saturday, August 1st at 8pm Japan time (4am Pacific), there will be a new Digimon Times stream on the Digimon Youtube. A time converter can be found here.
+Title = Rosemon Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Rosemon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon 29th Anniversary: Digimon & Meat Themed Project Part 1- Hina Art by Okada Anmitsu
-Body = Digimon Web put up something a bit special. It's tagged as a MonMon Memo, but doesn't appear to be listed or treated as such, so for now we aren't listing it as once.
+Title = Poll Results for Favorite of the New Digimon Pendulum Colors
+Body = A bit ago, the official Digimon site put up a poll for your Favorite of the New Digimon Pendulum Colors! Recently the poll closed and we have the results!
 End = true
 
