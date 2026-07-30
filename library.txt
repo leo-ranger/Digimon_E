@@ -9,38 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US school pauses humanoid robot plan after link with sexbot company raised
-Body = A school in rural upstate New York has puts its plans for a humanoid robot on hold, after concerns were raised about the maker's links to a company that produces sexbots.
+Title = More earthquake warnings in Japan as rescuers race to free those trapped
+Body = Earthquake warning alarms sounded on phones in the Kumamoto region again on Wednesday night when a 5.8-magnitude quake hit.
 End = true
 
 [LIBRARY RNEWS]
-Title = Multiple people feared dead in collapsed shopping mall following Japan quake
-Body = Japan's south-western Kyushu island has been struck by two strong earthquakes within an hour, with two women confirmed dead after an explosion at a shopping centre.
+Title = Trump vows to retaliate 'hard' against Iran in expletive-laden warning
+Body = In a phone interview with Fox News, the US president reportedly said the US would "beat the f****** s***" out of Iran in response to the surprise strikes.
 End = true
 
 [LIBRARY RNEWS]
-Title = China's singing sailors could be latest weapon in fight for South China Sea
-Body = China's state media releases an English version of a love ballad about lovesick sailors in the South China Sea.
+Title = Three firefighters die in Greece as Europe's wildfire emergency worsens
+Body = Emergency crews have been tackling wildfires four times the size of Paris in south-west France.
 End = true
 
 [LIBRARY RNEWS]
-Title = New Pacific aid map shows 'striking' shift away from China
-Body = Australia supplants China as the dominant lender and infrastructure investor across the Pacific as the government ploughs billions of dollars into the region through both foreign aid and loans.
+Title = Norwegian teen guilty of UK murder plot tied to Iran-linked group
+Body = Police arrest the teen just two days before the planned hit on an unidentified person, after he arrived in the UK on an emergency passport.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon 29th Anniversary: Digimon & Meat Themed Project Part 1- Hina Art by Okada Anmitsu
-Body = Digimon Web put up something a bit special. It's tagged as a MonMon Memo, but doesn't appear to be listed or treated as such, so for now we aren't listing it as once.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Battle 273 & 274- Digimon Card Family Reunites & Digimon Card Game Booster Set 26 Team Matches
-Body = Digimon Card Battle is back with episode 273 and 274 (delay in posting for various reasons, so two at once.) The Digimon Card Family reunites, minus Kano who has a concert to work on. ...
+Title = Gokumon/Reapermon Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Gokumon/Reapermon.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +39,17 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 40, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Up- One Million Download Celebration- Contest & Wallpapers
-Body = A few things are being done to celebrate Digimon Up getting one million downloads. First up, a contest for those in the US.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Times Special Version Stream on August 1st for Odaiba Memorial
+Body = In a bit over 2 days on Saturday, August 1st at 8pm Japan time (4am Pacific), there will be a new Digimon Times stream on the Digimon Youtube. A time converter can be found here.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon 29th Anniversary: Digimon & Meat Themed Project Part 1- Hina Art by Okada Anmitsu
+Body = Digimon Web put up something a bit special. It's tagged as a MonMon Memo, but doesn't appear to be listed or treated as such, so for now we aren't listing it as once.
 End = true
 
