@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Chinese e-commerce site selling Australian police gear
+Body = Australian police uniforms and badges are being sold on a major Chinese online shopping platform as authorities warn of a growing wave of impersonation scams.
+End = true
+
+[LIBRARY RNEWS]
+Title = Indonesian court bans use of education funding for free school meals
+Body = The ruling came after students and educators filed petitions arguing the country's education budget should not be funding the free meals program.
+End = true
+
+[LIBRARY RNEWS]
+Title = 'No good alternative': US burns through expensive missiles fighting Iran
+Body = The cost of the US war in Iran continues to skyrocket with vast amounts of expensive high-end missile interceptors being used to defend against waves of cheap Iranian drones and ballistic missiles.
+End = true
+
+[LIBRARY RNEWS]
 Title = Earthquake survivors battle sweltering heat in shelters as death toll rises
 Body = At least 34 people have been killed after a 7.1-magnitude earthquake struck Japan, with 9,000 others displaced across the affected region.
 End = true
 
 [LIBRARY RNEWS]
-Title = Devastated Gaza grapples with a new threat: chickenpox
-Body = As chickenpox spreads through Gaza's tent camps, the race to contain the virus is made harder by a lack of sanitation, overcrowding and summer heat.
-End = true
-
-[LIBRARY RNEWS]
-Title = Nauru officially changes name to Naoero [...]
-Body = Nauru has officially changed its name to Naoero, the government has announced.
-End = true
-
-[LIBRARY RNEWS]
-Title = US strikes 'dozens of targets' in Iran as war threatens to engulf Middle East
-Body = America's military strikes "dozens" of Revolutionary Guard targets across Iran, as the spread of hostilities to Egypt, Iraq and Saudi Arabia threatens to plunge the rest of the Middle East into all-out conflict.
-End = true
-
-[LIBRARY RNEWS]
-Title = New Digimon Adventure Products at AniBirth on August 1st, August 3rd Online- Memory Collection, Finale Themed
-Body = Product news time! (2) New Digimon Adventure products will show up at AniBirth on August 1st, a bit over a day.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
+Title = Sangomon & KaratukiNumemon/ShellNumemon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This...
+End = true
+
+[LIBRARY RNEWS]
+Title = New Digimon Adventure Products at AniBirth on August 1st, August 3rd Online- Memory Collection, Finale Themed
+Body = Product news time! (2) New Digimon Adventure products will show up at AniBirth on August 1st, a bit over a day.
+End = true
+
+[LIBRARY RNEWS]
 Title = Mervamon Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Mervamon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger Switch 2 & Switch plus Update Patch Out, Info & More
-Body = Big week for Digimon Story: Time Stranger, so a few things to go over. First up, a launch trailer!
-End = true
-
-[LIBRARY RNEWS]
-Title = Do you like collecting Digimon TCG? [...]
-Body = According to Digi TCG Scan on my smartphone, I have a total of 778 rares, including duplicates, and the collection value is currently $567. I paid for 8 different booster boxes, and the Classic Collection is my favorite of the bunch because of nostalgia.
 End = true
 
