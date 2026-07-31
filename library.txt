@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = More earthquake warnings in Japan as rescuers race to free those trapped
-Body = Earthquake warning alarms sounded on phones in the Kumamoto region again on Wednesday night when a 5.8-magnitude quake hit.
+Title = Earthquake survivors battle sweltering heat in shelters as death toll rises
+Body = At least 34 people have been killed after a 7.1-magnitude earthquake struck Japan, with 9,000 others displaced across the affected region.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump vows to retaliate 'hard' against Iran in expletive-laden warning
-Body = In a phone interview with Fox News, the US president reportedly said the US would "beat the f****** s***" out of Iran in response to the surprise strikes.
+Title = Devastated Gaza grapples with a new threat: chickenpox
+Body = As chickenpox spreads through Gaza's tent camps, the race to contain the virus is made harder by a lack of sanitation, overcrowding and summer heat.
 End = true
 
 [LIBRARY RNEWS]
-Title = Three firefighters die in Greece as Europe's wildfire emergency worsens
-Body = Emergency crews have been tackling wildfires four times the size of Paris in south-west France.
+Title = Nauru officially changes name to Naoero [...]
+Body = Nauru has officially changed its name to Naoero, the government has announced.
 End = true
 
 [LIBRARY RNEWS]
-Title = Norwegian teen guilty of UK murder plot tied to Iran-linked group
-Body = Police arrest the teen just two days before the planned hit on an unidentified person, after he arrived in the UK on an emergency passport.
+Title = US strikes 'dozens of targets' in Iran as war threatens to engulf Middle East
+Body = America's military strikes "dozens" of Revolutionary Guard targets across Iran, as the spread of hostilities to Egypt, Iraq and Saudi Arabia threatens to plunge the rest of the Middle East into all-out conflict.
+End = true
+
+[LIBRARY RNEWS]
+Title = New Digimon Adventure Products at AniBirth on August 1st, August 3rd Online- Memory Collection, Finale Themed
+Body = Product news time! (2) New Digimon Adventure products will show up at AniBirth on August 1st, a bit over a day.
+End = true
+
+[LIBRARY RNEWS]
+Title = ZombiePlutomon, Cherubimon (Vice), & Mervamon Previews for Digimon Card Game Booster Set 26
+Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Mervamon Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Mervamon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Story: Time Stranger Switch 2 & Switch plus Update Patch Out, Info & More
+Body = Big week for Digimon Story: Time Stranger, so a few things to go over. First up, a launch trailer!
 End = true
 
 [LIBRARY RNEWS]
 Title = Do you like collecting Digimon TCG? [...]
 Body = According to Digi TCG Scan on my smartphone, I have a total of 778 rares, including duplicates, and the collection value is currently $567. I paid for 8 different booster boxes, and the Classic Collection is my favorite of the bunch because of nostalgia.
-End = true
-
-[LIBRARY RNEWS]
-Title = Queen of Thorns Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Queen of Thorns.
-End = true
-
-[LIBRARY RNEWS]
-Title = Rosemon: Burst Mode/Aguichant Lèvres Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Rosemon: Burst Mode/Aguichant Lèvres.
-End = true
-
-[LIBRARY RNEWS]
-Title = Rosemon Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Rosemon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Poll Results for Favorite of the New Digimon Pendulum Colors
-Body = A bit ago, the official Digimon site put up a poll for your Favorite of the New Digimon Pendulum Colors! Recently the poll closed and we have the results!
 End = true
 
