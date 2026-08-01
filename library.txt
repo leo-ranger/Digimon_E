@@ -14,42 +14,42 @@ Body = Palestinians in Gaza have expressed scepticism about Hamas's declaration 
 End = true
 
 [LIBRARY RNEWS]
-Title = Nirmal Purja among climbers missing in Pakistan as rescuers find four bodies
-Body = Adverse weather is hampering rescue efforts on Pakistan's Broad Peak to find the missing climbers who were being led by renowned mountaineer Nirmal Purja.
+Title = More than 48,000 migrants voluntarily returned to Morocco, Spain says
+Body = Prime Minister Pedro Sánchez has blamed trafficking gangs, as Spanish authorities say at least 57 bodies have been recovered.
 End = true
 
 [LIBRARY RNEWS]
-Title = Will Hamas disarm? Experts say 'it's difficult to believe'
-Body = Middle East analysts are sceptical Hamas will willingly lay down its weapons and that Israel will totally withdraw from Gaza.
+Title = India's 'cockroaches' won. So what happens next? [...]
+Body = The Cockroach Janta Party claims victory following the resignation of India's education minister Dharmendra Pradhan. But is it enough to satisfy India's youth?
 End = true
 
 [LIBRARY RNEWS]
-Title = Chinese e-commerce site selling Australian police gear
-Body = Australian police uniforms and badges are being sold on a major Chinese online shopping platform as authorities warn of a growing wave of impersonation scams.
+Title = Sri Lanka sentences officials to death over bombing that killed Australians
+Body = The 2019 Easter Sunday bombings on churches and luxury tourist hotels killed more than 260 people, including two Australians.
 End = true
 
 [LIBRARY RNEWS]
-Title = Sangomon & KaratukiNumemon/ShellNumemon Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This...
+Title = Digimon: The Best Adventures We Chose Starts October 4th- Episodes Will Be Top Episodes Chosen by Fans- Top 11 Episode Poll Results- New OP Announced
+Body = A not quite new Digimon series has been announced as part of the upcoming 30th anniversary of the franchise. Taking over the timeslot from Digimon Beatbreak will be a best of the first four Digimon anime series reairing called "Digimon: The Best Adventures We Chose." The initial trailer for the 'best of' series featuring Adventure and 02 narrator Hiroaki Hirata (who has a number of other important Digimon...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 41 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 41, A Golden Tomorrow, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
+Title = New Digimon Anime in 2027 for 30th Anniversary- Also 30th Anniversary LCD Toy & Exhibition Event
+Body = Then some big bullet points from Digimon Times. Of note, these are announcements with no further info.
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, August 3rd [...]
-Body = Monday (August 3rd) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episodes 40 & 41, info from Digimon Times, figures, Tamers 25th art, Odaiba Memorial 2026, why we had a hiatus, & more! It is possible we may have to push the episode back, we'll see.
+Title = Digimon Beatbreak Original Soundtrack Announced for September 30th- 3 CD Set
+Body = From Digimon Times they've announced a Digimon Beatbreak Original Soundtrack (2.) The 3 CD set features the BGM from the series by Alisa Okehazama, along with the vocal insert songs she composed. Also included will be TV-size versions of the openings and endings.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Times Special Version Later Tonight/Tomorrow- Video Standby is Up Plus Previews
-Body = The recent announced Digimon Times Special Version airs later tonight, early tomorrow, and the standby URL is up. The standby has some English titling on the page, although at the moment it isn't clear if there will be English subs, a second English video as they've done for other Digimon Times, or what.
+Title = Digimon Beatbreak Final Chapter- Aspiration Arc- Series ends on September 27th with Episode 49
+Body = From info at Digimon Times... Digimon Beatbreak Final Chapter- Aspiration Arc will start on August 9th.
 End = true
 
 [LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+Title = Digimon Color Digimon Beatbreak V-Pet Announced [...]
+Body = The news from Digimon Times continues on... A Digimon Color Digimon Beatbreak V-Pet was announced that will allow you to raise the Beatbreak Digimon.
 End = true
 
