@@ -9,33 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Palestinians long for peace but doubt Trump's deal with Hamas will hold
+Body = Palestinians in Gaza have expressed scepticism about Hamas's declaration it will lay down its weapons in a bid to kickstart the stalled peace process, concerned it will not actually change the situation in the war-ravaged strip.
+End = true
+
+[LIBRARY RNEWS]
+Title = Nirmal Purja among climbers missing in Pakistan as rescuers find four bodies
+Body = Adverse weather is hampering rescue efforts on Pakistan's Broad Peak to find the missing climbers who were being led by renowned mountaineer Nirmal Purja.
+End = true
+
+[LIBRARY RNEWS]
+Title = Will Hamas disarm? Experts say 'it's difficult to believe'
+Body = Middle East analysts are sceptical Hamas will willingly lay down its weapons and that Israel will totally withdraw from Gaza.
+End = true
+
+[LIBRARY RNEWS]
 Title = Chinese e-commerce site selling Australian police gear
 Body = Australian police uniforms and badges are being sold on a major Chinese online shopping platform as authorities warn of a growing wave of impersonation scams.
-End = true
-
-[LIBRARY RNEWS]
-Title = Indonesian court bans use of education funding for free school meals
-Body = The ruling came after students and educators filed petitions arguing the country's education budget should not be funding the free meals program.
-End = true
-
-[LIBRARY RNEWS]
-Title = 'No good alternative': US burns through expensive missiles fighting Iran
-Body = The cost of the US war in Iran continues to skyrocket with vast amounts of expensive high-end missile interceptors being used to defend against waves of cheap Iranian drones and ballistic missiles.
-End = true
-
-[LIBRARY RNEWS]
-Title = Earthquake survivors battle sweltering heat in shelters as death toll rises
-Body = At least 34 people have been killed after a 7.1-magnitude earthquake struck Japan, with 9,000 others displaced across the affected region.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = ZombiePlutomon, Cherubimon (Vice), & Mervamon Previews for Digimon Card Game Booster Set 26
-Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +34,22 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = New Digimon Adventure Products at AniBirth on August 1st, August 3rd Online- Memory Collection, Finale Themed
-Body = Product news time! (2) New Digimon Adventure products will show up at AniBirth on August 1st, a bit over a day.
+Title = Digimon Beatbreak Episode 41 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 41, A Golden Tomorrow, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Mervamon Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Mervamon.
+Title = With the Will Podcast Live- Monday, August 3rd [...]
+Body = Monday (August 3rd) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episodes 40 & 41, info from Digimon Times, figures, Tamers 25th art, Odaiba Memorial 2026, why we had a hiatus, & more! It is possible we may have to push the episode back, we'll see.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Times Special Version Later Tonight/Tomorrow- Video Standby is Up Plus Previews
+Body = The recent announced Digimon Times Special Version airs later tonight, early tomorrow, and the standby URL is up. The standby has some English titling on the page, although at the moment it isn't clear if there will be English subs, a second English video as they've done for other Digimon Times, or what.
+End = true
+
+[LIBRARY RNEWS]
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
