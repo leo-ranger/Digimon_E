@@ -9,28 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Famed mountaineer Nirmal Purja confirmed dead in Pakistan avalanche
+Body = The Netflix-famous climber died, among nine others, climbing the world's 12th highest mountain.
+End = true
+
+[LIBRARY RNEWS]
+Title = Wildfires force mass evacuations in Europe as Australia sends help
+Body = Hundreds of thousands of people were evacuated in France this week, as fires continue to grip Europe.
+End = true
+
+[LIBRARY RNEWS]
 Title = Palestinians long for peace but doubt Trump's deal with Hamas will hold
 Body = Palestinians in Gaza have expressed scepticism about Hamas's declaration it will lay down its weapons in a bid to kickstart the stalled peace process, concerned it will not actually change the situation in the war-ravaged strip.
 End = true
 
 [LIBRARY RNEWS]
-Title = More than 48,000 migrants voluntarily returned to Morocco, Spain says
-Body = Prime Minister Pedro Sánchez has blamed trafficking gangs, as Spanish authorities say at least 57 bodies have been recovered.
+Title = Russian missile attacks on Kyiv kill at least ten and injure dozens
+Body = Ukraine downed only one of 27 Russian ballistic missiles during the attack as the country lacks interceptors for the US Patriot systems, President Volodymyr Zelenskyy said.
 End = true
 
 [LIBRARY RNEWS]
-Title = India's 'cockroaches' won. So what happens next? [...]
-Body = The Cockroach Janta Party claims victory following the resignation of India's education minister Dharmendra Pradhan. But is it enough to satisfy India's youth?
+Title = Digimon Beatbreak Final Chapter- Aspiration Arc- Series ends on September 27th with Episode 49
+Body = From info at Digimon Times... Digimon Beatbreak Final Chapter- Aspiration Arc will start on August 9th.
 End = true
 
 [LIBRARY RNEWS]
-Title = Sri Lanka sentences officials to death over bombing that killed Australians
-Body = The 2019 Easter Sunday bombings on churches and luxury tourist hotels killed more than 260 people, including two Australians.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon: The Best Adventures We Chose Starts October 4th- Episodes Will Be Top Episodes Chosen by Fans- Top 11 Episode Poll Results- New OP Announced
-Body = A not quite new Digimon series has been announced as part of the upcoming 30th anniversary of the franchise. Taking over the timeslot from Digimon Beatbreak will be a best of the first four Digimon anime series reairing called "Digimon: The Best Adventures We Chose." The initial trailer for the 'best of' series featuring Adventure and 02 narrator Hiroaki Hirata (who has a number of other important Digimon...
+Title = Digimon Figure News- Mega Egg Figure, Tobimas, PitaKyut, & New Look Up Figures Coming Soon
+Body = New Digimon Adventure products coming from MegaHouse... Mega Egg Figure Digimon Adventure.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,13 +44,8 @@ Body = Then some big bullet points from Digimon Times. Of note, these are announ
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Original Soundtrack Announced for September 30th- 3 CD Set
-Body = From Digimon Times they've announced a Digimon Beatbreak Original Soundtrack (2.) The 3 CD set features the BGM from the series by Alisa Okehazama, along with the vocal insert songs she composed. Also included will be TV-size versions of the openings and endings.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Final Chapter- Aspiration Arc- Series ends on September 27th with Episode 49
-Body = From info at Digimon Times... Digimon Beatbreak Final Chapter- Aspiration Arc will start on August 9th.
+Title = Digimon Story: Cyber Sleuth- Hacker's Memory Coming to Steam in Japan on August 5th
+Body = https://twitter.com/x/status/2083530688100172014 As part of Digimon Times, it was announced that Digimon Story: Cyber Sleuth- Hacker's Memory would be coming to Steam on Japan on August 5th. A few things of note for people who might be confused since it's already on Steam: 1.
 End = true
 
 [LIBRARY RNEWS]
