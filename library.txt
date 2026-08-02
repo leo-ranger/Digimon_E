@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Plane crash in Peru kills 13 people on tourist flight
+Body = A plane carrying tourists to view the famed Nazca Lines has crashed into a field in southern Peru, killing 13 people.
+End = true
+
+[LIBRARY RNEWS]
+Title = 'People are really suffering': Ukraine's drones bring war home to Russia
+Body = For years, people in Russia's largest and most affluent cities were shielded from the impacts of their country's full-scale invasion of Ukraine, but not anymore.
+End = true
+
+[LIBRARY RNEWS]
 Title = Famed mountaineer Nirmal Purja confirmed dead in Pakistan avalanche
 Body = The Netflix-famous climber died, among nine others, climbing the world's 12th highest mountain.
 End = true
@@ -19,37 +29,27 @@ Body = Hundreds of thousands of people were evacuated in France this week, as fi
 End = true
 
 [LIBRARY RNEWS]
-Title = Palestinians long for peace but doubt Trump's deal with Hamas will hold
-Body = Palestinians in Gaza have expressed scepticism about Hamas's declaration it will lay down its weapons in a bid to kickstart the stalled peace process, concerned it will not actually change the situation in the war-ravaged strip.
+Title = Digimon Beatbreak: Episode 41- A Golden Tomorrow [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 41, A Golden Tomorrow A preview of Episode 41 Episode 41 airs Sunday, August 2nd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian missile attacks on Kyiv kill at least ten and injure dozens
-Body = Ukraine downed only one of 27 Russian ballistic missiles during the attack as the country lacks interceptors for the US Patriot systems, President Volodymyr Zelenskyy said.
+Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
+Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Final Chapter- Aspiration Arc- Series ends on September 27th with Episode 49
-Body = From info at Digimon Times... Digimon Beatbreak Final Chapter- Aspiration Arc will start on August 9th.
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Figure News- Mega Egg Figure, Tobimas, PitaKyut, & New Look Up Figures Coming Soon
-Body = New Digimon Adventure products coming from MegaHouse... Mega Egg Figure Digimon Adventure.
+Title = Weekend Batch- Digimon Beatbreak Episode 41, Birthday, & Odaiba Memorial Social Media Art, Reference Book, Photos, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 41!
 End = true
 
 [LIBRARY RNEWS]
-Title = New Digimon Anime in 2027 for 30th Anniversary- Also 30th Anniversary LCD Toy & Exhibition Event
-Body = Then some big bullet points from Digimon Times. Of note, these are announcements with no further info.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Story: Cyber Sleuth- Hacker's Memory Coming to Steam in Japan on August 5th
-Body = https://twitter.com/x/status/2083530688100172014 As part of Digimon Times, it was announced that Digimon Story: Cyber Sleuth- Hacker's Memory would be coming to Steam on Japan on August 5th. A few things of note for people who might be confused since it's already on Steam: 1.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Color Digimon Beatbreak V-Pet Announced [...]
-Body = The news from Digimon Times continues on... A Digimon Color Digimon Beatbreak V-Pet was announced that will allow you to raise the Beatbreak Digimon.
+Title = Pumpmon/Pumpkinmon, Junomon: Hysteric Mode & Parallel/Alt Art, and Reina & Makoto Parallel/Alt Art Previews for Digimon Card Game Booster Set 26
+Body = ... [...] [...]
 End = true
 
