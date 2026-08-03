@@ -9,33 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Despite threats from Trump, the Iranian regime is 'at war with its own people'
+Body = Three Iranians have shared their insights on life under the regime, as the war passes its fifth month and US President Donald Trump threatens a return to all-out fighting if no long-term peace deal can be struck.
+End = true
+
+[LIBRARY RNEWS]
+Title = Global shockwaves as South Korea's crash rattles markets
+Body = Balance is a fundamental principle of everyday life on the Korean peninsula, but the worst stock market crash in the nation's history threatens the livelihood of millions.
+End = true
+
+[LIBRARY RNEWS]
+Title = Morocco blames social media, human traffickers for Spain migrant rush
+Body = Morocco's Interior Ministry says at least 11 people died, most by drowning, while trying to cross the border into the Spanish enclave of Ceuta, in a rush of about 40,000 people blamed by the government on social media misinformation and human trafficking networks.
+End = true
+
+[LIBRARY RNEWS]
 Title = Suicide bomber strikes crowd at anti-militant rally in Pakistan
 Body = A suicide bomber detonates a device at a rally moments after speakers had accused the government of failing to properly target militants.
 End = true
 
 [LIBRARY RNEWS]
-Title = Moscow mayor calls deadly bomb attack on a restaurant a 'terrorist act'
-Body = The blast killed three people, including the woman bomber, Russian state media said.
-End = true
-
-[LIBRARY RNEWS]
-Title = Five dead, 41 missing after Indonesian ferry catches fire
-Body = Five people have been found dead and 41 are missing after an Indonesian ferry with 271 people on board caught fire while at sea, search and rescue officials say.
-End = true
-
-[LIBRARY RNEWS]
-Title = 'Corruption behind it': The Trump-Kushner mega-deal that has left a nation angry
-Body = Albania's coastline has become a hotspot for cheap European summer sojourns but as Ivanka Trump claims her Christopher Columbus moment, locals are adamant their island is not for sale.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 41- A Golden Tomorrow [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 41, A Golden Tomorrow A preview of Episode 41 Episode 41 airs Sunday, August 2nd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+Title = Discotek has Digimon Frontier- New Digital Remaster on Blu-ray, Dub First, Sub Later- Pre-orders Open
+Body = https://twitter.com/x/status/2083713574518804703 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon Frontier Like their other Digimon TV show Blu-rays, the series is now presented in HD. An HD version of the dubbed season 4 intro was posted on social media with the announcement.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +39,17 @@ Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced
 End = true
 
 [LIBRARY RNEWS]
-Title = Pyocomon/Yokomon, Buraimon, Butenmon, & Chronomon: Holy Mode Previews for Digimon Card Game Booster Set 26
-Body = ... [...] [...]
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon: The Best Adventures We Chose Starts October 4th- Episodes Will Be Top Episodes Chosen by Fans- Top 11 Episode Poll Results- New OP Announced
-Body = A not quite new Digimon series has been announced as part of the upcoming 30th anniversary of the franchise. Taking over the timeslot from Digimon Beatbreak will be a best of the first four Digimon anime series reairing called "Digimon: The Best Adventures We Chose." The initial trailer for the 'best of' series featuring Adventure and 02 narrator Hiroaki Hirata (who has a number of other important Digimon...
+Title = Chronomon: Holy Mode Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Chronomon: Holy Mode.
+End = true
+
+[LIBRARY RNEWS]
+Title = Sorcerimon/Sorcermon & Wizarmon/Wizardmon Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time...
 End = true
 
