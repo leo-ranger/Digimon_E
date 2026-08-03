@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Plane crash in Peru kills 13 people on tourist flight
-Body = A plane carrying tourists to view the famed Nazca Lines has crashed into a field in southern Peru, killing 13 people.
+Title = Suicide bomber strikes crowd at anti-militant rally in Pakistan
+Body = A suicide bomber detonates a device at a rally moments after speakers had accused the government of failing to properly target militants.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'People are really suffering': Ukraine's drones bring war home to Russia
-Body = For years, people in Russia's largest and most affluent cities were shielded from the impacts of their country's full-scale invasion of Ukraine, but not anymore.
+Title = Moscow mayor calls deadly bomb attack on a restaurant a 'terrorist act'
+Body = The blast killed three people, including the woman bomber, Russian state media said.
 End = true
 
 [LIBRARY RNEWS]
-Title = Famed mountaineer Nirmal Purja confirmed dead in Pakistan avalanche
-Body = The Netflix-famous climber died, among nine others, climbing the world's 12th highest mountain.
+Title = Five dead, 41 missing after Indonesian ferry catches fire
+Body = Five people have been found dead and 41 are missing after an Indonesian ferry with 271 people on board caught fire while at sea, search and rescue officials say.
 End = true
 
 [LIBRARY RNEWS]
-Title = Wildfires force mass evacuations in Europe as Australia sends help
-Body = Hundreds of thousands of people were evacuated in France this week, as fires continue to grip Europe.
+Title = 'Corruption behind it': The Trump-Kushner mega-deal that has left a nation angry
+Body = Albania's coastline has become a hotspot for cheap European summer sojourns but as Ivanka Trump claims her Christopher Columbus moment, locals are adamant their island is not for sale.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 41, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
-Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
-End = true
-
-[LIBRARY RNEWS]
 Title = Digimon Channel: Pics and Translation Thread [...]
 Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 41, Birthday, & Odaiba Memorial Social Media Art, Reference Book, Photos, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 41!
+Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
+Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
 End = true
 
 [LIBRARY RNEWS]
-Title = Pumpmon/Pumpkinmon, Junomon: Hysteric Mode & Parallel/Alt Art, and Reina & Makoto Parallel/Alt Art Previews for Digimon Card Game Booster Set 26
+Title = Pyocomon/Yokomon, Buraimon, Butenmon, & Chronomon: Holy Mode Previews for Digimon Card Game Booster Set 26
 Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon: The Best Adventures We Chose Starts October 4th- Episodes Will Be Top Episodes Chosen by Fans- Top 11 Episode Poll Results- New OP Announced
+Body = A not quite new Digimon series has been announced as part of the upcoming 30th anniversary of the franchise. Taking over the timeslot from Digimon Beatbreak will be a best of the first four Digimon anime series reairing called "Digimon: The Best Adventures We Chose." The initial trailer for the 'best of' series featuring Adventure and 02 narrator Hiroaki Hirata (who has a number of other important Digimon...
 End = true
 
