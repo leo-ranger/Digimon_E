@@ -9,33 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Indonesians mock Trump-style 'personality politics'
+Body = Indonesian President Prabowo Subianto's repeated controversial comments spark debate over his "populist" communication style.
+End = true
+
+[LIBRARY RNEWS]
+Title = Three lions die at Japanese zoo amid extreme temperatures
+Body = A Tokyo zoo has temporarily shut down its lion enclosure to the public as extreme heat claims three lions.
+End = true
+
+[LIBRARY RNEWS]
+Title = Death toll from Venezuela earthquakes tops 6,000 [...]
+Body = The death toll from twin earthquakes which struck Venezuela in June has risen to 6,125 with about 1,400 people still missing, according to the latest figures.
+End = true
+
+[LIBRARY RNEWS]
 Title = Myanmar releases rare images of ousted leader Aung San Suu Kyi
 Body = Myanmar's former leader Aung San Suu Kyi was visited by a delegate of the International Committee of the Red Cross.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian anti-war politician posts from Paris after 'foreign agent' accusation
-Body = Russian anti-war politician Boris Nadezhdin plans his next steps outside Moscow after the Kremlin accused him of being a 'foreign agent'
-End = true
-
-[LIBRARY RNEWS]
-Title = New Zealand climbers trapped on Solomon Islands' highest mountain
-Body = Torrential rain has left two men stranded on the side Solomon Islands' largest mountain.
-End = true
-
-[LIBRARY RNEWS]
-Title = Despite threats from Trump, the Iranian regime is 'at war with its own people'
-Body = Three Iranians have shared their insights on life under the regime, as the war passes its fifth month and US President Donald Trump threatens a return to all-out fighting if no long-term peace deal can be struck.
-End = true
-
-[LIBRARY RNEWS]
-Title = Pyocomon/Yokomon, Buraimon, Butenmon, & Chronomon: Holy Mode Previews for Digimon Card Game Booster Set 26
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Training Manual Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Training Manual.
+Title = Digimon Beatbreak Final Chapter- Aspiration Arc- Series ends on September 27th with Episode 49
+Body = From info at Digimon Times... Digimon Beatbreak Final Chapter- Aspiration Arc will start on August 9th.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +39,17 @@ Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure Tag & Crest Accessory Set- Images, Info, & Pre-Orders
-Body = With Odaiba Memorial having hit, we have something a bit fun, a new tag & crest set that is a bit different than prior ones. Click to expand...
+Title = New Digimon Anime in 2027 for 30th Anniversary- Also 30th Anniversary LCD Toy & Exhibition Event
+Body = Then some big bullet points from Digimon Times. Of note, these are announcements with no further info.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+Title = With the Will Podcast Episode #311- All that Glitters (Beatbreak Episodes 40 & 41, New Anime, & Tons More!)
+Body = This time we will be talking about Digimon Beatbreak episodes 40 & 41, new anime news, tons more news from Digimon Times, why we had a hiatus, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Discotek has Digimon Frontier- New Digital Remaster on Blu-ray, Dub First, Sub Later- Pre-orders Open
+Body = https://twitter.com/x/status/2083713574518804703 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon Frontier Like their other Digimon TV show Blu-rays, the series is now presented in HD. An HD version of the dubbed season 4 intro was posted on social media with the announcement.
 End = true
 
