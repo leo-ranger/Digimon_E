@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Malaysia Airlines pilot faces drugs charges including flying under influence
+Body = Indonesian authorities release CCTV video showing the moment a Malaysia Airlines pilot was arrested after 26 kilograms of ecstasy and methamphetamine were allegedly found in his luggage.
+End = true
+
+[LIBRARY RNEWS]
+Title = Five dead in Moscow region as Kyiv targets more Wildberries sites
+Body = Ukraine also targets another warehouse belonging to Russian e-commerce giant Wildberries as both sides trade strikes.
+End = true
+
+[LIBRARY RNEWS]
+Title = More than 150 migrants saved from burning boat in English Channel
+Body = French coastguard officials have rescued migrants stranded on a burning boat in the English Channel.
+End = true
+
+[LIBRARY RNEWS]
 Title = Indonesians mock Trump-style 'personality politics'
 Body = Indonesian President Prabowo Subianto's repeated controversial comments spark debate over his "populist" communication style.
 End = true
 
 [LIBRARY RNEWS]
-Title = Three lions die at Japanese zoo amid extreme temperatures
-Body = A Tokyo zoo has temporarily shut down its lion enclosure to the public as extreme heat claims three lions.
+Title = Digimon Color: Ultraman Series 60th Edition- Images, Info, & Pre-Order Details
+Body = After being teased recently we finally have details for the Digimon Color: Ultraman Series 60th Edition V-Pets! ...
 End = true
 
 [LIBRARY RNEWS]
-Title = Death toll from Venezuela earthquakes tops 6,000 [...]
-Body = The death toll from twin earthquakes which struck Venezuela in June has risen to 6,125 with about 1,400 people still missing, according to the latest figures.
+Title = NeoPlayerOne Digimon Neo-Classic Series MetalGreymon 1st Edition Color Figure Announced- Only 10 Being Made, Ludicrously Expensive
+Body = A bit of a different one, sort of, has been announced... A NeoPlayerOne Digimon figure.
 End = true
 
 [LIBRARY RNEWS]
-Title = Myanmar releases rare images of ousted leader Aung San Suu Kyi
-Body = Myanmar's former leader Aung San Suu Kyi was visited by a delegate of the International Committee of the Red Cross.
+Title = Discotek has Digimon Frontier- New Digital Remaster on Blu-ray, Dub First, Sub Later- Pre-orders Open
+Body = https://twitter.com/x/status/2083713574518804703 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon Frontier Like their other Digimon TV show Blu-rays, the series is now presented in HD. An HD version of the dubbed season 4 intro was posted on social media with the announcement.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +49,7 @@ Body = From info at Digimon Times... Digimon Beatbreak Final Chapter- Aspiration
 End = true
 
 [LIBRARY RNEWS]
-Title = Mojyamon, Picollomon/Piximon, & BloomLordmon Previews for Digimon Card Game Booster Set 26
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = New Digimon Anime in 2027 for 30th Anniversary- Also 30th Anniversary LCD Toy & Exhibition Event
-Body = Then some big bullet points from Digimon Times. Of note, these are announcements with no further info.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #311- All that Glitters (Beatbreak Episodes 40 & 41, New Anime, & Tons More!)
-Body = This time we will be talking about Digimon Beatbreak episodes 40 & 41, new anime news, tons more news from Digimon Times, why we had a hiatus, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Discotek has Digimon Frontier- New Digital Remaster on Blu-ray, Dub First, Sub Later- Pre-orders Open
-Body = https://twitter.com/x/status/2083713574518804703 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon Frontier Like their other Digimon TV show Blu-rays, the series is now presented in HD. An HD version of the dubbed season 4 intro was posted on social media with the announcement.
+Title = Digimon Beatbreak: Episode 41- A Golden Tomorrow [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 41, A Golden Tomorrow A preview of Episode 41 Episode 41 airs Sunday, August 2nd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
