@@ -9,8 +9,8 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Malaysia Airlines pilot faces drugs charges including flying under influence
-Body = Indonesian authorities release CCTV video showing the moment a Malaysia Airlines pilot was arrested after 26 kilograms of ecstasy and methamphetamine were allegedly found in his luggage.
+Title = Netanyahu says IDF will not withdraw from Gaza until Hamas has fully disarmed
+Body = Benjamin Netanyahu's remarks are intended to push back against a recent deal to disarm Hamas announced by US President Donald Trump, which was seen as a potential breakthrough for ending the war.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,18 +19,23 @@ Body = Ukraine also targets another warehouse belonging to Russian e-commerce gi
 End = true
 
 [LIBRARY RNEWS]
-Title = More than 150 migrants saved from burning boat in English Channel
-Body = French coastguard officials have rescued migrants stranded on a burning boat in the English Channel.
+Title = Mass funeral in Gaza for 112 killed in Israeli strike in 2023
+Body = The group being laid to rest were members of two extended families in Gaza, with some gathered for the event describing it as the largest funeral in the war-ravaged strip's history.
 End = true
 
 [LIBRARY RNEWS]
-Title = Indonesians mock Trump-style 'personality politics'
-Body = Indonesian President Prabowo Subianto's repeated controversial comments spark debate over his "populist" communication style.
+Title = Malaysia Airlines pilot faces drugs charges including flying under influence
+Body = Indonesian authorities release CCTV video showing the moment a Malaysia Airlines pilot was arrested after 26 kilograms of ecstasy and methamphetamine were allegedly found in his luggage.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Color: Ultraman Series 60th Edition- Images, Info, & Pre-Order Details
 Body = After being teased recently we finally have details for the Digimon Color: Ultraman Series 60th Edition V-Pets! ...
+End = true
+
+[LIBRARY RNEWS]
+Title = Ceresmon/Famis Parallel/Alt Art & Bacchusmon/Reversal of the Dead Previews for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak Final Chapter- Aspiration Arc- Series ends on September 27th with Episode 49
 Body = From info at Digimon Times... Digimon Beatbreak Final Chapter- Aspiration Arc will start on August 9th.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 41- A Golden Tomorrow [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 41, A Golden Tomorrow A preview of Episode 41 Episode 41 airs Sunday, August 2nd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
