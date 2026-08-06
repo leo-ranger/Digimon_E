@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Netanyahu says IDF will not withdraw from Gaza until Hamas has fully disarmed
-Body = Benjamin Netanyahu's remarks are intended to push back against a recent deal to disarm Hamas announced by US President Donald Trump, which was seen as a potential breakthrough for ending the war.
+Title = UN alarmed by Iran execution surge, says death penalty used to 'instill fear'
+Body = The UN Human Rights Commissioner Volker Turk says that executions are used to "instil fear among the population and suppress dissent".
 End = true
 
 [LIBRARY RNEWS]
-Title = Five dead in Moscow region as Kyiv targets more Wildberries sites
-Body = Ukraine also targets another warehouse belonging to Russian e-commerce giant Wildberries as both sides trade strikes.
+Title = Exiled Bangladesh PM vows to return despite facing death sentence
+Body = The 78-year-old fled to India in August 2024 by helicopter at the height of the student-led uprising that toppled her government.
 End = true
 
 [LIBRARY RNEWS]
-Title = Mass funeral in Gaza for 112 killed in Israeli strike in 2023
-Body = The group being laid to rest were members of two extended families in Gaza, with some gathered for the event describing it as the largest funeral in the war-ravaged strip's history.
+Title = Terror probe launched after explosive drone found at German cargo hub
+Body = After the drone was discovered, a diverted plane hit an unidentified object while climbing away from the airport.
 End = true
 
 [LIBRARY RNEWS]
-Title = Malaysia Airlines pilot faces drugs charges including flying under influence
-Body = Indonesian authorities release CCTV video showing the moment a Malaysia Airlines pilot was arrested after 26 kilograms of ecstasy and methamphetamine were allegedly found in his luggage.
+Title = Woman arrested after four men stabbed in central London
+Body = A woman has been arrested after four people were stabbed in one of central London's busiest tourist hotspots on Wednesday.
+End = true
+
+[LIBRARY RNEWS]
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = After being teased recently we finally have details for the Digimon Color
 End = true
 
 [LIBRARY RNEWS]
-Title = Ceresmon/Famis Parallel/Alt Art & Bacchusmon/Reversal of the Dead Previews for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
+Title = New Digimon Anime in 2027 for 30th Anniversary- Also 30th Anniversary LCD Toy & Exhibition Event
+Body = Then some big bullet points from Digimon Times. Of note, these are announcements with no further info.
 End = true
 
 [LIBRARY RNEWS]
-Title = NeoPlayerOne Digimon Neo-Classic Series MetalGreymon 1st Edition Color Figure Announced- Only 10 Being Made, Ludicrously Expensive
-Body = A bit of a different one, sort of, has been announced... A NeoPlayerOne Digimon figure.
+Title = Digimon Beatbreak: Episode 41- A Golden Tomorrow [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 41, A Golden Tomorrow A preview of Episode 41 Episode 41 airs Sunday, August 2nd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Discotek has Digimon Frontier- New Digital Remaster on Blu-ray, Dub First, Sub Later- Pre-orders Open
-Body = https://twitter.com/x/status/2083713574518804703 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon Frontier Like their other Digimon TV show Blu-rays, the series is now presented in HD. An HD version of the dubbed season 4 intro was posted on social media with the announcement.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Final Chapter- Aspiration Arc- Series ends on September 27th with Episode 49
-Body = From info at Digimon Times... Digimon Beatbreak Final Chapter- Aspiration Arc will start on August 9th.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
