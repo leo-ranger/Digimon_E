@@ -14,18 +14,33 @@ Body = The UN Human Rights Commissioner Volker Turk says that executions are use
 End = true
 
 [LIBRARY RNEWS]
-Title = Exiled Bangladesh PM vows to return despite facing death sentence
-Body = The 78-year-old fled to India in August 2024 by helicopter at the height of the student-led uprising that toppled her government.
+Title = Meta says AI model accessed the internet and hacked another company
+Body = The incident will fan concerns about how developers can contain increasingly capable AI systems, after similar incidents at rival companies Anthropic and OpenAI.
 End = true
 
 [LIBRARY RNEWS]
-Title = Terror probe launched after explosive drone found at German cargo hub
-Body = After the drone was discovered, a diverted plane hit an unidentified object while climbing away from the airport.
+Title = Austria hits record temps, wildfires in Greece, Albania as Europe feels heat
+Body = The world's fastest-warming continent is being ravaged by record-breaking heat, wildfires and drought this summer, as well as power and water shortages.
 End = true
 
 [LIBRARY RNEWS]
-Title = Woman arrested after four men stabbed in central London
-Body = A woman has been arrested after four people were stabbed in one of central London's busiest tourist hotspots on Wednesday.
+Title = Wall Street debt binge could end in tears — and lost billions
+Body = Credit default swaps for US big tech companies are soaring to record highs. It means investors are fearful of a major Wall Street company collapse.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Brand Hits Record Profits In History of Brand for Bandai Namco
+Body = In an interview published in the issue of Weekly Famitsu for August 20/27 (and detailed by GamesTalk) with Bandai Namco Entertainment president Nao Udagawa, she revealed an update regarding how Digimon is doing for Bandai Namco. The Digimon brand and it's various releases over the last few years had lead to it generating profits exceeding when the anime began its run in 2000.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Card Battle 275- Digimon Card Game Booster Set 26 Team Matches Part 3: Finale
+Body = Digimon Card Battle is back with episode 275. This time it's part of the Digimon Card Family team 3v3 battle event.
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Color: Ultraman Series 60th Edition- Images, Info, & Pre-Order Details
 Body = After being teased recently we finally have details for the Digimon Color: Ultraman Series 60th Edition V-Pets! ...
-End = true
-
-[LIBRARY RNEWS]
-Title = New Digimon Anime in 2027 for 30th Anniversary- Also 30th Anniversary LCD Toy & Exhibition Event
-Body = Then some big bullet points from Digimon Times. Of note, these are announcements with no further info.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 41- A Golden Tomorrow [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 41, A Golden Tomorrow A preview of Episode 41 Episode 41 airs Sunday, August 2nd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
