@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel charges settler over Palestinian activist's killing in rare indictment
-Body = It is the first case of its kind in more than seven years amid a rise in settler violence in the West Bank.
+Title = As US burns through interceptors, Ukraine looks for backup elsewhere
+Body = Ukraine has reported that it could not defend itself against a recent barrage of ballistic missiles from Russia, which analysts say comes down to the US war with Iran.
 End = true
 
 [LIBRARY RNEWS]
-Title = North Korea fires ballistic missile towards Japan as region boosts military
-Body = A short-range ballistic missile was fired over the Sea of Japan, according to Japan and South Korea's militaries, a day after Pyongyang criticised Japan's military build-up in the region.
+Title = 'Coded to Chinese': Hongkongers unable to list their ancestry on census night
+Body = People with Hong Kong heritage are frustrated that their ancestry will not be recognised as distinct from Chinese in the upcoming Australian census, despite years of lobbying and political turmoil.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel accused of targeting journalists in deadly series of strikes
-Body = Lebanese journalist Amal Khalil was killed and her 21-year-old colleague Zeinab Faraj was seriously injured in IDF strikes that human rights groups allege were deliberate.
+Title = Trump moves to ban 'birth tourism' and restrict birthright citizenship
+Body = An earlier effort by Mr Trump to roll back birthright citizenship was rejected by the US Supreme Court in June, prompting him to ⁠call upon Congress to act on what has been one of the top priorities for his administration.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bangladesh's ousted 'Iron Lady' plans to return to politics. Can she do it?
-Body = In her first public appearance since fleeing to India two years ago, Bangladesh's "Iron Lady" didn't use the moment to confront the crimes for which she has been sentenced to death. Instead, she used it to signal her ongoing power as a political contender.
+Title = US Senate panel votes to hold Fauci in contempt over COVID hearing
+Body = Dr Fauci invoked his Fifth Amendment right against self-incrimination more than 100 times when he appeared before the US Senate Committee on Homeland Security and Governmental Affairs last week.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = In an interview published in the issue of Weekly Famitsu for August 20/27
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Color: Ultraman Series 60th Edition- Images, Info, & Pre-Order Details
-Body = After being teased recently we finally have details for the Digimon Color: Ultraman Series 60th Edition V-Pets! ...
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bacchusmon/Reversal of the Dead Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Bacchusmon/Reversal of the Dead.
+Title = Digimon Adventure & Digimon Beatbreak Collaboration with Yurinan Starts August 8th- Food, Drinks, & Products
+Body = It's been announced there will be a Digimon Adventure & Digimon Beatbreak Collaboration with Yurinan. Yurinan specializes in dorayaki (basically a sweet sandwich-like dessert made from two things that are roughly pancakes with a filling.) The collaboration will have special dorayaki for both shows, along with drinks, and products with new art.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure Chosen Children Look Up Figures- Taichi, Hikari, Yamato, & Takeru Announced and Teased
-Body = Digimon returning to the Look Up figure line was announced at Digimon Times. The existing line includes the 8 partner Digimon from Digimon Adventure, and the initial announcement for more...
+Title = Andromon, HiAndromon & ZombiePlutomon Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
+Body = The Digimon... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure: Last Evolution Kizuna Charity Stream for Kumamoto Broadcast on August 8th in Japan
-Body = When Digimon Adventure: Last Evolution Kizuna was about to come out 6.5 years ago and had many collaborations as part of the movie coming out and the 20th anniversary of the anime, one of the more amusing ones visually was 'Kumamon Adventure', where the mascot of Kumamoto appeared with Agumon in the key art for the collabration. With the recent Kumamoto earthquake, they're swinging back to Kizuna and that connection...
+Title = Digimon Up- Two Million Download Celebration- Wallpapers & In-Game Redeems
+Body = It's been announced that Digimon Up has hit 2 million downloads, and a few items are being given away to celebrate. First up, three device wallpapers feeling different daytime variations of the title screen artwork.
 End = true
 
