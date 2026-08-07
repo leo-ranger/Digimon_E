@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = UN alarmed by Iran execution surge, says death penalty used to 'instill fear'
-Body = The UN Human Rights Commissioner Volker Turk says that executions are used to "instil fear among the population and suppress dissent".
+Title = Israel charges settler over Palestinian activist's killing in rare indictment
+Body = It is the first case of its kind in more than seven years amid a rise in settler violence in the West Bank.
 End = true
 
 [LIBRARY RNEWS]
-Title = Meta says AI model accessed the internet and hacked another company
-Body = The incident will fan concerns about how developers can contain increasingly capable AI systems, after similar incidents at rival companies Anthropic and OpenAI.
+Title = North Korea fires ballistic missile towards Japan as region boosts military
+Body = A short-range ballistic missile was fired over the Sea of Japan, according to Japan and South Korea's militaries, a day after Pyongyang criticised Japan's military build-up in the region.
 End = true
 
 [LIBRARY RNEWS]
-Title = Austria hits record temps, wildfires in Greece, Albania as Europe feels heat
-Body = The world's fastest-warming continent is being ravaged by record-breaking heat, wildfires and drought this summer, as well as power and water shortages.
+Title = Israel accused of targeting journalists in deadly series of strikes
+Body = Lebanese journalist Amal Khalil was killed and her 21-year-old colleague Zeinab Faraj was seriously injured in IDF strikes that human rights groups allege were deliberate.
 End = true
 
 [LIBRARY RNEWS]
-Title = Wall Street debt binge could end in tears — and lost billions
-Body = Credit default swaps for US big tech companies are soaring to record highs. It means investors are fearful of a major Wall Street company collapse.
+Title = Bangladesh's ousted 'Iron Lady' plans to return to politics. Can she do it?
+Body = In her first public appearance since fleeing to India two years ago, Bangladesh's "Iron Lady" didn't use the moment to confront the crimes for which she has been sentenced to death. Instead, she used it to signal her ongoing power as a political contender.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = In an interview published in the issue of Weekly Famitsu for August 20/27
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Battle 275- Digimon Card Game Booster Set 26 Team Matches Part 3: Finale
-Body = Digimon Card Battle is back with episode 275. This time it's part of the Digimon Card Family team 3v3 battle event.
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
-End = true
-
-[LIBRARY RNEWS]
 Title = Digimon Color: Ultraman Series 60th Edition- Images, Info, & Pre-Order Details
 Body = After being teased recently we finally have details for the Digimon Color: Ultraman Series 60th Edition V-Pets! ...
+End = true
+
+[LIBRARY RNEWS]
+Title = Bacchusmon/Reversal of the Dead Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Bacchusmon/Reversal of the Dead.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure Chosen Children Look Up Figures- Taichi, Hikari, Yamato, & Takeru Announced and Teased
+Body = Digimon returning to the Look Up figure line was announced at Digimon Times. The existing line includes the 8 partner Digimon from Digimon Adventure, and the initial announcement for more...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure: Last Evolution Kizuna Charity Stream for Kumamoto Broadcast on August 8th in Japan
+Body = When Digimon Adventure: Last Evolution Kizuna was about to come out 6.5 years ago and had many collaborations as part of the movie coming out and the 20th anniversary of the anime, one of the more amusing ones visually was 'Kumamon Adventure', where the mascot of Kumamoto appeared with Agumon in the key art for the collabration. With the recent Kumamoto earthquake, they're swinging back to Kizuna and that connection...
 End = true
 
