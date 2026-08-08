@@ -19,37 +19,37 @@ Body = The brothers' lawyers argued their "extraordinary public visibility" woul
 End = true
 
 [LIBRARY RNEWS]
+Title = Fatalities confirmed after school shooting in Thailand
+Body = At least seven people, including teachers and students, have died after a student opened fire at a school in Thailand.
+End = true
+
+[LIBRARY RNEWS]
 Title = US unexpectedly sheds 23,000 jobs in blow for Trump before midterms
 Body = Donald Trump has unleashed a spate of policies aimed at reviving domestic manufacturing and curbing surging inflation but new figures show job growth has been declining since March.
 End = true
 
 [LIBRARY RNEWS]
-Title = Lawyers for Andrew and Tristan Tate urge US judge to release them from jail
-Body = The brothers' lawyers argued their "extraordinary public visibility" would make it impractical for them to try to flee and there was no need to keep them behind bars until proceedings end.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Brand Hits Record Profits In History of Brand for Bandai Namco
-Body = In an interview published in the issue of Weekly Famitsu for August 20/27 (and detailed by GamesTalk) with Bandai Namco Entertainment president Nao Udagawa, she revealed an update regarding how Digimon is doing for Bandai Namco. The Digimon brand and it's various releases over the last few years had lead to it generating profits exceeding when the anime began its run in 2000.
+Title = Digimon Beatbreak Final Chapter- Asuka Arc Announced- New Key Art
+Body = With episode 42 having its early screening at the Kyo Arc screening, they've now revealed the arc title.. Digimon Beatbreak (Final Chapter)- Asuka Arc We also get some key art of Tomoro and Gekkomon reaching for Asuka and you can also see a tail behind him, plus a giant egg in the Mirror World they are in.
 End = true
 
 [LIBRARY RNEWS]
-Title = Jupitermon: Wrath Mode Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Jupitermon: Wrath Mode.
+Title = The Thunder Emperor Awakens Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's The Thunder Emperor Awakens.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Digivice Package Charms & Cookies- Images, Info, & Pre-Orders
-Body = Digimon Digivice Package Charms & Cookies will be released in January 2027 by Bandai Candy. These small keychains reproduce the Digimon Adventure Digivice, Digimon Adventure 02 D-3, Digimon Tamers D-Ark, and Digimon Frontier D-Scanner in their original boxes as small keychains.
+Title = Digimon Beatbreak Episode 42 Preview Screenshots- Final Arc Begins
+Body = Digimon Beatbreak episode 42, Cherry Blossom Friendship, is streaming tomorrow, so we get a small stack of preview screenshots from the... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Andromon, HiAndromon & ZombiePlutomon Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
-Body = The Digimon... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Discotek has Digimon Frontier- New Digital Remaster on Blu-ray, Dub First, Sub Later- Pre-orders Open
-Body = https://twitter.com/x/status/2083713574518804703 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon Frontier Like their other Digimon TV show Blu-rays, the series is now presented in HD. An HD version of the dubbed season 4 intro was posted on social media with the announcement.
+Title = Digimon Beatbreak- First 41 Episodes Music Video Featuring Mad Pulse by MadKid
+Body = With the final chapter of Digimon Beatbreak starting tomorrow, they've put up a new music video. The music video features the full version of Mad Pulse by MadKid, the opening theme to the anime, to the 41 episodes of the series condensed to the length of the songbefore the final arc begins.
 End = true
 
