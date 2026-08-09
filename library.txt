@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Trump's White House ballroom project stalled [...]
+Body = Appearing to be a major setback in a case testing his presidential authority, Donald Trump has signalled involving US Supreme Court.
+End = true
+
+[LIBRARY RNEWS]
 Title = US unexpectedly sheds 23,000 jobs in blow for Trump before midterms
 Body = Donald Trump has unleashed a spate of policies aimed at reviving domestic manufacturing and curbing surging inflation but new figures show job growth has been declining since March.
 End = true
@@ -24,32 +29,27 @@ Body = At least seven people, including teachers and students, have died after a
 End = true
 
 [LIBRARY RNEWS]
-Title = US unexpectedly sheds 23,000 jobs in blow for Trump before midterms
-Body = Donald Trump has unleashed a spate of policies aimed at reviving domestic manufacturing and curbing surging inflation but new figures show job growth has been declining since March.
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak English Dub Episodes 31-35 Available Today on Crunchyroll, Episode 30 on Hulu
+Body = The next batch of English dub episodes of Digimon Beatbreak will be up today on Crunchyroll. Toei has announced they are up 'now', although they appear to have jumped the gun, as checking at the time of posting, they are not up.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Brand Hits Record Profits In History of Brand for Bandai Namco
+Body = In an interview published in the issue of Weekly Famitsu for August 20/27 (and detailed by GamesTalk) with Bandai Namco Entertainment president Nao Udagawa, she revealed an update regarding how Digimon is doing for Bandai Namco. The Digimon brand and it's various releases over the last few years had lead to it generating profits exceeding when the anime began its run in 2000.
+End = true
+
+[LIBRARY RNEWS]
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Rumble Arena fangame *read the first post before posting*
 Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Final Chapter- Asuka Arc Announced- New Key Art
-Body = With episode 42 having its early screening at the Kyo Arc screening, they've now revealed the arc title.. Digimon Beatbreak (Final Chapter)- Asuka Arc We also get some key art of Tomoro and Gekkomon reaching for Asuka and you can also see a tail behind him, plus a giant egg in the Mirror World they are in.
-End = true
-
-[LIBRARY RNEWS]
-Title = The Thunder Emperor Awakens Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's The Thunder Emperor Awakens.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 42 Preview Screenshots- Final Arc Begins
-Body = Digimon Beatbreak episode 42, Cherry Blossom Friendship, is streaming tomorrow, so we get a small stack of preview screenshots from the... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak- First 41 Episodes Music Video Featuring Mad Pulse by MadKid
-Body = With the final chapter of Digimon Beatbreak starting tomorrow, they've put up a new music video. The music video features the full version of Mad Pulse by MadKid, the opening theme to the anime, to the 41 episodes of the series condensed to the length of the songbefore the final arc begins.
 End = true
 
