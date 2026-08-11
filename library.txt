@@ -9,28 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Zelenskyy attacks alliance of 'Moscow scumbags' and 'deranged regime'
+Body = Almost two weeks ago, what is believed to be a North Korean missile was fired in a Russian attack that killed a Ukrainian family. It could be part of a major escalation in North Korea's involvement in the war in Ukraine.
+End = true
+
+[LIBRARY RNEWS]
+Title = US had hottest month on record in July, England's drought worsens
+Body = July 2026 was the hottest month ever in the United States, whilst almost three-quarters of England is now in drought.
+End = true
+
+[LIBRARY RNEWS]
 Title = Former ambassador warns Australia's ties with China could spiral again
 Body = Australia's former ambassador to China says the relationship between the two countries remains fragile and vulnerable to shocks, saying stability will "remain a goal, not a given" for Canberra.
 End = true
 
 [LIBRARY RNEWS]
-Title = Thailand rocked by second shooting tragedy in three days
-Body = A gunman is arrested after firing shots at a local government office on the outskirts of Bangkok with a former member of parliament accused of killing a former colonel whom he had known for years, and wounding his driver.
+Title = Why did Israel reject Donald Trump's 15-point plan for Gaza?
+Body = Israel's rejection of Donald Trump's Gaza peace plan is not a surprise. Here's why and how politics plays into it ahead of an Israeli election.
 End = true
 
 [LIBRARY RNEWS]
-Title = Alleged Irish international crime boss charged [...]
-Body = Daniel Joseph Kinahan was flown from Dubai to Dublin, the UAE state news agency reported, after his arrest in April, to face allegations about "serious organised crime offences".
+Title = Chronomon: Destroy Mode Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Chronomon: Destroy Mode.
 End = true
 
 [LIBRARY RNEWS]
-Title = Flights cancelled, evacuations as Typhoon Dolphin hits China
-Body = Typhoon Dolphin makes landfall in densely populated eastern China, meteorological authorities say, after the storm triggered more than 1,000 flight cancellations, evacuations and a top-level alert.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 42- Sakura Friendship [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 42, Sakura Friendship (Cherry Blossom Friendship was used in various promotional material.) A preview of Episode 42 Episode 42 airs Sunday, August 9th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Adventure Collab with Mobile Game AFK Journey- New Trailer, Cast Info, Gameplay Preview, Art, & More!
+Body = https://twitter.com/x/status/2086996020341178568 With the collaboration event starting on August 18th and it being a week away, they've shown off a new trailer for the Digimon Adventure collab with mobile game AFK Journey, and it shows off a decent amount of stuff for those who might be interested in trying the game for the Digimon event. We get a bit of a story/action trailer, including warp evolution sequences in the games art style, plus showing off gameplay.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
 Title = Digimon Channel: Pics and Translation Thread [...]
 Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = Share your UNPOPULAR MOVIE OPINIONS Thread [...]
-Body = -Titanic sucks and was not worthy of 11 Academy Awards (maybe only for Best Special Effects) -Most crime/mob/gangster/mafia movies suck, and The Godfather 1 & 2 are the only good films of the genre -Alien Covenant is a great film, and it's the best since Aliens -Final Fantasy VII: Advent Children remains the king of video game adaptations -Thomas Jane's Punisher is a top 10 greatest comicbook movie ever made -Walk The Line deserves Best Picture more than any other film in 2005
+Title = With the Will Podcast Episode #312- Beginning the End (Beatbreak Episode 42, Ultraman & SAO Collabs, More!)
+Body = This time we will be talking about Digimon Beatbreak episode 42, the Digimon Color: Ultraman v-pet, Cyber Sleuth OST release, brand profit info, products, SAO collab art, plus food & drinks, & more! Plus your questions!
 End = true
 
