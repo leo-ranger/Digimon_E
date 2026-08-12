@@ -14,23 +14,28 @@ Body = Almost two weeks ago, what is believed to be a North Korean missile was f
 End = true
 
 [LIBRARY RNEWS]
-Title = US had hottest month on record in July, England's drought worsens
-Body = July 2026 was the hottest month ever in the United States, whilst almost three-quarters of England is now in drought.
+Title = More than 132 killed in Colombia after powerful 7.4-magnitude earthquake
+Body = At least six airports have suspended operations and the government has declared a national emergency.
 End = true
 
 [LIBRARY RNEWS]
-Title = Former ambassador warns Australia's ties with China could spiral again
-Body = Australia's former ambassador to China says the relationship between the two countries remains fragile and vulnerable to shocks, saying stability will "remain a goal, not a given" for Canberra.
+Title = Trump reportedly hid in catering truck to evade 'dangerous flight'
+Body = US President Donald Trump left on a secret military flight from Türkiye last month when the White House said he was flying aboard Air Force One, in an extraordinary move that involved hiding him in an airport catering truck, the Washington Post reports.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why did Israel reject Donald Trump's 15-point plan for Gaza?
-Body = Israel's rejection of Donald Trump's Gaza peace plan is not a surprise. Here's why and how politics plays into it ahead of an Israeli election.
+Title = 'They will be taken over': Warning for Philippines as dispute with China erupts
+Body = Foreign Correspondent journeys to one of the world's most contested islands where China's shadowy 'maritime militia' lurks just off the coast.
 End = true
 
 [LIBRARY RNEWS]
-Title = Chronomon: Destroy Mode Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Chronomon: Destroy Mode.
+Title = Digimon Beatbreak: Episode 42- Sakura Friendship [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 42, Sakura Friendship (Cherry Blossom Friendship was used in various promotional material.) A preview of Episode 42 Episode 42 airs Sunday, August 9th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Color Digimon Beatbreak V-Pet Announced [...]
+Body = The news from Digimon Times continues on... A Digimon Color Digimon Beatbreak V-Pet was announced that will allow you to raise the Beatbreak Digimon.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = https://twitter.com/x/status/2086996020341178568 With the collaboration e
 End = true
 
 [LIBRARY RNEWS]
-Title = Giant Slayer Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Giant Slayer.
+Title = Chronomon: Destroy Mode Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Chronomon: Destroy Mode.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Channel: Pics and Translation Thread [...]
 Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #312- Beginning the End (Beatbreak Episode 42, Ultraman & SAO Collabs, More!)
-Body = This time we will be talking about Digimon Beatbreak episode 42, the Digimon Color: Ultraman v-pet, Cyber Sleuth OST release, brand profit info, products, SAO collab art, plus food & drinks, & more! Plus your questions!
 End = true
 
