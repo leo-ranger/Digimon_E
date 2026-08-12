@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Zelenskyy attacks alliance of 'Moscow scumbags' and 'deranged regime'
-Body = Almost two weeks ago, what is believed to be a North Korean missile was fired in a Russian attack that killed a Ukrainian family. It could be part of a major escalation in North Korea's involvement in the war in Ukraine.
+Title = Why three heavyweights joined forces in a NATO-like pact
+Body = A NATO-like defence pact signed by Saudi Arabia, Türkiye and Pakistan has landed like a stone thrown into an already rippling Middle East pool.
 End = true
 
 [LIBRARY RNEWS]
-Title = More than 132 killed in Colombia after powerful 7.4-magnitude earthquake
-Body = At least six airports have suspended operations and the government has declared a national emergency.
+Title = New Zealand PM Christopher Luxon survives another confidence vote
+Body = The announcement comes after an "urgent" National Party caucus meeting was held on Wednesday morning in Wellington.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump reportedly hid in catering truck to evade 'dangerous flight'
-Body = US President Donald Trump left on a secret military flight from Türkiye last month when the White House said he was flying aboard Air Force One, in an extraordinary move that involved hiding him in an airport catering truck, the Washington Post reports.
+Title = Refugee with disability from Pakistan finds 'dream job' at Sydney airport
+Body = Refugees with disabilities have often been put in the "too-hard basket" by employment service providers but a new scheme that's more focused on tailored help is reportedly having some success.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'They will be taken over': Warning for Philippines as dispute with China erupts
-Body = Foreign Correspondent journeys to one of the world's most contested islands where China's shadowy 'maritime militia' lurks just off the coast.
+Title = Colombia quake death toll reaches 254 with more than 2,700 missing
+Body = The magnitude-7.4 quake collapsed buildings and caused widespread damage in the South American country.
+End = true
+
+[LIBRARY RNEWS]
+Title = Official Digimon Web Poll #155- Favorite Ice-Related Digimon
+Body = Digimon Web has opened a new fan vote. This is the 155th official web poll on the current version of the site.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Card Battle 276- Succession Effect Explanation & Booster Set 26 Match
+Body = Digimon Card Battle is back with episode 276. This time it's back to Digimon Card Room as they have a few things to go over...
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Adventure Collab with Mobile Game AFK Journey- New Trailer, Cast Info, Gameplay Preview, Art, & More!
 Body = https://twitter.com/x/status/2086996020341178568 With the collaboration event starting on August 18th and it being a week away, they've shown off a new trailer for the Digimon Adventure collab with mobile game AFK Journey, and it shows off a decent amount of stuff for those who might be interested in trying the game for the Digimon event. We get a bit of a story/action trailer, including warp evolution sequences in the games art style, plus showing off gameplay.
-End = true
-
-[LIBRARY RNEWS]
-Title = Chronomon: Destroy Mode Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Chronomon: Destroy Mode.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
