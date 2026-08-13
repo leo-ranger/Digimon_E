@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why three heavyweights joined forces in a NATO-like pact
-Body = A NATO-like defence pact signed by Saudi Arabia, Türkiye and Pakistan has landed like a stone thrown into an already rippling Middle East pool.
+Title = Taiwan responds furiously as China, Indonesia plan military exercise off coast
+Body = Taipei says it is seeking clarification from Indonesia after China's defence ministry announced the planned naval drill.
 End = true
 
 [LIBRARY RNEWS]
-Title = New Zealand PM Christopher Luxon survives another confidence vote
-Body = The announcement comes after an "urgent" National Party caucus meeting was held on Wednesday morning in Wellington.
+Title = One dead, 212 rescued from Bali ferry fire in waters off Lombok
+Body = One person has died and 212 others have been rescued after a ferry travelling from Bali caught fire, local officials say.
 End = true
 
 [LIBRARY RNEWS]
-Title = Refugee with disability from Pakistan finds 'dream job' at Sydney airport
-Body = Refugees with disabilities have often been put in the "too-hard basket" by employment service providers but a new scheme that's more focused on tailored help is reportedly having some success.
+Title = Ex-Chinese premier Zhu Rongji, architect of growth, dies at 97
+Body = Former Chinese premier Zhu Rongji, who drove economic reforms and led China into the World Trade Organization, has died after an illness.
 End = true
 
 [LIBRARY RNEWS]
-Title = Colombia quake death toll reaches 254 with more than 2,700 missing
-Body = The magnitude-7.4 quake collapsed buildings and caused widespread damage in the South American country.
+Title = Trump's secret plane switch sparks debate over missile 'decoy' passengers
+Body = Ethical questions are raised over a US Secret Service ruse that used a plane full of journalists as a possible "decoy" in response to an alleged Iranian threat to shoot Air Force One out of the sky.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,8 +34,13 @@ Body = Digimon Web has opened a new fan vote. This is the 155th official web pol
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Battle 276- Succession Effect Explanation & Booster Set 26 Match
-Body = Digimon Card Battle is back with episode 276. This time it's back to Digimon Card Room as they have a few things to go over...
+Title = Rosemon: Burst Mode/Aguichant Lèvres Special Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Rosemon: Burst Mode/Aguichant Lèvres.
+End = true
+
+[LIBRARY RNEWS]
+Title = Share your UNPOPULAR MOVIE OPINIONS Thread [...]
+Body = -Titanic sucks and was not worthy of 11 Academy Awards (maybe only for Best Special Effects) -Most crime/mob/gangster/mafia movies suck, and The Godfather 1 & 2 are the only good films of the genre -Alien Covenant is a great film, and it's the best since Aliens -Final Fantasy VII: Advent Children remains the king of video game adaptations -Thomas Jane's Punisher is a top 10 greatest comicbook movie ever made -Walk The Line deserves Best Picture more than any other film in 2005
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +49,7 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 42, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Color Digimon Beatbreak V-Pet Announced [...]
-Body = The news from Digimon Times continues on... A Digimon Color Digimon Beatbreak V-Pet was announced that will allow you to raise the Beatbreak Digimon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure Collab with Mobile Game AFK Journey- New Trailer, Cast Info, Gameplay Preview, Art, & More!
-Body = https://twitter.com/x/status/2086996020341178568 With the collaboration event starting on August 18th and it being a week away, they've shown off a new trailer for the Digimon Adventure collab with mobile game AFK Journey, and it shows off a decent amount of stuff for those who might be interested in trying the game for the Digimon event. We get a bit of a story/action trailer, including warp evolution sequences in the games art style, plus showing off gameplay.
+Title = Made a Digimon Xros Wars fan comic! Its voiced and everything!
+Body = Would be great if anyone who sees this can give it a watch and comment!
 End = true
 
