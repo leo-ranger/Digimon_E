@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = 'Lawnmower' patterns of Chinese research vessel raising suspicions in Pacific
+Body = The strange patterns of a Chinese research vessel in Palau's waters have raised suspicions China is gathering intelligence for a potential conflict.
+End = true
+
+[LIBRARY RNEWS]
+Title = Sexual favours scandal rocks South Korea football association
+Body = The governing body of soccer in South Korea issues a public apology for "various controversies", including an allegation that payments were made for sexual favours for foreign referees.
+End = true
+
+[LIBRARY RNEWS]
 Title = Taiwan responds furiously as China, Indonesia plan military exercise off coast
 Body = Taipei says it is seeking clarification from Indonesia after China's defence ministry announced the planned naval drill.
 End = true
@@ -19,13 +29,18 @@ Body = One person has died and 212 others have been rescued after a ferry travel
 End = true
 
 [LIBRARY RNEWS]
-Title = Ex-Chinese premier Zhu Rongji, architect of growth, dies at 97
-Body = Former Chinese premier Zhu Rongji, who drove economic reforms and led China into the World Trade Organization, has died after an illness.
+Title = Discotek has Digimon Frontier- New Digital Remaster on Blu-ray, Dub First, Sub Later- Pre-orders Open
+Body = https://twitter.com/x/status/2083713574518804703 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon Frontier Like their other Digimon TV show Blu-rays, the series is now presented in HD. An HD version of the dubbed season 4 intro was posted on social media with the announcement.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump's secret plane switch sparks debate over missile 'decoy' passengers
-Body = Ethical questions are raised over a US Secret Service ruse that used a plane full of journalists as a possible "decoy" in response to an alleged Iranian threat to shoot Air Force One out of the sky.
+Title = Plutomon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Plutomon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 43- The White Digimon [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 43, The White Digimon A preview of Episode 43 Episode 43 airs Sunday, August 16th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Rosemon: Burst Mode/Aguichant Lèvres Special Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Rosemon: Burst Mode/Aguichant Lèvres.
-End = true
-
-[LIBRARY RNEWS]
-Title = Share your UNPOPULAR MOVIE OPINIONS Thread [...]
-Body = -Titanic sucks and was not worthy of 11 Academy Awards (maybe only for Best Special Effects) -Most crime/mob/gangster/mafia movies suck, and The Godfather 1 & 2 are the only good films of the genre -Alien Covenant is a great film, and it's the best since Aliens -Final Fantasy VII: Advent Children remains the king of video game adaptations -Thomas Jane's Punisher is a top 10 greatest comicbook movie ever made -Walk The Line deserves Best Picture more than any other film in 2005
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 42- Sakura Friendship [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 42, Sakura Friendship (Cherry Blossom Friendship was used in various promotional material.) A preview of Episode 42 Episode 42 airs Sunday, August 9th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Made a Digimon Xros Wars fan comic! Its voiced and everything!
-Body = Would be great if anyone who sees this can give it a watch and comment!
 End = true
 
