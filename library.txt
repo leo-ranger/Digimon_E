@@ -14,42 +14,42 @@ Body = The strange patterns of a Chinese research vessel in Palau's waters have 
 End = true
 
 [LIBRARY RNEWS]
-Title = Sexual favours scandal rocks South Korea football association
-Body = The governing body of soccer in South Korea issues a public apology for "various controversies", including an allegation that payments were made for sexual favours for foreign referees.
+Title = Europe's first solar eclipse in 27 years in pictures
+Body = From Spain to Iceland to Russia, millions gather to witness the Sun's light being fully blocked by the Moon in the continent's first solar eclipse in almost three decades.
 End = true
 
 [LIBRARY RNEWS]
-Title = Taiwan responds furiously as China, Indonesia plan military exercise off coast
-Body = Taipei says it is seeking clarification from Indonesia after China's defence ministry announced the planned naval drill.
+Title = Chinese state-linked observatory sought NZ site, spy agency says
+Body = A Chinese state-linked observatory has sought to install infrastructure at a New Zealand site, the NZ spy agency says.
 End = true
 
 [LIBRARY RNEWS]
-Title = One dead, 212 rescued from Bali ferry fire in waters off Lombok
-Body = One person has died and 212 others have been rescued after a ferry travelling from Bali caught fire, local officials say.
+Title = ICE plans to equip officers with electric shock gloves
+Body = A device designed to enforce compliance by delivering a painful electric shock is condemned by a former ICE director and elected officials.
 End = true
 
 [LIBRARY RNEWS]
-Title = Discotek has Digimon Frontier- New Digital Remaster on Blu-ray, Dub First, Sub Later- Pre-orders Open
-Body = https://twitter.com/x/status/2083713574518804703 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon Frontier Like their other Digimon TV show Blu-rays, the series is now presented in HD. An HD version of the dubbed season 4 intro was posted on social media with the announcement.
+Title = Digimon Season 4 (English) Remastered Blu-ray Out on October 27th from Discotek- Release Previews
+Body = After being announced earlier this month (with pre-orders opening the same day) for the Blu-ray release of the English version of Digimon Season 4 (Frontier.) The set includes all of the English dub of Frontier, as many people would have seen on Disney's One Too & a few other places (to say nothing of various places on streaming over so many years.) https://twitter.com/x/status/2086863756441813364 Like previous Digimon Blu-rays from... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Plutomon Special Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Plutomon.
+Title = Digimon Card Game Starter Deck 27 Advanced Deck Diaboromon/Diablomon out in Early March 2027- New Card Effects
+Body = Digimon Card Game Starter Deck 27 Advanced Deck Diaboromon/Diablomon has been announced for release on March 5th, 2027 in the US and March 6th in Japan. We get some early art of Diaboromon and his copies firing.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 43- The White Digimon [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 43, The White Digimon A preview of Episode 43 Episode 43 airs Sunday, August 16th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = I created a visual spreadsheet of all the Digimon sorted by debut order
+Body = I already posted this on the Digimon subreddit, but I wanted to share it somewhere a bit less ephemeral as well. I would greatly appreciate any feedback or corrections that anyone might be able to offer.
 End = true
 
 [LIBRARY RNEWS]
-Title = Official Digimon Web Poll #155- Favorite Ice-Related Digimon
-Body = Digimon Web has opened a new fan vote. This is the 155th official web poll on the current version of the site.
+Title = Chronomon: Destroy Mode & Jupitermon/Wide Plasment Special Parallel/Alt Art Previews & Promo Trailer for Digimon Card Game Booster Set 26
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Rosemon: Burst Mode/Aguichant Lèvres Special Parallel/Alt Art Preview for Digimon Card Game Booster Set 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Rosemon: Burst Mode/Aguichant Lèvres.
+Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
+Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
 End = true
 
