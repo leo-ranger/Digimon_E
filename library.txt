@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Lawnmower' patterns of Chinese research vessel raising suspicions in Pacific
-Body = The strange patterns of a Chinese research vessel in Palau's waters have raised suspicions China is gathering intelligence for a potential conflict.
+Title = Companies eye untapped gas in the 'Saudi Arabia of the Pacific'
+Body = Global oil and gas giants are rushing to green-light a massive LNG project on Australia's doorstep as war in the Middle East forces countries to look for alternative energy supplies.
 End = true
 
 [LIBRARY RNEWS]
-Title = Europe's first solar eclipse in 27 years in pictures
-Body = From Spain to Iceland to Russia, millions gather to witness the Sun's light being fully blocked by the Moon in the continent's first solar eclipse in almost three decades.
+Title = 'Thuggish behaviour': West Bank settler siege blasted by Huckabee
+Body = Palestinians in a small West Bank village have spent almost a week under siege from Israeli settlers, with members of the community accusing the Israeli military of complicity in the saga.
 End = true
 
 [LIBRARY RNEWS]
-Title = Chinese state-linked observatory sought NZ site, spy agency says
-Body = A Chinese state-linked observatory has sought to install infrastructure at a New Zealand site, the NZ spy agency says.
+Title = Passenger train derails and flips over in southern England
+Body = Eleven people are injured, two of them seriously, when a busy commuter train from London derails in England's south-east.
 End = true
 
 [LIBRARY RNEWS]
-Title = ICE plans to equip officers with electric shock gloves
-Body = A device designed to enforce compliance by delivering a painful electric shock is condemned by a former ICE director and elected officials.
+Title = Report confirms cause of deadly California wildfire that killed 19
+Body = Eighteen months on, a new report confirms the cause of one of the deadliest wildfires in California's history as an alleged arsonist faces a retrial for a second blaze.
+End = true
+
+[LIBRARY RNEWS]
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+End = true
+
+[LIBRARY RNEWS]
+Title = Jupitermon: Wrath Mode & Tamer Card Kunlun Special Parallel/Alt Art Previews for Digimon Card Game Booster Set 26
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = I created a visual spreadsheet of all the Digimon sorted by debut order
 Body = I already posted this on the Digimon subreddit, but I wanted to share it somewhere a bit less ephemeral as well. I would greatly appreciate any feedback or corrections that anyone might be able to offer.
-End = true
-
-[LIBRARY RNEWS]
-Title = Chronomon: Destroy Mode & Jupitermon/Wide Plasment Special Parallel/Alt Art Previews & Promo Trailer for Digimon Card Game Booster Set 26
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
-Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
 End = true
 
