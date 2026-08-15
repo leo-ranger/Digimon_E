@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Luigi Mangione admits killing UnitedHealthcare CEO
+Body = The killing of UnitedHealthcare CEO Brian Thompson was condemned by public officials but became emblematic of Americans' frustration with health insurance industry practices.
+End = true
+
+[LIBRARY RNEWS]
+Title = Hundreds evacuated from resorts as wildfires stretch across Europe
+Body = One person has died and 40 have been injured as Croatia battles wildfires amid Europe's heatwave.
+End = true
+
+[LIBRARY RNEWS]
 Title = NATO fighter jet shoots down a drone over Latvia [...]
 Body = An Italian NATO fighter jet shot down a drone that entered Latvian airspace, a spokesperson from the alliance has said.
 End = true
@@ -19,23 +29,18 @@ Body = Global oil and gas giants are rushing to green-light a massive LNG projec
 End = true
 
 [LIBRARY RNEWS]
-Title = Farage wins by-election after resigning over undeclared gift allegations
-Body = Right-wing political leader Nigel Farage wins the Clacton by-election he triggered with his resignation. But he did not participate in the UK tradition of joining all the candidates on stage for the final result.
-End = true
-
-[LIBRARY RNEWS]
-Title = China denies espionage and foreign interference in New Zealand
-Body = The Chinese Embassy has rejected a report by New Zealand's top spy agency that includes what it says are multiple "false allegations against China".
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, August 17th [...]
-Body = Monday (August 17th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 43, Digimon Frontier English dub Blu-ray previews, cards, collab previews, & more! Plus your questions!
+Title = Premium Bandai US Pre-Orders for Digimon Pendulum Color 8 Celestial Walker & 9 Astral Sentinel V-Pets
+Body = Premium Bandai US has put up pre-orders for the new Digimon Pendulum Color V-Pets! Decently late also, as pre-orders closed from Premium Bandai Japan awhile ago, but a good chance for people to get them at least.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak Episode 43 Preview Screenshots [...]
 Body = Digimon Beatbreak episode 43, The White Digimon, is streaming tomorrow, so we get a small stack of preview screenshots from the... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Live- Monday, August 17th [...]
+Body = Monday (August 17th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 43, Digimon Frontier English dub Blu-ray previews, cards, collab previews, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = 27 Years since Digimon Premiered in English! [...]
 Body = Anniversaries are always fun, and it is time for a big one! It's been 27 years since the English dub of Digimon premiered.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
-Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
 End = true
 
