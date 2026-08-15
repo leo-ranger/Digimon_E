@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = NATO fighter jet shoots down a drone over Latvia [...]
+Body = An Italian NATO fighter jet shot down a drone that entered Latvian airspace, a spokesperson from the alliance has said.
+End = true
+
+[LIBRARY RNEWS]
 Title = Companies eye untapped gas in the 'Saudi Arabia of the Pacific'
 Body = Global oil and gas giants are rushing to green-light a massive LNG project on Australia's doorstep as war in the Middle East forces countries to look for alternative energy supplies.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Thuggish behaviour': West Bank settler siege blasted by Huckabee
-Body = Palestinians in a small West Bank village have spent almost a week under siege from Israeli settlers, with members of the community accusing the Israeli military of complicity in the saga.
+Title = Farage wins by-election after resigning over undeclared gift allegations
+Body = Right-wing political leader Nigel Farage wins the Clacton by-election he triggered with his resignation. But he did not participate in the UK tradition of joining all the candidates on stage for the final result.
 End = true
 
 [LIBRARY RNEWS]
-Title = Passenger train derails and flips over in southern England
-Body = Eleven people are injured, two of them seriously, when a busy commuter train from London derails in England's south-east.
+Title = China denies espionage and foreign interference in New Zealand
+Body = The Chinese Embassy has rejected a report by New Zealand's top spy agency that includes what it says are multiple "false allegations against China".
 End = true
 
 [LIBRARY RNEWS]
-Title = Report confirms cause of deadly California wildfire that killed 19
-Body = Eighteen months on, a new report confirms the cause of one of the deadliest wildfires in California's history as an alleged arsonist faces a retrial for a second blaze.
+Title = With the Will Podcast Live- Monday, August 17th [...]
+Body = Monday (August 17th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 43, Digimon Frontier English dub Blu-ray previews, cards, collab previews, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
-End = true
-
-[LIBRARY RNEWS]
-Title = Jupitermon: Wrath Mode & Tamer Card Kunlun Special Parallel/Alt Art Previews for Digimon Card Game Booster Set 26
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Season 4 (English) Remastered Blu-ray Out on October 27th from Discotek- Release Previews
-Body = After being announced earlier this month (with pre-orders opening the same day) for the Blu-ray release of the English version of Digimon Season 4 (Frontier.) The set includes all of the English dub of Frontier, as many people would have seen on Disney's One Too & a few other places (to say nothing of various places on streaming over so many years.) https://twitter.com/x/status/2086863756441813364 Like previous Digimon Blu-rays from... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Game Starter Deck 27 Advanced Deck Diaboromon/Diablomon out in Early March 2027- New Card Effects
-Body = Digimon Card Game Starter Deck 27 Advanced Deck Diaboromon/Diablomon has been announced for release on March 5th, 2027 in the US and March 6th in Japan. We get some early art of Diaboromon and his copies firing.
+Title = Digimon Beatbreak Episode 43 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 43, The White Digimon, is streaming tomorrow, so we get a small stack of preview screenshots from the... [...]
 End = true
 
 [LIBRARY RNEWS]
 Title = I created a visual spreadsheet of all the Digimon sorted by debut order
 Body = I already posted this on the Digimon subreddit, but I wanted to share it somewhere a bit less ephemeral as well. I would greatly appreciate any feedback or corrections that anyone might be able to offer.
+End = true
+
+[LIBRARY RNEWS]
+Title = 27 Years since Digimon Premiered in English! [...]
+Body = Anniversaries are always fun, and it is time for a big one! It's been 27 years since the English dub of Digimon premiered.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
+Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
 End = true
 
