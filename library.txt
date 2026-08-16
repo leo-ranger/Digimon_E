@@ -9,33 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Men attack trans women in Indonesia after regulation deems them a 'threat'
-Body = A series of attacks perpetrated by men on trans women in Indonesia has left the community feeling anxious and scared. Activists and experts say the violence did not suddenly emerge.
+Title = Earthquake survivors 'still on alert' after dozens killed in Indonesia
+Body = Rescue teams are combing the rubble of buildings for survivors after the magnitude-7.7 earthquake struck eastern Indonesia.
 End = true
 
 [LIBRARY RNEWS]
-Title = Luigi Mangione admits killing UnitedHealthcare CEO
-Body = The killing of UnitedHealthcare CEO Brian Thompson was condemned by public officials but became emblematic of Americans' frustration with health insurance industry practices.
+Title = Israel says it killed Hezbollah commander in strike that left children dead
+Body = Israeli strikes on Lebanon targeting a Hezbollah commander kill 11 people, including three children, making it the deadliest raid since June deals eased hostilities in the region.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hundreds evacuated from resorts as wildfires stretch across Europe
-Body = One person has died and 40 have been injured as Croatia battles wildfires amid Europe's heatwave.
+Title = Fans line streets of Welsh village to farewell pop legend Bonnie Tyler
+Body = Hundreds of fans have lined the streets of a Welsh village to farewell 80s pop star Bonnie Tyler after her death in Portugal last month at age 75.
 End = true
 
 [LIBRARY RNEWS]
-Title = NATO fighter jet shoots down a drone over Latvia [...]
-Body = An Italian NATO fighter jet shot down a drone that entered Latvian airspace, a spokesperson from the alliance has said.
+Title = Morocco arrests 111 migrants headed for Spain's Ceuta
+Body = Authorities in Morocco have arrested 111 people attempting to cross into Spain's Ceuta, amid tightened security triggered by a deadly mass crossing in July.
 End = true
 
 [LIBRARY RNEWS]
-Title = New Digimon Adventure 02 Sofvimates Vinyl Figure- V-mon/Veemon- US Pre-Orders Open, Out January
-Body = After a single Sofvimates a few years ago, last year we got follow-ups of a few new ones, all from Digimon Adventure. And it's time for another!
+Title = Digimon Beatbreak: Episode 43- The White Digimon [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 43, The White Digimon A preview of Episode 43 Episode 43 airs Sunday, August 16th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 43 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 43, The White Digimon, is streaming tomorrow, so we get a small stack of preview screenshots from the... [...]
+Title = Weekend Batch- Digimon Beatbreak Episode 43 Social Media Art, Event & Product Photos, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 41!
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +44,12 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 41, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 42- Sakura Friendship [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 42, Sakura Friendship (Cherry Blossom Friendship was used in various promotional material.) A preview of Episode 42 Episode 42 airs Sunday, August 9th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = 27 Years since Digimon Premiered in English! [...]
+Body = Anniversaries are always fun, and it is time for a big one! It's been 27 years since the English dub of Digimon premiered.
 End = true
 
 [LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+Title = New Digimon Adventure 02 Sofvimates Vinyl Figure- V-mon/Veemon- US Pre-Orders Open, Out January
+Body = After a single Sofvimates a few years ago, last year we got follow-ups of a few new ones, all from Digimon Adventure. And it's time for another!
 End = true
 
