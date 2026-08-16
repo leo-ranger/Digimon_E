@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Men attack trans women in Indonesia after regulation deems them a 'threat'
+Body = A series of attacks perpetrated by men on trans women in Indonesia has left the community feeling anxious and scared. Activists and experts say the violence did not suddenly emerge.
+End = true
+
+[LIBRARY RNEWS]
 Title = Luigi Mangione admits killing UnitedHealthcare CEO
 Body = The killing of UnitedHealthcare CEO Brian Thompson was condemned by public officials but became emblematic of Americans' frustration with health insurance industry practices.
 End = true
@@ -24,13 +29,8 @@ Body = An Italian NATO fighter jet shot down a drone that entered Latvian airspa
 End = true
 
 [LIBRARY RNEWS]
-Title = Companies eye untapped gas in the 'Saudi Arabia of the Pacific'
-Body = Global oil and gas giants are rushing to green-light a massive LNG project on Australia's doorstep as war in the Middle East forces countries to look for alternative energy supplies.
-End = true
-
-[LIBRARY RNEWS]
-Title = Premium Bandai US Pre-Orders for Digimon Pendulum Color 8 Celestial Walker & 9 Astral Sentinel V-Pets
-Body = Premium Bandai US has put up pre-orders for the new Digimon Pendulum Color V-Pets! Decently late also, as pre-orders closed from Premium Bandai Japan awhile ago, but a good chance for people to get them at least.
+Title = New Digimon Adventure 02 Sofvimates Vinyl Figure- V-mon/Veemon- US Pre-Orders Open, Out January
+Body = After a single Sofvimates a few years ago, last year we got follow-ups of a few new ones, all from Digimon Adventure. And it's time for another!
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = Digimon Beatbreak episode 43, The White Digimon, is streaming tomorrow, s
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, August 17th [...]
-Body = Monday (August 17th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 43, Digimon Frontier English dub Blu-ray previews, cards, collab previews, & more! Plus your questions!
+Title = Digimon Beatbreak: Episode 41- A Golden Tomorrow [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 41, A Golden Tomorrow A preview of Episode 41 Episode 41 airs Sunday, August 2nd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = I created a visual spreadsheet of all the Digimon sorted by debut order
-Body = I already posted this on the Digimon subreddit, but I wanted to share it somewhere a bit less ephemeral as well. I would greatly appreciate any feedback or corrections that anyone might be able to offer.
+Title = Digimon Beatbreak: Episode 42- Sakura Friendship [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 42, Sakura Friendship (Cherry Blossom Friendship was used in various promotional material.) A preview of Episode 42 Episode 42 airs Sunday, August 9th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = 27 Years since Digimon Premiered in English! [...]
-Body = Anniversaries are always fun, and it is time for a big one! It's been 27 years since the English dub of Digimon premiered.
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
