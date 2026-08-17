@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Earthquake survivors 'still on alert' after dozens killed in Indonesia
-Body = Rescue teams are combing the rubble of buildings for survivors after the magnitude-7.7 earthquake struck eastern Indonesia.
+Title = Indonesia earthquake death toll reaches 53, thousands evacuated
+Body = Thousands of people have fled their homes after a magnitude-7.7 earthquake and 341 aftershocks hit the island.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel says it killed Hezbollah commander in strike that left children dead
-Body = Israeli strikes on Lebanon targeting a Hezbollah commander kill 11 people, including three children, making it the deadliest raid since June deals eased hostilities in the region.
+Title = 'Terrifying' moment Sydney couple's home fell 'to bits' in Colombia quake
+Body = The lives of Sydney couple Christian Bitancurt and Ana Maria Chaves, who recently relocated to Colombia, have been uprooted after the magnitude-7.4 earthquake.
 End = true
 
 [LIBRARY RNEWS]
-Title = Fans line streets of Welsh village to farewell pop legend Bonnie Tyler
-Body = Hundreds of fans have lined the streets of a Welsh village to farewell 80s pop star Bonnie Tyler after her death in Portugal last month at age 75.
+Title = Four paintings by Renaissance artist stolen from Italian museum
+Body = Four artworks by 15th century painter Antonello da Messina have been stolen from a museum overnight according to Italy's culture minister.
 End = true
 
 [LIBRARY RNEWS]
-Title = Morocco arrests 111 migrants headed for Spain's Ceuta
-Body = Authorities in Morocco have arrested 111 people attempting to cross into Spain's Ceuta, amid tightened security triggered by a deadly mass crossing in July.
+Title = Holy trouble: The Sisters of Charity versus President Trump
+Body = The Sisters of Charity in New York have vowed to make the plight of vulnerable immigrants and their children part of their final mission before the order closes or comes to "fulfilment" as they call it.
+End = true
+
+[LIBRARY RNEWS]
+Title = Preview for Digimon Beatbreak Episode 44 The Strongest Man
+Body = https://twitter.com/x/status/2088785310843019424 Time for a preview for Episode 44 The Strongest Man! Watch episode 43 first!
+End = true
+
+[LIBRARY RNEWS]
+Title = Box Topper Previews for Digimon Card Game Booster Set 26
+Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+End = true
+
+[LIBRARY RNEWS]
+Title = Official Digimon Web Poll #155- Favorite Ice-Related Digimon
+Body = Digimon Web has opened a new fan vote. This is the 155th official web poll on the current version of the site.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 43- The White Digimon [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 43, The White Digimon A preview of Episode 43 Episode 43 airs Sunday, August 16th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 43 Social Media Art, Event & Product Photos, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 41!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 41- A Golden Tomorrow [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 41, A Golden Tomorrow A preview of Episode 41 Episode 41 airs Sunday, August 2nd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = 27 Years since Digimon Premiered in English! [...]
-Body = Anniversaries are always fun, and it is time for a big one! It's been 27 years since the English dub of Digimon premiered.
-End = true
-
-[LIBRARY RNEWS]
-Title = New Digimon Adventure 02 Sofvimates Vinyl Figure- V-mon/Veemon- US Pre-Orders Open, Out January
-Body = After a single Sofvimates a few years ago, last year we got follow-ups of a few new ones, all from Digimon Adventure. And it's time for another!
 End = true
 
