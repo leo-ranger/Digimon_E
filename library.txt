@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = At least 68 killed in Indonesia quake as aftershocks hamper rescue efforts
-Body = Thousands of displaced people are sheltering in tents and government buildings afraid to return home due to fears of aftershocks as the number of people killed in the earthquake climbs.
+Title = Trump threatens to bomb Oman as Iran vows to escalate conflict over Hormuz
+Body = A memorandum of understanding signed between Iran and the US set out a 60-day timeframe for a broader deal, which passed on Monday local time.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump scales back joint military drills with South Korea, calling them 'hostile'
-Body = US President Donald Trump orders the Pentagon to scale back planned joint military exercises with South Korea, saying it declined to help denuclearise Iran and citing his good relationship with North Korean leader Kim Jong Un.
+Title = Kushner talks with Hamas and Israel end without Gaza deal
+Body = Jared Kushner and Benjamin Netanyahu have discussed putting a US general in charge of verifying Hamas's disarmaments, with Israel's military to remain place until that happens.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pakistan doesn't want the world to know what these people saw
-Body = After months of an internet and mobile blackout in Pakistan-controlled Kashmir, people on the ground describe scenes of excessive, deadly force by government forces.
+Title = Mourners say Jason Arday 'was hunted' by tabloid media before his death
+Body = Mourners at a London vigil for Jason Arday accuse the British tabloid media of "hunting" the late Cambridge professor, as Cambridge's Chancellor speaks out.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ukraine targets Moscow and Wildberries warehouse in aerial assault
-Body = Ukraine's strikes against targets across Russia are some of its largest so far, and come as Russian forces carry out attacks on Ukrainian cities.
+Title = Russian bank fires economist who said Moscow losing 'war of attrition' with West
+Body = Andrei Klepach, one of Russia's most prominent macroeconomists, has predicted a social crisis and says costs are "mounting" over the Ukraine war.
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Episode #313- Flashback Fortissimo (Beatbreak Episode 43, Frontier Blu-rays, & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 43, Digimon Frontier English dub Blu-ray previews, cards, collab previews, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Adventure Collab with Mobile Game AFK Journey- Gameplay Previews & More Info
 Body = With the collaboration event starting on August 18th and it being a few days away, AFK Journey posted a video going over how Taichi & Agumon and Yamato & Gabumon will fit into the world of the game. The nearly 12 minute video (also on social media) goes over how the duos will work in game, with a decent amount of clips for attacks, how evolution will work, the in-game story, minigames, and login bonus items.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 43- The White Digimon [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 43, The White Digimon A preview of Episode 43 Episode 43 airs Sunday, August 16th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
