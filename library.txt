@@ -9,13 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pakistan doesn't want the world to know what these people saw
-Body = After months of an internet and mobile blackout in Pakistan-controlled Kashmir, people on the ground describe scenes of excessive, deadly force by government forces.
+Title = At least 68 killed in Indonesia quake as aftershocks hamper rescue efforts
+Body = Thousands of displaced people are sheltering in tents and government buildings afraid to return home due to fears of aftershocks as the number of people killed in the earthquake climbs.
 End = true
 
 [LIBRARY RNEWS]
-Title = Indonesia earthquake death toll reaches 53, thousands evacuated
-Body = Thousands of people have fled their homes after a magnitude-7.7 earthquake and 341 aftershocks hit the island.
+Title = Trump scales back joint military drills with South Korea, calling them 'hostile'
+Body = US President Donald Trump orders the Pentagon to scale back planned joint military exercises with South Korea, saying it declined to help denuclearise Iran and citing his good relationship with North Korean leader Kim Jong Un.
+End = true
+
+[LIBRARY RNEWS]
+Title = Pakistan doesn't want the world to know what these people saw
+Body = After months of an internet and mobile blackout in Pakistan-controlled Kashmir, people on the ground describe scenes of excessive, deadly force by government forces.
 End = true
 
 [LIBRARY RNEWS]
@@ -24,8 +29,18 @@ Body = Ukraine's strikes against targets across Russia are some of its largest s
 End = true
 
 [LIBRARY RNEWS]
-Title = Muslim countries condemn Israeli rejection of Gaza plan
-Body = Eight major players, including Australia's northerly neighbour Indonesia, say Israel's stance against Donald Trump's plan threatens to "jeopardise its implementation".
+Title = Preview for Digimon Beatbreak Episode 44 The Strongest Man
+Body = https://twitter.com/x/status/2088785310843019424 Time for a preview for Episode 44 The Strongest Man! Watch episode 43 first!
+End = true
+
+[LIBRARY RNEWS]
+Title = Official Digimon Web Poll #155- Favorite Ice-Related Digimon
+Body = Digimon Web has opened a new fan vote. This is the 155th official web poll on the current version of the site.
+End = true
+
+[LIBRARY RNEWS]
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 43- The White Digimon [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 43, The White Digimon A preview of Episode 43 Episode 43 airs Sunday, August 16th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Box Topper Previews for Digimon Card Game Booster Set 26
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 44 The Strongest Man
-Body = https://twitter.com/x/status/2088785310843019424 Time for a preview for Episode 44 The Strongest Man! Watch episode 43 first!
-End = true
-
-[LIBRARY RNEWS]
-Title = I created a visual spreadsheet of all the Digimon sorted by debut order
-Body = I already posted this on the Digimon subreddit, but I wanted to share it somewhere a bit less ephemeral as well. I would greatly appreciate any feedback or corrections that anyone might be able to offer.
 End = true
 
