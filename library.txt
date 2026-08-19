@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump threatens to bomb Oman as Iran vows to escalate conflict over Hormuz
-Body = A memorandum of understanding signed between Iran and the US set out a 60-day timeframe for a broader deal, which passed on Monday local time.
+Title = Jailed former Pakistan PM Imran Khan moved to hospital over health concerns
+Body = The cricketer-turned-politician has been in jail for three years, convicted in a string of cases he insists are politically motivated.
 End = true
 
 [LIBRARY RNEWS]
-Title = Kushner talks with Hamas and Israel end without Gaza deal
-Body = Jared Kushner and Benjamin Netanyahu have discussed putting a US general in charge of verifying Hamas's disarmaments, with Israel's military to remain place until that happens.
+Title = Ten killed after Russian missiles hit shops in Ukrainian village
+Body = A post office, cafe and five other stores were reportedly destroyed in Ukraine's north-east, as Russia continues to exploit a shortage of missile interceptors.
 End = true
 
 [LIBRARY RNEWS]
-Title = Mourners say Jason Arday 'was hunted' by tabloid media before his death
-Body = Mourners at a London vigil for Jason Arday accuse the British tabloid media of "hunting" the late Cambridge professor, as Cambridge's Chancellor speaks out.
+Title = What to know about the Tupac Shakur murder trial now underway
+Body = Three decades after Tupac Shakur was killed in a drive-by shooting, a man accused of providing the murder weapon is on trial. Here's what to know.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian bank fires economist who said Moscow losing 'war of attrition' with West
-Body = Andrei Klepach, one of Russia's most prominent macroeconomists, has predicted a social crisis and says costs are "mounting" over the Ukraine war.
+Title = Ministers tread carefully as Trump scales back US drills in South Korea
+Body = Australia and Japan's defence ministers sit down in Canberra to discuss the rapidly expanding defence ties between the two countries.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
+Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
+End = true
+
+[LIBRARY RNEWS]
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 43- The White Digimon [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 43, The White Digimon A preview of Episode 43 Episode 43 airs Sunday, August 16th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Preview for Digimon Beatbreak Episode 44 The Strongest Man
 Body = https://twitter.com/x/status/2088785310843019424 Time for a preview for Episode 44 The Strongest Man! Watch episode 43 first!
-End = true
-
-[LIBRARY RNEWS]
-Title = Official Digimon Web Poll #155- Favorite Ice-Related Digimon
-Body = Digimon Web has opened a new fan vote. This is the 155th official web poll on the current version of the site.
-End = true
-
-[LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure Collab with Mobile Game AFK Journey- Gameplay Previews & More Info
-Body = With the collaboration event starting on August 18th and it being a few days away, AFK Journey posted a video going over how Taichi & Agumon and Yamato & Gabumon will fit into the world of the game. The nearly 12 minute video (also on social media) goes over how the duos will work in game, with a decent amount of clips for attacks, how evolution will work, the in-game story, minigames, and login bonus items.
 End = true
 
