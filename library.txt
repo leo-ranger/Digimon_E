@@ -9,33 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Before and after photos show impact of SpaceX rocket that slammed into Moon
+Body = A NASA spacecraft circling the moon is providing the sharpest views yet of a crater carved by a crashing SpaceX rocket.
+End = true
+
+[LIBRARY RNEWS]
+Title = Lone doctor's plea for help in quake-struck Indonesia as 40,000 displaced
+Body = "I am physically unable to handle this many patients alone," came the viral plea from the young doctor working alone in one of the earthquake's worst-affected areas.
+End = true
+
+[LIBRARY RNEWS]
+Title = US Navy destroyer with 300 sailors stranded in the Pacific for four days
+Body = More than 300 sailors aboard a US Navy ship endured four days stranded in the Pacific, without power, amid serious questions about the quality of life aboard naval vessels.
+End = true
+
+[LIBRARY RNEWS]
 Title = Jailed former Pakistan PM Imran Khan moved to hospital over health concerns
 Body = The cricketer-turned-politician has been in jail for three years, convicted in a string of cases he insists are politically motivated.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ten killed after Russian missiles hit shops in Ukrainian village
-Body = A post office, cafe and five other stores were reportedly destroyed in Ukraine's north-east, as Russia continues to exploit a shortage of missile interceptors.
-End = true
-
-[LIBRARY RNEWS]
-Title = What to know about the Tupac Shakur murder trial now underway
-Body = Three decades after Tupac Shakur was killed in a drive-by shooting, a man accused of providing the murder weapon is on trial. Here's what to know.
-End = true
-
-[LIBRARY RNEWS]
-Title = Ministers tread carefully as Trump scales back US drills in South Korea
-Body = Australia and Japan's defence ministers sit down in Canberra to discuss the rapidly expanding defence ties between the two countries.
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
 Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
-End = true
-
-[LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
 [LIBRARY RNEWS]
