@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Before and after photos show impact of SpaceX rocket that slammed into Moon
-Body = A NASA spacecraft circling the moon is providing the sharpest views yet of a crater carved by a crashing SpaceX rocket.
+Title = Israeli military clears soldiers over Gaza strike that killed Australian Zomi Frankcom
+Body = Penny Wong said she is "outraged" and plans to haul in the Israeli ambassador after the Israel Defense Forces cleared its personnel of any criminal wrongdoing in the April 2024 strike on a World Central Kitchen convoy in Gaza, where Australian woman Zomi Frankcom was killed.
 End = true
 
 [LIBRARY RNEWS]
-Title = Lone doctor's plea for help in quake-struck Indonesia as 40,000 displaced
-Body = "I am physically unable to handle this many patients alone," came the viral plea from the young doctor working alone in one of the earthquake's worst-affected areas.
+Title = Israel investigates killing of Hind Rajab as part of its five internal probes into IDF
+Body = The Israel Defense Forces (IDF) has published the findings of five internal probes that examined deadly attacks its soldiers launched on aid and medical workers in Gaza.
 End = true
 
 [LIBRARY RNEWS]
-Title = US Navy destroyer with 300 sailors stranded in the Pacific for four days
-Body = More than 300 sailors aboard a US Navy ship endured four days stranded in the Pacific, without power, amid serious questions about the quality of life aboard naval vessels.
+Title = Australian dies in Vietnam, DFAT confirms [...]
+Body = The Department of Foreign Affairs and Trade confirms it is providing consular assistance to the family of an Australian who has died in Vietnam.
 End = true
 
 [LIBRARY RNEWS]
-Title = Jailed former Pakistan PM Imran Khan moved to hospital over health concerns
-Body = The cricketer-turned-politician has been in jail for three years, convicted in a string of cases he insists are politically motivated.
+Title = Trump says he will meet North Korea's Kim Jong Un later this year
+Body = The US president made the announcement days after ordering the US scale back its military drills with South Korea.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,13 +34,13 @@ Body = So I read the random commentary on evolution relationships thread and tho
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
-Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
+Title = Digimon Beatbreak: Episode 43- The White Digimon [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 43, The White Digimon A preview of Episode 43 Episode 43 airs Sunday, August 16th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 43- The White Digimon [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 43, The White Digimon A preview of Episode 43 Episode 43 airs Sunday, August 16th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
+Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
 End = true
 
 [LIBRARY RNEWS]
