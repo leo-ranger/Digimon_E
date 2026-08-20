@@ -9,13 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israeli military clears soldiers over Gaza strike that killed Australian Zomi Frankcom
-Body = Penny Wong said she is "outraged" and plans to haul in the Israeli ambassador after the Israel Defense Forces cleared its personnel of any criminal wrongdoing in the April 2024 strike on a World Central Kitchen convoy in Gaza, where Australian woman Zomi Frankcom was killed.
+Title = Israel investigates killing of Hind Rajab as part of five internal probes into IDF
+Body = The Israel Defense Forces (IDF) has published the findings of five internal probes that examined deadly attacks its soldiers launched on aid and medical workers in Gaza.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel investigates killing of Hind Rajab as part of its five internal probes into IDF
-Body = The Israel Defense Forces (IDF) has published the findings of five internal probes that examined deadly attacks its soldiers launched on aid and medical workers in Gaza.
+Title = Prince Harry, Meghan and family to move back to UK, the ABC understands
+Body = Harry, the younger son of King Charles, and his wife, Meghan, intend to relocate from the US to a private, non-royal residence outside London, the ABC understands.
 End = true
 
 [LIBRARY RNEWS]
@@ -29,27 +29,27 @@ Body = The US president made the announcement days after ordering the US scale b
 End = true
 
 [LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 43- The White Digimon [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 43, The White Digimon A preview of Episode 43 Episode 43 airs Sunday, August 16th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Beatbreak Tomoro Tenma's Jacket & T-Shirt Set- Pre-Order Info & Images
+Body = The Toei Animation Online Store has put up a standby page for a reproduction of Tomoro's jacket & shirt from Digimon Beatbreak. Based on when pre-orders open tomorrow, we can almost certainly expect it to be featured at some point during Digimon Con 2026.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
-Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
+Title = I created a visual spreadsheet of all the Digimon sorted by debut order
+Body = I already posted this on the Digimon subreddit, but I wanted to share it somewhere a bit less ephemeral as well. I would greatly appreciate any feedback or corrections that anyone might be able to offer.
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Episode #313- Flashback Fortissimo (Beatbreak Episode 43, Frontier Blu-rays, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 43, Digimon Frontier English dub Blu-ray previews, cards, collab previews, & more! Plus your questions!
+Title = Poll Results for Favorite Guest Digimon from Beatbreak Episodes 25 through 37
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Guest Digimon from Beatbreak Episodes 25 through 37! Recently the poll closed and we have the results!
 End = true
 
 [LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 44 The Strongest Man
-Body = https://twitter.com/x/status/2088785310843019424 Time for a preview for Episode 44 The Strongest Man! Watch episode 43 first!
+Title = Digimon Card Battle 277- Booster Set 26 Match [...]
+Body = Digimon Card Battle is back with episode 277. This time it's back to Digimon Card Room as they do another match with Booster Set 26, they go over the new card effect Succession.
 End = true
 
