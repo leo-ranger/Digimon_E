@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel investigates killing of Hind Rajab as part of five internal probes into IDF
-Body = The Israel Defense Forces (IDF) has published the findings of five internal probes that examined deadly attacks its soldiers launched on aid and medical workers in Gaza.
+Title = Zomi Frankcom's family 'deeply disappointed' IDF won't pursue charges
+Body = Zomi Frankcom's brother Mal says the decision to announce the outcome of the IDF investigation on World Humanitarian Day was "an insult to my sister's memory".
 End = true
 
 [LIBRARY RNEWS]
-Title = Prince Harry, Meghan and family to move back to UK, the ABC understands
-Body = Harry, the younger son of King Charles, and his wife, Meghan, intend to relocate from the US to a private, non-royal residence outside London, the ABC understands.
+Title = Evergrande founder sentenced to life in prison by Chinese court
+Body = Hui Ka Yan, who had faced eight charges including misuse of funds and illegally taking public deposits, pleaded guilty in April, following China Evergrande's collapse five years ago after a quarter of a century in operation.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian dies in Vietnam, DFAT confirms [...]
-Body = The Department of Foreign Affairs and Trade confirms it is providing consular assistance to the family of an Australian who has died in Vietnam.
+Title = Albanese dinner host's family fortune linked to corruption involving relatives
+Body = The fortune of Australian billionaire Phillip Lee, whose son recently hosted a dinner attended by Anthony Albanese, has been linked to major corruption scandals involving relatives in China.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says he will meet North Korea's Kim Jong Un later this year
-Body = The US president made the announcement days after ordering the US scale back its military drills with South Korea.
+Title = North Korea fires missiles into sea as South Korea, US hold military drills
+Body = The ballistic missile launch comes a day after US President Donald Trump said he would visit North Korean leader Kim Jong Un this year.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Tamers 25th Anniversary Animate Fair Product Event Announced for November- New Art
+Body = Amnnibus has announced that in November there will be a Digimon Tamers 25th anniversary Animate Fair event with new products (Animate Fair is generally when they have a 'not quite a pop-up shop' at Animate online, sometimes in a shop or two, with new/exclusive products, and bonus items, etc.) Details will be announced soon, but for now they've previewed the new art, which features the kids in party attire and Digimon... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Poll Results for Favorite Guest Digimon from Beatbreak Episodes 25 through 37
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Guest Digimon from Beatbreak Episodes 25 through 37! Recently the poll closed and we have the results!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon in October V-Jump- Model Kits, Card Game Booster Set 26, Beatbreak Final Arc, & Upcoming Products, Events, & Collabs
+Body = It's time for all the new Digimon content from the October 2026 cover dated issue of V-Jump! We start off with the Digimon Frontier Figure-rise Standard Amplfied MagnaGarurumon model kit.
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak Tomoro Tenma's Jacket & T-Shirt Set- Pre-Order Info & Images
 Body = The Toei Animation Online Store has put up a standby page for a reproduction of Tomoro's jacket & shirt from Digimon Beatbreak. Based on when pre-orders open tomorrow, we can almost certainly expect it to be featured at some point during Digimon Con 2026.
-End = true
-
-[LIBRARY RNEWS]
-Title = I created a visual spreadsheet of all the Digimon sorted by debut order
-Body = I already posted this on the Digimon subreddit, but I wanted to share it somewhere a bit less ephemeral as well. I would greatly appreciate any feedback or corrections that anyone might be able to offer.
-End = true
-
-[LIBRARY RNEWS]
-Title = Poll Results for Favorite Guest Digimon from Beatbreak Episodes 25 through 37
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Guest Digimon from Beatbreak Episodes 25 through 37! Recently the poll closed and we have the results!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Battle 277- Booster Set 26 Match [...]
-Body = Digimon Card Battle is back with episode 277. This time it's back to Digimon Card Room as they do another match with Booster Set 26, they go over the new card effect Succession.
 End = true
 
