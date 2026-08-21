@@ -19,18 +19,13 @@ Body = Hui Ka Yan, who had faced eight charges including misuse of funds and ill
 End = true
 
 [LIBRARY RNEWS]
+Title = Once-secret son of Belgium royal becomes a prince at age 26
+Body = The 26-year-old's existence was first recognised last year by his father, who said the pair had "spoken openly and honestly about this in recent years".
+End = true
+
+[LIBRARY RNEWS]
 Title = Albanese dinner host's family fortune linked to corruption involving relatives
 Body = The fortune of Australian billionaire Phillip Lee, whose son recently hosted a dinner attended by Anthony Albanese, has been linked to major corruption scandals involving relatives in China.
-End = true
-
-[LIBRARY RNEWS]
-Title = North Korea fires missiles into sea as South Korea, US hold military drills
-Body = The ballistic missile launch comes a day after US President Donald Trump said he would visit North Korean leader Kim Jong Un this year.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Tamers 25th Anniversary Animate Fair Product Event Announced for November- New Art
-Body = Amnnibus has announced that in November there will be a Digimon Tamers 25th anniversary Animate Fair event with new products (Animate Fair is generally when they have a 'not quite a pop-up shop' at Animate online, sometimes in a shop or two, with new/exclusive products, and bonus items, etc.) Details will be announced soon, but for now they've previewed the new art, which features the kids in party attire and Digimon... [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +34,22 @@ Body = A bit ago, the official Digimon site put up a poll for your Favorite Gues
 End = true
 
 [LIBRARY RNEWS]
+Title = Digimon Adventure & Beatbreak Pop-Up Corner at Animega x Sofmap Announced for September 15th- Art Previews
+Body = Digimon Adventure & Beatbreak Pop-Up Corner at Animega x Sofmap has been announced. The mini pop-up shop event will run September 15th to October 4th at Animega x Sofmap locations in: Ikebukuro, Yokohama Bivre, Namba Outlet, & Tenjin Building 1.
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon in October V-Jump- Model Kits, Card Game Booster Set 26, Beatbreak Final Arc, & Upcoming Products, Events, & Collabs
 Body = It's time for all the new Digimon content from the October 2026 cover dated issue of V-Jump! We start off with the Digimon Frontier Figure-rise Standard Amplfied MagnaGarurumon model kit.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Digimon Ghost Game Blu-ray Previews- Volume 2 Art & Store Exclusives
+Body = With just a few days until the first Digimon Ghost Game Blu-ray box is out, we have previews of what set 2 will look like from the Ghost Game Blu-ray site and store listings in advance of its release next month. As expected, it features new art from character designer Akihiro Asanuma of Siriusmon...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Tomoro Tenma's Jacket & T-Shirt Set- Pre-Order Info & Images
-Body = The Toei Animation Online Store has put up a standby page for a reproduction of Tomoro's jacket & shirt from Digimon Beatbreak. Based on when pre-orders open tomorrow, we can almost certainly expect it to be featured at some point during Digimon Con 2026.
+Title = Digimon Tamers 25th Anniversary Animate Fair Product Event Announced for November- New Art
+Body = Amnnibus has announced that in November there will be a Digimon Tamers 25th anniversary Animate Fair event with new products (Animate Fair is generally when they have a 'not quite a pop-up shop' at Animate online, sometimes in a shop or two, with new/exclusive products, and bonus items, etc.) Details will be announced soon, but for now they've previewed the new art, which features the kids in party attire and Digimon... [...]
 End = true
 
