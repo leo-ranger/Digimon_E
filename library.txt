@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Zomi Frankcom's family 'deeply disappointed' IDF won't pursue charges
-Body = Zomi Frankcom's brother Mal says the decision to announce the outcome of the IDF investigation on World Humanitarian Day was "an insult to my sister's memory".
+Title = 'Shameful': Australia, UK, Canada slam Israel over probe into aid killings
+Body = Australian Zomi Frankcom, three Britons, a dual US-Canadian national, a Pole and a Palestinian died in a drone strike in Gaza in 2024.
 End = true
 
 [LIBRARY RNEWS]
-Title = Evergrande founder sentenced to life in prison by Chinese court
-Body = Hui Ka Yan, who had faced eight charges including misuse of funds and illegally taking public deposits, pleaded guilty in April, following China Evergrande's collapse five years ago after a quarter of a century in operation.
+Title = Four Australians investigated over alleged Bali bar assault that left Perth man dead
+Body = Indonesian police say they are investigating four Australians over the death of a Perth man following a Kuta bar fight.
 End = true
 
 [LIBRARY RNEWS]
-Title = Once-secret son of Belgium royal becomes a prince at age 26
-Body = The 26-year-old's existence was first recognised last year by his father, who said the pair had "spoken openly and honestly about this in recent years".
+Title = Man charged with foreign interference had 'military-style training' in Russia
+Body = A dual citizen allegedly travelled to Ukraine, collecting information about military personnel, locations and operations for the benefit of Russia.
 End = true
 
 [LIBRARY RNEWS]
-Title = Albanese dinner host's family fortune linked to corruption involving relatives
-Body = The fortune of Australian billionaire Phillip Lee, whose son recently hosted a dinner attended by Anthony Albanese, has been linked to major corruption scandals involving relatives in China.
+Title = Hong Kong Tiananmen vigil organisers convicted [...]
+Body = The former organisers of Hong Kong's vigil in remembrance of the 1989 Tiananmen Square crackdown have been convicted in a case brought under a China-imposed national security law.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Episode 44 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 44, The Strongest Man, is streaming tomorrow, so we get a small stack of preview screenshots from the... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Live- Monday, August 24th [...]
+Body = Monday (August 24th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 44, Ghost Game Blu-ray previews, pop-up shop news, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon in October V-Jump- Model Kits, Card Game Booster Set 26, Beatbreak Final Arc, & Upcoming Products, Events, & Collabs
+Body = It's time for all the new Digimon content from the October 2026 cover dated issue of V-Jump! We start off with the Digimon Frontier Figure-rise Standard Amplfied MagnaGarurumon model kit.
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Adventure & Beatbreak Pop-Up Corner at Animega x Sofmap Announced for September 15th- Art Previews
 Body = Digimon Adventure & Beatbreak Pop-Up Corner at Animega x Sofmap has been announced. The mini pop-up shop event will run September 15th to October 4th at Animega x Sofmap locations in: Ikebukuro, Yokohama Bivre, Namba Outlet, & Tenjin Building 1.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon in October V-Jump- Model Kits, Card Game Booster Set 26, Beatbreak Final Arc, & Upcoming Products, Events, & Collabs
-Body = It's time for all the new Digimon content from the October 2026 cover dated issue of V-Jump! We start off with the Digimon Frontier Figure-rise Standard Amplfied MagnaGarurumon model kit.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Ghost Game Blu-ray Previews- Volume 2 Art & Store Exclusives
-Body = With just a few days until the first Digimon Ghost Game Blu-ray box is out, we have previews of what set 2 will look like from the Ghost Game Blu-ray site and store listings in advance of its release next month. As expected, it features new art from character designer Akihiro Asanuma of Siriusmon...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Tamers 25th Anniversary Animate Fair Product Event Announced for November- New Art
-Body = Amnnibus has announced that in November there will be a Digimon Tamers 25th anniversary Animate Fair event with new products (Animate Fair is generally when they have a 'not quite a pop-up shop' at Animate online, sometimes in a shop or two, with new/exclusive products, and bonus items, etc.) Details will be announced soon, but for now they've previewed the new art, which features the kids in party attire and Digimon... [...]
 End = true
 
