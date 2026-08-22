@@ -14,18 +14,23 @@ Body = Australian Zomi Frankcom, three Britons, a dual US-Canadian national, a P
 End = true
 
 [LIBRARY RNEWS]
+Title = Japan executes man convicted of killing five in pachinko fire
+Body = A man who killed five people by setting fire to a pachinko parlour in Osaka in 2009 has been hanged in Japan's first execution by Sanae Takaichi's government.
+End = true
+
+[LIBRARY RNEWS]
+Title = At least 15 killed in 'despicable' Russian attack on shopping centre in Ukraine
+Body = About 130 others, including children, were injured in the Russian drone attack.
+End = true
+
+[LIBRARY RNEWS]
 Title = Four Australians investigated over alleged Bali bar assault that left Perth man dead
 Body = Indonesian police say they are investigating four Australians over the death of a Perth man following a Kuta bar fight.
 End = true
 
 [LIBRARY RNEWS]
-Title = Man charged with foreign interference had 'military-style training' in Russia
-Body = A dual citizen allegedly travelled to Ukraine, collecting information about military personnel, locations and operations for the benefit of Russia.
-End = true
-
-[LIBRARY RNEWS]
-Title = Hong Kong Tiananmen vigil organisers convicted [...]
-Body = The former organisers of Hong Kong's vigil in remembrance of the 1989 Tiananmen Square crackdown have been convicted in a case brought under a China-imposed national security law.
+Title = Digimon Adventure Aloha Shirt at AniBirth & Toei Online Shop
+Body = Product news time! (2) (3) A new Digimon Adventure product is available at AniBirth now.
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Poll Results for Favorite Guest Digimon from Beatbreak Episodes 25 through 37
 Body = A bit ago, the official Digimon site put up a poll for your Favorite Guest Digimon from Beatbreak Episodes 25 through 37! Recently the poll closed and we have the results!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure & Beatbreak Pop-Up Corner at Animega x Sofmap Announced for September 15th- Art Previews
-Body = Digimon Adventure & Beatbreak Pop-Up Corner at Animega x Sofmap has been announced. The mini pop-up shop event will run September 15th to October 4th at Animega x Sofmap locations in: Ikebukuro, Yokohama Bivre, Namba Outlet, & Tenjin Building 1.
 End = true
 
