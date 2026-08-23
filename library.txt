@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Shameful': Australia, UK, Canada slam Israel over probe into aid killings
-Body = Australian Zomi Frankcom, three Britons, a dual US-Canadian national, a Pole and a Palestinian died in a drone strike in Gaza in 2024.
+Title = Canada will impose retaliatory tariffs on US, prime minister says
+Body = Negotiations over the United States' newly announced tariffs on Canada have fallen apart, as Canadian Prime Minister Mark Carney says the countries won't "return to our old relationship".
 End = true
 
 [LIBRARY RNEWS]
-Title = Japan executes man convicted of killing five in pachinko fire
-Body = A man who killed five people by setting fire to a pachinko parlour in Osaka in 2009 has been hanged in Japan's first execution by Sanae Takaichi's government.
+Title = Ukraine's deadly strikes on Russia open 'Pandora's Box', Putin says
+Body = Ukrainian drones kill at least 10 people in attacks across Russia and Russian-occupied areas of Ukraine, after a Russian strike on a Ukrainian shopping centre killed 16.
 End = true
 
 [LIBRARY RNEWS]
-Title = At least 15 killed in 'despicable' Russian attack on shopping centre in Ukraine
-Body = About 130 others, including children, were injured in the Russian drone attack.
+Title = Chinese robot beats Usain Bolt's 100m world record
+Body = A robot has beaten the 100 metres human world record held by Jamaican sprinting great Usain Bolt at this year's World Humanoid Robot Games.
 End = true
 
 [LIBRARY RNEWS]
-Title = Four Australians investigated over alleged Bali bar assault that left Perth man dead
-Body = Indonesian police say they are investigating four Australians over the death of a Perth man following a Kuta bar fight.
+Title = Thousands of Ervebo vaccine doses arrive in Ebola-stricken DRC
+Body = The Ervebo vaccine is most effective against the Zaire strain of the Ebola virus, however the WHO said it may provide some protection against the current Bundibugyo strain.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure Aloha Shirt at AniBirth & Toei Online Shop
-Body = Product news time! (2) (3) A new Digimon Adventure product is available at AniBirth now.
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = Digimon Beatbreak episode 44, The Strongest Man, is streaming tomorrow, s
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, August 24th [...]
-Body = Monday (August 24th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 44, Ghost Game Blu-ray previews, pop-up shop news, & more! Plus your questions!
+Title = Digimon Beatbreak Updates- Episode 43 Production Art
+Body = A few recent Digimon Beatbreak updates before we get episode 44 later today. We get episode 43 key...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon in October V-Jump- Model Kits, Card Game Booster Set 26, Beatbreak Final Arc, & Upcoming Products, Events, & Collabs
-Body = It's time for all the new Digimon content from the October 2026 cover dated issue of V-Jump! We start off with the Digimon Frontier Figure-rise Standard Amplfied MagnaGarurumon model kit.
+Title = Lost Chronicles II: One World [...]
+Body = Chapter 1 - The Beginning of the End And so it is that I, Wisemon, shall begin the creation of a new documentation of history as it continues to transpire. The preceding day, I finished with my previous telling of history the way it was five hundred years ago.
 End = true
 
 [LIBRARY RNEWS]
-Title = Poll Results for Favorite Guest Digimon from Beatbreak Episodes 25 through 37
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Guest Digimon from Beatbreak Episodes 25 through 37! Recently the poll closed and we have the results!
+Title = Digimon Adventure Aloha Shirt at AniBirth & Toei Online Shop
+Body = Product news time! (2) (3) A new Digimon Adventure product is available at AniBirth now.
 End = true
 
