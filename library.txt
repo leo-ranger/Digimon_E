@@ -9,28 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Iran president says nation has 'many problems' due to sanctions
+Body = Masoud Pezeshkian gives a televised address on state media, saying his nation is "in a full-scale economic, military and security war" after US President Donald Trump announced "the most crushing and terrifying sanctions on Iran".
+End = true
+
+[LIBRARY RNEWS]
+Title = Zelenskyy rejects plea for wartime presidential election
+Body = A long-time political ally of the Ukrainian president — who was recently dumped as defence minister — is the first prominent Ukrainian political figure to call for an election since Russia's invasion began in 2022.
+End = true
+
+[LIBRARY RNEWS]
+Title = Jordan caught in Iran-US-Israel war crossfire [...]
+Body = Almost six months after the US and Israel launched strikes on Iran, kickstarting the war in the Middle East, the turmoil wrought by the conflict has continued to rock Jordan.
+End = true
+
+[LIBRARY RNEWS]
 Title = US imposes visa bonds of up to $27k for several Pacific countries
 Body = Travellers in several Pacific countries will now need to pay a bond of up to $27,000 to travel to the US as that government cracks down on overstayers.
 End = true
 
 [LIBRARY RNEWS]
-Title = Canada will impose retaliatory tariffs on US, prime minister says
-Body = Negotiations over the United States' newly announced tariffs on Canada have fallen apart, as Canadian Prime Minister Mark Carney says the countries won't "return to our old relationship".
-End = true
-
-[LIBRARY RNEWS]
-Title = Ukraine's deadly strikes on Russia open 'Pandora's Box', Putin says
-Body = Ukrainian drones kill at least 10 people in attacks across Russia and Russian-occupied areas of Ukraine, after a Russian strike on a Ukrainian shopping centre killed 16.
-End = true
-
-[LIBRARY RNEWS]
-Title = Chinese robot beats Usain Bolt's 100m world record
-Body = A robot has beaten the 100 metres human world record held by Jamaican sprinting great Usain Bolt at this year's World Humanoid Robot Games.
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 44- The Strongest Man [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 44, The Strongest Man A preview of Episode 44 Episode 44 airs Sunday, August 23rd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Preview for Digimon Beatbreak Episode 45 Big Brother, Little Brother
+Body = https://twitter.com/x/status/2091322024882852231 Time for a preview for Episode 45 Big Brother, Little Brother! Watch episode 44 first!
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Let's play a jogress game [...]
 Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 44 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 44, The Strongest Man, is streaming tomorrow, so we get a small stack of preview screenshots from the... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Updates- Episode 43 Production Art
-Body = A few recent Digimon Beatbreak updates before we get episode 44 later today. We get episode 43 key...
 End = true
 
