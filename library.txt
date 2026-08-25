@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran president says nation has 'many problems' due to sanctions
-Body = Masoud Pezeshkian gives a televised address on state media, saying his nation is "in a full-scale economic, military and security war" after US President Donald Trump announced "the most crushing and terrifying sanctions on Iran".
+Title = Ukraine marks Independence Day as UK vows support despite Russia's threats
+Body = As Ukraine marks 35 years since independence from the Soviet Union, Volodymyr Zelenskyy repeats that his country will not surrender to Russian aggression.
 End = true
 
 [LIBRARY RNEWS]
-Title = Zelenskyy rejects plea for wartime presidential election
-Body = A long-time political ally of the Ukrainian president — who was recently dumped as defence minister — is the first prominent Ukrainian political figure to call for an election since Russia's invasion began in 2022.
+Title = 'I shouldn't be here': Australian murder suspect speaks from Thai prison for first time
+Body = Simon Peter Carman, the Australian man charged with murdering Thai teenager Tunchanok Donhomla, says he acted in self-defence to stop her from stabbing him.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump hits back at Canada after retaliatory tariffs announced
-Body = The US president says Canada "wants the benefits of being a state, without being one", accusing the northern neighbour of taking advantage of American farmers "for many years".
+Title = Wildfire burning near Nevada city forces evacuation of 90,000 residents
+Body = A huge blaze is burning perilously close to neighbourhoods in the city of Reno, with authorities warning that shifting winds could put homes at risk.
 End = true
 
 [LIBRARY RNEWS]
-Title = Landslide at Guinea landfill kills at least 30 [...]
-Body = Authorities say a mountainous heap of refuse has collapsed following heavy rain Sunday morning, local time, with the landslide swamping nearby houses.
+Title = New Zealand prime minister proposes Australia-style social media ban
+Body = The proposal marks New Zealand as the latest country to mull such a law since Australia enacted its world-first under-16s social media ban in December 2025.
 End = true
 
 [LIBRARY RNEWS]
