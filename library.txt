@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Illicit tobacco crackdown leaves customers waiting for 'innocent parcels'
+Body = Recent crackdowns on crime networks leave some Chinese Australian customers caught in the fallout, with their legitimate parcels stuck in affected depots.
+End = true
+
+[LIBRARY RNEWS]
 Title = Chinese factory workers accidentally caught on camera glasses
 Body = A new pair of camera glasses purchased online has been found to contain video footage of factory workers who appear to have been unknowingly filmed.
 End = true
@@ -19,13 +24,18 @@ Body = A beloved icon and philanthropist, Parton was one of the most recognisabl
 End = true
 
 [LIBRARY RNEWS]
-Title = Residents killed overnight not far from police station in Haiti
-Body = Hundreds of Haitians have been killed in frequent gang raids, with a fresh attack prompting thousands to flee their homes.
+Title = As trade war blows up and insults fly, Canada strikes back at Trump
+Body = The trade war between the US and Canada escalates again as Canadian leaders outline a major retaliation against Donald Trump's latest wave of tariffs.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israeli Knesset member vandalises Palestinian memorial in West Bank
-Body = Right-wing Israeli politician Zvi Sukkot vandalised a memorial to Palestinians killed over decades, then uploaded a video of it online.
+Title = Official Digimon Web Poll #156- Favorite Partner Digimon in Digimon Up
+Body = Digimon Web has opened a new fan vote. This is the 156th official web poll on the current version of the site.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Online Pop-Up Shop at Kadokawa Store- Now Until September 22nd- New Festival Art plus Souji & Asuka Anime Art
+Body = A Digimon Beatbreak Online Pop-Up Shop has been announced! (2) It will be held by Kadokawa Store from now until September 22nd.
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 44- The Strongest Man [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 44, The Strongest Man A preview of Episode 44 Episode 44 airs Sunday, August 23rd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Season 3 Blu-ray Discussion [...]
-Body = With the set out, seemed like a good time for a discussion thread! After being out of print on DVD for awhile, Digimon Season 3 is out on Blu-ray from Discotek!
-End = true
-
-[LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
