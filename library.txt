@@ -9,38 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ukraine marks Independence Day as UK vows support despite Russia's threats
-Body = As Ukraine marks 35 years since independence from the Soviet Union, Volodymyr Zelenskyy repeats that his country will not surrender to Russian aggression.
+Title = Chinese factory workers accidentally caught on camera glasses
+Body = A new pair of camera glasses purchased online has been found to contain video footage of factory workers who appear to have been unknowingly filmed.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'I shouldn't be here': Australian murder suspect speaks from Thai prison for first time
-Body = Simon Peter Carman, the Australian man charged with murdering Thai teenager Tunchanok Donhomla, says he acted in self-defence to stop her from stabbing him.
+Title = With 'great sadness', Dolly Parton's family announces star's death
+Body = A beloved icon and philanthropist, Parton was one of the most recognisable stars of the country music world for decades.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian officials warn of 'destructive' US move to 'dismantle' ICC
-Body = There are real concerns within the Australian government about what US President Donald Trump is doing in regards to sanctioning the International Criminal Court, government sources tell the ABC.
+Title = Residents killed overnight not far from police station in Haiti
+Body = Hundreds of Haitians have been killed in frequent gang raids, with a fresh attack prompting thousands to flee their homes.
 End = true
 
 [LIBRARY RNEWS]
-Title = Wildfire burning near Nevada city forces evacuation of 90,000 residents
-Body = A huge blaze is burning perilously close to neighbourhoods in the city of Reno, with authorities warning that shifting winds could put homes at risk.
+Title = Israeli Knesset member vandalises Palestinian memorial in West Bank
+Body = Right-wing Israeli politician Zvi Sukkot vandalised a memorial to Palestinians killed over decades, then uploaded a video of it online.
 End = true
 
 [LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+Title = Digimon Season 3 Blu-ray is Out!- Preview & Breakdown
+Body = It's been a short wait since it was announced a few months ago, and Season 3 of Digimon is available on Blu-ray! Unlike most of our BD articles, this isn't a review, more of a preview and/or tour.
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Episode #314- Burning Bright Before... (Beatbreak Episode 44 & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 44, Ghost Game Blu-ray previews, pop-up shop news, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+Title = CGI evolution sequences [...]
+Body = I understand the partners of the goggleheads and their lancers' partners having CGI evolution sequences in Adventure and Adventure 02. They're the only ones who can reach mega form (and in the case of Veemon and Wormon, use Mode Change) and are generally the most powerful among the heroes.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +44,12 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 44, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 45 Big Brother, Little Brother
-Body = https://twitter.com/x/status/2091322024882852231 Time for a preview for Episode 45 Big Brother, Little Brother! Watch episode 44 first!
+Title = Digimon Season 3 Blu-ray Discussion [...]
+Body = With the set out, seemed like a good time for a discussion thread! After being out of print on DVD for awhile, Digimon Season 3 is out on Blu-ray from Discotek!
+End = true
+
+[LIBRARY RNEWS]
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
