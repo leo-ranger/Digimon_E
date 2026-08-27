@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Illicit tobacco crackdown leaves customers waiting for 'innocent parcels'
-Body = Recent crackdowns on crime networks leave some Chinese Australian customers caught in the fallout, with their legitimate parcels stuck in affected depots.
+Title = Nepali and Tibetan communities fear for relatives caught in flood
+Body = Tibetan and Nepali Australians worry about family and friends missing after a flash flood struck the Nepal-Tibet border.
 End = true
 
 [LIBRARY RNEWS]
-Title = Chinese factory workers accidentally caught on camera glasses
-Body = A new pair of camera glasses purchased online has been found to contain video footage of factory workers who appear to have been unknowingly filmed.
+Title = 165 dead as flash floods wash away Himalayan villages
+Body = The flash flood in the Himalayan border region has killed more than 160 people in Nepal. More than 300 foreign nationals, including dozens of Australians, are missing.
 End = true
 
 [LIBRARY RNEWS]
-Title = With 'great sadness', Dolly Parton's family announces star's death
-Body = A beloved icon and philanthropist, Parton was one of the most recognisable stars of the country music world for decades.
+Title = Prince Harry and Meghan arrive back in UK [...]
+Body = Prince Harry and his wife Meghan arrive back in the UK with their two children, six years after they moved their lives to California amid simmering tensions within the royal family.
 End = true
 
 [LIBRARY RNEWS]
-Title = As trade war blows up and insults fly, Canada strikes back at Trump
-Body = The trade war between the US and Canada escalates again as Canadian leaders outline a major retaliation against Donald Trump's latest wave of tariffs.
+Title = Ukraine awards Elon Musk Order of Freedom for Starlink support
+Body = Ukrainian President Volodymyr Zelenskyy has awarded Elon Musk the Order of Freedom, one of Ukraine's highest state honours.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Tamers 25th Anniversary Animate Fair in November- Online Pre-Orders Now- Product Previews & More Info!
+Body = Announced a bit ago, we have all the details (2) (3) (4) for the Digimon Tamers 25th Anniversary Animate Fair shopping event. It's a wave of pop-up style merchandise with purchase bonus' and more that will be available at a number of Animate shops, plus Amnibus.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Card Battle 278- Booster Set 26 Unboxing [...]
+Body = Digimon Card Battle is back with episode 278. This time it's back to Digimon Card Room as they unbox packs of Digimon Card Game Booster Set 26.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 45- Big Brother, Little Brother
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 45, Big Brother, Little Brother A preview of Episode 45 Episode 45 airs Sunday, August 30th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak Online Pop-Up Shop at Kadokawa Store- Now Until September 22nd- New Festival Art plus Souji & Asuka Anime Art
 Body = A Digimon Beatbreak Online Pop-Up Shop has been announced! (2) It will be held by Kadokawa Store from now until September 22nd.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Season 3 Blu-ray is Out!- Preview & Breakdown
-Body = It's been a short wait since it was announced a few months ago, and Season 3 of Digimon is available on Blu-ray! Unlike most of our BD articles, this isn't a review, more of a preview and/or tour.
-End = true
-
-[LIBRARY RNEWS]
-Title = CGI evolution sequences [...]
-Body = I understand the partners of the goggleheads and their lancers' partners having CGI evolution sequences in Adventure and Adventure 02. They're the only ones who can reach mega form (and in the case of Veemon and Wormon, use Mode Change) and are generally the most powerful among the heroes.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 44- The Strongest Man [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 44, The Strongest Man A preview of Episode 44 Episode 44 airs Sunday, August 23rd, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
