@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Nepali and Tibetan communities fear for relatives caught in flood
+Title = New flood warnings issued in Nepal as death toll rises to 392
+Body = At least 39 Australians are still unaccounted-for in Nepal as rescuers pull hundreds of survivors from the mud and flood zone.
+End = true
+
+[LIBRARY RNEWS]
+Title = The earth-shattering glacier break behind Nepal's flash flooding disaster
+Body = Climate scientists have been warning that the Himalayas are warming faster than the rest of the world, increasing the chances of a disaster of this scale.
+End = true
+
+[LIBRARY RNEWS]
+Title = Australia's Nepali and Tibetan communities fear for relatives
 Body = Tibetan and Nepali Australians worry about family and friends missing after a flash flood struck the Nepal-Tibet border.
 End = true
 
 [LIBRARY RNEWS]
-Title = 165 dead as flash floods wash away Himalayan villages
-Body = The flash flood in the Himalayan border region has killed more than 160 people in Nepal. More than 300 foreign nationals, including dozens of Australians, are missing.
+Title = Survivors tell of family members swept away by Nepal-Tibet floods
+Body = Survivors fear the Nepal-Tibet floods death toll will grow well beyond the 270 people known to be dead, with at least 1,500 missing.
 End = true
 
 [LIBRARY RNEWS]
-Title = Prince Harry and Meghan arrive back in UK [...]
-Body = Prince Harry and his wife Meghan arrive back in the UK with their two children, six years after they moved their lives to California amid simmering tensions within the royal family.
-End = true
-
-[LIBRARY RNEWS]
-Title = Ukraine awards Elon Musk Order of Freedom for Starlink support
-Body = Ukrainian President Volodymyr Zelenskyy has awarded Elon Musk the Order of Freedom, one of Ukraine's highest state honours.
+Title = Magnamon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Magnamon.
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Official Digimon Web Poll #156- Favorite Partner Digimon in Digimon Up
 Body = Digimon Web has opened a new fan vote. This is the 156th official web poll on the current version of the site.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Online Pop-Up Shop at Kadokawa Store- Now Until September 22nd- New Festival Art plus Souji & Asuka Anime Art
-Body = A Digimon Beatbreak Online Pop-Up Shop has been announced! (2) It will be held by Kadokawa Store from now until September 22nd.
 End = true
 
