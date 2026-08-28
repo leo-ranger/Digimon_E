@@ -9,11 +9,6 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = People seen rushing uphill in Nepal amid fresh flooding threat
-Body = Nepal and China have both warned of fresh flooding risks in the Himalayas, as a lake that has developed across the border due to debris threatens to burst.
-End = true
-
-[LIBRARY RNEWS]
 Title = Survivors fear all is lost after Nepal-Tibet floods
 Body = Some survivors say they have lost everything after the Nepal-Tibet floods that killed at least 469 people and left thousands missing.
 End = true
@@ -24,23 +19,13 @@ Body = Satellite imagery over the Nepal-Tibet areas hit by floods show buildings
 End = true
 
 [LIBRARY RNEWS]
-Title = New flood warnings issued in Nepal as death toll rises to 469
-Body = At least 39 Australians are still unaccounted-for in Nepal as rescuers pull hundreds of survivors from the mud and flood zone.
+Title = Six months into Iran war, we ask experts how it could end
+Body = Six months into a war originally sold as a "short-term excursion", experts say the United States and Iran are in a stalemate where prospects for peace are "bleak", but not impossible.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure Mejirushi Character Keychains Series 3 Out November- Baby 2/In-Training Digimon Partners
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Acrylic Stand Buddy Collection Announced- Teaser Image, Countdown Announcement, & More!
-Body = Megahouse has announced the Digimon Beatbreak Acrylic Stand Buddy Collection. (2) It will be a collection of multiple character SD images, with six in total planned to be released.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak in Toei TV Anime 2027 Calendar [...]
-Body = As is tradition, the current Digimon TV anime, Digimon Beatbreak, is included in the Toei TV Anime 2027 wall calendar. The cover image includes Tomoro & Gekkomon, while October will feature new art of Glowing Dawn.
+Title = Norway's King Harald, Europe's oldest reigning monarch, dies
+Body = King Harald of Norway has died, according to the European country's royal court.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +34,22 @@ Body = With the Tokyo Toy Show this weekend, and press days already happening, w
 End = true
 
 [LIBRARY RNEWS]
-Title = Do we visit the Digital World in Beat Break? [...]
-Body = Title says iet all. I want to start a discussion about it.
+Title = Digimon Adventure Mejirushi Character Keychains Series 3 Out November- Baby 2/In-Training Digimon Partners
+Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Live- Monday, August 31st [...]
+Body = Monday (August 31st) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 45, Digimon Season 3 (Tamers) Blu-rays, cards, products, pop-up shops, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Episode 45 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 45, Big Brother, Little Brother, is streaming tomorrow, so we get a small stack of preview screenshots from the... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Magnamon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Magnamon.
 End = true
 
