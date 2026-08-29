@@ -9,8 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Survivors fear all is lost after Nepal-Tibet floods
-Body = Some survivors say they have lost everything after the Nepal-Tibet floods that killed at least 469 people and left thousands missing.
+Title = The race against time to save what remains following Nepal floods
+Body = Rescue teams are working against the land itself as they search for survivors of devastating flash flooding in Nepal and Tibet.
+End = true
+
+[LIBRARY RNEWS]
+Title = The spiritual mountain the missing Australians were visiting
+Body = Most of the dozens of Australians missing after the flash flood that struck the Himalayas on the border of Nepal and Tibet were pilgrims to a spiritually important mountain known as Kailash.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,13 +24,13 @@ Body = Satellite imagery over the Nepal-Tibet areas hit by floods show buildings
 End = true
 
 [LIBRARY RNEWS]
-Title = Six months into Iran war, we ask experts how it could end
-Body = Six months into a war originally sold as a "short-term excursion", experts say the United States and Iran are in a stalemate where prospects for peace are "bleak", but not impossible.
+Title = 'Darn good' or 'functioning': Closing arguments in mother's murder trial
+Body = A jury is left to decide the fate of US mother Lindsay Clancy, who has spent five weeks on trial for the murder of her three young children.
 End = true
 
 [LIBRARY RNEWS]
-Title = Norway's King Harald, Europe's oldest reigning monarch, dies
-Body = King Harald of Norway has died, according to the European country's royal court.
+Title = Digimon 29th Anniversary: Digimon & Meat Themed Project Part 2- Meat Afternoon Tea by Kagemaru Himeno
+Body = We get the second entry of the Digimon & Meat Themed Project! Since Digimon is celebrating its 29th anniversary, and 29 can be read as meat in Japanese, and the Digimon franchise has always featured meat, they're doing a series of illustrations to celebrate, on the 29th day of the month.
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak Episode 45 Preview Screenshots [...]
 Body = Digimon Beatbreak episode 45, Big Brother, Little Brother, is streaming tomorrow, so we get a small stack of preview screenshots from the... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Magnamon Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Magnamon.
 End = true
 
