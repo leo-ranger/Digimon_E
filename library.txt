@@ -14,6 +14,11 @@ Body = Rescue teams are working against the land itself as they search for survi
 End = true
 
 [LIBRARY RNEWS]
+Title = Why China's censors are scrubbing videos of the Nepal-Tibet floods
+Body = After a horrifying video of a landslide hitting China-controlled Tibet emerged online, it started to disappear in China. This is just one way Beijing is trying to control information about the disaster.
+End = true
+
+[LIBRARY RNEWS]
 Title = The spiritual mountain the missing Australians were visiting
 Body = Most of the dozens of Australians missing after the flash flood that struck the Himalayas on the border of Nepal and Tibet were pilgrims to a spiritually important mountain known as Kailash.
 End = true
@@ -21,11 +26,6 @@ End = true
 [LIBRARY RNEWS]
 Title = Before and after: Nepal-Tibet's flood destruction [...]
 Body = Satellite imagery over the Nepal-Tibet areas hit by floods show buildings, bridges, and homes completely wiped from the map.
-End = true
-
-[LIBRARY RNEWS]
-Title = 'Darn good' or 'functioning': Closing arguments in mother's murder trial
-Body = A jury is left to decide the fate of US mother Lindsay Clancy, who has spent five weeks on trial for the murder of her three young children.
 End = true
 
 [LIBRARY RNEWS]
