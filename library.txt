@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = The race against time to save what remains following Nepal floods
-Body = Rescue teams are working against the land itself as they search for survivors of devastating flash flooding in Nepal and Tibet.
+Title = Himalayan communities face cascading threats as mountains thaw
+Body = Beyond melting ice and glacial lakes at risk of overflowing, the very ground Himalayan communities have built their lives on is shifting.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why China's censors are scrubbing videos of the Nepal-Tibet floods
-Body = After a horrifying video of a landslide hitting China-controlled Tibet emerged online, it started to disappear in China. This is just one way Beijing is trying to control information about the disaster.
+Title = Japan's overlooked indigenous people fight for return of ancestor's remains
+Body = A group of indigenous people are suing the Japanese government for the return of ancestral remains taken during the brutal colonisation of Hokkaido.
 End = true
 
 [LIBRARY RNEWS]
-Title = The spiritual mountain the missing Australians were visiting
-Body = Most of the dozens of Australians missing after the flash flood that struck the Himalayas on the border of Nepal and Tibet were pilgrims to a spiritually important mountain known as Kailash.
+Title = Kyiv warehouse explosion kills 37 on third night of aerial assault
+Body = A Russian drone strike on the warehouse in Kyiv sparked a detonation, prompting residents to be evacuated.
 End = true
 
 [LIBRARY RNEWS]
-Title = Before and after: Nepal-Tibet's flood destruction [...]
-Body = Satellite imagery over the Nepal-Tibet areas hit by floods show buildings, bridges, and homes completely wiped from the map.
+Title = Interest rates, fish and Donald Trump on Icelanders' minds as nation goes to referendum on EU
+Body = Iceland is a nation divided as its people go to a referendum this weekend to decide whether it should restart negotiations on joining the European Union.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon 29th Anniversary: Digimon & Meat Themed Project Part 2- Meat Afternoon Tea by Kagemaru Himeno
-Body = We get the second entry of the Digimon & Meat Themed Project! Since Digimon is celebrating its 29th anniversary, and 29 can be read as meat in Japanese, and the Digimon franchise has always featured meat, they're doing a series of illustrations to celebrate, on the 29th day of the month.
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon at Tokyo Toy Fair- New V-Pets Teased and Beatbreak V-Pet Pre-order Next Month
-Body = With the Tokyo Toy Show this weekend, and press days already happening, we have some photos from Digimon Web and Masashi Harada, plus some... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure Mejirushi Character Keychains Series 3 Out November- Baby 2/In-Training Digimon Partners
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, August 31st [...]
-Body = Monday (August 31st) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 45, Digimon Season 3 (Tamers) Blu-rays, cards, products, pop-up shops, & more! Plus your questions!
+Title = Digimon Beatbreak: Episode 45- Big Brother, Little Brother
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 45, Big Brother, Little Brother A preview of Episode 45 Episode 45 airs Sunday, August 30th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak Episode 45 Preview Screenshots [...]
 Body = Digimon Beatbreak episode 45, Big Brother, Little Brother, is streaming tomorrow, so we get a small stack of preview screenshots from the... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 43- The White Digimon [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 43, The White Digimon A preview of Episode 43 Episode 43 airs Sunday, August 16th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Updates- Episode 44 Production Art & Tokyo Toy Show Photos
+Body = A few recent Digimon Beatbreak updates before we get episode 45 later today. We get episode 43 key...
 End = true
 
