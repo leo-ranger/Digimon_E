@@ -9,8 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Himalayan communities face cascading threats as mountains thaw
-Body = Beyond melting ice and glacial lakes at risk of overflowing, the very ground Himalayan communities have built their lives on is shifting.
+Title = Nepal monastery becomes evacuation centre for survivors
+Body = The Gosok Phuntsok Choeling monastery is now a makeshift evacuation centre for those who have survived the Nepal flood disaster.
+End = true
+
+[LIBRARY RNEWS]
+Title = Hundreds attend vigils in Australia for those missing in Nepal disaster
+Body = The Department of Foreign Affairs and Trade dispatches crisis teams to Nepal to help find 42 Australians missing since Wednesday's devastating floods.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,18 +24,13 @@ Body = A group of indigenous people are suing the Japanese government for the re
 End = true
 
 [LIBRARY RNEWS]
-Title = Kyiv warehouse explosion kills 37 on third night of aerial assault
-Body = A Russian drone strike on the warehouse in Kyiv sparked a detonation, prompting residents to be evacuated.
+Title = Himalayan communities face cascading threats as mountains thaw
+Body = Beyond melting ice and glacial lakes at risk of overflowing, the very ground Himalayan communities have built their lives on is shifting.
 End = true
 
 [LIBRARY RNEWS]
-Title = Interest rates, fish and Donald Trump on Icelanders' minds as nation goes to referendum on EU
-Body = Iceland is a nation divided as its people go to a referendum this weekend to decide whether it should restart negotiations on joining the European Union.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+Title = Digimon 29th Anniversary: Digimon & Meat Themed Project Part 2- Meat Afternoon Tea by Kagemaru Himeno
+Body = We get the second entry of the Digimon & Meat Themed Project! Since Digimon is celebrating its 29th anniversary, and 29 can be read as meat in Japanese, and the Digimon franchise has always featured meat, they're doing a series of illustrations to celebrate, on the 29th day of the month.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 45, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 45 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 45, Big Brother, Little Brother, is streaming tomorrow, so we get a small stack of preview screenshots from the... [...]
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 43- The White Digimon [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 43, The White Digimon A preview of Episode 43 Episode 43 airs Sunday, August 16th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Beatbreak Acrylic Stand Buddy Collection Reveal 1- Tomoro & Gekkomon
+Body = As previously announced, the six stands in the Digimon Beatbreak Acrylic Stand Buddy Collection would be revealed one at a time. The first, Tomoro and Gekkomon, has been shown off.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Updates- Episode 44 Production Art & Tokyo Toy Show Photos
-Body = A few recent Digimon Beatbreak updates before we get episode 45 later today. We get episode 43 key...
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
