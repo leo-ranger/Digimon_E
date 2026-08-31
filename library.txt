@@ -9,33 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Nepal monastery becomes evacuation centre for survivors
-Body = The Gosok Phuntsok Choeling monastery is now a makeshift evacuation centre for those who have survived the Nepal flood disaster.
+Title = Four more missing Australians identified in Nepal disaster as rescue efforts continue
+Body = Tunnel rescue efforts intensify at several hydropower stations across Nepal to reach more than 930 trapped, as four more missing Australians are identified.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hundreds attend vigils in Australia for those missing in Nepal disaster
-Body = The Department of Foreign Affairs and Trade dispatches crisis teams to Nepal to help find 42 Australians missing since Wednesday's devastating floods.
+Title = Families fear for Australians possibly missing in China after Nepal-Tibet floods
+Body = Families of Australians missing in the Nepal-Tibet floods are trying to piece together their loved ones' last movements, amid concerns about a lack of information on the Chinese side of the border.
 End = true
 
 [LIBRARY RNEWS]
-Title = Japan's overlooked indigenous people fight for return of ancestor's remains
-Body = A group of indigenous people are suing the Japanese government for the return of ancestral remains taken during the brutal colonisation of Hokkaido.
+Title = Nepali teacher saved hundreds of students from flood, minutes before it arrived
+Body = About 1,600 schoolchildren were saved by their teacher shortly before the school was inundated in last week's devastating floods.
 End = true
 
 [LIBRARY RNEWS]
-Title = Himalayan communities face cascading threats as mountains thaw
-Body = Beyond melting ice and glacial lakes at risk of overflowing, the very ground Himalayan communities have built their lives on is shifting.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon 29th Anniversary: Digimon & Meat Themed Project Part 2- Meat Afternoon Tea by Kagemaru Himeno
-Body = We get the second entry of the Digimon & Meat Themed Project! Since Digimon is celebrating its 29th anniversary, and 29 can be read as meat in Japanese, and the Digimon franchise has always featured meat, they're doing a series of illustrations to celebrate, on the 29th day of the month.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 45- Big Brother, Little Brother
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 45, Big Brother, Little Brother A preview of Episode 45 Episode 45 airs Sunday, August 30th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Iceland rejects EU-accession talks in close-fought referendum
+Body = Icelanders have rejected a government push to reopen membership talks and side with those who said Iceland's fishing waters were too important to risk.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,8 +34,18 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Acrylic Stand Buddy Collection Reveal 1- Tomoro & Gekkomon
-Body = As previously announced, the six stands in the Digimon Beatbreak Acrylic Stand Buddy Collection would be revealed one at a time. The first, Tomoro and Gekkomon, has been shown off.
+Title = Preview for Digimon Beatbreak Episode 46 Glitch [...]
+Body = https://twitter.com/x/status/2093858740533657654 Time for a preview for Episode 46 Glitch! Watch episode 45 first!
+End = true
+
+[LIBRARY RNEWS]
+Title = Thoughts on Fields [...]
+Body = Fields are rather interesting to me. Appearing in the card game after the Pendulum devices, the first 5 (Nature Spirits, Deep Savers, Nightmare Soldiers, Wind Guardians, and Metal Empire) seemed to group them by habitat.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 45- Big Brother, Little Brother
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 45, Big Brother, Little Brother A preview of Episode 45 Episode 45 airs Sunday, August 30th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
