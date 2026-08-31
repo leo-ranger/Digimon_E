@@ -9,8 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Four more missing Australians identified in Nepal disaster as rescue efforts continue
-Body = Tunnel rescue efforts intensify at several hydropower stations across Nepal to reach more than 930 trapped, as four more missing Australians are identified.
+Title = Queensland mum, Sydney dad among Australians missing in Nepal
+Body = A Queensland mother and a Sydney father are among dozens of Australians missing in Nepal following last week's deadly flooding.
+End = true
+
+[LIBRARY RNEWS]
+Title = Albanese could be walking into a bust-up at Pacific Islands meeting this week
+Body = Pacific leaders are descending on Palau for what could be a particularly politically charged Pacific Islands Forum leaders meeting.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,13 +24,13 @@ Body = Families of Australians missing in the Nepal-Tibet floods are trying to p
 End = true
 
 [LIBRARY RNEWS]
-Title = Nepali teacher saved hundreds of students from flood, minutes before it arrived
-Body = About 1,600 schoolchildren were saved by their teacher shortly before the school was inundated in last week's devastating floods.
+Title = Four more missing Australians identified in Nepal disaster as rescue efforts continue
+Body = Tunnel rescue efforts intensify at several hydropower stations across Nepal to reach more than 930 trapped, as four more missing Australians are identified.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iceland rejects EU-accession talks in close-fought referendum
-Body = Icelanders have rejected a government push to reopen membership talks and side with those who said Iceland's fishing waters were too important to risk.
+Title = Let's play a jogress game [...]
+Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +49,7 @@ Body = Fields are rather interesting to me. Appearing in the card game after the
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 45- Big Brother, Little Brother
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 45, Big Brother, Little Brother A preview of Episode 45 Episode 45 airs Sunday, August 30th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Let's play a jogress game [...]
-Body = So I read the random commentary on evolution relationships thread and thought about a little game: Step 1: Think about a digimon of any level Step 2: Think about a digimon unrelated with the previous one of the same level Got it? Now the next person to post must think about a digimon that might work as a combination of both digimon and then introduce two new digimon to be combined by the next person to post.
+Title = Digimon Adventure Tag & Crest Accessory Set- Images, Info, & Pre-Orders
+Body = With Odaiba Memorial having hit, we have something a bit fun, a new tag & crest set that is a bit different than prior ones. Click to expand...
 End = true
 
