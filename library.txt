@@ -9,28 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Pleas to intensify search efforts for Sydney couple missing in Nepal
+Body = Chitra Venkatraman and her husband Venkatraman Balakrishnan were on a spiritual tour when deadly flash floods swept through the Nepal-Tibet border last Wednesday.
+End = true
+
+[LIBRARY RNEWS]
 Title = Missing Australian found in Tibet was not in flood zone, China says
-Body = One of 43 missing Australians is found alive six days after catastrophic floods hit the Nepal-China border.
+Body = One of 38 missing Australians is found alive six days after catastrophic floods hit the Nepal-China border.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'It's coming': Warning highlights looming threat facing Nepal
-Body = The ABC sees villages buried under mud, locals sheltering in school halls with no running water, and aid workers racing against time to stop disease spreading.
+Title = Warning signs visible days before glacier collapse in Nepal, report finds
+Body = A rapid hazard assessment of the Nepal-Tibet disaster says there were "pre-event indications" of the avalanche, including satellite imagery showing a change in the surface of the collapsed glacier.
 End = true
 
 [LIBRARY RNEWS]
-Title = China warns Pacific nations of 'consequences' for Taiwan forum invite
-Body = There are concerns tensions between China and Taiwan could explode into the open at this year's meeting, distracting from the key Pacific priorities.
+Title = Andrew Mountbatten-Windsor 'committed sex crimes in US', congressman says
+Body = Breakaway Republican Thomas Massie uses congressional privilege to accuse Andrew Mountbatten-Windsor, the former Duke of York, of committing sex crimes in the United States.
 End = true
 
 [LIBRARY RNEWS]
-Title = India's PM Modi calls on Putin to end war in Ukraine
-Body = Indian Prime Minister Narendra Modi tells Russian President Vladimir Putin the war in Ukraine needs to end for humanity's sake.
+Title = Dorimon & Tamer Card Kouta/Kota Previews for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Digimon Beatbreak: Episode 45- Big Brother, Little Brother
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 45, Big Brother, Little Brother A preview of Episode 45 Episode 45 airs Sunday, August 30th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Mega Egg Figure Digimon Adventure- Good Night Digimon Collection Figure Previews- Pre-Orders on September 10th
+Body = Announced a month ago at Digimon Times with no news minus it being part of the 'Mega Egg' line, we have preview images and release info, plus a proper product name... Mega Egg Figure Digimon Adventure- Good Night Digimon Collection will go up for pre-order on September 10th.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +49,7 @@ Body = This is a thread for the various fan-made digimon profiles I've written u
 End = true
 
 [LIBRARY RNEWS]
-Title = Preview for Digimon Beatbreak Episode 46 Glitch [...]
-Body = https://twitter.com/x/status/2093858740533657654 Time for a preview for Episode 46 Glitch! Watch episode 45 first!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Collaboration Event at Aqua City Odaiba and Tokyo Ramen Kokugikan Mai Starts September 12th- Themed Ramens, Pop-Up Shop, & More!
-Body = Aqua City Odaiba x Digimon in Tokyo Ramen Kokugikan Mai was announced a month ago during Digimon Times, and with the event starting under two weeks, they've detailed the sizeable collaboration. (2) The collaboration event with Digimon Beatbreak & Digimon Adventure will take place September 12th through October 11th at Aqua City Odaiba, with a focus on Tokyo Ramen Kokugikan Mai.
-End = true
-
-[LIBRARY RNEWS]
-Title = Mega Egg Figure Digimon Adventure- Good Night Digimon Collection Figure Previews- Pre-Orders on September 10th
-Body = Announced a month ago at Digimon Times with no news minus it being part of the 'Mega Egg' line, we have preview images and release info, plus a proper product name... Mega Egg Figure Digimon Adventure- Good Night Digimon Collection will go up for pre-order on September 10th.
+Title = Dukemon/Gallantmon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Dukemon/Gallantmon.
 End = true
 
