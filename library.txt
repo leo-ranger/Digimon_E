@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Four Australians found in Nepal, but dozens of others still missing
+Body = A week on from the flood disaster, another four Australians have been found safe.
+End = true
+
+[LIBRARY RNEWS]
 Title = Pleas to intensify search efforts for Sydney couple missing in Nepal
 Body = Chitra Venkatraman and her husband Venkatraman Balakrishnan were on a spiritual tour when deadly flash floods swept through the Nepal-Tibet border last Wednesday.
 End = true
 
 [LIBRARY RNEWS]
-Title = Missing Australian found in Tibet was not in flood zone, China says
-Body = One of 38 missing Australians is found alive six days after catastrophic floods hit the Nepal-China border.
+Title = Australia's $600m scheme to stop drug smuggling through the Pacific
+Body = The drug smuggling trade ravaging some Pacific communities is being fed by Australia's appetites for illegal drugs with seizures more than three times higher than last year.
 End = true
 
 [LIBRARY RNEWS]
-Title = Warning signs visible days before glacier collapse in Nepal, report finds
-Body = A rapid hazard assessment of the Nepal-Tibet disaster says there were "pre-event indications" of the avalanche, including satellite imagery showing a change in the surface of the collapsed glacier.
+Title = Prosecutors allowed to seek death penalty in Charlie Kirk murder case
+Body = A judge has ruled that Tyler Robinson, the man accused of fatally shooting Charlie Kirk last year, should face trial on murder charges in a case eligible for the death penalty.
 End = true
 
 [LIBRARY RNEWS]
-Title = Andrew Mountbatten-Windsor 'committed sex crimes in US', congressman says
-Body = Breakaway Republican Thomas Massie uses congressional privilege to accuse Andrew Mountbatten-Windsor, the former Duke of York, of committing sex crimes in the United States.
+Title = Digimon Season 3 Blu-ray Discussion [...]
+Body = With the set out, seemed like a good time for a discussion thread! After being out of print on DVD for awhile, Digimon Season 3 is out on Blu-ray from Discotek!
 End = true
 
 [LIBRARY RNEWS]
-Title = Dorimon & Tamer Card Kouta/Kota Previews for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26... [...]
+Title = Poll Results for Favorite Ice-Related Digimon [...]
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Ice-Related Digimon! Recently the poll closed and we have the results!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 45- Big Brother, Little Brother
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 45, Big Brother, Little Brother A preview of Episode 45 Episode 45 airs Sunday, August 30th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
-Title = Mega Egg Figure Digimon Adventure- Good Night Digimon Collection Figure Previews- Pre-Orders on September 10th
-Body = Announced a month ago at Digimon Times with no news minus it being part of the 'Mega Egg' line, we have preview images and release info, plus a proper product name... Mega Egg Figure Digimon Adventure- Good Night Digimon Collection will go up for pre-order on September 10th.
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = General fan-made Digimon thread. [...]
-Body = This is a thread for the various fan-made digimon profiles I've written up for my various projects. Some I plan to use in stories, some I just write and conceptualize for the hell of it.
-End = true
-
-[LIBRARY RNEWS]
-Title = Dukemon/Gallantmon Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Dukemon/Gallantmon.
+Title = New Digimon Adventure Products at AniBirth & Online on September 18th, New AniBirth Shop Will Open & Have Them on the 4th- Omegamon & Etemon Themed
+Body = Product news time! (2) But first... [...]
 End = true
 
