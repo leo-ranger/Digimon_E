@@ -14,33 +14,28 @@ Body = Gold bars worth millions of dollars and thousands in cash have been stole
 End = true
 
 [LIBRARY RNEWS]
+Title = After the flood, another crisis is unfolding underground in Nepal
+Body = Scenes from the floods in Nepal and Tibet are catastrophic. But another disaster is unfolding underground and out of sight.
+End = true
+
+[LIBRARY RNEWS]
+Title = Frustrated with rescue efforts, Australians are flying to Nepal themselves
+Body = Relatives of missing Australians in the Nepal-Tibet floods are frustrated with the official search and rescue effort, heading to Nepal themselves to search for answers.
+End = true
+
+[LIBRARY RNEWS]
 Title = Iran accuses US of a 'war crime' after strikes kill people at wedding party
 Body = Iranian officials are comparing the incident to a strike on a girl's school on the first night of the war which killed 160 people.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tiger Woods loses driving licence for five years after plea deal
-Body = The champion golfer submits a no contest pleas to a reckless driving charge after a crash near his Florida home in March.
+Title = Hackmon/Huckmon, BaoHackmon/BaoHuckmon, & SaviorHackmon/SaviorHuckmon Previews for Digimon Card Game Booster Set EX-13
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Four Australians found in Nepal, but dozens of others still missing
-Body = A week on from the flood disaster, another four Australians have been found safe.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Eggs Preview from Saikyo Jump [...]
-Body = With Digimon Eggs by Ayumu Minato starting next month, Saikyo Jump put up a preview of the manga. That also includes the logo.
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Mon Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Mon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digivice Internals [...]
-Body = Looking to shell swap my Monster Hunter 20th Edition into something a bit more my style. Does anyone know where I can find pictures of the internals (shell, pcb, etc) of the various digivices with this original form factor to consider my color options?
+Title = Mega Egg Figure Digimon Adventure- Good Night Digimon Collection Figure Previews- Pre-Orders on September 10th
+Body = Announced a month ago at Digimon Times with no news minus it being part of the 'Mega Egg' line, we have preview images and release info, plus a proper product name... Mega Egg Figure Digimon Adventure- Good Night Digimon Collection will go up for pre-order on September 10th.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +44,12 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Season 3 Blu-ray Discussion [...]
-Body = With the set out, seemed like a good time for a discussion thread! After being out of print on DVD for awhile, Digimon Season 3 is out on Blu-ray from Discotek!
+Title = Digimon Adventure & Beatbreak Pop-Up Corner at Animega x Sofmap on September 15th- Details, Product Previews, Online Sales, & More
+Body = After being announced two weeks ago we have all the details for Digimon Adventure & Beatbreak Pop-Up Corner at Animega x Sofmap. (2) Digimon Adventure & Beatbreak Pop-Up Corner will be held at various Animega x Sofmap shop locations from September 15th through October 4th.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Eggs Preview from Saikyo Jump [...]
+Body = With Digimon Eggs by Ayumu Minato starting next month, Saikyo Jump put up a preview of the manga. That also includes the logo.
 End = true
 
