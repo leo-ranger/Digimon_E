@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Armed gang carries out one of PNG's biggest robberies in history
+Body = Gold bars worth millions of dollars and thousands in cash have been stolen at gunpoint in a brazen heist in Papua New Guinea.
+End = true
+
+[LIBRARY RNEWS]
+Title = Iran accuses US of a 'war crime' after strikes kill people at wedding party
+Body = Iranian officials are comparing the incident to a strike on a girl's school on the first night of the war which killed 160 people.
+End = true
+
+[LIBRARY RNEWS]
+Title = Tiger Woods loses driving licence for five years after plea deal
+Body = The champion golfer submits a no contest pleas to a reckless driving charge after a crash near his Florida home in March.
+End = true
+
+[LIBRARY RNEWS]
 Title = Four Australians found in Nepal, but dozens of others still missing
 Body = A week on from the flood disaster, another four Australians have been found safe.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pleas to intensify search efforts for Sydney couple missing in Nepal
-Body = Chitra Venkatraman and her husband Venkatraman Balakrishnan were on a spiritual tour when deadly flash floods swept through the Nepal-Tibet border last Wednesday.
+Title = Digimon Eggs Preview from Saikyo Jump [...]
+Body = With Digimon Eggs by Ayumu Minato starting next month, Saikyo Jump put up a preview of the manga. That also includes the logo.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australia's $600m scheme to stop drug smuggling through the Pacific
-Body = The drug smuggling trade ravaging some Pacific communities is being fed by Australia's appetites for illegal drugs with seizures more than three times higher than last year.
+Title = Tamer Card Mon Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Mon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Prosecutors allowed to seek death penalty in Charlie Kirk murder case
-Body = A judge has ruled that Tyler Robinson, the man accused of fatally shooting Charlie Kirk last year, should face trial on murder charges in a case eligible for the death penalty.
+Title = Digivice Internals [...]
+Body = Looking to shell swap my Monster Hunter 20th Edition into something a bit more my style. Does anyone know where I can find pictures of the internals (shell, pcb, etc) of the various digivices with this original form factor to consider my color options?
+End = true
+
+[LIBRARY RNEWS]
+Title = Tamer Card Mon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Mon.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Season 3 Blu-ray Discussion [...]
 Body = With the set out, seemed like a good time for a discussion thread! After being out of print on DVD for awhile, Digimon Season 3 is out on Blu-ray from Discotek!
-End = true
-
-[LIBRARY RNEWS]
-Title = Poll Results for Favorite Ice-Related Digimon [...]
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Ice-Related Digimon! Recently the poll closed and we have the results!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
-End = true
-
-[LIBRARY RNEWS]
-Title = New Digimon Adventure Products at AniBirth & Online on September 18th, New AniBirth Shop Will Open & Have Them on the 4th- Omegamon & Etemon Themed
-Body = Product news time! (2) But first... [...]
 End = true
 
