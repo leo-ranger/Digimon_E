@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Pacific nation forgotten during awkward moment at leaders forum
+Body = There was dissent, awkward moments, nations forgotten and one 'unifying' message as the Pacific Islands Forum wrapped up in Palau.
+End = true
+
+[LIBRARY RNEWS]
 Title = US vice-president says Iran conflict not a war [...]
 Body = Just days after the biggest escalation in hostilities in more than a month, US Vice-President JD Vance says he would not categorise the Iran conflict as a war.
+End = true
+
+[LIBRARY RNEWS]
+Title = Inside the campaign to raise awareness about Imran Khan's plight
+Body = Imran Khan went from swashbuckling cricketer to Pakistan PM and then political prisoner. His sons now hold grave fears for their father's health.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,13 +29,8 @@ Body = A suspected arson attack at a German defence manufacturer comes just a da
 End = true
 
 [LIBRARY RNEWS]
-Title = These guides lead tourists into the Himalayas; now they must carry something heavier
-Body = For many of Nepal's trekking guides, who lead tourists through the Himalayas, there is something heavier to carry into the mountains this year: their grief.
-End = true
-
-[LIBRARY RNEWS]
-Title = Billionaire Leon Black skips US congressional deposition over Epstein ties
-Body = The billionaire investor instead files a lawsuit challenging the subpoenas from the US congressional committee, which is looking into Jeffrey Epstein's links to the rich and powerful.
+Title = PrinceMamemon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's PrinceMamemo .
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = With Digimon Eggs by Ayumu Minato starting next month, Saikyo Jump put up
 End = true
 
 [LIBRARY RNEWS]
-Title = Kokuwamon, Thunderballmon/Thundermon, and BigMamemon Previews for Digimon Card Game Booster Set EX-13
-Body = ... [...] [...]
+Title = Digimon Story: Time Stranger Discussion Thread [...]
+Body = Digimon Story: Time Stranger isn't out until early October, but half a day from the time of this post, a demo will go up that contains the first portion of the game, with save data being useable in the full game once it's out, so anyone who wants to will be able to get started immediately. Realistically if you are jumping into a full discussion thread for the game at this point, spoiler tags aren't needed, as it'll be...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Hackmon/Huckmon, BaoHackmon/BaoHuckmon, & SaviorHackmon/SaviorHuckmon Previews for Digimon Card Game Booster Set EX-13
-Body = ... [...] [...]
+Title = Digimon Adventure Pop-Up Shop at Gran Entas Akihabara Starts September 26th- Product Info & More, New Art with Traditional Updated Outfits & Omegamon
+Body = Digimon Adventure Pop-Up Shop at Gran Entas Akihabara was announced a bit over a month ago, and we have more details and previews since it's starting in a few weeks. The shop will be held at the Gran Entas Akihabara September 26th through October 12th.
 End = true
 
