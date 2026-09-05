@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pacific nation forgotten during awkward moment at leaders forum
-Body = There was dissent, awkward moments, nations forgotten and one 'unifying' message as the Pacific Islands Forum wrapped up in Palau.
+Title = These guides lead tourists into the Himalayas; now they must carry something heavier
+Body = For many of Nepal's trekking guides, who lead tourists through the Himalayas, there is something heavier to carry into the mountains this year: their grief.
 End = true
 
 [LIBRARY RNEWS]
-Title = US vice-president says Iran conflict not a war [...]
-Body = Just days after the biggest escalation in hostilities in more than a month, US Vice-President JD Vance says he would not categorise the Iran conflict as a war.
+Title = Russian drone attack hits Ukraine's SBU headquarters in Kyiv
+Body = During more than four-and-a-half years of war with Russia, Ukrainian government buildings have rarely been damaged in drone and missile strikes.
 End = true
 
 [LIBRARY RNEWS]
-Title = Inside the campaign to raise awareness about Imran Khan's plight
-Body = Imran Khan went from swashbuckling cricketer to Pakistan PM and then political prisoner. His sons now hold grave fears for their father's health.
+Title = Argentina's Milei vows Falklands oil sanctions in sovereignty push
+Body = Argentine President Javier Milei escalates his country's dispute with Britain over the Falkland Islands, vowing new measures to halt an oil project near the British-controlled archipelago.
 End = true
 
 [LIBRARY RNEWS]
-Title = European allies sound alarm at more incidents of alleged Russian sabotage
-Body = A suspected arson attack at a German defence manufacturer comes just a day after two separate attempts to sabotage the country's power grid.
+Title = Romanian prosecutors indict Tate brothers for trafficking minors, money laundering
+Body = Prosecutors allege the Tates recruited their victims by seducing them before forcing them to produce pornographic content for a webcam business.
 End = true
 
 [LIBRARY RNEWS]
-Title = PrinceMamemon Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's PrinceMamemo .
+Title = Digimon Beatbreak: Episode 45- Big Brother, Little Brother
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 45, Big Brother, Little Brother A preview of Episode 45 Episode 45 airs Sunday, August 30th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Episode 46 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 46, Bug, is streaming tomorrow, so we get a small stack of preview screenshots from the Digimon_TV... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = PrinceMamemon Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's PrinceMamemon.
+End = true
+
+[LIBRARY RNEWS]
+Title = RhodoKnightmon/LordKnightmon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's RhodoKnightmon/LordKnightmon.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Story: Time Stranger: A Hero’s Eternal Legacy - DLC Expansion Announcement Trailer
 Body = We have the first trailer for the upcoming Time Stranger DLC expansion. Only spoiler warning you get will be here, as the game takes place after the main game.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Eggs Preview from Saikyo Jump [...]
-Body = With Digimon Eggs by Ayumu Minato starting next month, Saikyo Jump put up a preview of the manga. That also includes the logo.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger Discussion Thread [...]
-Body = Digimon Story: Time Stranger isn't out until early October, but half a day from the time of this post, a demo will go up that contains the first portion of the game, with save data being useable in the full game once it's out, so anyone who wants to will be able to get started immediately. Realistically if you are jumping into a full discussion thread for the game at this point, spoiler tags aren't needed, as it'll be...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure Pop-Up Shop at Gran Entas Akihabara Starts September 26th- Product Info & More, New Art with Traditional Updated Outfits & Omegamon
-Body = Digimon Adventure Pop-Up Shop at Gran Entas Akihabara was announced a bit over a month ago, and we have more details and previews since it's starting in a few weeks. The shop will be held at the Gran Entas Akihabara September 26th through October 12th.
 End = true
 
