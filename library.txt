@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Mistrial declared in Lindsay Clancy murder trial [...]
+Body = After seven days of deliberations, the jury were unable to come to unanimous verdict as to whether US mother Lindsay Clancy murdered her three children in 2023.
+End = true
+
+[LIBRARY RNEWS]
+Title = What are the World Nomad Games and why are Australians competing?
+Body = The World Nomad Games in Kyrgyzstan are attracting younger generations and countries in the West to rediscover their past through ancient sports.
+End = true
+
+[LIBRARY RNEWS]
 Title = These guides lead tourists into the Himalayas; now they must carry something heavier
 Body = For many of Nepal's trekking guides, who lead tourists through the Himalayas, there is something heavier to carry into the mountains this year: their grief.
 End = true
@@ -19,18 +29,13 @@ Body = During more than four-and-a-half years of war with Russia, Ukrainian gove
 End = true
 
 [LIBRARY RNEWS]
-Title = Argentina's Milei vows Falklands oil sanctions in sovereignty push
-Body = Argentine President Javier Milei escalates his country's dispute with Britain over the Falkland Islands, vowing new measures to halt an oil project near the British-controlled archipelago.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
-Title = Romanian prosecutors indict Tate brothers for trafficking minors, money laundering
-Body = Prosecutors allege the Tates recruited their victims by seducing them before forcing them to produce pornographic content for a webcam business.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 45- Big Brother, Little Brother
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 45, Big Brother, Little Brother A preview of Episode 45 Episode 45 airs Sunday, August 30th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Tamer Card Rie, Kotemon, Gladimon, Knightmon, & Promo Poster Previews for Digimon Card Game Booster Set EX-13
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = Digimon Beatbreak episode 46, Bug, is streaming tomorrow, so we get a sma
 End = true
 
 [LIBRARY RNEWS]
-Title = PrinceMamemon Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's PrinceMamemon.
-End = true
-
-[LIBRARY RNEWS]
-Title = RhodoKnightmon/LordKnightmon Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's RhodoKnightmon/LordKnightmon.
-End = true
-
-[LIBRARY RNEWS]
 Title = Digimon Story: Time Stranger: A Hero’s Eternal Legacy - DLC Expansion Announcement Trailer
 Body = We have the first trailer for the upcoming Time Stranger DLC expansion. Only spoiler warning you get will be here, as the game takes place after the main game.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digital Gate Open Digimon Eggs Digimon Card Game Promo Card Preview
+Body = We had a low resolution early preview of it from a promo image yesterday, but they've already put up a proper preview of the new Digital Gate Open promo card. The card features the key art of Izumo and the DigiEgg from Digimon Eggs, by Ayumu Minato, and will be included in Saikyo Jump next month when the manga begins.
 End = true
 
