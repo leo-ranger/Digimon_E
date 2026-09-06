@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Mistrial declared in Lindsay Clancy murder trial [...]
-Body = After seven days of deliberations, the jury were unable to come to unanimous verdict as to whether US mother Lindsay Clancy murdered her three children in 2023.
+Title = 'Please run': Nepali engineer reveals steps that saved him from floods
+Body = An engineer working by the river in Nepal's Rasuwa region has recalled the moment he and his colleagues miraculously escaped a tsunami of mud.
 End = true
 
 [LIBRARY RNEWS]
-Title = What are the World Nomad Games and why are Australians competing?
-Body = The World Nomad Games in Kyrgyzstan are attracting younger generations and countries in the West to rediscover their past through ancient sports.
+Title = US ambassador says Israel not planning forced displacement in Gaza
+Body = US Ambassador to Israel Mike Huckabee's remarks come after Israeli ministers laid out ideas this week on how to expel the territory's two million people.
 End = true
 
 [LIBRARY RNEWS]
-Title = These guides lead tourists into the Himalayas; now they must carry something heavier
-Body = For many of Nepal's trekking guides, who lead tourists through the Himalayas, there is something heavier to carry into the mountains this year: their grief.
+Title = 2,000 cases of suspected food poisoning from Indonesia's free school meals
+Body = The outbreaks are the latest setback for the program, which has been rolled out across the archipelago despite repeated food poisoning incidents and corruption allegations.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian drone attack hits Ukraine's SBU headquarters in Kyiv
-Body = During more than four-and-a-half years of war with Russia, Ukrainian government buildings have rarely been damaged in drone and missile strikes.
+Title = Man who burnt Australian missionary and sons alive may walk free
+Body = The murder of Graham Staines and his two young sons — burnt alive in their car — made headlines around the world. Now the man who did it may walk free.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Craniummon/Craniamon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Craniummon/Craniamon.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +49,7 @@ Body = We have the first trailer for the upcoming Time Stranger DLC expansion. O
 End = true
 
 [LIBRARY RNEWS]
-Title = Digital Gate Open Digimon Eggs Digimon Card Game Promo Card Preview
-Body = We had a low resolution early preview of it from a promo image yesterday, but they've already put up a proper preview of the new Digital Gate Open promo card. The card features the key art of Izumo and the DigiEgg from Digimon Eggs, by Ayumu Minato, and will be included in Saikyo Jump next month when the manga begins.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
