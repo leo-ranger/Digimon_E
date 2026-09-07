@@ -9,28 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Russia calls Leipzig drone attack accusations 'start of real war'
+Body = The German government concluded last week that Russia was responsible for an attempted drone attack at Leipzig Airport last month.
+End = true
+
+[LIBRARY RNEWS]
+Title = US delegation holds talks in Kyiv amid Russia-Ukraine capitals ceasefire
+Body = Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy have agreed to pause strikes on each other's capitals while the talks take place.
+End = true
+
+[LIBRARY RNEWS]
+Title = Crocodile handler dies after being attacked at PNG wildlife park
+Body = A male worker has died from his injuries after being attacked inside a crocodile enclosure at Adventure Park at Port Moresby on Saturday afternoon.
+End = true
+
+[LIBRARY RNEWS]
 Title = Man in Nepal tunnel and woman rescued 10 days after flash flood
 Body = A Chinese national and a local woman are rescued in separate operations, as more than 5,000 people remain missing after a flood hit Nepal and Tibet on August 26.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Please run': Nepali engineer reveals steps that saved him from floods
-Body = An engineer working by the river in Nepal's Rasuwa region has recalled the moment he and his colleagues miraculously escaped a tsunami of mud.
+Title = Plotmon/Salamon, Mikemon, & Bastemon Previews for Digimon Card Game Booster Set EX-13
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = US ambassador says Israel not planning forced displacement in Gaza
-Body = US Ambassador to Israel Mike Huckabee's remarks come after Israeli ministers laid out ideas this week on how to expel the territory's two million people.
+Title = dizzy_izzy's Colored Pencil Art [...]
+Body = It's a bit rough, but it was real fun to draw, along with coming up with poses for everyone. I did shrink Greymon and Kabuterimon to sit on the couch but eh who cares?
 End = true
 
 [LIBRARY RNEWS]
-Title = Russia, Ukraine to halt strikes on capitals during US diplomatic talks
-Body = Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy have agreed to halt all strikes on their respective capitals amid ongoing diplomatic talks.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 46- Glitch [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 46, Glitch A preview of Episode 46 Episode 46 airs Sunday, September 6th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Made a Digimon Xros Wars fan comic! Its voiced and everything!
+Body = Would be great if anyone who sees this can give it a watch and comment!
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +49,7 @@ Body = We have the first trailer for the upcoming Time Stranger DLC expansion. O
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Acrylic Stand Buddy Collection Reveal 4- Kyo & Cougarmon
-Body = As previously announced, the six stands in the Digimon Beatbreak Acrylic Stand Buddy Collection would be revealed one at a time. The fourth, Kyo & Cougarmon, has been shown off.
-End = true
-
-[LIBRARY RNEWS]
-Title = Kyaromon, Kudamon, Reppamon, & Tyilinmon/Chirinmon Previews for Digimon Card Game Booster Set EX-13
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episodes 46 & 45 and September Social Media Art, Photos, Catch-Up for the Week, & More!
-Body = Time for a weekend update! We start with some Digimon Beatbreak art for episode 46!
+Title = Digivice Internals [...]
+Body = Looking for options to reshell my Digital Monster Color Monster Hunter 20th Edition into. Does anyone know where I can find pictures of the internals of this form factor so I can see my options?
 End = true
 
