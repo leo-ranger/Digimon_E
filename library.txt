@@ -9,38 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Jakarta flights affected by volcanic eruption, but Bali trips continue
+Body = Indonesian volcano Mount Anak Krakatau has spewed clouds of ash over parts of the island nation.
+End = true
+
+[LIBRARY RNEWS]
+Title = Iran threatens 'more painful response' to any further US strikes
+Body = Iranian and US forces exchanged fire on Saturday in the contested waters of the Strait of Hormuz.
+End = true
+
+[LIBRARY RNEWS]
+Title = Far-right party wins German state election for first time since WWII
+Body = Germany's far-right party AfD becomes the largest party in the state of Saxony-Anhalt, the first far-right win in Germany since World War II.
+End = true
+
+[LIBRARY RNEWS]
 Title = Russia calls Leipzig drone attack accusations 'start of real war'
 Body = The German government concluded last week that Russia was responsible for an attempted drone attack at Leipzig Airport last month.
-End = true
-
-[LIBRARY RNEWS]
-Title = US delegation holds talks in Kyiv amid Russia-Ukraine capitals ceasefire
-Body = Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy have agreed to pause strikes on each other's capitals while the talks take place.
-End = true
-
-[LIBRARY RNEWS]
-Title = Crocodile handler dies after being attacked at PNG wildlife park
-Body = A male worker has died from his injuries after being attacked inside a crocodile enclosure at Adventure Park at Port Moresby on Saturday afternoon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Man in Nepal tunnel and woman rescued 10 days after flash flood
-Body = A Chinese national and a local woman are rescued in separate operations, as more than 5,000 people remain missing after a flood hit Nepal and Tibet on August 26.
-End = true
-
-[LIBRARY RNEWS]
-Title = Plotmon/Salamon, Mikemon, & Bastemon Previews for Digimon Card Game Booster Set EX-13
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = dizzy_izzy's Colored Pencil Art [...]
-Body = It's a bit rough, but it was real fun to draw, along with coming up with poses for everyone. I did shrink Greymon and Kabuterimon to sit on the couch but eh who cares?
-End = true
-
-[LIBRARY RNEWS]
-Title = Made a Digimon Xros Wars fan comic! Its voiced and everything!
-Body = Would be great if anyone who sees this can give it a watch and comment!
 End = true
 
 [LIBRARY RNEWS]
@@ -51,5 +36,20 @@ End = true
 [LIBRARY RNEWS]
 Title = Digivice Internals [...]
 Body = Looking for options to reshell my Digital Monster Color Monster Hunter 20th Edition into. Does anyone know where I can find pictures of the internals of this form factor so I can see my options?
+End = true
+
+[LIBRARY RNEWS]
+Title = Plotmon/Salamon, Mikemon, & Bastemon Previews for Digimon Card Game Booster Set EX-13
+Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Duftmon/Leopardmon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Duftmon/Leopardmon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure Digivice ver. Revival Delayed in Various Countries Due to Board Issue- Fixes in Progress
+Body = Now that various info and details are available (2)... The first shipments of the Digivice Version Revival in Japan had some components done incorrectly, which means it can't connect to other devices for communication/battles.
 End = true
 
