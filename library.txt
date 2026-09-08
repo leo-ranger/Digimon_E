@@ -9,18 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel carries out fresh strikes on Lebanon, killing 12
-Body = Two children are among those killed in the latest strikes which is fuelling fears of a re-escalation in the conflict between Israel and Hezbollah.
+Title = Witnesses 'intimidated' before murder trial over brothers killed in Mexico
+Body = Witnesses have been intimidated in the lead-up to the trial for three men accused of killing two Australian brothers in Mexico, prosecutors tell a Mexican court.
 End = true
 
 [LIBRARY RNEWS]
-Title = North Korea and Russia open first road bridge, sparking Ukrainian concerns
-Body = Ukraine is worried the road bridge could be used to conceal military personnel and weapons in vehicles, rather than a trade route.
+Title = New Caledonia faces deepening debt crisis as 'economy has totally crashed'
+Body = President Milakulo Tukumuli travels to France to secure fresh funding to prevent 40,000 New Caledonians from becoming "pensionless" within a few months. But the new assistance comes on the condition the territory will undertake "urgent reforms" to reduce spending.
 End = true
 
 [LIBRARY RNEWS]
-Title = Devastating season in Indonesia sees 'water sources dry up'
-Body = For three exhausting months, Andri Susanto and his crew have been fighting raging fires on the island of Borneo — and blazes are taking a toll across the region.
+Title = The war happening while the world watches Iran [...]
+Body = In southern Lebanon, Israel's war against Hezbollah has destroyed villages and left 6 per cent of the country under Israeli occupation.
 End = true
 
 [LIBRARY RNEWS]
@@ -29,27 +29,27 @@ Body = France is expected to produce one of its lowest amounts of wine in decade
 End = true
 
 [LIBRARY RNEWS]
+Title = Examon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Examon.
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Rumble Arena fangame *read the first post before posting*
 Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Acrylic Stand Buddy Collection Reveal 5- Tomoro, Gekkomon, & Kyo
-Body = As previously announced, the six stands in the Digimon Beatbreak Acrylic Stand Buddy Collection would be revealed one at a time. The fifth, Tomoro, Gekkomon, & Kyo, has been shown off.
+Title = Slayerdramon & Breakdramon Previews for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Staff Art Before Finale- Art 1, Yuichi Yoshida
-Body = With 3 episodes left of Digimon Beatbreak, Digimon TV on Twitter is going to feature celebration illustrations from the production staff First up... Yuichi Yoshida, animation director for various episodes drew Yoshimura, Maki, Kawarazaki, with some of the various Digimon babies.
+Title = Coredramon (Blue), Coredramon (Green), Wingdramon, & Groundramon Previews for Digimon Card Game Booster Set EX-13
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Babydmon/Bebydomon & Dracomon Previews for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger: A Hero’s Eternal Legacy - DLC Expansion Announcement Trailer
-Body = We have the first trailer for the upcoming Time Stranger DLC expansion. Only spoiler warning you get will be here, as the game takes place after the main game.
+Title = With the Will Podcast Episode #316- Getting Back Up (Beatbreak Episode 46, Time Stranger DLC, & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 46, Time Stranger DLC info, Best Adventure We Chose updates, Eggs manga info, pop-up shops, & more! Plus AR is here to talk about Digimon ramen!
 End = true
 
