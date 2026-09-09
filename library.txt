@@ -9,33 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Witnesses 'intimidated' before murder trial over brothers killed in Mexico
-Body = Witnesses have been intimidated in the lead-up to the trial for three men accused of killing two Australian brothers in Mexico, prosecutors tell a Mexican court.
+Title = Israel closes UK consulate in East Jerusalem as three G7 countries ban settlement imports
+Body = Britain, France and Canada are banning imports from Israeli settlements in the occupied West Bank in a move that has prompted swift retaliation and could spark a broader geopolitical storm.
 End = true
 
 [LIBRARY RNEWS]
-Title = New Caledonia faces deepening debt crisis as 'economy has totally crashed'
-Body = President Milakulo Tukumuli travels to France to secure fresh funding to prevent 40,000 New Caledonians from becoming "pensionless" within a few months. But the new assistance comes on the condition the territory will undertake "urgent reforms" to reduce spending.
+Title = Three attacks in Tehran could 'amount to war crimes', report finds
+Body = Amnesty International is demanding formal investigations into three American and Israeli attacks on densely packed suburbs of Tehran, which killed at least 41 civilians.
 End = true
 
 [LIBRARY RNEWS]
-Title = The war happening while the world watches Iran [...]
-Body = In southern Lebanon, Israel's war against Hezbollah has destroyed villages and left 6 per cent of the country under Israeli occupation.
+Title = Five killed as Russia resumes strikes on Kyiv after pause for US envoys' visit
+Body = The strikes came as US President Donald Trump and Russian counterpart Vladimir Putin held an hour-long phone conversation about talks between their envoys in recent days.
 End = true
 
 [LIBRARY RNEWS]
-Title = French wine output predicted to be lowest in 30 years
-Body = France is expected to produce one of its lowest amounts of wine in decades after soaring temperatures and drought over the summer.
+Title = Australian found safe in Nepal [...]
+Body = The ABC understands the person was not in the disaster zone and is the eighth Australian to be found since the floods devastated Nepal and Tibet.
 End = true
 
 [LIBRARY RNEWS]
-Title = Examon Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Examon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Tyumon/Chuumon, Scumon/Sukamon, & Great King Scumon/KingSukamon Previews for Digimon Card Game Booster Set EX-13
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +39,17 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Coredramon (Blue), Coredramon (Green), Wingdramon, & Groundramon Previews for Digimon Card Game Booster Set EX-13
-Body = ... [...] [...]
+Title = Examon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Examon.
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Episode #316- Getting Back Up (Beatbreak Episode 46, Time Stranger DLC, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 46, Time Stranger DLC info, Best Adventure We Chose updates, Eggs manga info, pop-up shops, & more! Plus AR is here to talk about Digimon ramen!
+Title = Was Shangri-La Project a truly insane plan? [...]
+Body = Chairman Wong's goal to use Albatusmon to prevent anyone to manifest a digimon (preventing glitches) is truly insane. They cold-hearted a news reporter and now the people from the Ministry of Civil Protection.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 46- Glitch [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 46, Glitch A preview of Episode 46 Episode 46 airs Sunday, September 6th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
