@@ -9,13 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump battles historic low approval ratings in lead-up to 'Trump-a-palooza'
-Body = Donald Trump's approval rating continues to plumb historic lows ahead of the Republican Party's national convention, but the US president still believes his brand can boost close-race candidates who will be "showcased" on stage.
+Title = Netanyahu denies being warned of Hamas attack 10 days before October 7
+Body = Israeli Prime Minister Benjamin Netanyahu denies a newspaper report that he was warned more than a week before October 7, 2023, that Hamas was planning an imminent attack.
 End = true
 
 [LIBRARY RNEWS]
-Title = Health concerns grow as volcanic ash spreads across Indonesia after eruption
-Body = Flights have resumed after the eruption of Mount Anak Krakatau, but nearby communities remain concerned about health risks.
+Title = Airlines call for air traffic control boss to quit over UK airport chaos
+Body = At least 2,000 flights have been cancelled, with airlines reporting millions of pounds worth of financial loss.
+End = true
+
+[LIBRARY RNEWS]
+Title = British police to investigate Reform UK after undercover documentary
+Body = The investigation will look into whether the populist party, which had been surging in the polls, breached the UK's electoral funding and donations laws.
 End = true
 
 [LIBRARY RNEWS]
@@ -24,8 +29,8 @@ Body = Eleven members of the jury were persuaded to find her not guilty by reaso
 End = true
 
 [LIBRARY RNEWS]
-Title = Oldest known evidence of human drug use discovered in fossil teeth
-Body = Archaeologists find evidence in Indonesia of a human who appeared to use betel nut for its psychoactive properties up to 25,000 years ago.
+Title = Chibimon/DemiVeemon, V-mon/Veemon, V-dramon/Veedramon, & AeroV-dramon/AeroVeedramon Previews for Digimon Card Game Booster Set EX-13
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = Digimon Web has opened a new fan vote. This is the 157th official web pol
 End = true
 
 [LIBRARY RNEWS]
-Title = Chibimon/DemiVeemon, V-mon/Veemon, V-dramon/Veedramon, & AeroV-dramon/AeroVeedramon Previews for Digimon Card Game Booster Set EX-13
-Body = ... [...] [...]
+Title = KingEtemon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's KingEtemon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Caravan Update- September 19th/20th Event Still Happening- Two More Events Being Scheduled
-Body = The last Digimon Caravan update we got was roughly a month and a half ago, when both August events were cancelled due to Kumamoto earthquake. It's been reiterated that the event for September 19th & 20th at Aeon Mall Sakai Kitahanada will still be happening 10 days from now.
+Title = Tamer Card Rina Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Rina.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 46- Glitch [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 46, Glitch A preview of Episode 46 Episode 46 airs Sunday, September 6th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Acrylic Stand Buddy Collection Pre-Orders & Final Reveal- Asuka & Tomoro
-Body = As previously announced, the six stands in the Digimon Beatbreak Acrylic Stand Buddy Collection would be revealed one at a time. The sixth and final stand, Asuka & Tomoro, has been shown off.
+Title = Digimon Card Battle 280- Booster Set 26 Rule Quiz [...]
+Body = Digimon Card Battle is back with episode 280. This time it's back to Digimon Card Room as they have a rules quiz about Booster Set 26!
 End = true
 
