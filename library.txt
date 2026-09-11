@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Netanyahu denies being warned of Hamas attack 10 days before October 7
-Body = Israeli Prime Minister Benjamin Netanyahu denies a newspaper report that he was warned more than a week before October 7, 2023, that Hamas was planning an imminent attack.
+Title = Israeli PM's wife hit with $1.2m defamation suit over Oct 7 conspiracy theory
+Body = Sara Netanyahu claimed that a leading opposition politician had advance notice of Hamas' deadly October 7 attacks on Israel.
 End = true
 
 [LIBRARY RNEWS]
-Title = Airlines call for air traffic control boss to quit over UK airport chaos
-Body = At least 2,000 flights have been cancelled, with airlines reporting millions of pounds worth of financial loss.
+Title = Why Japan wants the new world map changed [...]
+Body = Japan was among the 164 UN members that supported the new world map, until it realised the disputed Kuril islands were in the same colour as Russia.
 End = true
 
 [LIBRARY RNEWS]
-Title = British police to investigate Reform UK after undercover documentary
-Body = The investigation will look into whether the populist party, which had been surging in the polls, breached the UK's electoral funding and donations laws.
+Title = Fire in rebel-held east Congo kills 24 schoolchildren, official says
+Body = A fire in Congo's rebel-controlled city of Bukavu killed has at least 24 children as it destroyed two schools and burned down around 300 wooden houses.
 End = true
 
 [LIBRARY RNEWS]
-Title = Three Lindsay Clancy jurors raise concerns after mistrial
-Body = Eleven members of the jury were persuaded to find her not guilty by reason of insanity, but one member would not acquit.
+Title = Chinese cargo ship nearly halves time to UK via 'Polar Silk Road'
+Body = A Chinese container ship completes the first regular Arctic voyage to the UK, cutting weeks off the traditional Asia-Europe route.
 End = true
 
 [LIBRARY RNEWS]
-Title = Chibimon/DemiVeemon, V-mon/Veemon, V-dramon/Veedramon, & AeroV-dramon/AeroVeedramon Previews for Digimon Card Game Booster Set EX-13
-Body = ... [...] [...]
+Title = Tamer Card Daisuke/Davis & Ken Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Daisuke/Davis & Ken.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = Digimon Web has opened a new fan vote. This is the 157th official web pol
 End = true
 
 [LIBRARY RNEWS]
-Title = KingEtemon Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's KingEtemon.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Rina Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Rina.
+Title = Imperialdramon: Paladin Mode Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Imperialdramon: Paladin Mode.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Battle 280- Booster Set 26 Rule Quiz [...]
-Body = Digimon Card Battle is back with episode 280. This time it's back to Digimon Card Room as they have a rules quiz about Booster Set 26!
+Title = Digimon Card Game Acrylic Charm Collection 03 Out in December- Original Card Game Themed Keychains
+Body = The Digimon Card Game Acrylic Charm Collection 03 (2) is coming out December, for 300 yen per Gashapon pull and available online. ...
 End = true
 
