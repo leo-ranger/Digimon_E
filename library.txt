@@ -19,13 +19,23 @@ Body = Japan was among the 164 UN members that supported the new world map, unti
 End = true
 
 [LIBRARY RNEWS]
-Title = Fire in rebel-held east Congo kills 24 schoolchildren, official says
-Body = A fire in Congo's rebel-controlled city of Bukavu killed has at least 24 children as it destroyed two schools and burned down around 300 wooden houses.
+Title = Chinese cargo ship nearly halves time to UK via 'Polar Silk Road'
+Body = A Chinese container ship completes the first regular Arctic voyage to the UK, cutting weeks off the traditional Asia-Europe route.
 End = true
 
 [LIBRARY RNEWS]
-Title = Chinese cargo ship nearly halves time to UK via 'Polar Silk Road'
-Body = A Chinese container ship completes the first regular Arctic voyage to the UK, cutting weeks off the traditional Asia-Europe route.
+Title = Ohio grandfather of 16 children living in filth incompetent to stand trial
+Body = A man whose 16 grandchildren were discovered living in squalid conditions at a rural southern Ohio home is found mentally incompetent to stand trial.
+End = true
+
+[LIBRARY RNEWS]
+Title = Tamer Card Rina Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Rina.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak English Dub Episodes 31-35 on Hulu
+Body = Episodes 31-35 of the English dub for Digimon Beatbreak are now streaming on Hulu. Hulu has been simulcasting Beatbreak subbed, as has Crunchyroll, but with a different pace of release for the dub than CR.
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Rumble Arena fangame *read the first post before posting*
 Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Imperialdramon: Paladin Mode Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Imperialdramon: Paladin Mode.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Game Acrylic Charm Collection 03 Out in December- Original Card Game Themed Keychains
-Body = The Digimon Card Game Acrylic Charm Collection 03 (2) is coming out December, for 300 yen per Gashapon pull and available online. ...
 End = true
 
