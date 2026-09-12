@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israeli PM's wife hit with $1.2m defamation suit over Oct 7 conspiracy theory
-Body = Sara Netanyahu claimed that a leading opposition politician had advance notice of Hamas' deadly October 7 attacks on Israel.
+Title = At least 35 killed in Philippines ferry fire after bodies found on board
+Body = Authorities are trying to determine whether any foreigners were on board the ferry, which is afloat off the town of Coron, known for its diving sites and island-hopping attractions.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why Japan wants the new world map changed [...]
-Body = Japan was among the 164 UN members that supported the new world map, until it realised the disputed Kuril islands were in the same colour as Russia.
+Title = 'Nothing to hide': Brazil's presidential candidate Flavio Bolsonaro under corruption investigation
+Body = Brazil's right-wing presidential candidate Flavio Bolsonaro says he has "nothing to hide" in a corruption investigation that was revealed just weeks before voters go to the polls.
 End = true
 
 [LIBRARY RNEWS]
-Title = Chinese cargo ship nearly halves time to UK via 'Polar Silk Road'
-Body = A Chinese container ship completes the first regular Arctic voyage to the UK, cutting weeks off the traditional Asia-Europe route.
+Title = Putin and Iranian president arrive in India for summit focusing on war
+Body = Vladimir Putin arrives in India for talks ahead of an 11-member BRICS summit set to be dominated by conflict in the Middle East and Ukraine.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ohio grandfather of 16 children living in filth incompetent to stand trial
-Body = A man whose 16 grandchildren were discovered living in squalid conditions at a rural southern Ohio home is found mentally incompetent to stand trial.
+Title = Why Singapore ministers are paid so much — and why it's going up
+Body = Moves to increase the pay of Singapore's famously well-paid political appointment holders will see the prime minister's package increase to $S3.6 million, including bonuses. So why are Singapore's pollies on such a good wicket?
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Rina Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Rina.
+Title = Tamer Card Nokia Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Nokia.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak English Dub Episodes 31-35 on Hulu
-Body = Episodes 31-35 of the English dub for Digimon Beatbreak are now streaming on Hulu. Hulu has been simulcasting Beatbreak subbed, as has Crunchyroll, but with a different pace of release for the dub than CR.
+Title = Digimon Beatbreak Episode 47 Preview Screenshots [...]
+Body = Digimon Beatbreak episode 47, The Ultimate Power, is streaming tomorrow, so we get a small stack of preview screenshots from the... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Daisuke/Davis & Ken Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Daisuke/Davis & Ken.
+Title = Digimon Adventure & 02 Playground Equipment Products Out This Month
+Body = Y Line has done a few waves of Digimon products, often being sold early via their YYWorld Shop, and we have a few new waves featuring Digimon Adventure and Zero-Two. Both waves feature new SD art with the kids playing on playground equipment based on their Digimon and ships later in September.
 End = true
 
 [LIBRARY RNEWS]
-Title = Official Digimon Web Poll #157- Favorite Olympos XII Member
-Body = Digimon Web has opened a new fan vote. This is the 157th official web poll on the current version of the site.
+Title = With the Will Podcast Live- Monday, September 14th
+Body = Monday (September 14th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 47, celebration art, card previews, product news, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Is the difference just available Digimon between Toho/Sanju and the Field types in Pendulum Color?
+Body = Basically I don't want to miss out on potential new features even if i am planning to grab both of them but i really want Nightmare Soldiers ver because basically it has all my favorite Digimon on it. (And usb-c charging is really nice actually)
 End = true
 
