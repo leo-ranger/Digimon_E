@@ -34,6 +34,11 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
+Title = Omegamon/Omnimon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Omegamon/Omnimon.
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Beatbreak Episode 47 Preview Screenshots [...]
 Body = Digimon Beatbreak episode 47, The Ultimate Power, is streaming tomorrow, so we get a small stack of preview screenshots from the... [...]
 End = true
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = With the Will Podcast Live- Monday, September 14th
 Body = Monday (September 14th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 47, celebration art, card previews, product news, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Is the difference just available Digimon between Toho/Sanju and the Field types in Pendulum Color?
-Body = Basically I don't want to miss out on potential new features even if i am planning to grab both of them but i really want Nightmare Soldiers ver because basically it has all my favorite Digimon on it. (And usb-c charging is really nice actually)
 End = true
 
