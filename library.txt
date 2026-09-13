@@ -9,8 +9,8 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = At least 35 killed in Philippines ferry fire after bodies found on board
-Body = Authorities are trying to determine whether any foreigners were on board the ferry, which is afloat off the town of Coron, known for its diving sites and island-hopping attractions.
+Title = Norway's Princess Astrid dies aged 94, two days after King's funeral
+Body = Norway's Princess Astrid, an older sister of the late king Harald, died on Friday at the age of 94, two days after the King's funeral.
 End = true
 
 [LIBRARY RNEWS]
@@ -29,27 +29,27 @@ Body = Moves to increase the pay of Singapore's famously well-paid political app
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Nokia Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Nokia.
+Title = Digimon Beatbreak: Episode 47- The Ultimate Power [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 47, The Ultimate Power A preview of Episode 47 Episode 47 airs Sunday, September 13th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Omegamon/Omnimon Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Omegamon/Omnimon.
+Title = Digimon Beatbreak English Dub Episodes 36-40 Available on Crunchyroll
+Body = The next batch of English dub episodes of Digimon Beatbreak is up on Crunchyroll. The newest batch includes episodes 36 through 40.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Episode 47 Preview Screenshots [...]
-Body = Digimon Beatbreak episode 47, The Ultimate Power, is streaming tomorrow, so we get a small stack of preview screenshots from the... [...]
+Title = Omegamon/Omnimon: Merciful Mode Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Omegamon/Omnimon: Merciful Mode.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure & 02 Playground Equipment Products Out This Month
-Body = Y Line has done a few waves of Digimon products, often being sold early via their YYWorld Shop, and we have a few new waves featuring Digimon Adventure and Zero-Two. Both waves feature new SD art with the kids playing on playground equipment based on their Digimon and ships later in September.
+Title = Omegamon/Omnimon: Merciful Mode Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Omegamon/Omnimon: Merciful Mode.
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, September 14th
-Body = Monday (September 14th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 47, celebration art, card previews, product news, & more! Plus your questions!
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
