@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Nepal's rapper-turned-PM criticised for disaster response
+Body = The former rapper is the world's youngest national leader, having taken the top job just six months ago. His response to the flooding crisis is being closely watched.
+End = true
+
+[LIBRARY RNEWS]
 Title = Norway's Princess Astrid dies aged 94, two days after King's funeral
 Body = Norway's Princess Astrid, an older sister of the late king Harald, died on Friday at the age of 94, two days after the King's funeral.
+End = true
+
+[LIBRARY RNEWS]
+Title = How a 'swarm' of AI agents hacked another company, in the AI's own words
+Body = Tens of thousands of messages from hundreds of rogue OpenAI agents reveal how the self-described "collective" coordinated the attack on AI infrastructure company Hugging Face.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,23 +29,8 @@ Body = Brazil's right-wing presidential candidate Flavio Bolsonaro says he has "
 End = true
 
 [LIBRARY RNEWS]
-Title = Putin and Iranian president arrive in India for summit focusing on war
-Body = Vladimir Putin arrives in India for talks ahead of an 11-member BRICS summit set to be dominated by conflict in the Middle East and Ukraine.
-End = true
-
-[LIBRARY RNEWS]
-Title = Why Singapore ministers are paid so much — and why it's going up
-Body = Moves to increase the pay of Singapore's famously well-paid political appointment holders will see the prime minister's package increase to $S3.6 million, including bonuses. So why are Singapore's pollies on such a good wicket?
-End = true
-
-[LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 47- The Ultimate Power [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 47, The Ultimate Power A preview of Episode 47 Episode 47 airs Sunday, September 13th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak English Dub Episodes 36-40 Available on Crunchyroll
-Body = The next batch of English dub episodes of Digimon Beatbreak is up on Crunchyroll. The newest batch includes episodes 36 through 40.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,8 +39,13 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Omegamon/Omnimon: Merciful Mode Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Omegamon/Omnimon: Merciful Mode.
+Title = Tamer Card Taichi & Yamato/Tai & Matt Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Taichi & Yamato/Tai & Matt.
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Beatbreak Episode 47 & Bday Social Media Art, Reference Book, Pop-Up Events, Popcorn Buckets, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 47!
 End = true
 
 [LIBRARY RNEWS]
