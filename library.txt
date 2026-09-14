@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Nepal's rapper-turned-PM criticised for disaster response
-Body = The former rapper is the world's youngest national leader, having taken the top job just six months ago. His response to the flooding crisis is being closely watched.
+Title = 'Migrant' is a kaleidoscope. What you see reflects how you look
+Body = Migrants can be perceived as visa holders, refugees, asylum seekers, permanent residents, short term visitors and sometimes even citizens who speak or look differently.
 End = true
 
 [LIBRARY RNEWS]
-Title = Norway's Princess Astrid dies aged 94, two days after King's funeral
-Body = Norway's Princess Astrid, an older sister of the late king Harald, died on Friday at the age of 94, two days after the King's funeral.
+Title = Australian tourist dies after falling from beach cliff on island near Bali
+Body = Queensland woman, Brianna Cronin, 29, has been identified as the woman who died after falling from a cliff at a popular tourist beach near Bali.
 End = true
 
 [LIBRARY RNEWS]
-Title = How a 'swarm' of AI agents hacked another company, in the AI's own words
-Body = Tens of thousands of messages from hundreds of rogue OpenAI agents reveal how the self-described "collective" coordinated the attack on AI infrastructure company Hugging Face.
+Title = Trump says AI warnings bring up 'things that won't happen'
+Body = US President Donald Trump has vowed to pay a dividend if the Republican Party keeps control of Congress after midterm elections.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Nothing to hide': Brazil's presidential candidate Flavio Bolsonaro under corruption investigation
-Body = Brazil's right-wing presidential candidate Flavio Bolsonaro says he has "nothing to hide" in a corruption investigation that was revealed just weeks before voters go to the polls.
+Title = Six dead, 129 missing after Indonesian ferry hits bad weather
+Body = More than 100 people are missing after an Indonesian passenger ship capsized in the Java Sea during bad weather yesterday.
+End = true
+
+[LIBRARY RNEWS]
+Title = DefoReal WarGreymon: "G" Erosion Mode Figure Announced- Pre-Orders Open September 16th
+Body = A pleasant bit of figure news... A DefoReal figure of WarGreymon: "G" Erosion Mode from Godzilla vs.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 47, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Omegamon/Omnimon: Merciful Mode Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Omegamon/Omnimon: Merciful Mode.
+Title = Candmon/Candlemon, FlaWizarmon/FlameWizardmon, & Mistymon Previews for Digimon Card Game Booster Set EX-13
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Taichi & Yamato/Tai & Matt Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Taichi & Yamato/Tai & Matt.
+Title = Bokomon, Nanimon, & Wisemon Previews for Digimon Card Game Booster Set EX-13
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Episode 47 & Bday Social Media Art, Reference Book, Pop-Up Events, Popcorn Buckets, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with some Digimon Beatbreak art for episode 47!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+Title = Wada Kouji Tribute Live 2025 Products Discontinued on September 23rd
+Body = It's been announced that the various products made for the Wada Kouji Tribute Live 2025 concert event, which have also been sold online, will be discontinued on September 23rd. So if you hadn't nabbed a product you wanted, you'll want to get in touch with an intermediary sooner rather than later.
 End = true
 
