@@ -14,13 +14,13 @@ Body = Migrants can be perceived as visa holders, refugees, asylum seekers, perm
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian tourist dies after falling from beach cliff on island near Bali
-Body = Queensland woman, Brianna Cronin, 29, has been identified as the woman who died after falling from a cliff at a popular tourist beach near Bali.
+Title = The photos that say it all: What you need to know about this global summit
+Body = This year's meeting of leaders from Brazil, Russia, India and China resulted in some major trade wins, a chance to negotiate on the Middle East war and an image that hints at the summit's growing global influence.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says AI warnings bring up 'things that won't happen'
-Body = US President Donald Trump has vowed to pay a dividend if the Republican Party keeps control of Congress after midterm elections.
+Title = Australian tourist dies after falling from beach cliff on island near Bali
+Body = Queensland woman, Brianna Cronin, 29, has been identified as the woman who died after falling from a cliff at a popular tourist beach near Bali.
 End = true
 
 [LIBRARY RNEWS]
@@ -29,8 +29,8 @@ Body = More than 100 people are missing after an Indonesian passenger ship capsi
 End = true
 
 [LIBRARY RNEWS]
-Title = DefoReal WarGreymon: "G" Erosion Mode Figure Announced- Pre-Orders Open September 16th
-Body = A pleasant bit of figure news... A DefoReal figure of WarGreymon: "G" Erosion Mode from Godzilla vs.
+Title = Digimon Beatbreak Staff Art Before Finale- Art 8, Masaya Hasegawa
+Body = With 2 episodes left of Digimon Beatbreak, Digimon TV on Twitter is continuing their ongoing feature featuring celebration illustrations from the production staff before the series ends. Today we have a piece from animator Masaya Hasegawa, who also does prop design, along with background and character work.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,8 +39,8 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 47, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Candmon/Candlemon, FlaWizarmon/FlameWizardmon, & Mistymon Previews for Digimon Card Game Booster Set EX-13
-Body = ... [...] [...]
+Title = PetiMeramon/DemiMeramon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's PetiMeramon/DemiMeramon.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +49,7 @@ Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Wada Kouji Tribute Live 2025 Products Discontinued on September 23rd
-Body = It's been announced that the various products made for the Wada Kouji Tribute Live 2025 concert event, which have also been sold online, will be discontinued on September 23rd. So if you hadn't nabbed a product you wanted, you'll want to get in touch with an intermediary sooner rather than later.
+Title = Godzilla vs. Digimon Mini Soft Vinyl Chronicle Mini Figures Out in December- Previews Images & More Info
+Body = Announced a couple months ago as part of a figure display, we finally have updated release info and better images for the Godzilla vs. Digimon Mini Soft Vinyl Chronicle mini figures.
 End = true
 
