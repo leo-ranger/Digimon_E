@@ -14,6 +14,11 @@ Body = As pressure builds in Washington for action on AI following a flurry of d
 End = true
 
 [LIBRARY RNEWS]
+Title = Man accused of killing Australian surfers was an assassin, court told
+Body = One of the men accused of killing Australian brothers Jake and Callum Robinson and their American friend in Mexico was an assassin with a list of targets, a court has heard.
+End = true
+
+[LIBRARY RNEWS]
 Title = Putin's border drone strikes show desperation, NATO chief says
 Body = A Russian strike on the Ukraine–Poland border just missed a train carrying diplomats, including former British prime minister Boris Johnson and former Swedish prime minister Carl Bildt.
 End = true
@@ -24,8 +29,8 @@ Body = The leaders of Sinn Féin, SNP and Plaid Cymru hold a joint press confere
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Everything Netanyahu is not': The 'straight' shooter looking to rule Israel
-Body = Israel's upcoming election could be one of the most consequential in the country's history, with Benjamin Netanyahu's own former military chief firming as the favourite to oust the prime minister from office.
+Title = Alphamon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Alphamon.
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Dorumon, Raptordramon, & Grademon Previews for Digimon Card Game Booster Set EX-13
 Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
