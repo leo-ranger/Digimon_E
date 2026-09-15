@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Migrant' is a kaleidoscope. What you see reflects how you look
-Body = Migrants can be perceived as visa holders, refugees, asylum seekers, permanent residents, short term visitors and sometimes even citizens who speak or look differently.
+Title = Trump says AI needs no new rules, just a 'high-IQ president'
+Body = As pressure builds in Washington for action on AI following a flurry of doomsday warnings, Donald Trump says there is a "sick conspiracy" against the technology.
 End = true
 
 [LIBRARY RNEWS]
-Title = The photos that say it all: What you need to know about this global summit
-Body = This year's meeting of leaders from Brazil, Russia, India and China resulted in some major trade wins, a chance to negotiate on the Middle East war and an image that hints at the summit's growing global influence.
+Title = Putin's border drone strikes show desperation, NATO chief says
+Body = A Russian strike on the Ukraine–Poland border just missed a train carrying diplomats, including former British prime minister Boris Johnson and former Swedish prime minister Carl Bildt.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian tourist dies after falling from beach cliff on island near Bali
-Body = Queensland woman, Brianna Cronin, 29, has been identified as the woman who died after falling from a cliff at a popular tourist beach near Bali.
+Title = Scottish, Welsh and Northern Irish leaders unite in push to leave UK
+Body = The leaders of Sinn Féin, SNP and Plaid Cymru hold a joint press conference, days after US President Donald Trump said he backed Irish unity.
 End = true
 
 [LIBRARY RNEWS]
-Title = Six dead, 129 missing after Indonesian ferry hits bad weather
-Body = More than 100 people are missing after an Indonesian passenger ship capsized in the Java Sea during bad weather yesterday.
+Title = 'Everything Netanyahu is not': The 'straight' shooter looking to rule Israel
+Body = Israel's upcoming election could be one of the most consequential in the country's history, with Benjamin Netanyahu's own former military chief firming as the favourite to oust the prime minister from office.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Staff Art Before Finale- Art 8, Masaya Hasegawa
-Body = With 2 episodes left of Digimon Beatbreak, Digimon TV on Twitter is continuing their ongoing feature featuring celebration illustrations from the production staff before the series ends. Today we have a piece from animator Masaya Hasegawa, who also does prop design, along with background and character work.
+Title = With the Will Podcast Episode #317- Tomoro Chills Out (Beatbreak Episode 47 & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 47, celebration art, card previews, product news, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 47- The Ultimate Power [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 47, The Ultimate Power A preview of Episode 47 Episode 47 airs Sunday, September 13th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
+Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
 End = true
 
 [LIBRARY RNEWS]
-Title = PetiMeramon/DemiMeramon Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's PetiMeramon/DemiMeramon.
+Title = Mega Egg Figure Digimon Adventure- Good Night Digimon Collection Figure Previews- Pre-Orders on September 10th
+Body = Announced a month ago at Digimon Times with no news minus it being part of the 'Mega Egg' line, we have preview images and release info, plus a proper product name... Mega Egg Figure Digimon Adventure- Good Night Digimon Collection will go up for pre-order on September 10th.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bokomon, Nanimon, & Wisemon Previews for Digimon Card Game Booster Set EX-13
+Title = Dorumon, Raptordramon, & Grademon Previews for Digimon Card Game Booster Set EX-13
 Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Godzilla vs. Digimon Mini Soft Vinyl Chronicle Mini Figures Out in December- Previews Images & More Info
-Body = Announced a couple months ago as part of a figure display, we finally have updated release info and better images for the Godzilla vs. Digimon Mini Soft Vinyl Chronicle mini figures.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
