@@ -14,42 +14,42 @@ Body = Former Trump strategist Steve Bannon and left-wing senator Bernie Sanders
 End = true
 
 [LIBRARY RNEWS]
+Title = Houthi drone shot down near Mecca, Saudi-led coalition says
+Body = Saudi authorities say a drone attack, which they claim was launched by Yemen's Houthi rebels, was intercepted before it could reach the holy city of Mecca.
+End = true
+
+[LIBRARY RNEWS]
+Title = The next 30 to 40 years to be 'very difficult', famed economist warns
+Body = An emeritus professor at the London School of Economics and former senior official at the Bank of England says the 70 years to 2020 were as good as things ever got, and there is little hope of returning there.
+End = true
+
+[LIBRARY RNEWS]
 Title = Frost freezes crops in PNG as El Niño takes hold [...]
 Body = Drought, crop-destroying frost and water shortages brought about by El Niño are causing alarm in parts of Papua New Guinea.
 End = true
 
 [LIBRARY RNEWS]
-Title = The US has admitted deploying weapons in space and China is sounding the alarm
-Body = The revelation by Washington confirms an open secret but the timing of the announcement risks exacerbating tensions with Beijing and creating a weapons race in space.
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = China tightens travel restrictions on citizens amid AI race with US
-Body = China has imposed travel restrictions on its citizens, including exit bans on those deemed to endanger the country's "industrial or technological security".
+Title = Poll Results for Favorite Partner Digimon in Digimon Up
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Partner Digimon in Digimon Up! Recently the poll closed and we have the results!
 End = true
 
 [LIBRARY RNEWS]
-Title = What are your Digimon headcanons? [...]
-Body = No, not that kind. A headcanon is a fan theory you have that you have about Digimon that you personally consider true, even if it isn't canon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Sleipmon/Kentaurosmon & Craniummon/Craniamon Parallel/Alt Art & Special Parallel/Alt Art Previews for Digimon Card Game Booster Set EX-13
+Title = Dynasmon & RhodoKnightmon/LordKnightmon Parallel/Alt Art & Special Parallel/Alt Art Previews for Digimon Card Game Booster Set EX-13
 Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
-Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
+Title = Godzilla vs. Digimon: DefoReal WarGreymon: "G" Erosion Mode Figure- Images, Info, & Pre-Order Details
+Body = The Godzilla vs. Digimon collaboration continues with a new figure!
 End = true
 
 [LIBRARY RNEWS]
-Title = Dynasmon Preview for Digimon Card Game Booster Set EX-13
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Dynasmon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger Gets Japan Game Awards 2026 Excellence Category Award
-Body = It was announced that Digimon Story: Time Stranger got an Excellence Award at the Japan Game Awards 2026. It got the equivalent 'Future' category award last year alongside roughly a dozen other...
+Title = Godzilla vs. Digimon Mini Soft Vinyl Chronicle Mini Figure Pre-Orders at Hobby Genki
+Body = Final release details for the Godzilla vs. Digimon Mini Soft Vinyl Chronicle mini figures were announced a few days ago.
 End = true
 
