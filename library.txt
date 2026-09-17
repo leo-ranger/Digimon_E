@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump allies and adversaries join forces in AI fight
-Body = Former Trump strategist Steve Bannon and left-wing senator Bernie Sanders are among political adversaries pushing for regulation of AI, but Donald Trump continues to baulk at the calls for action.
+Title = Saudis pound Yemen as Houthis fire back, further widening Middle East war
+Body = Iran-backed rebels in Yemen launch drones and missiles at Saudi cities, as the Kingdom launches hundreds of air strikes against Houthi positions, in a further sign that the conflict is worsening.
 End = true
 
 [LIBRARY RNEWS]
-Title = Houthi drone shot down near Mecca, Saudi-led coalition says
-Body = Saudi authorities say a drone attack, which they claim was launched by Yemen's Houthi rebels, was intercepted before it could reach the holy city of Mecca.
+Title = Australian wheelchairs donated to Gaza stuck in Jordan warehouse
+Body = Hundreds of wheelchairs, donated by two Australian charities to help injured children in Gaza, are stuck in warehouses in Jordan due to Israeli restrictions.
 End = true
 
 [LIBRARY RNEWS]
-Title = The next 30 to 40 years to be 'very difficult', famed economist warns
-Body = An emeritus professor at the London School of Economics and former senior official at the Bank of England says the 70 years to 2020 were as good as things ever got, and there is little hope of returning there.
+Title = At least 20 dead, including children, as war-damaged building collapses in Gaza
+Body = The UN says many Palestinians are living in buildings damaged by Israel's air strikes across Gaza, warning many are at danger of collapse.
 End = true
 
 [LIBRARY RNEWS]
-Title = Frost freezes crops in PNG as El Niño takes hold [...]
-Body = Drought, crop-destroying frost and water shortages brought about by El Niño are causing alarm in parts of Papua New Guinea.
+Title = Sweden's left-wing bloc wins general election by slim margin
+Body = The centre-left coalition has secured a one-seat majority over the right-wing bloc that had been in power since 2022.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+Title = Digimon: The Best Adventure We Chose Announced to Stream Globally
+Body = The Digimon Anime Twitter has announced that The Best Adventure We Chose will stream globally. Details for various regions are to be announced, but realistically if Adventure:, Ghost Game, and Beatbreak has been streamed where you are, you can expect The Best Adventure We Chose to stream for you also.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Tamers (Subbed) & Digimon Frontier (Subbed) Blu-rays Out on November 24th from Discotek, Pre-Orders Open
+Body = After both were announced earlier this year pre-orders are open for the Blu-ray releases of the original Japanese versions of Digimon Tamers and Frontier The sets each includes all of the original version of Tamers and Frontier, which has never had a home video release in Japanese with English subs before... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Examon Parallel/Alt Art & Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
+Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Gankoomon & Jesmon Parallel/Alt Art & Special Parallel/Alt Art Previews for Digimon Card Game Booster Set EX-13
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
 Title = Poll Results for Favorite Partner Digimon in Digimon Up
 Body = A bit ago, the official Digimon site put up a poll for your Favorite Partner Digimon in Digimon Up! Recently the poll closed and we have the results!
-End = true
-
-[LIBRARY RNEWS]
-Title = Dynasmon & RhodoKnightmon/LordKnightmon Parallel/Alt Art & Special Parallel/Alt Art Previews for Digimon Card Game Booster Set EX-13
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Godzilla vs. Digimon: DefoReal WarGreymon: "G" Erosion Mode Figure- Images, Info, & Pre-Order Details
-Body = The Godzilla vs. Digimon collaboration continues with a new figure!
-End = true
-
-[LIBRARY RNEWS]
-Title = Godzilla vs. Digimon Mini Soft Vinyl Chronicle Mini Figure Pre-Orders at Hobby Genki
-Body = Final release details for the Godzilla vs. Digimon Mini Soft Vinyl Chronicle mini figures were announced a few days ago.
 End = true
 
