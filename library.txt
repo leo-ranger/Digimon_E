@@ -24,8 +24,13 @@ Body = The UN says many Palestinians are living in buildings damaged by Israel's
 End = true
 
 [LIBRARY RNEWS]
-Title = Sweden's left-wing bloc wins general election by slim margin
-Body = The centre-left coalition has secured a one-seat majority over the right-wing bloc that had been in power since 2022.
+Title = US Fed hikes interest rates to curb inflation as Trump calls for cut
+Body = The US economy has been dealing with years of higher-than-target inflation, and prices have surged in the wake of Mr Trump's war on Iran, his signature tariff policies and the ongoing AI boom.
+End = true
+
+[LIBRARY RNEWS]
+Title = Alphamon, Magnamon, Dukemon/Gallantmon, & Omegamon/Omnimon Special Parallel/Alt Art Previews & Trailer for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with... [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = The Digimon Anime Twitter has announced that The Best Adventure We Chose 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Tamers (Subbed) & Digimon Frontier (Subbed) Blu-rays Out on November 24th from Discotek, Pre-Orders Open
-Body = After both were announced earlier this year pre-orders are open for the Blu-ray releases of the original Japanese versions of Digimon Tamers and Frontier The sets each includes all of the original version of Tamers and Frontier, which has never had a home video release in Japanese with English subs before... [...]
+Title = Digimon Card Battle 281- Booster Set EX-13 Deck Buffs Part 1
+Body = Digimon Card Battle is back with episode 281. This time it's back to Digimon Card Room as they go over a dozen decks that are buffed with Booster Set EX-13.
 End = true
 
 [LIBRARY RNEWS]
-Title = Examon Parallel/Alt Art & Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
+Title = Alphamon Parallel/Alt Art & Special Parallel/Alt Art Preview for Digimon Card Game Booster Set EX-13
 Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
 Title = Gankoomon & Jesmon Parallel/Alt Art & Special Parallel/Alt Art Previews for Digimon Card Game Booster Set EX-13
 Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Poll Results for Favorite Partner Digimon in Digimon Up
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Partner Digimon in Digimon Up! Recently the poll closed and we have the results!
 End = true
 
