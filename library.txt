@@ -14,8 +14,13 @@ Body = In a speech to the Polish parliament, Donald Tusk says there is a "real r
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Alarming': Report says North Korean overseas labour financing nuclear weapons
-Body = Tens of thousands of North Korean labourers working in Russia and China reportedly raised as much as $US800 million last year for Kim Jong Un's nuclear weapons program, helping Pyongyang evade UN sanctions.
+Title = Fiji declares national HIV emergency as cases soar
+Body = One in 60 people in the Pacific nation now have the virus, prompting authorities to boost testing.
+End = true
+
+[LIBRARY RNEWS]
+Title = LA driver charged over bus collision before fatal news helicopter crash
+Body = Bailee Lynn Rios was speeding and drug-affected when she drove her SUV the wrong way down a busy avenue and struck a vehicle before ploughing into a bus, prosecutors say.
 End = true
 
 [LIBRARY RNEWS]
@@ -24,13 +29,13 @@ Body = A Latina Republican lawmaker facing a competitive re-election race in Flo
 End = true
 
 [LIBRARY RNEWS]
-Title = Japan lifts interest rates to counter 'shocking' inflation
-Body = The Bank of Japan today increased rates to 1.25 per cent, in a widely anticipated move to counter inflation fuelled by high energy costs.
+Title = Digimon in November V-Jump- World's Best Picks Anime Info, Card Game Booster Set EX-13, Beatbreak V-Pet Pre-Orders on September 27th, Up News, & More!
+Body = It's time for all the new Digimon content from the November 2026 cover dated issue of V-Jump! We start off with a two page spread for Booster Set EX-13, focusing on the Royal Knights.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon in November V-Jump- World's Best Picks Anime Info, Card Game Booster Set EX-13, Beatbreak V-Pet Pre-Orders on September 27th, Up News, & More!
-Body = It's time for all the new Digimon content from the November 2026 cover dated issue of V-Jump! We start off with a two page spread for Booster Set EX-13, focusing on the Royal Knights.
+Title = Digimon Tamers (Subbed) & Digimon Frontier (Subbed) Blu-rays Out on November 24th from Discotek, Pre-Orders Open
+Body = After both were announced earlier this year pre-orders are open for the Blu-ray releases of the original Japanese versions of Digimon Tamers and Frontier The sets each includes all of the original version of Tamers and Frontier, which has never had a home video release in Japanese with English subs before... [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 47- The Ultimate Power [...]
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 47, The Ultimate Power A preview of Episode 47 Episode 47 airs Sunday, September 13th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Tamers (Subbed) & Digimon Frontier (Subbed) Blu-rays Out on November 24th from Discotek, Pre-Orders Open
-Body = After both were announced earlier this year pre-orders are open for the Blu-ray releases of the original Japanese versions of Digimon Tamers and Frontier The sets each includes all of the original version of Tamers and Frontier, which has never had a home video release in Japanese with English subs before... [...]
 End = true
 
