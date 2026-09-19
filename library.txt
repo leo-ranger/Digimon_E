@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Death toll from Pakistan bomb attack rises to 31 [...]
+Body = The death toll from an attack near a police headquarters in northern Pakistan has risen to at least 31, with fighting ongoing.
+End = true
+
+[LIBRARY RNEWS]
 Title = Macron orders protection of French infrastructure from Russian hybrid attacks
 Body = The French president said the threat to Europe from Moscow's shadow warfare had "intensified".
 End = true
@@ -21,11 +26,6 @@ End = true
 [LIBRARY RNEWS]
 Title = Australian accused of murdering teenager in Thailand denied bail
 Body = Simon Carman, the Australian man accused of murdering Thai teenager Tunchanok Donhomla in June, is denied bail after prosecutors argued he could try to flee the country.
-End = true
-
-[LIBRARY RNEWS]
-Title = A week of Houthi attacks threatens Saudi oil and rattles markets
-Body = The Iran-backed Houthi rebels have made their biggest land grab in years, reigniting Yemen's 12-year long civil war and pushing up global fuel prices.
 End = true
 
 [LIBRARY RNEWS]
