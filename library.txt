@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian plans include strikes against Ukraine's allies, Polish PM says
-Body = In a speech to the Polish parliament, Donald Tusk says there is a "real risk" that Russian drones may fall on "the territory of one or several NATO countries on the eastern flank" and call it an accident.
+Title = Macron orders protection of French infrastructure from Russian hybrid attacks
+Body = The French president said the threat to Europe from Moscow's shadow warfare had "intensified".
 End = true
 
 [LIBRARY RNEWS]
-Title = Fiji declares national HIV emergency as cases soar
-Body = One in 60 people in the Pacific nation now have the virus, prompting authorities to boost testing.
+Title = At least three dead in Philippines school shooting
+Body = At least three students have been killed and eight others injured in a shooting at a high school in the country's south, authorities have confirmed.
 End = true
 
 [LIBRARY RNEWS]
-Title = LA driver charged over bus collision before fatal news helicopter crash
-Body = Bailee Lynn Rios was speeding and drug-affected when she drove her SUV the wrong way down a busy avenue and struck a vehicle before ploughing into a bus, prosecutors say.
+Title = Australian accused of murdering teenager in Thailand denied bail
+Body = Simon Carman, the Australian man accused of murdering Thai teenager Tunchanok Donhomla in June, is denied bail after prosecutors argued he could try to flee the country.
 End = true
 
 [LIBRARY RNEWS]
-Title = Republican breaks with Trump over immigration crackdown ahead of US midterms
-Body = A Latina Republican lawmaker facing a competitive re-election race in Florida has warned Donald Trump that his immigration enforcement agenda has overreached.
+Title = A week of Houthi attacks threatens Saudi oil and rattles markets
+Body = The Iran-backed Houthi rebels have made their biggest land grab in years, reigniting Yemen's 12-year long civil war and pushing up global fuel prices.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon in November V-Jump- World's Best Picks Anime Info, Card Game Booster Set EX-13, Beatbreak V-Pet Pre-Orders on September 27th, Up News, & More!
-Body = It's time for all the new Digimon content from the November 2026 cover dated issue of V-Jump! We start off with a two page spread for Booster Set EX-13, focusing on the Royal Knights.
+Title = Digimon Caravan Updates- Event This Weekend & Two More Events Scheduled to Replace Cancelled Events
+Body = Digimon Caravan at the Aeon Mall Sakai Kitahanada is happening this weekend and we have a few preview images. This was originally scheduled as the 3rd and final Digimon Caravan event, before the first two were cancelled due to the Kumamoto earthquake...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Tamers (Subbed) & Digimon Frontier (Subbed) Blu-rays Out on November 24th from Discotek, Pre-Orders Open
-Body = After both were announced earlier this year pre-orders are open for the Blu-ray releases of the original Japanese versions of Digimon Tamers and Frontier The sets each includes all of the original version of Tamers and Frontier, which has never had a home video release in Japanese with English subs before... [...]
+Title = What was your favorite Beatbreak ED? [...]
+Body = With the end of Beatbreak coming up, I thought I'd make a similar thread to one I posted when GG finished. What was your favorite Beatbreak ending theme (or ED)?
 End = true
 
 [LIBRARY RNEWS]
-Title = Imperialdramon: Paladin Mode & Omegamon/Omnimon: Merciful Mode Special Parallel/Alt Art Previews for Digimon Card Game Booster Set EX-13
-Body = ... [...] [...]
+Title = Do we visit the Digital World in Beat Break? [...]
+Body = Title says iet all. I want to start a discussion about it.
 End = true
 
 [LIBRARY RNEWS]
-Title = Poll Results for Favorite Partner Digimon in Digimon Up
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Partner Digimon in Digimon Up! Recently the poll closed and we have the results!
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 47- The Ultimate Power [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 47, The Ultimate Power A preview of Episode 47 Episode 47 airs Sunday, September 13th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Mayor of New York's Favorite Anime is... Digimon! [...]
+Body = I'm sure this may not be relevant or interesting to many... but for it's worth noting.
 End = true
 
