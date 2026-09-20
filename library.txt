@@ -9,43 +9,43 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Death toll from Pakistan bomb attack rises to 31 [...]
-Body = The death toll from an attack near a police headquarters in northern Pakistan has risen to at least 31, with fighting ongoing.
+Title = Russia reports cyber attacks on voting system during parliamentary election
+Body = Russian authorities have reported multiple attacks on voting systems and communication lines across the country, as Russians head to the polls in a three-day parliamentary election.
 End = true
 
 [LIBRARY RNEWS]
-Title = Macron orders protection of French infrastructure from Russian hybrid attacks
-Body = The French president said the threat to Europe from Moscow's shadow warfare had "intensified".
+Title = Trump announces White House ban on CNN, MS NOW and Politico
+Body = Cable networks CNN and MS NOW and newsletter publisher Politico have been banned from the White House, effective immediately, with more to follow, the US President says.
 End = true
 
 [LIBRARY RNEWS]
-Title = At least three dead in Philippines school shooting
-Body = At least three students have been killed and eight others injured in a shooting at a high school in the country's south, authorities have confirmed.
+Title = Gemini hacked three companies in first known breakout by Google's AI
+Body = The hacks occurred during a cybersecurity test conducted by an independent evaluation company.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian accused of murdering teenager in Thailand denied bail
-Body = Simon Carman, the Australian man accused of murdering Thai teenager Tunchanok Donhomla in June, is denied bail after prosecutors argued he could try to flee the country.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Caravan Updates- Event This Weekend & Two More Events Scheduled to Replace Cancelled Events
-Body = Digimon Caravan at the Aeon Mall Sakai Kitahanada is happening this weekend and we have a few preview images. This was originally scheduled as the 3rd and final Digimon Caravan event, before the first two were cancelled due to the Kumamoto earthquake...
-End = true
-
-[LIBRARY RNEWS]
-Title = What was your favorite Beatbreak ED? [...]
-Body = With the end of Beatbreak coming up, I thought I'd make a similar thread to one I posted when GG finished. What was your favorite Beatbreak ending theme (or ED)?
-End = true
-
-[LIBRARY RNEWS]
-Title = Do we visit the Digital World in Beat Break? [...]
-Body = Title says iet all. I want to start a discussion about it.
+Title = US and Denmark reach deal over Greenland after Trump's vows to take island
+Body = The US president says he has made a deal with Denmark to bolster the US military presence in Greenland, after months of threatening to take it by force from the NATO ally.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Channel: Pics and Translation Thread [...]
 Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 48- Two Beats [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 48, Two Beats A preview of Episode 48 Episode 48 airs Sunday, September 20th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 47- The Ultimate Power [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 47, The Ultimate Power A preview of Episode 47 Episode 47 airs Sunday, September 13th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Final Episode Promo Poster & Title
+Body = A new promo poster has been released before the final episode of Digimon Beatbreak next week. It's the same character art as the Asuka arc key art, but with different lighting, placement, and background.
 End = true
 
 [LIBRARY RNEWS]
