@@ -29,18 +29,8 @@ Body = The US president says he has made a deal with Denmark to bolster the US m
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 48- Two Beats [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 48, Two Beats A preview of Episode 48 Episode 48 airs Sunday, September 20th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 47- The Ultimate Power [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 47, The Ultimate Power A preview of Episode 47 Episode 47 airs Sunday, September 13th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Final thoughts on Beatbreak [...]
+Body = As it's getting close the end (1 episode to go), and people keep clogging up the episode discussions, discuss here you thoughts on the Beatbreak series. Do keep the ranting to a minimum.
 End = true
 
 [LIBRARY RNEWS]
@@ -51,5 +41,15 @@ End = true
 [LIBRARY RNEWS]
 Title = Mayor of New York's Favorite Anime is... Digimon! [...]
 Body = I'm sure this may not be relevant or interesting to many... but for it's worth noting.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 48- Two Beats [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 48, Two Beats A preview of Episode 48 Episode 48 airs Sunday, September 20th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
