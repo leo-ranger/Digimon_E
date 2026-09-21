@@ -9,38 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russia reports cyber attacks on voting system during parliamentary election
-Body = Russian authorities have reported multiple attacks on voting systems and communication lines across the country, as Russians head to the polls in a three-day parliamentary election.
+Title = North Korea launches ballistic missiles, prompting 'stern protest'
+Body = Pyongyang fires two short-range missiles, prompting swift condemnation from South Korea and Japan.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump announces White House ban on CNN, MS NOW and Politico
-Body = Cable networks CNN and MS NOW and newsletter publisher Politico have been banned from the White House, effective immediately, with more to follow, the US President says.
+Title = Germany's right-wing party AfD returns strong election results
+Body = The right-wing Alternative for Germany party makes strong gains in two state elections, according to exit polls, leaving Chancellor Friedrich Merz's future uncertain after 16 months in office.
 End = true
 
 [LIBRARY RNEWS]
-Title = Gemini hacked three companies in first known breakout by Google's AI
-Body = The hacks occurred during a cybersecurity test conducted by an independent evaluation company.
+Title = Trump arch to serve as 'military complex' housing drones and snipers
+Body = The US president says his announcement comes at the "strong request" of the military, though the project has not yet been approved.
 End = true
 
 [LIBRARY RNEWS]
-Title = US and Denmark reach deal over Greenland after Trump's vows to take island
-Body = The US president says he has made a deal with Denmark to bolster the US military presence in Greenland, after months of threatening to take it by force from the NATO ally.
-End = true
-
-[LIBRARY RNEWS]
-Title = Final thoughts on Beatbreak [...]
-Body = As it's getting close the end (1 episode to go), and people keep clogging up the episode discussions, discuss here you thoughts on the Beatbreak series. Do keep the ranting to a minimum.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Final Episode Promo Poster & Title
-Body = A new promo poster has been released before the final episode of Digimon Beatbreak next week. It's the same character art as the Asuka arc key art, but with different lighting, placement, and background.
-End = true
-
-[LIBRARY RNEWS]
-Title = Mayor of New York's Favorite Anime is... Digimon! [...]
-Body = I'm sure this may not be relevant or interesting to many... but for it's worth noting.
+Title = Amsterdam no longer spends on marketing, and the city is not alone
+Body = Tourist destinations around the world are trying out various strategies to manage the environmental and social impacts that are caused by visitors.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +34,22 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 48- Two Beats [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 48, Two Beats A preview of Episode 48 Episode 48 airs Sunday, September 20th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Final thoughts on Beatbreak [...]
+Body = As it's getting close the end (1 episode to go), and people keep clogging up the episode discussions, discuss here you thoughts on the Beatbreak series. Do keep the ranting to a minimum.
+End = true
+
+[LIBRARY RNEWS]
+Title = What was your favorite Beatbreak ED? [...]
+Body = With the end of Beatbreak coming up, I thought I'd make a similar thread to one I posted when GG finished. What was your favorite Beatbreak ending theme (or ED)?
+End = true
+
+[LIBRARY RNEWS]
+Title = Preview for Digimon Beatbreak Episode 49 A World of Shining Light [Final]
+Body = https://twitter.com/x/status/2101597232550056318 Time for a preview for Episode 49 A World of Shining Light! Watch episode 48 first!
 End = true
 
