@@ -9,33 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = As leaders meet in New York, the fate of the world may rest on Trump and Xi
+Body = A lot has changed since last year's United Nations General Assembly while conflicts in the Middle East, Sudan, Myanmar and the Congo continue, raising the question of the UN's efficacy to end global conflicts.
+End = true
+
+[LIBRARY RNEWS]
+Title = Lindsay Clancy's lawyer asks judge to investigate lone holdout juror
+Body = The lawyer for the Massachusetts woman accused of murdering her three children is pushing for an investigation into the one juror who wanted to convict her.
+End = true
+
+[LIBRARY RNEWS]
+Title = US flights in chaos as communications fail and cable accidentally cut
+Body = A failed telecommunications circuit and a severed fibre-optic cable have snarled thousands of flights across the US and halted incoming flights at airports in New York, Boston and Philadelphia.
+End = true
+
+[LIBRARY RNEWS]
 Title = Calls to halt Indonesia free meals program as student loses memory
 Body = Indonesia's flagship free school-meals program is facing growing criticism after more students suffer food poisoning, prompting calls for legal action and greater accountability.
 End = true
 
 [LIBRARY RNEWS]
-Title = Xi Jinping's closest military ally expelled from party, accused of corruption
-Body = The Chinese leadership accused the high-ranking military officers of disloyalty and corruption involving "exceptionally large" sums of money.
-End = true
-
-[LIBRARY RNEWS]
-Title = German leader Merz clings on after election 'disaster'
-Body = Despite seeing his party tumble to its worst regional election defeat in post-war Germany, Chancellor Friedrich Merz vows to stay in power after announcing the centre-left Social Democrats wanted to remain in a coalition with his conservatives.
-End = true
-
-[LIBRARY RNEWS]
-Title = CNN, MS NOW and Politico sue over White House ban [...]
-Body = The three American media outlets banned from the White House take legal action against US President Donald Trump, accusing him of a "direct assault" on free speech rights.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #318- Broken Beat (Beatbreak Episode 48, World's Best Picks, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 48 & the next episode is the finale, World's Best Picks streaming globally, Godzilla vs. Digimon figures, cards, & more!
+Title = Preview for Digimon Beatbreak Episode 49 A World of Shining Light [Final]
+Body = https://twitter.com/x/status/2101597232550056318 Time for a preview for Episode 49 A World of Shining Light! Watch episode 48 first!
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Channel: Pics and Translation Thread [...]
 Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Episode #318- Broken Beat (Beatbreak Episode 48, World's Best Picks, & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 48 & the next episode is the finale, World's Best Picks streaming globally, Godzilla vs. Digimon figures, cards, & more!
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Story: Time Stranger: A Hero’s Eternal Legacy - DLC Expansion Announcement Trailer
 Body = We have the first trailer for the upcoming Time Stranger DLC expansion. Only spoiler warning you get will be here, as the game takes place after the main game.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Staff Art Before Finale- Art 15, Nonagon
-Body = With just 1 episode left of Digimon Beatbreak, Digimon TV on Twitter is continuing their ongoing feature featuring celebration illustrations from the production staff before the series ends. Today we have a piece from animator Nonagon.
 End = true
 
