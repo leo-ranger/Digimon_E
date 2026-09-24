@@ -9,28 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Harvey Weinstein asks for 'mercy' as he's jailed for 15 years for sex crime
-Body = Harvey Weinstein will spend 15 years behind bars for sexually assaulting a production assistant at his Manhattan apartment 20 years ago.
+Title = Xi's US arrival not covered by major TV outlets amid Trump media ban
+Body = The US president met his Chinese counterpart on the tarmac in a rare show of courtesy ahead of the three-day state visit which is expected to cover issues including AI, trade, Iran and Taiwan.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Need the world to wake up': AI 'Godfather's' stark warning after Trump's speech
-Body = Donald Trump may not be keen on implementing AI guardrails but one of the 'Godfathers of AI' Yoshua Bengio is siding with nations who want to slow the acceleration of the technology.
+Title = Iran's president addresses UN after Trump threatens 'annihilation'
+Body = Iran's president delivers an unyielding speech at the UN, describing his country as a victim of terrorism and declaring it will never surrender to US and Israeli aggression.
 End = true
 
 [LIBRARY RNEWS]
-Title = Dolly Parton’s estate in feud with nephew over alleged threats
-Body = Dolly Parton's nephew has been accused of threatening to commit violence and destroy his aunt’s legacy and business empire, court documents show.
+Title = PM warns China and US the Indo-Pacific not their 'chessboard'
+Body = In a major foreign policy speech delivered in New York, Anthony Albanese declared the post-1945 world order "is no longer fit for purpose" and warned China and the US the Indo-Pacific is not a "chessboard".
 End = true
 
 [LIBRARY RNEWS]
-Title = Australia 'exposed' as Europe's most important trade river dries up
-Body = While the eyes of the world remain fixed on geopolitically charged blockades in the Strait of Hormuz, a bottleneck has been choking another of the globe's critical shipping routes.
-End = true
-
-[LIBRARY RNEWS]
-Title = Official Digimon Web Poll #158- Favorite Digimon Story: Time Stranger Boss Battle
-Body = Digimon Web has opened a new fan vote. This is the 158th official web poll on the current version of the site.
+Title = Judge orders reversal of Trump's White House media ban
+Body = A federal judge has ordered US President Donald Trump to restore White House access for journalists from CNN, MS NOW and Politico.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,13 +34,18 @@ Body = I only remember the Digimon from adventure until Data Squad, I know about
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 48- Two Beats [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 48, Two Beats A preview of Episode 48 Episode 48 airs Sunday, September 20th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Beatbreak Staff Art Before Finale- Art 17, Noriyuki Hirota
+Body = With just 1 episode left of Digimon Beatbreak, Digimon TV on Twitter is continuing their ongoing feature featuring celebration illustrations from the production staff before the series ends. Today we have a piece from animator Noriyuki Hirota, who also was working on banked animations early on, including Pristimon's evolution.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Staff Art Before Finale- Art 17, Noriyuki Hirota
-Body = With just 1 episode left of Digimon Beatbreak, Digimon TV on Twitter is continuing their ongoing feature featuring celebration illustrations from the production staff before the series ends. Today we have a piece from animator Noriyuki Hirota, who also was working on banked animations early on, including Pristimon's evolution.
+Title = Official Digimon Web Poll #158- Favorite Digimon Story: Time Stranger Boss Battle
+Body = Digimon Web has opened a new fan vote. This is the 158th official web poll on the current version of the site.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 48- Two Beats [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 48, Two Beats A preview of Episode 48 Episode 48 airs Sunday, September 20th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
