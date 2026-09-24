@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = China watchers split over substance of Trump-Xi summit
-Body = US President Donald Trump and Chinese President Xi Jinping are set for a highly anticipated summit in Washington. Some see the meeting as an opportunity to stabilise relations, while others caution that the carefully choreographed encounter could amount to little more than political theatre.
+Title = Harvey Weinstein asks for 'mercy' as he's jailed for 15 years for sex crime
+Body = Harvey Weinstein will spend 15 years behind bars for sexually assaulting a production assistant at his Manhattan apartment 20 years ago.
 End = true
 
 [LIBRARY RNEWS]
-Title = Papua New Guinea police bust alleged human-trafficking ring
-Body = Police say they have found dozens of people from Indonesia allegedly being held against their will in Papua New Guinea and forced to carry out online scams.
+Title = 'Need the world to wake up': AI 'Godfather's' stark warning after Trump's speech
+Body = Donald Trump may not be keen on implementing AI guardrails but one of the 'Godfathers of AI' Yoshua Bengio is siding with nations who want to slow the acceleration of the technology.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump tells UN he could 'annihilate' Iran but expects deal after midterms
-Body = US President Donald Trump uses a speech at the UN to portray "American power" as the solution to the world's problems, defending his ongoing war with Iran and declaring he now has to decide whether to "annihilate" the Islamic Republic.
+Title = Dolly Parton’s estate in feud with nephew over alleged threats
+Body = Dolly Parton's nephew has been accused of threatening to commit violence and destroy his aunt’s legacy and business empire, court documents show.
 End = true
 
 [LIBRARY RNEWS]
-Title = EU to lift sanctions on two Russian oligarchs [...]
-Body = Kyiv has argued the bloc should be ratcheting up pressure on Moscow after Alisher Usmanov and Mikhail Fridman were removed from a blacklist.
+Title = Australia 'exposed' as Europe's most important trade river dries up
+Body = While the eyes of the world remain fixed on geopolitically charged blockades in the Strait of Hormuz, a bottleneck has been choking another of the globe's critical shipping routes.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = Digimon Web has opened a new fan vote. This is the 158th official web pol
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 49 [Final]- A World of Shining Light
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, A World of Shining Light A preview of Episode 49 Episode 49 airs Sunday, September 27th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
 Title = I'm new, tell me your favorite Digimon [...]
 Body = I only remember the Digimon from adventure until Data Squad, I know about a few new ones, I might recognize your favorite buddy, or not!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Battle 282- Booster Set EX-13 Deck Buffs Part 2
-Body = Digimon Card Battle is back with episode 282. This time it's back to Digimon Card Room as they continue their look at decks buffed with Booster Set EX-13.
+Title = Digimon Beatbreak: Episode 48- Two Beats [...]
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 48, Two Beats A preview of Episode 48 Episode 48 airs Sunday, September 20th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Staff Art Before Finale- Art 16, Zijing Zhuge
-Body = With just 1 episode left of Digimon Beatbreak, Digimon TV on Twitter is continuing their ongoing feature featuring celebration illustrations from the production staff before the series ends. Today we have a piece from animator Zijing Zhuge, who was also animation director for various episodes.
+Title = Digimon Beatbreak Staff Art Before Finale- Art 17, Noriyuki Hirota
+Body = With just 1 episode left of Digimon Beatbreak, Digimon TV on Twitter is continuing their ongoing feature featuring celebration illustrations from the production staff before the series ends. Today we have a piece from animator Noriyuki Hirota, who also was working on banked animations early on, including Pristimon's evolution.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 49 [Final]- A World of Shining Light
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, A World of Shining Light A preview of Episode 49 Episode 49 airs Sunday, September 27th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
