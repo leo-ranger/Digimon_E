@@ -9,33 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Xi's US arrival not covered by major TV outlets amid Trump media ban
-Body = The US president met his Chinese counterpart on the tarmac in a rare show of courtesy ahead of the three-day state visit which is expected to cover issues including AI, trade, Iran and Taiwan.
+Title = AI must stay 'under human control', Xi tells Trump
+Body = The three-day summit is likely to be more about spectacle than substance despite Donald Trump saying he would be discussing "pressing" issues, including AI.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran's president addresses UN after Trump threatens 'annihilation'
-Body = Iran's president delivers an unyielding speech at the UN, describing his country as a victim of terrorism and declaring it will never surrender to US and Israeli aggression.
+Title = Fiji's HIV epidemic is surging and babies are paying the price
+Body = Fiji has free testing and treatment to prevent mothers passing HIV to their babies. Last year, 59 babies were infected anyway, and 18 died before they turned one.
 End = true
 
 [LIBRARY RNEWS]
-Title = PM warns China and US the Indo-Pacific not their 'chessboard'
-Body = In a major foreign policy speech delivered in New York, Anthony Albanese declared the post-1945 world order "is no longer fit for purpose" and warned China and the US the Indo-Pacific is not a "chessboard".
+Title = Palestinian president sends video to UN after 'unlawful' visa denial
+Body = Palestinian leader Mahmoud Abbas calls on the US to stop blocking him from attending the UN, in a video message beamed into the annual summit a day after Iran's president was allowed to address it in person.
 End = true
 
 [LIBRARY RNEWS]
-Title = Judge orders reversal of Trump's White House media ban
-Body = A federal judge has ordered US President Donald Trump to restore White House access for journalists from CNN, MS NOW and Politico.
-End = true
-
-[LIBRARY RNEWS]
-Title = I'm new, tell me your favorite Digimon [...]
-Body = I only remember the Digimon from adventure until Data Squad, I know about a few new ones, I might recognize your favorite buddy, or not!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Staff Art Before Finale- Art 17, Noriyuki Hirota
-Body = With just 1 episode left of Digimon Beatbreak, Digimon TV on Twitter is continuing their ongoing feature featuring celebration illustrations from the production staff before the series ends. Today we have a piece from animator Noriyuki Hirota, who also was working on banked animations early on, including Pristimon's evolution.
+Title = 'No country controls every layer': The AI systems reshaping global power
+Body = ChatGPT might be the face of AI, but behind the prompts lies a complex physical ecosystem that is reshaping power balances around the world.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +34,22 @@ Body = Digimon Web has opened a new fan vote. This is the 158th official web pol
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 48- Two Beats [...]
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 48, Two Beats A preview of Episode 48 Episode 48 airs Sunday, September 20th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Running With the Will for 20 Years [...]
+Body = It’s been 5 years since one of these… So it’s been 20 years since the ‘new’ version of With the Will began, and 20 years since I’ve been running it. Which is a decently long time considering I didn’t plan to be that involved.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 49 [Final]- A World of Shining Light
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, A World of Shining Light A preview of Episode 49 Episode 49 airs Sunday, September 27th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = I'm new, tell me your favorite Digimon [...]
+Body = I only remember the Digimon from adventure until Data Squad, I know about a few new ones, I might recognize your favorite buddy, or not!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Staff Art Before Finale- Art 18, Asako Narasaki & New Design Work from Takahiro Kojima
+Body = With just 1 episode left of Digimon Beatbreak, Digimon TV on Twitter is continuing their ongoing feature featuring celebration illustrations from the production staff before the series ends. Today we have a piece from animator Asako Narasaki.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak Staff Art Before Finale- Art 17, Noriyuki Hirota
+Body = With just 1 episode left of Digimon Beatbreak, Digimon TV on Twitter is continuing their ongoing feature featuring celebration illustrations from the production staff before the series ends. Today we have a piece from animator Noriyuki Hirota, who also was working on banked animations early on, including Pristimon's evolution.
 End = true
 
