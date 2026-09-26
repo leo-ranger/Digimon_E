@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = AI must stay 'under human control', Xi tells Trump
-Body = The three-day summit is likely to be more about spectacle than substance despite Donald Trump saying he would be discussing "pressing" issues, including AI.
+Title = 'Free to enter and exit': Job ads lift veil on working in scam compounds
+Body = An analysis of thousands of job advertisements posted by Cambodian scam syndicates reveals how the multi-billion-dollar industry has continued amid a crackdown by the country's government.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pomp and ceremony mask tensions as Trump hosts Xi at White House — as it happened
-Body = China said the pair agreed to back each other's hosting of APEC in Shenzhen and the G20 in Miami later this year, but there were no announcements of further agreements. Take a look back at how the day unfolded.
+Title = Trump told Xi helping Iran is unacceptable, US ambassador says
+Body = Amid the tea-drinking and pleasantries in Washington this week, Donald Trump said he did bring up the Iran war with Xi Jinping and China's support for Tehran.
 End = true
 
 [LIBRARY RNEWS]
-Title = Palestinian president sends video to UN after 'unlawful' visa denial
-Body = Palestinian leader Mahmoud Abbas calls on the US to stop blocking him from attending the UN, in a video message beamed into the annual summit a day after Iran's president was allowed to address it in person.
+Title = 'T [...] carefully’: Millions across Asia Pacific share Australia’s AI unease
+Body = Australians are the most sceptical in the world about AI. Overseas, it's a different story.
 End = true
 
 [LIBRARY RNEWS]
-Title = Fiji's HIV epidemic is surging and babies are paying the price
-Body = Fiji has free testing and treatment to prevent mothers passing HIV to their babies. Last year, 59 babies were infected anyway, and 18 died before they turned one.
+Title = Drug trafficker released from jail after being spared death row
+Body = Mary Jane Veloso was due to be executed in Indonesia in 2015 alongside Australians Andrew Chan and Myuran Sukumaran, but she was spared at the last minute.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure Aritaware Mamezara Plates- Pre-Orders Open for a Few More Days
+Body = Aritaware Mamezara plates themed after Digimon Adventure are being made and sold by Yuruwa. We had missed posting this.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = It’s been 5 years since one of these… So it’s been 20 years since t
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Game- Card Images of Booster Set EX-13 Chivalrous XIII
-Body = After a bunch of previews we have the full card lineup for Booster Set EX-13 Chivalrous XIII for the Digimon Card Game! With the games becoming synced in various countries around the world, we're still going to include just the Japanese cards in these articles, minus when unique cards show up.
+Title = With the Will Podcast Live- Monday, September 28th
+Body = Monday (September 28th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon Beatbreak episode 49 & the end of the series, World's Best Picks starts next week, 20 years here, & more! And AR is here!
 End = true
 
 [LIBRARY RNEWS]
-Title = Official Digimon Web Poll #158- Favorite Digimon Story: Time Stranger Boss Battle
-Body = Digimon Web has opened a new fan vote. This is the 158th official web poll on the current version of the site.
+Title = Digimon Beatbreak Episode 49 [Final Episode] Preview Screenshots & Cast/Staff Talk After Episode
+Body = Digimon Beatbreak episode 49, A World of Shining Light, is streaming tomorrow, so we get a small stack of preview screenshots... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = I'm new, tell me your favorite Digimon [...]
-Body = I only remember the Digimon from adventure until Data Squad, I know about a few new ones, I might recognize your favorite buddy, or not!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak Staff Art Before Finale- Art 18, Asako Narasaki & New Design Work from Takahiro Kojima
-Body = With just 1 episode left of Digimon Beatbreak, Digimon TV on Twitter is continuing their ongoing feature featuring celebration illustrations from the production staff before the series ends. Today we have a piece from animator Asako Narasaki.
+Title = Digimon Beatbreak Staff Art Before Finale- Art 19, Rui Kondou
+Body = With just 1 episode left of Digimon Beatbreak, Digimon TV on Twitter is continuing their ongoing feature featuring celebration illustrations from the production staff before the series ends. Today we have a piece from animator Rui Kondou, who also was the animation director for various episodes and the OP.
 End = true
 
