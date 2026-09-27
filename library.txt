@@ -29,8 +29,8 @@ Body = Donald Trump hails a "truly great friendship" with President Xi. But the 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 49 [Final]- A World of Shining Light
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, A World of Shining Light A preview of Episode 49 Episode 49 airs Sunday, September 27th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+Title = Digimon Case Iremon Color- Pre-Order Details, Images, & Info
+Body = With the reveal of new Digimon Color Beatbreak V-pets, we also get new cases. The new Iremon cases are different than we tend to see, as they have generally been designed around Pendulums, while these are for the standard Digimon Colors, including the new Beatbreak V-pets.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+Title = Digimon Beatbreak: Episode 49 [Final]- A World of Shining Light
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, A World of Shining Light A preview of Episode 49 Episode 49 airs Sunday, September 27th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Case Iremon Color- Pre-Order Details, Images, & Info
-Body = With the reveal of new Digimon Color Beatbreak V-pets, we also get new cases. The new Iremon cases are different than we tend to see, as they have generally been designed around Pendulums, while these are for the standard Digimon Colors, including the new Beatbreak V-pets.
+Title = Digimon Color: Digimon Beatbreak Edition V-Pets- Pre-Order Details, Images, & Info
+Body = After being announced a bit ago, the Digimon Color: Digimon Beatbreak Edition are available to pre-order since Beatbreak has ended in Japan. As a general warning, consider anything here might include finale spoilers, which will not be spoiler tagged.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Blu-rays Planned for Japan [...]
-Body = No specific details announced outside of that they are planned, but... Digimon Beatbreak Blu-rays will be coming out in Japan.
+Title = Final thoughts on Beatbreak [...]
+Body = As it's getting close the end (1 episode to go), and people keep clogging up the episode discussions, discuss here you thoughts on the Beatbreak series. Do keep the ranting to a minimum.
 End = true
 
