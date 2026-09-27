@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Free to enter and exit': Job ads lift veil on working in scam compounds
-Body = An analysis of thousands of job advertisements posted by Cambodian scam syndicates reveals how the multi-billion-dollar industry has continued amid a crackdown by the country's government.
+Title = 'Trump Strait' post follows Iran offer to reopen peace discussions
+Body = Iran's proposal would reopen the Strait of Hormuz within a week, according to its Foreign Minister Abbas Araghchi, but Donald Trump has already rejected the deal.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump told Xi helping Iran is unacceptable, US ambassador says
-Body = Amid the tea-drinking and pleasantries in Washington this week, Donald Trump said he did bring up the Iran war with Xi Jinping and China's support for Tehran.
+Title = CNN barred from Trump trip after judge strikes down White House ban
+Body = The White House has signalled that CNN will be barred from an upcoming Air Force One trip, replacing the news organisation with a conservative network.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'T [...] carefully': Millions across Asia Pacific share Australia’s AI unease
-Body = Australians are the most sceptical in the world about AI. Overseas, it's a different story.
+Title = Who is Jensen Huang, the AI boss Trump calls at night?
+Body = The founder of the world's most valuable AI company has the ear of Donald Trump when it comes to the risks and potential of the cutting-edge technology.
 End = true
 
 [LIBRARY RNEWS]
-Title = Drug trafficker released from jail after being spared death row
-Body = Mary Jane Veloso was due to be executed in Indonesia in 2015 alongside Australians Andrew Chan and Myuran Sukumaran, but she was spared at the last minute.
+Title = What happened when Xi Jinping met Donald Trump? [...]
+Body = Donald Trump hails a "truly great friendship" with President Xi. But the defining feature of their relationship remains a greater rivalry.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 49 [Final]- A World of Shining Light
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, A World of Shining Light A preview of Episode 49 Episode 49 airs Sunday, September 27th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure Aritaware Mamezara Plates- Pre-Orders Open for a Few More Days
-Body = Aritaware Mamezara plates themed after Digimon Adventure are being made and sold by Yuruwa. We had missed posting this.
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Game- Card Images of Booster Set EX-13 Chivalrous XIII
-Body = After a bunch of previews we have the full card lineup for Booster Set EX-13 Chivalrous XIII for the Digimon Card Game! With the games becoming synced in various countries around the world, we're still going to include just the Japanese cards in these articles, minus when unique cards show up.
+Title = Digimon Case Iremon Color- Pre-Order Details, Images, & Info
+Body = With the reveal of new Digimon Color Beatbreak V-pets, we also get new cases. The new Iremon cases are different than we tend to see, as they have generally been designed around Pendulums, while these are for the standard Digimon Colors, including the new Beatbreak V-pets.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Tamers GEM Jianliang and Terriermon Figure Announced
-Body = From the Digimon display at Megahobby Expo 2026 Megahouse has announced a new Digimon GEM figure! Digimon Tamers GEM Jianliang and Terriermon is being worked on, announced via a silhouette placard next to various Digimon Tamers, Adventure, and Beatbreak products on display at the event.
-End = true
-
-[LIBRARY RNEWS]
-Title = Running With the Will for 20 Years [...]
-Body = It’s been 5 years since one of these… So it’s been 20 years since the ‘new’ version of With the Will began, and 20 years since I’ve been running it. Which is a decently long time considering I didn’t plan to be that involved.
+Title = Digimon Beatbreak Blu-rays Planned for Japan [...]
+Body = No specific details announced outside of that they are planned, but... Digimon Beatbreak Blu-rays will be coming out in Japan.
 End = true
 
