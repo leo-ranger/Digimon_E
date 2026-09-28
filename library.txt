@@ -9,33 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Trump Strait' post follows Iran offer to reopen peace discussions
-Body = Iran's proposal would reopen the Strait of Hormuz within a week, according to its Foreign Minister Abbas Araghchi, but Donald Trump has already rejected the deal.
+Title = Manhunt for gunmen who killed 27 in two shootings in South Africa
+Body = South African police launch a manhunt after gunmen kill at least 27 people in two mass shootings in Cape Town and Johannesburg.
 End = true
 
 [LIBRARY RNEWS]
-Title = CNN barred from Trump trip after judge strikes down White House ban
-Body = The White House has signalled that CNN will be barred from an upcoming Air Force One trip, replacing the news organisation with a conservative network.
+Title = Bangkok declared disaster zone after nearly 300mm of rain in two days
+Body = Bangkok Governor Chadchart Sittipunt says the crisis "poses a risk to people's lives" and could damage property, and the situation is most severe near canals.
 End = true
 
 [LIBRARY RNEWS]
-Title = Who is Jensen Huang, the AI boss Trump calls at night?
-Body = The founder of the world's most valuable AI company has the ear of Donald Trump when it comes to the risks and potential of the cutting-edge technology.
+Title = 'Open your eyes': Why China's sixth Antarctic base is raising concerns
+Body = Some observers believe China's increasing presence in Antarctica is a geopolitical motive, while others say military fears are exaggerated.
 End = true
 
 [LIBRARY RNEWS]
-Title = What happened when Xi Jinping met Donald Trump? [...]
-Body = Donald Trump hails a "truly great friendship" with President Xi. But the defining feature of their relationship remains a greater rivalry.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Case Iremon Color- Pre-Order Details, Images, & Info
-Body = With the reveal of new Digimon Color Beatbreak V-pets, we also get new cases. The new Iremon cases are different than we tend to see, as they have generally been designed around Pendulums, while these are for the standard Digimon Colors, including the new Beatbreak V-pets.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+Title = Thousands rally against Spain's housing crisis after 87yo's eviction
+Body = Tens of thousands of people have taken to the streets in Madrid to ask for protective measures for tenants, anti-fraud rules, and a ban on evictions without alternative housing.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +34,22 @@ Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Color: Digimon Beatbreak Edition V-Pets- Pre-Order Details, Images, & Info
-Body = After being announced a bit ago, the Digimon Color: Digimon Beatbreak Edition are available to pre-order since Beatbreak has ended in Japan. As a general warning, consider anything here might include finale spoilers, which will not be spoiler tagged.
+Title = Digimon: World’s Best Picks Trailer- Begins Next Weekend
+Body = Digimon: The Best Adventure We Chose/World’s Best Picks begins in a bit under a week on October 4th (3rd based on time zone.) The series is intended to be a lead-in to the franchise 30th anniversary next year and features the top 11 voted episodes for each of the first four Digimon anime series: Digimon Adventure, Digimon Adventure 02, Digimon Tamers, and Digimon Frontier. The first batch/run will be for Digimon Adventure and Digimon Tamers, with Zero-Two and Frontier...
 End = true
 
 [LIBRARY RNEWS]
 Title = Final thoughts on Beatbreak [...]
 Body = As it's getting close the end (1 episode to go), and people keep clogging up the episode discussions, discuss here you thoughts on the Beatbreak series. Do keep the ranting to a minimum.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Color: Digimon Beatbreak Edition V-Pets- Pre-Order Details, Images, & Info
+Body = After being announced a bit ago, the Digimon Color: Digimon Beatbreak Edition are available to pre-order since Beatbreak has ended in Japan. As a general warning, consider anything here might include finale spoilers, which will not be spoiler tagged.
 End = true
 
