@@ -9,38 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Manhunt for gunmen who killed 27 in two shootings in South Africa
-Body = South African police launch a manhunt after gunmen kill at least 27 people in two mass shootings in Cape Town and Johannesburg.
+Title = 'No possibility' for Swedish leader to form government after narrow win
+Body = Swedish Social Democrat leader Magdalena Andersson says she is unable to form a government after an election earlier this month gave her centre-left bloc a narrow majority.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bangkok declared disaster zone after nearly 300mm of rain in two days
-Body = Bangkok Governor Chadchart Sittipunt says the crisis "poses a risk to people's lives" and could damage property, and the situation is most severe near canals.
+Title = 'Deeply regrettable': South Korea demands apology over POW transfer by Ukraine
+Body = Seoul accuses Ukraine of announcing the transfer of North Korean soldiers caught fighting for Russia to South Korea in breach of a non-disclosure agreement.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Open your eyes': Why China's sixth Antarctic base is raising concerns
-Body = Some observers believe China's increasing presence in Antarctica is a geopolitical motive, while others say military fears are exaggerated.
+Title = Men accused of planning terror attack near UK air base used to strike Iran
+Body = Five men are suspected of preparing a terrorist act near an English air base the United States is using to strike Iranian targets.
 End = true
 
 [LIBRARY RNEWS]
-Title = Thousands rally against Spain's housing crisis after 87yo's eviction
-Body = Tens of thousands of people have taken to the streets in Madrid to ask for protective measures for tenants, anti-fraud rules, and a ban on evictions without alternative housing.
+Title = Hundreds of Russian hybrid attacks serve to 'wake everyone up' in NATO
+Body = European intelligence officials say Russia is behind hundreds of hybrid attacks on the continent this year, and that Western allies are too complacent in the face of Moscow's increasing aggression.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 49 [Final]- A World of Shining Light
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, A World of Shining Light A preview of Episode 49 Episode 49 airs Sunday, September 27th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon: World’s Best Picks Trailer- Begins Next Weekend
-Body = Digimon: The Best Adventure We Chose/World’s Best Picks begins in a bit under a week on October 4th (3rd based on time zone.) The series is intended to be a lead-in to the franchise 30th anniversary next year and features the top 11 voted episodes for each of the first four Digimon anime series: Digimon Adventure, Digimon Adventure 02, Digimon Tamers, and Digimon Frontier. The first batch/run will be for Digimon Adventure and Digimon Tamers, with Zero-Two and Frontier...
-End = true
-
-[LIBRARY RNEWS]
-Title = Final thoughts on Beatbreak [...]
-Body = As it's getting close the end (1 episode to go), and people keep clogging up the episode discussions, discuss here you thoughts on the Beatbreak series. Do keep the ranting to a minimum.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +39,17 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Color: Digimon Beatbreak Edition V-Pets- Pre-Order Details, Images, & Info
-Body = After being announced a bit ago, the Digimon Color: Digimon Beatbreak Edition are available to pre-order since Beatbreak has ended in Japan. As a general warning, consider anything here might include finale spoilers, which will not be spoiler tagged.
+Title = Digimon Beatbreak: Episode 49 [Final]- A World of Shining Light
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, A World of Shining Light A preview of Episode 49 Episode 49 airs Sunday, September 27th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+End = true
+
+[LIBRARY RNEWS]
+Title = Running With the Will for 20 Years [...]
+Body = It’s been 5 years since one of these… So it’s been 20 years since the ‘new’ version of With the Will began, and 20 years since I’ve been running it. Which is a decently long time considering I didn’t plan to be that involved.
 End = true
 
