@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'No possibility' for Swedish leader to form government after narrow win
-Body = Swedish Social Democrat leader Magdalena Andersson says she is unable to form a government after an election earlier this month gave her centre-left bloc a narrow majority.
+Title = Russian drone strikes hit historic heart of Kyiv [...]
+Body = At least one person has died after a Russian drone strike on Ukraine's National Academy of Sciences in Kyiv, which saw some people scramble to flee via second-storey windows.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Deeply regrettable': South Korea demands apology over POW transfer by Ukraine
-Body = Seoul accuses Ukraine of announcing the transfer of North Korean soldiers caught fighting for Russia to South Korea in breach of a non-disclosure agreement.
+Title = SpaceX's Starship rocket reaches orbit for first time
+Body = SpaceX's Starship rocket has made it to Earth's orbit for the first time, after losing an engine mid-flight.
 End = true
 
 [LIBRARY RNEWS]
-Title = Men accused of planning terror attack near UK air base used to strike Iran
-Body = Five men are suspected of preparing a terrorist act near an English air base the United States is using to strike Iranian targets.
+Title = Utah man released on bail after decades on death row
+Body = No physical evidence linked Douglas Stewart Carter to the murder but he signed a confession he later said was coerced. Now new analysis of DNA evidence has excluded him as a possible match.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hundreds of Russian hybrid attacks serve to 'wake everyone up' in NATO
-Body = European intelligence officials say Russia is behind hundreds of hybrid attacks on the continent this year, and that Western allies are too complacent in the face of Moscow's increasing aggression.
+Title = Bangkok locals rally to help each other as flood wreaks havoc
+Body = Some Thai residents are having to wade through water to get to the supermarket following flooding caused by torrential rain on the weekend.
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Episode #319- The Beat Goes On (Beatbreak Episode 49 Finale, & More!)
+Body = This time we will be talking about Digimon Beatbreak episode 49 & the end of the series, World's Best Picks starts this week, 20 years here, & more! And AR is here!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon 29th Anniversary: Digimon & Meat Themed Project Part 3- Devouring Meat by Masakazu Fukuda
+Body = We get the third entry of the Digimon & Meat Themed Project! (2) Since Digimon is celebrating its 29th anniversary, and 29 can be read as meat in Japanese, and the Digimon franchise has always featured meat, they're doing a series of illustrations to celebrate, on the 29th day of the month.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Card Game Tamer Battle Pack 33 & Official Store Tournament 2026 Vol. 4 Card Previews
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +49,7 @@ Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no mor
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
-End = true
-
-[LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 49 [Final]- A World of Shining Light
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, A World of Shining Light A preview of Episode 49 Episode 49 airs Sunday, September 27th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
-End = true
-
-[LIBRARY RNEWS]
-Title = Running With the Will for 20 Years [...]
-Body = It’s been 5 years since one of these… So it’s been 20 years since the ‘new’ version of With the Will began, and 20 years since I’ve been running it. Which is a decently long time considering I didn’t plan to be that involved.
 End = true
 
