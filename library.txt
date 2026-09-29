@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian drone strikes hit historic heart of Kyiv [...]
-Body = At least one person has died after a Russian drone strike on Ukraine's National Academy of Sciences in Kyiv, which saw some people scramble to flee via second-storey windows.
-End = true
-
-[LIBRARY RNEWS]
-Title = SpaceX's Starship rocket reaches orbit for first time
-Body = SpaceX's Starship rocket has made it to Earth's orbit for the first time, after losing an engine mid-flight.
-End = true
-
-[LIBRARY RNEWS]
 Title = Utah man released on bail after decades on death row
 Body = No physical evidence linked Douglas Stewart Carter to the murder but he signed a confession he later said was coerced. Now new analysis of DNA evidence has excluded him as a possible match.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bangkok locals rally to help each other as flood wreaks havoc
-Body = Some Thai residents are having to wade through water to get to the supermarket following flooding caused by torrential rain on the weekend.
+Title = Cornell University gang-rape allegations to be reinvestigated
+Body = A US prosecutor has reopened an investigation into allegations a woman was gang-raped by seven students at a Cornell University fraternity.
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Episode #319- The Beat Goes On (Beatbreak Episode 49 Finale, & More!)
-Body = This time we will be talking about Digimon Beatbreak episode 49 & the end of the series, World's Best Picks starts this week, 20 years here, & more! And AR is here!
+Title = Bridges are ending North Korea's famed isolation. Some fear what comes next
+Body = Trade pathways or potential military corridors? Inside North Korea's latest push for bridges linking it to its closest allies.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon 29th Anniversary: Digimon & Meat Themed Project Part 3- Devouring Meat by Masakazu Fukuda
-Body = We get the third entry of the Digimon & Meat Themed Project! (2) Since Digimon is celebrating its 29th anniversary, and 29 can be read as meat in Japanese, and the Digimon franchise has always featured meat, they're doing a series of illustrations to celebrate, on the 29th day of the month.
+Title = Russian drone strikes hit historic heart of Kyiv [...]
+Body = At least one person has died after a Russian drone strike on Ukraine's National Academy of Sciences in Kyiv, which saw some people scramble to flee via second-storey windows.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Game Tamer Battle Pack 33 & Official Store Tournament 2026 Vol. 4 Card Previews
-Body = ... [...] [...]
+Title = Digimon Eggs Will be Published in English on Manga Plus
+Body = It's been announced Digimon Eggs will be be published in English on Manga Plus. It should be available on the Manga Plus website, plus their iOS and Android apps.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = A Digital World based on middle-east: Canaan [...]
+Body = Long ago, before any other host computers were created nor any other digital world or their universes. There were 2 host severs, Yggdrasil-alpha and El who shared one single digital world, the early version of Yggdrasil appreciated freedom than order and El appreciated order far more than freedom.
+End = true
+
+[LIBRARY RNEWS]
+Title = Final thoughts on Beatbreak [...]
+Body = As it's getting close the end (1 episode to go), and people keep clogging up the episode discussions, discuss here you thoughts on the Beatbreak series. Do keep the ranting to a minimum.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak: Episode 49 [Final]- A World of Shining Light
 Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, A World of Shining Light A preview of Episode 49 Episode 49 airs Sunday, September 27th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
