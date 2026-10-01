@@ -29,8 +29,8 @@ Body = Just days after a plea for global climate action, Nepal faces yet another
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Original Soundtrack- Digital Release on Streaming Services Now
-Body = With the CD version of the Digimon Beatbreak Original Soundtrack out today, digital versions have also gone up. The OST is on various streaming services around the world.
+Title = Card ID help? (Non-TCG) [...]
+Body = Hello! I love collecting weird digimon cards that have no connection to the TCG.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = It's October 1st in Japan, so time for another anniversary! Digimon Unive
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Eggs Will be Published in English on Manga Plus
-Body = It's been announced Digimon Eggs will be be published in English on Manga Plus. It should be available on the Manga Plus website, plus their iOS and Android apps.
+Title = my introduction :) [...]
+Body = Hi everyone! I’m happy to join this Digimon community!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Ghost Game 5th Anniversary Interview with Director Masatoshi Chioka
-Body = The Digimon Anime site has put up a new interview with Masatoshi Chioka, one of the two series directors for Digimon Ghost Game, to celebrate its (about to hit) 5th anniversary and the series finally getting a Blu-ray release. This is the 2nd in a series of interviews that was announced earlier in the year for a number of Digimon TV shows that have large anniversaries this year.
+Title = Digimon Eggs: Chapter 1 - Summer Project [...]
+Body = This is the discussion thread for Digimon Eggs, Chapter 1. Chapter 1 will be in the Saikyo Jump issue scheduled for October 2nd, 2026.
 End = true
 
 [LIBRARY RNEWS]
-Title = Terriermon Assistant Lab- Digimon Eggs Info & Suzumon, Adventure Fake-Out Quiz, Comedy Doctor Guest, & Gekkomon Quiz
-Body = A few new episodes of Terriermon Assistant Lab! We'll do episode updates every few weeks if they continue to go up without subs, updating when/if they get English subs quicker, just so they don't build up too far, or when a more relevant episode appears, even if unsubbed.
+Title = Digimon Card Battle 283- Booster Set EX-13 Unboxing
+Body = Digimon Card Battle is back with episode 283. This time it's back to Digimon Card Room as they open packs of Booster Set-EX13!
 End = true
 
