@@ -9,28 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Co-pilot attempted to crash plane from Dubai to Tel Aviv, Netanyahu says
-Body = Passenger Miryam Shira Ohayon said the plane was "pretty much out of control" when one of the pilots tried to stab the other while they were flying over Jordan en route from Dubai to Tel Aviv.
+Title = Russia launches major attack on Ukraine's energy grid as winter looms
+Body = Emergency power cuts are in operation and some public transport systems are suspended after heavy strikes across the country.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says AI giants have agreed to 'police themselves'
-Body = A White House meeting of leaders in artificial intelligence follows a string of hacking incidents involving rogue AI and dire warnings about risks of catastrophe from within the industry.
+Title = 'Hundreds' of au pairs stuck outside country amid visa delays
+Body = Australian families who rely on au pairs are facing ongoing uncertainty amid working holiday visa processing delays.
 End = true
 
 [LIBRARY RNEWS]
-Title = Cocaine seized in Australian's arrest goes missing in Fiji
-Body = Fiji Police have confirmed another 12.9 kilograms of cocaine stored at a high court evidence room is missing, bringing the total to more than 52kg of cocaine now unaccounted-for.
+Title = 'Strong indications' Iran involved in RAF airbase incident, UK PM says
+Body = In an interview with the BBC, Andy Burnham says UK authorities "believe Iran to have played a part" in an incident that unfolded over the weekend near a vital UK air base.
 End = true
 
 [LIBRARY RNEWS]
-Title = Petrol but no explosives found in suspect vehicles near UK air base
-Body = Counterterrorism police arrested five suspects, all men in their 20s from London, on explosives and terrorism charges on Sunday after a local resident raised the alarm about suspicious activity.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Game Tamer Battle Pack 33 & Official Store Tournament 2026 Vol. 4 Card Previews
-Body = ... [...] [...]
+Title = Nepal's dire warning to the rest of the world [...]
+Body = Just days after a plea for global climate action, Nepal faces yet another disaster.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +34,22 @@ Body = With the CD version of the Digimon Beatbreak Original Soundtrack out toda
 End = true
 
 [LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
-End = true
-
-[LIBRARY RNEWS]
-Title = Terriermon Assistant Lab- Digimon Eggs Info & Suzumon, Adventure Fake-Out Quiz, Comedy Doctor Guest, & Gekkomon Quiz
-Body = A few new episodes of Terriermon Assistant Lab! We'll do episode updates every few weeks if they continue to go up without subs, updating when/if they get English subs quicker, just so they don't build up too far, or when a more relevant episode appears, even if unsubbed.
+Title = 10th Anniversary of Digimon Universe: AppliMonsters!
+Body = It's October 1st in Japan, so time for another anniversary! Digimon Universe: AppliMonsters began 10 years ago on October 1st, 2016.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Eggs Will be Published in English on Manga Plus
 Body = It's been announced Digimon Eggs will be be published in English on Manga Plus. It should be available on the Manga Plus website, plus their iOS and Android apps.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Ghost Game 5th Anniversary Interview with Director Masatoshi Chioka
+Body = The Digimon Anime site has put up a new interview with Masatoshi Chioka, one of the two series directors for Digimon Ghost Game, to celebrate its (about to hit) 5th anniversary and the series finally getting a Blu-ray release. This is the 2nd in a series of interviews that was announced earlier in the year for a number of Digimon TV shows that have large anniversaries this year.
+End = true
+
+[LIBRARY RNEWS]
+Title = Terriermon Assistant Lab- Digimon Eggs Info & Suzumon, Adventure Fake-Out Quiz, Comedy Doctor Guest, & Gekkomon Quiz
+Body = A few new episodes of Terriermon Assistant Lab! We'll do episode updates every few weeks if they continue to go up without subs, updating when/if they get English subs quicker, just so they don't build up too far, or when a more relevant episode appears, even if unsubbed.
 End = true
 
