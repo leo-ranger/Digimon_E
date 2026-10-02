@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = 'Gang work to do': Deportee convicted over Comancheros bid in Tonga
+Body = Eneasi Taumoefolau has been found guilty in Tonga of participating in an organised criminal group over his role in establishing a branch of the Comancheros in the Pacific nation.
+End = true
+
+[LIBRARY RNEWS]
 Title = School protests spread in France as fires break out and teachers injured
 Body = Several school principals were injured, harassed or assaulted during blockades at high schools.
 End = true
@@ -19,18 +24,18 @@ Body = UK police arrested the 27-year-old in London on suspicion of preparing te
 End = true
 
 [LIBRARY RNEWS]
-Title = Renee Good's family sues Trump administration over fatal Minneapolis shooting
-Body = Ms Good was one of two people shot dead by ICE agents during a mass immigration sweep in the US city of Minneapolis, that intensified opposition to Donald Trump's migration policies.
+Title = PNG Chiefs face 'danger of brand confusion' over team name
+Body = Australia's intellectual property agency tells PNG's rugby league franchise that its chosen name, the Chiefs, risks being confused with the name of a Super Rugby club.
 End = true
 
 [LIBRARY RNEWS]
-Title = School and nuclear facility hit in latest wave of Russian strikes
-Body = Ukraine has been bombarded with high-speed 'jet-powered' attack drones, with a nuclear facility and a school among the latest Russian targets.
+Title = Card ID help? (Non-TCG) [...]
+Body = Hello! I love collecting weird digimon cards that have no connection to the TCG.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Game Updates- Booster Set 27 Ignition of X, Alysion Starter Decks w/ Game Codes, Sleeves, plus Royal Knight & Seven Great Demon Lord Sets
-Body = A few recent Digimon Card Game updates showing off some upcoming things... First up, a packaging and art preview for Booster Set 27 Ignition of X showing off Alphamon: Ouryuken.
+Title = I just received this DM20th and I have never seen this color before. Can you plz help me to identify?
+Body = Well I thought I was buying a taichi version, which is black with white buttons, but this what came up (didnt get how to load images here), but its black with green buttons. Anyone have seen anything like this?
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +49,7 @@ Body = A bit ago, the official Digimon site put up a poll for your Favorite Olym
 End = true
 
 [LIBRARY RNEWS]
-Title = Change Your Username [...]
-Body = Feel free to request a username change here. Please provide some degree of evidence (you can PM me with the evidence if you want) you use the username elsewhere (or have used it elsewhere), as username changes is to allow you to swap to a username you may have swapped to since registration, not just to swap your name back and forth.
-End = true
-
-[LIBRARY RNEWS]
-Title = 1st Anniversary of Digimon Story: Time Stranger [...]
-Body = Digimon Story: Time Stranger came out October 2nd, 2025 in Japan and October 3rd elsewhere, and it's the 2nd in Japan, so it's the 1st anniversary of the newest Digimon console game! Time Stranger had a long history of development that still isn't entirely clear, and likely never will be.
+Title = A Digital World based on middle-east: Canaan [...]
+Body = Long ago, before any other host computers were created nor any other digital world or their universes. There were 2 host severs, Yggdrasil-alpha and El who shared one single digital world, the early version of Yggdrasil appreciated freedom than order and El appreciated order far more than freedom.
 End = true
 
