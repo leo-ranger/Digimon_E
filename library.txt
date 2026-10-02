@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russia launches major attack on Ukraine's energy grid as winter looms
-Body = Emergency power cuts are in operation and some public transport systems are suspended after heavy strikes across the country.
+Title = School protests spread in France as fires break out and teachers injured
+Body = Several school principals were injured, harassed or assaulted during blockades at high schools.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Hundreds' of au pairs stuck outside country amid visa delays
-Body = Australian families who rely on au pairs are facing ongoing uncertainty amid working holiday visa processing delays.
+Title = UK-Iranian national arrested over alleged terror incident at British air base
+Body = UK police arrested the 27-year-old in London on suspicion of preparing terrorist acts and said a second British man, 26, had also been questioned under caution.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Strong indications' Iran involved in RAF airbase incident, UK PM says
-Body = In an interview with the BBC, Andy Burnham says UK authorities "believe Iran to have played a part" in an incident that unfolded over the weekend near a vital UK air base.
+Title = Renee Good's family sues Trump administration over fatal Minneapolis shooting
+Body = Ms Good was one of two people shot dead by ICE agents during a mass immigration sweep in the US city of Minneapolis, that intensified opposition to Donald Trump's migration policies.
 End = true
 
 [LIBRARY RNEWS]
-Title = Nepal's dire warning to the rest of the world [...]
-Body = Just days after a plea for global climate action, Nepal faces yet another disaster.
+Title = School and nuclear facility hit in latest wave of Russian strikes
+Body = Ukraine has been bombarded with high-speed 'jet-powered' attack drones, with a nuclear facility and a school among the latest Russian targets.
 End = true
 
 [LIBRARY RNEWS]
-Title = Card ID help? (Non-TCG) [...]
-Body = Hello! I love collecting weird digimon cards that have no connection to the TCG.
-End = true
-
-[LIBRARY RNEWS]
-Title = 10th Anniversary of Digimon Universe: AppliMonsters!
-Body = It's October 1st in Japan, so time for another anniversary! Digimon Universe: AppliMonsters began 10 years ago on October 1st, 2016.
-End = true
-
-[LIBRARY RNEWS]
-Title = my introduction :) [...]
-Body = Hi everyone! I’m happy to join this Digimon community!
+Title = Digimon Card Game Updates- Booster Set 27 Ignition of X, Alysion Starter Decks w/ Game Codes, Sleeves, plus Royal Knight & Seven Great Demon Lord Sets
+Body = A few recent Digimon Card Game updates showing off some upcoming things... First up, a packaging and art preview for Booster Set 27 Ignition of X showing off Alphamon: Ouryuken.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Eggs: Chapter 1 - Summer Project [...]
-Body = This is the discussion thread for Digimon Eggs, Chapter 1. Chapter 1 will be in the Saikyo Jump issue scheduled for October 2nd, 2026.
+Body = This is the discussion thread for Digimon Eggs, Chapter 1- Summer Project Chapter 1 will be in the Saikyo Jump issue scheduled for October 2nd, 2026. At roughly the same time it will get distribution in a few languages or services...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Battle 283- Booster Set EX-13 Unboxing
-Body = Digimon Card Battle is back with episode 283. This time it's back to Digimon Card Room as they open packs of Booster Set-EX13!
+Title = Poll Results for Favorite Olympos XII Member [...]
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Olympos XII Member! Recently the poll closed and we have the results!
+End = true
+
+[LIBRARY RNEWS]
+Title = Change Your Username [...]
+Body = Feel free to request a username change here. Please provide some degree of evidence (you can PM me with the evidence if you want) you use the username elsewhere (or have used it elsewhere), as username changes is to allow you to swap to a username you may have swapped to since registration, not just to swap your name back and forth.
+End = true
+
+[LIBRARY RNEWS]
+Title = 1st Anniversary of Digimon Story: Time Stranger [...]
+Body = Digimon Story: Time Stranger came out October 2nd, 2025 in Japan and October 3rd elsewhere, and it's the 2nd in Japan, so it's the 1st anniversary of the newest Digimon console game! Time Stranger had a long history of development that still isn't entirely clear, and likely never will be.
 End = true
 
