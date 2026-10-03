@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Violent protests in France over conditions in high schools
+Body = French students and police have accused each other of violence as protests continue over conditions in education.
+End = true
+
+[LIBRARY RNEWS]
+Title = Flydubai 'hero' pilot says praying gave him courage
+Body = Captain Smit Machchhar has been hailed a hero for his actions aboard a flydubai flight after his co-pilot stabbed him and the plane began a steep descent.
+End = true
+
+[LIBRARY RNEWS]
 Title = 'Gang work to do': Deportee convicted over Comancheros bid in Tonga
 Body = Eneasi Taumoefolau has been found guilty in Tonga of participating in an organised criminal group over his role in establishing a branch of the Comancheros in the Pacific nation.
 End = true
@@ -19,13 +29,8 @@ Body = Russia is not just abducting Ukrainian kids, it is embarking on a campaig
 End = true
 
 [LIBRARY RNEWS]
-Title = Teenage killer survives execution attempt after 30 years on death row
-Body = Christa Pike was set to become the first woman executed in the US state of Tennessee in more than 200 years. Instead, she is fighting for life.
-End = true
-
-[LIBRARY RNEWS]
-Title = Judge denies Lindsay Clancy defence motion to find her not guilty
-Body = The judge in the Lindsay Clancy murder case has refused to declare her not guilty, turning down a defence motion that argued there was not enough evidence to prove she was responsible for killing her three children.
+Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
+Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Eggs: Chapter 1 - Summer Project [...]
 Body = This is the discussion thread for Digimon Eggs, Chapter 1- Summer Project Chapter 1 will be in the Saikyo Jump issue scheduled for October 2nd, 2026. At roughly the same time it will get distribution in a few languages or services...
-End = true
-
-[LIBRARY RNEWS]
-Title = It's the 5th Anniversary of Digimon Ghost Game! [...]
-Body = It's the 5th Anniversary of Digimon Ghost Game! It premiered on October 3rd, 2021 in Japan (and October 2nd in a few other places, due to time differences.) (Various text below has been used in prior anniversary articles.) Digimon Ghost Game was a return to Digimon anime that isn't related to Adventure for the first time since Appmon.
 End = true
 
