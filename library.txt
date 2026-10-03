@@ -14,28 +14,33 @@ Body = Eneasi Taumoefolau has been found guilty in Tonga of participating in an 
 End = true
 
 [LIBRARY RNEWS]
-Title = School protests spread in France as fires break out and teachers injured
-Body = Several school principals were injured, harassed or assaulted during blockades at high schools.
+Title = Ukrainian teen recounts brainwashing to become Moscow's 'poster child'
+Body = Russia is not just abducting Ukrainian kids, it is embarking on a campaign of mass indoctrination, as Denys Kostev experienced firsthand.
 End = true
 
 [LIBRARY RNEWS]
-Title = UK-Iranian national arrested over alleged terror incident at British air base
-Body = UK police arrested the 27-year-old in London on suspicion of preparing terrorist acts and said a second British man, 26, had also been questioned under caution.
+Title = Teenage killer survives execution attempt after 30 years on death row
+Body = Christa Pike was set to become the first woman executed in the US state of Tennessee in more than 200 years. Instead, she is fighting for life.
 End = true
 
 [LIBRARY RNEWS]
-Title = PNG Chiefs face 'danger of brand confusion' over team name
-Body = Australia's intellectual property agency tells PNG's rugby league franchise that its chosen name, the Chiefs, risks being confused with the name of a Super Rugby club.
+Title = Judge denies Lindsay Clancy defence motion to find her not guilty
+Body = The judge in the Lindsay Clancy murder case has refused to declare her not guilty, turning down a defence motion that argued there was not enough evidence to prove she was responsible for killing her three children.
 End = true
 
 [LIBRARY RNEWS]
-Title = Card ID help? (Non-TCG) [...]
-Body = Hello! I love collecting weird digimon cards that have no connection to the TCG.
+Title = Digimon: World’s Best Picks: Episode 1, Digimon Adventure: Episode 1- Adrift? The Island of Adventure!
+Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 1, which is Digimon Adventure: Episode 1- Adrift? The Island of Adventure!
 End = true
 
 [LIBRARY RNEWS]
-Title = I just received this DM20th and I have never seen this color before. Can you plz help me to identify?
-Body = Well I thought I was buying a taichi version, which is black with white buttons, but this what came up (didnt get how to load images here), but its black with green buttons. Anyone have seen anything like this?
+Title = With the Will Podcast Live- Monday, October 5th [...]
+Body = Monday (October 5th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about the Digimon: World's Best Picks anime & Digimon Eggs manga both starting, the Beatbreak soundtrack, a ton of anniversaries, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon: World’s Best Picks Episode 1 & OP Preview Images plus Beatbreak Handoff Art
+Body = Digimon: World’s Best Picks/The Best Adventure We Chose Section starts tomorrow. The 1st episode...
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +49,7 @@ Body = This is the discussion thread for Digimon Eggs, Chapter 1- Summer Project
 End = true
 
 [LIBRARY RNEWS]
-Title = Poll Results for Favorite Olympos XII Member [...]
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Olympos XII Member! Recently the poll closed and we have the results!
-End = true
-
-[LIBRARY RNEWS]
-Title = A Digital World based on middle-east: Canaan [...]
-Body = Long ago, before any other host computers were created nor any other digital world or their universes. There were 2 host severs, Yggdrasil-alpha and El who shared one single digital world, the early version of Yggdrasil appreciated freedom than order and El appreciated order far more than freedom.
+Title = It's the 5th Anniversary of Digimon Ghost Game! [...]
+Body = It's the 5th Anniversary of Digimon Ghost Game! It premiered on October 3rd, 2021 in Japan (and October 2nd in a few other places, due to time differences.) (Various text below has been used in prior anniversary articles.) Digimon Ghost Game was a return to Digimon anime that isn't related to Adventure for the first time since Appmon.
 End = true
 
