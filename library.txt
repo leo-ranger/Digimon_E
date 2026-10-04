@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Houthis target Saudi oil facility as hostilities escalate in Yemen
+Body = Yemen's Iran-aligned Houthis say they targeted a Saudi Arabian oil company in retaliation for Saudi attacks on Yemen.
+End = true
+
+[LIBRARY RNEWS]
+Title = Unintended consequences of war in Iran are helping the climate
+Body = The Iran war is turbocharging global electrification. But experts say the global grid needs to roughly double in size, as infrastructure bottlenecks prevent a clean energy revolution.
+End = true
+
+[LIBRARY RNEWS]
 Title = Australian arrested for holding 'pistol-like object' in Hong Kong
 Body = The man was reportedly on holiday with his family and had been drinking alcohol.
 End = true
@@ -19,18 +29,13 @@ Body = The average rental price in Spain has almost doubled over the past decade
 End = true
 
 [LIBRARY RNEWS]
-Title = Violent protests in France over conditions in high schools
-Body = French students and police have accused each other of violence as protests continue over conditions in education.
+Title = Digimon World's Best Picks- Opening, Shakariki [...]
+Body = With World’s Best Picks/The Best Adventure We Chose starting in Japan we have the opening for those who want a bit of a preview! The opening features the song Shakariki!!
 End = true
 
 [LIBRARY RNEWS]
-Title = 'It breaks you': Friend of stabbed pilot speaks out
-Body = A pilot and close friend of the Indian flydubai captain who was attacked during a flight to Israel recalls his shock upon first seeing footage of the incident online.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Weekend Batch- Appmon, Time Stranger, & Beatbreak Social Art, Kenji Watanabe & American Cast Photo, Tamers in China, Catch-Up for the Week, & More!
+Body = Time for a weekend batch! We start off with some anniversary art.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = A bit ago, the official Digimon site put up a poll for your Favorite Olym
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon World's Best Picks- Opening, Shakariki [...]
-Body = With World’s Best Picks/The Best Adventure We Chose starting in Japan we have the opening for those who want a bit of a preview! The opening features the song Shakariki!!
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon: World’s Best Picks: Episode 1, Digimon Adventure: Episode 1- Adrift? The Island of Adventure!
 Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 1, which is Digimon Adventure: Episode 1- Adrift? The Island of Adventure!
-End = true
-
-[LIBRARY RNEWS]
-Title = Is it just me or did Beatbreak straight up tell a nonsensical message? It lost its original theme.
-Body = I might be a little dumb dumb who doesn't understand media, I don't know! But let's start from the beginning.
 End = true
 
