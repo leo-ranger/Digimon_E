@@ -9,28 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Australian arrested for holding 'pistol-like object' in Hong Kong
+Body = The man was reportedly on holiday with his family and had been drinking alcohol.
+End = true
+
+[LIBRARY RNEWS]
+Title = How the eviction of an 87-year-old became Spain's 'last straw'
+Body = The average rental price in Spain has almost doubled over the past decade. When Maricarmen Abascal was evicted, she became the symbol of a fed-up nation.
+End = true
+
+[LIBRARY RNEWS]
 Title = Violent protests in France over conditions in high schools
 Body = French students and police have accused each other of violence as protests continue over conditions in education.
 End = true
 
 [LIBRARY RNEWS]
-Title = Flydubai 'hero' pilot says praying gave him courage
-Body = Captain Smit Machchhar has been hailed a hero for his actions aboard a flydubai flight after his co-pilot stabbed him and the plane began a steep descent.
+Title = 'It breaks you': Friend of stabbed pilot speaks out
+Body = A pilot and close friend of the Indian flydubai captain who was attacked during a flight to Israel recalls his shock upon first seeing footage of the incident online.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Gang work to do': Deportee convicted over Comancheros bid in Tonga
-Body = Eneasi Taumoefolau has been found guilty in Tonga of participating in an organised criminal group over his role in establishing a branch of the Comancheros in the Pacific nation.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ukrainian teen recounts brainwashing to become Moscow's 'poster child'
-Body = Russia is not just abducting Ukrainian kids, it is embarking on a campaign of mass indoctrination, as Denys Kostev experienced firsthand.
+Title = Poll Results for Favorite Olympos XII Member [...]
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Olympos XII Member! Recently the poll closed and we have the results!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
-Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
+Title = Digimon World's Best Picks- Opening, Shakariki [...]
+Body = With World’s Best Picks/The Best Adventure We Chose starting in Japan we have the opening for those who want a bit of a preview! The opening features the song Shakariki!!
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +49,7 @@ Body = This is the episode discussion thread for Digimon: World’s Best Picks: 
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, October 5th [...]
-Body = Monday (October 5th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about the Digimon: World's Best Picks anime & Digimon Eggs manga both starting, the Beatbreak soundtrack, a ton of anniversaries, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon: World’s Best Picks Episode 1 & OP Preview Images plus Beatbreak Handoff Art
-Body = Digimon: World’s Best Picks/The Best Adventure We Chose Section starts tomorrow. The 1st episode...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Eggs: Chapter 1 - Summer Project [...]
-Body = This is the discussion thread for Digimon Eggs, Chapter 1- Summer Project Chapter 1 will be in the Saikyo Jump issue scheduled for October 2nd, 2026. At roughly the same time it will get distribution in a few languages or services...
+Title = Is it just me or did Beatbreak straight up tell a nonsensical message? It lost its original theme.
+Body = I might be a little dumb dumb who doesn't understand media, I don't know! But let's start from the beginning.
 End = true
 
