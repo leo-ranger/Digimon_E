@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australia's fossil fuel expansion 'slap in the face' to Pacific nations
-Body = Having just approved a major coal mine expansion, Australia's climate credentials will be under the spotlight at pre-COP talks in Fiji.
+Title = Nepal calls off disaster rescue activities with 5,285 still missing
+Body = Nepal has ended the search-and-rescue operation for the more than 5,000 people still missing after the devastating August flood.
 End = true
 
 [LIBRARY RNEWS]
-Title = US marine arrested on suspicion of murder and robbery in Okinawa
-Body = Japanese police arrest a 20-year-old US marine in the Okinawa prefecture on suspicion of robbing and murdering a local woman.
+Title = Norway proposes temporary ban on smart glasses amid privacy fears
+Body = The push comes amid growing ethical and privacy concerns around the new devices, which have been marketed by technology giants such as Meta.
 End = true
 
 [LIBRARY RNEWS]
-Title = India's 'Cockroach' protests intensify as police probe harassment claims
-Body = Delhi police say three female journalists have made sexual harassment allegations against officers during protests against India's electoral commission.
+Title = Saudi-backed Yemeni forces claim control of Bab el-Mandeb Strait
+Body = The waterway in the Red Sea, which facilitates about 12 per cent of global trade, was seized by the Houthis last month.
 End = true
 
 [LIBRARY RNEWS]
-Title = AFP confirms investigation of flydubai co-pilot's Australian links
-Body = An Australian counterterrorism team is investigating Australian links to a flydubai pilot who allegedly attacked a colleague in the cockpit.
+Title = Germany at risk of 'violent conflict' with Russia, intelligence chief warns
+Body = The warning from a German intelligence chief comes as Russia carries out strikes across Ukraine and on a Turkish civilian boat in the Black Sea.
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Episode #320- The Road to 30 Starts (World's Best Picks & Digimon Eggs Begin & More!)
+Body = This time we will be talking about the Digimon: World's Best Picks anime & Digimon Eggs manga both starting, the Beatbreak soundtrack, a ton of anniversaries, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Eggs Updates- #1 in MangaPlus Trending Section & Interview with Ayumu Minato
+Body = A few bits of Digimon Eggs related news. Digimon Eggs was number 1 in the MangaPlus trending section, and Ayumu Minato posted some art of Suzumon looking at the rankings.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Eggs: Chapter 1 - Summer Project [...]
+Body = This is the discussion thread for Digimon Eggs, Chapter 1- Summer Project Chapter 1 will be in the Saikyo Jump issue scheduled for October 2nd, 2026. At roughly the same time it will get distribution in a few languages or services...
+End = true
+
+[LIBRARY RNEWS]
+Title = Is it just me or did Beatbreak straight up tell a nonsensical message? It lost its original theme.
+Body = I might be a little dumb dumb who doesn't understand media, I don't know! But let's start from the beginning.
 End = true
 
 [LIBRARY RNEWS]
 Title = New Digimon Products Shown at WonFes Shanghai 2026- Digimon Gathering Volume 2 Model Kits, New SD Figure Line, & SofuNui Vinyl Plushes
 Body = Wonder Festival Shanghai 2026 is this weekend, and a few new Digimon products were announced via displays at the event... First up, with the Digimon Gathering Volume 1 model kits just coming out, we get our first mention of Volume 2 with a look at the models.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon: The Best Adventure We Chose Theme Song CD Out November 25th, Pre-Orders Open
-Body = With Digimon: World’s Best Picks/The Best Adventure We Chose having started, and the opening and ending being shown with the first airing in Japan, we have news of a CD release for both songs. The Digimon “The Best Adventure We Chose” Theme Song CD will be released next month on November 25th.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon World's Best Picks- Ending, Limitless Dreams
-Body = With World’s Best Picks/The Best Adventure We Chose starting in Japan we have the ending for those who want a bit of a preview! The ending features the song Limitless Dreams sung by Ayumi Miyazaki & Takayoshi Tanimoto.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
-Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon World's Best Picks- Opening, Shakariki [...]
-Body = With World’s Best Picks/The Best Adventure We Chose starting in Japan we have the opening for those who want a bit of a preview! The opening features the song Shakariki!!
 End = true
 
