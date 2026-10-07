@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Israelis mourn on October 7 as Palestinians live in devastated Gaza
+Body = Israelis have gathered to commemorate the attack that killed 1,200 people and sparked a devastating war in Gaza that has left much of the territory in ruins.
+End = true
+
+[LIBRARY RNEWS]
+Title = Black Sea tanker attack off Russia's Olympic city sparks 'fire of oil'
+Body = An attack by "unmanned boats" on a Liberian-flagged tanker off the coast of the Russian Olympic city of Sochi sparked a giant "fire of oil", Russian authorities say.
+End = true
+
+[LIBRARY RNEWS]
 Title = China moves to register AI digital humans [...]
 Body = Beijing is issuing AI digital humans with identity cards in a bid to hold companies accountable and ensuring state surveillance applies to the virtual world.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ukraine says South Korean exports helped ease Russia's drone-strike crisis
-Body = Russia has imported fuel from South Korean ports, easing the impact of a fuel crisis caused by Ukrainian drone strikes on Russian oil refineries, Ukraine's top sanctions official says.
+Title = Pacific's undersea treasure is worth billions, but some say we'll never see it
+Body = Undersea experts question the viability of deep-sea mining for critical minerals, fearing the only winners will be early investors and the companies selling the machinery.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pain, anger and the search for answers on October 7 anniversary
-Body = Israelis are still trying to contend with the October 7 attacks as the country heads to the polls.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russia rails against online 'plague' claims, but few in Irkutsk trust authorities
-Body = Russia's health watchdog warns fake information is circulating online about a mystery illness amid growing questions about the death of a woman in Siberia last week.
+Title = Digimon Card Battle 284- Booster Set EX-13 Secret Rare Battle
+Body = Digimon Card Battle is back with episode 284. This time it's back to Digimon Card Room as fall/autumn hits, for a Booster Set EX-13 match!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon: World’s Best Picks Streaming Outside of Japan This Weekend Only in Parts of Asia & Europe w/ More Regions Soon?
+Body = In their journey to make watching the best of show more complicated, Toei has indeed made it more complicated based on another announcement. (2) The international launch on October 11th appears to just be (parts of?) Asia and Europe.
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = My Introduction [...]
 Body = Hello, I'm Drew. I have been a Digimon fan since seeing adventure back in 1999.
-End = true
-
-[LIBRARY RNEWS]
-Title = It's the 26th Anniversary of Digimon the Movie & the 6th Anniversary for Digimon Adventure: Last Evolution Kizuna on Home Video in English!
-Body = It's the 26th anniversary of the theatrical release of Digimon the Movie! It came out October 6th, 2000.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Eggs: Chapter 1 - Summer Project [...]
-Body = This is the discussion thread for Digimon Eggs, Chapter 1- Summer Project Chapter 1 will be in the Saikyo Jump issue scheduled for October 2nd, 2026. At roughly the same time it will get distribution in a few languages or services...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Tamers (Subbed) & Digimon Frontier (Subbed) Blu-rays Out on November 24th from Discotek, Pre-Orders Open
-Body = After both were announced earlier this year pre-orders are open for the Blu-ray releases of the original Japanese versions of Digimon Tamers and Frontier The sets each includes all of the original version of Tamers and Frontier, which has never had a home video release in Japanese with English subs before... [...]
 End = true
 
