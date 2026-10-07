@@ -9,33 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump approves firing squad execution for convicted US military base shooter
-Body = Psychiatrist Nidal Hasan is set to become the first person to be executed by the US military in more than six decades after killing 13 people at a military base in 2009.
+Title = China moves to register AI digital humans [...]
+Body = Beijing is issuing AI digital humans with identity cards in a bid to hold companies accountable and ensuring state surveillance applies to the virtual world.
 End = true
 
 [LIBRARY RNEWS]
-Title = The 'brutal' act that changed Alastair Campbell's opinion of Britain's new PM
-Body = The Rest Is Politics podcast co-host and former adviser to Tony Blair says he is now "moderately" hopeful Britain can put a decade of political turmoil behind it.
+Title = Ukraine says South Korean exports helped ease Russia's drone-strike crisis
+Body = Russia has imported fuel from South Korean ports, easing the impact of a fuel crisis caused by Ukrainian drone strikes on Russian oil refineries, Ukraine's top sanctions official says.
 End = true
 
 [LIBRARY RNEWS]
-Title = Nepal calls off disaster rescue activities with 5,285 still missing
-Body = Nepal has ended the search-and-rescue operation for the more than 5,000 people still missing after the devastating August flood.
+Title = Pain, anger and the search for answers on October 7 anniversary
+Body = Israelis are still trying to contend with the October 7 attacks as the country heads to the polls.
 End = true
 
 [LIBRARY RNEWS]
-Title = Norway proposes temporary ban on smart glasses amid privacy fears
-Body = The push comes amid growing ethical and privacy concerns around the new devices, which have been marketed by technology giants such as Meta.
-End = true
-
-[LIBRARY RNEWS]
-Title = It's the 26th Anniversary of Digimon the Movie & the 6th Anniversary for Digimon Adventure: Last Evolution Kizuna on Home Video in English!
-Body = It's the 26th anniversary of the theatrical release of Digimon the Movie! It came out October 6th, 2000.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Tamers (Subbed) & Digimon Frontier (Subbed) Blu-rays Out on November 24th from Discotek, Pre-Orders Open
-Body = After both were announced earlier this year pre-orders are open for the Blu-ray releases of the original Japanese versions of Digimon Tamers and Frontier The sets each includes all of the original version of Tamers and Frontier, which has never had a home video release in Japanese with English subs before... [...]
+Title = Russia rails against online 'plague' claims, but few in Irkutsk trust authorities
+Body = Russia's health watchdog warns fake information is circulating online about a mystery illness amid growing questions about the death of a woman in Siberia last week.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +34,22 @@ Body = Time for a weekend batch! We start off with some anniversary art.
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Episode #320- The Road to 30 Starts (World's Best Picks & Digimon Eggs Begin & More!)
-Body = This time we will be talking about the Digimon: World's Best Picks anime & Digimon Eggs manga both starting, the Beatbreak soundtrack, a ton of anniversaries, & more! Plus your questions!
+Title = My Introduction [...]
+Body = Hello, I'm Drew. I have been a Digimon fan since seeing adventure back in 1999.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Eggs Updates- #1 in MangaPlus Trending Section & Interview with Ayumu Minato
-Body = A few bits of Digimon Eggs related news. Digimon Eggs was number 1 in the MangaPlus trending section, and Ayumu Minato posted some art of Suzumon looking at the rankings.
+Title = It's the 26th Anniversary of Digimon the Movie & the 6th Anniversary for Digimon Adventure: Last Evolution Kizuna on Home Video in English!
+Body = It's the 26th anniversary of the theatrical release of Digimon the Movie! It came out October 6th, 2000.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Eggs: Chapter 1 - Summer Project [...]
+Body = This is the discussion thread for Digimon Eggs, Chapter 1- Summer Project Chapter 1 will be in the Saikyo Jump issue scheduled for October 2nd, 2026. At roughly the same time it will get distribution in a few languages or services...
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Tamers (Subbed) & Digimon Frontier (Subbed) Blu-rays Out on November 24th from Discotek, Pre-Orders Open
+Body = After both were announced earlier this year pre-orders are open for the Blu-ray releases of the original Japanese versions of Digimon Tamers and Frontier The sets each includes all of the original version of Tamers and Frontier, which has never had a home video release in Japanese with English subs before... [...]
 End = true
 
