@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israelis mourn on October 7 as Palestinians live in devastated Gaza
-Body = Israelis have gathered to commemorate the attack that killed 1,200 people and sparked a devastating war in Gaza that has left much of the territory in ruins.
+Title = Gaza will take over a decade to rebuild and cost billions
+Body = Estimates suggest the total cost of rebuilding Gaza, which residents now describe as a cemetery, could be $US71.4 billion over a decade.
 End = true
 
 [LIBRARY RNEWS]
-Title = Black Sea tanker attack off Russia's Olympic city sparks 'fire of oil'
-Body = An attack by "unmanned boats" on a Liberian-flagged tanker off the coast of the Russian Olympic city of Sochi sparked a giant "fire of oil", Russian authorities say.
+Title = France suspends stun grenade use at student protests
+Body = The French government is pausing the use of stun grenades in its policing of student protests after a 15-year-old boy's hand was blown off earlier this week.
 End = true
 
 [LIBRARY RNEWS]
-Title = China moves to register AI digital humans [...]
-Body = Beijing is issuing AI digital humans with identity cards in a bid to hold companies accountable and ensuring state surveillance applies to the virtual world.
+Title = Hockey adamant corruption flourishing in Washington
+Body = Donald Trump might be the most influential US president of the past 100 years, according to Joe Hockey, but that does not mean he has not "diminished" the standing of the US globally.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pacific's undersea treasure is worth billions, but some say we'll never see it
-Body = Undersea experts question the viability of deep-sea mining for critical minerals, fearing the only winners will be early investors and the companies selling the machinery.
+Title = Authorities investigate Japan's four biggest beer brewers over price rises
+Body = Japan's Fair Trade Commission is investigating whether the beer brewers colluded to raise their prices at the same time over several years, blaming factors like rising raw material costs.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Digimon Eggs: Chapter 1 - Summer Project [...]
+Body = This is the discussion thread for Digimon Eggs, Chapter 1- Summer Project Chapter 1 will be in the Saikyo Jump issue scheduled for October 2nd, 2026. At roughly the same time it will get distribution in a few languages or services...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Battle 284- Booster Set EX-13 Secret Rare Battle
-Body = Digimon Card Battle is back with episode 284. This time it's back to Digimon Card Room as fall/autumn hits, for a Booster Set EX-13 match!
+Title = Digimon Tamers GEM Ruki & Renamon Figure Being Rereleased- Pre-Orders Tomorrow
+Body = It's been announced that the Digimon Tamers GEM Ruki & Renamon figure will get a rerelease! First released roughly a decade ago, with a...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon: World’s Best Picks Streaming Outside of Japan This Weekend Only in Parts of Asia & Europe w/ More Regions Soon?
-Body = In their journey to make watching the best of show more complicated, Toei has indeed made it more complicated based on another announcement. (2) The international launch on October 11th appears to just be (parts of?) Asia and Europe.
+Title = It's the 26th Anniversary of Digimon the Movie & the 6th Anniversary for Digimon Adventure: Last Evolution Kizuna on Home Video in English!
+Body = It's the 26th anniversary of the theatrical release of Digimon the Movie! It came out October 6th, 2000.
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Appmon, Time Stranger, & Beatbreak Social Art, Kenji Watanabe & American Cast Photo, Tamers in China, Catch-Up for the Week, & More!
-Body = Time for a weekend batch! We start off with some anniversary art.
+Title = Digimon Beatbreak: Episode 49 [Final]- A World of Shining Light
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, A World of Shining Light A preview of Episode 49 Episode 49 airs Sunday, September 27th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
-Title = My Introduction [...]
-Body = Hello, I'm Drew. I have been a Digimon fan since seeing adventure back in 1999.
+Title = It's the 5th Anniversary of Digimon Ghost Game! [...]
+Body = It's the 5th Anniversary of Digimon Ghost Game! It premiered on October 3rd, 2021 in Japan (and October 2nd in a few other places, due to time differences.) (Various text below has been used in prior anniversary articles.) Digimon Ghost Game was a return to Digimon anime that isn't related to Adventure for the first time since Appmon.
 End = true
 
