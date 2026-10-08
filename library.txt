@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = 'Clean air nowhere to be found': Indonesian government faces fires lawsuit
+Body = Civil society organisations in West Kalimantan province are suing the Indonesian government alleging negligence in their handling of the region's wildfires.
+End = true
+
+[LIBRARY RNEWS]
+Title = NZ Rugby goes to court over PNG 'Chiefs' name [...]
+Body = New Zealand Rugby has sought interim and final injunctions before the NRL's Papua New Guinea team is officially launched later this month.
+End = true
+
+[LIBRARY RNEWS]
 Title = Gaza will take over a decade to rebuild and cost billions
 Body = Estimates suggest the total cost of rebuilding Gaza, which residents now describe as a cemetery, could be $US71.4 billion over a decade.
 End = true
 
 [LIBRARY RNEWS]
-Title = France suspends stun grenade use at student protests
-Body = The French government is pausing the use of stun grenades in its policing of student protests after a 15-year-old boy's hand was blown off earlier this week.
+Title = Botswana's UNESCO wetlands offers lessons for Australia
+Body = What Botswana's pristine wetlands and waterways are teaching Australians about climate change, over-extraction and conservation.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hockey adamant corruption flourishing in Washington
-Body = Donald Trump might be the most influential US president of the past 100 years, according to Joe Hockey, but that does not mean he has not "diminished" the standing of the US globally.
+Title = Digimon Story: Time Stranger 1st Anniversary Art & Message from Mutsumi Tamura
+Body = To celebrate the recent first anniversary of Digimon Story: Time Stranger we get an anniversary art piece, plus a message from Mutsumi Tamura, who plays Aegiomon and is returning for the upcoming DLC. (The Japanese version of the post can be found here.) The art...
 End = true
 
 [LIBRARY RNEWS]
-Title = Authorities investigate Japan's four biggest beer brewers over price rises
-Body = Japan's Fair Trade Commission is investigating whether the beer brewers colluded to raise their prices at the same time over several years, blaming factors like rising raw material costs.
+Title = Digimon Card Times Next Thursday [...]
+Body = During a hiatus notice for Digimon Card Battle this week, it was mentioned that 'Digimon Card Times' will happen next week. Digimon Card Times will be Thursday October 15th at 9pm in Japan and 5am Pacific, the time when Digimon Card Battle episodes normally go up.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak: Episode 49 [Final]- A World of Shining Light
+Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, A World of Shining Light A preview of Episode 49 Episode 49 airs Sunday, September 27th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Tamers GEM Ruki & Renamon Figure Being Rereleased- Pre-Orders Tomorrow
 Body = It's been announced that the Digimon Tamers GEM Ruki & Renamon figure will get a rerelease! First released roughly a decade ago, with a...
-End = true
-
-[LIBRARY RNEWS]
-Title = It's the 26th Anniversary of Digimon the Movie & the 6th Anniversary for Digimon Adventure: Last Evolution Kizuna on Home Video in English!
-Body = It's the 26th anniversary of the theatrical release of Digimon the Movie! It came out October 6th, 2000.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 49 [Final]- A World of Shining Light
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, A World of Shining Light A preview of Episode 49 Episode 49 airs Sunday, September 27th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = It's the 5th Anniversary of Digimon Ghost Game! [...]
-Body = It's the 5th Anniversary of Digimon Ghost Game! It premiered on October 3rd, 2021 in Japan (and October 2nd in a few other places, due to time differences.) (Various text below has been used in prior anniversary articles.) Digimon Ghost Game was a return to Digimon anime that isn't related to Adventure for the first time since Appmon.
 End = true
 
