@@ -9,28 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Clean air nowhere to be found': Indonesian government faces fires lawsuit
-Body = Civil society organisations in West Kalimantan province are suing the Indonesian government alleging negligence in their handling of the region's wildfires.
+Title = Botched execution survivor Christa Pike 'up and walking'
+Body = Lawyers say the convicted killer has got out of bed for the first time, but is still "somewhat foggy".
 End = true
 
 [LIBRARY RNEWS]
-Title = NZ Rugby goes to court over PNG 'Chiefs' name [...]
-Body = New Zealand Rugby has sought interim and final injunctions before the NRL's Papua New Guinea team is officially launched later this month.
+Title = Taiwan's return to nuclear power driven by AI hunger for electricity
+Body = Taiwan is considering abandoning its Nuclear-Free Homeland policy and restarting its last nuclear reactor, shut down only last year.
 End = true
 
 [LIBRARY RNEWS]
-Title = Gaza will take over a decade to rebuild and cost billions
-Body = Estimates suggest the total cost of rebuilding Gaza, which residents now describe as a cemetery, could be $US71.4 billion over a decade.
+Title = Singapore launches new dating app — but not everyone qualifies
+Body = FirstDate is exclusively for public servants and comes as fertility and marriage rates fall in the city-state. Will it help turn them around?
 End = true
 
 [LIBRARY RNEWS]
-Title = Botswana's UNESCO wetlands offers lessons for Australia
+Title = Botswana's UNESCO wetlands offer lessons for Australia
 Body = What Botswana's pristine wetlands and waterways are teaching Australians about climate change, over-extraction and conservation.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger 1st Anniversary Art & Message from Mutsumi Tamura
-Body = To celebrate the recent first anniversary of Digimon Story: Time Stranger we get an anniversary art piece, plus a message from Mutsumi Tamura, who plays Aegiomon and is returning for the upcoming DLC. (The Japanese version of the post can be found here.) The art...
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Card Game Premium Battle Set Version Royal Knights & Version Seven Great Demon Lords up to Pre-Order in US
+Body = Teased a bit ago, it's time for some new card game accessory sets and parallel cards. It's the Digimon Card Game Premium Battle Set Version version Royal Knights [PB-27] and Digimon Card Game Premium Battle Set Version version Seven Great Demon Lords [PB-28].
+End = true
+
+[LIBRARY RNEWS]
+Title = It's the 26th Anniversary of Digimon the Movie & the 6th Anniversary for Digimon Adventure: Last Evolution Kizuna on Home Video in English!
+Body = It's the 26th anniversary of the theatrical release of Digimon the Movie! It came out October 6th, 2000.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +49,7 @@ Body = During a hiatus notice for Digimon Card Battle this week, it was mentione
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak: Episode 49 [Final]- A World of Shining Light
-Body = This is the episode discussion thread for Digimon Beatbreak: Episode 49, A World of Shining Light A preview of Episode 49 Episode 49 airs Sunday, September 27th, 9am in Japan. The simulcast for Crunchyroll and Hulu (and others) is shortly after and is
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Eggs: Chapter 1 - Summer Project [...]
-Body = This is the discussion thread for Digimon Eggs, Chapter 1- Summer Project Chapter 1 will be in the Saikyo Jump issue scheduled for October 2nd, 2026. At roughly the same time it will get distribution in a few languages or services...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Tamers GEM Ruki & Renamon Figure Being Rereleased- Pre-Orders Tomorrow
-Body = It's been announced that the Digimon Tamers GEM Ruki & Renamon figure will get a rerelease! First released roughly a decade ago, with a...
+Title = Digimon Story: Time Stranger 1st Anniversary Art & Message from Mutsumi Tamura
+Body = To celebrate the recent first anniversary of Digimon Story: Time Stranger we get an anniversary art piece, plus a message from Mutsumi Tamura, who plays Aegiomon and is returning for the upcoming DLC. (The Japanese version of the post can be found here.) The art...
 End = true
 
