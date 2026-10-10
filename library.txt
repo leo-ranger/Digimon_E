@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Trump strikes deal with Putin for Russia to supply diesel to US
+Body = In an apparent reversal of Washington's campaign to squeeze Russian fuel revenue powering the war in Ukraine, Donald Trump says Moscow will supply diesel to the US.
+End = true
+
+[LIBRARY RNEWS]
+Title = Powerful 7.7-magnitude earthquake hits off coast of Panama
+Body = The tremor struck in the south, damaging homes, cutting power, halting flights and sending residents into the streets, while triggering more than a dozen aftershocks.
+End = true
+
+[LIBRARY RNEWS]
+Title = Nobel Peace Prize awarded to Judge Navi Pillay [...]
+Body = The South African-born former UN human rights chief was recognised for her efforts to promote peace and international law.
+End = true
+
+[LIBRARY RNEWS]
 Title = Andrew Mountbatten-Windsor wins compensation for Royal Lodge repair bill
 Body = The former prince had been forced to surrender the lease on Royal Lodge after a public outcry over his relationship with convicted sex-offender Jeffrey Epstein.
-End = true
-
-[LIBRARY RNEWS]
-Title = Former Truth Social communications adviser offered White House press secretary role
-Body = Katie Zacharia, a communications adviser for US President Donald Trump's Truth Social platform, has been offered the position of White House press secretary.
-End = true
-
-[LIBRARY RNEWS]
-Title = Families of men killed on Mexico surf trip call for maximum sentences
-Body = Closing arguments have been heard in the case of three men accused of murdering two Australian brothers and their American friend in Mexico.
-End = true
-
-[LIBRARY RNEWS]
-Title = Mass evacuations, cars washed away in Chilean flood disaster
-Body = A raging flood cause major damage to buildings and vehicles, leading to a disaster declaration near Chile's capital at the foot of the Andes.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
-Title = It's the 5th Anniversary of Digimon Ghost Game! [...]
-Body = It's the 5th Anniversary of Digimon Ghost Game! It premiered on October 3rd, 2021 in Japan (and October 2nd in a few other places, due to time differences.) (Various text below has been used in prior anniversary articles.) Digimon Ghost Game was a return to Digimon anime that isn't related to Adventure for the first time since Appmon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Tamers Ruki & Renamon GEM Figure Rerelease- Pre-Orders & Images
-Body = After first coming out a decade ago this month (and I think the most recent rerelease was 6 years ago) the GEM figure of Ruki & Renamon is getting a rerelease for the 25th anniversary of Digimon Tamers, plus the set will finally be complete with the announcement they are doing a Jianliang and Terriermon GEM! ...
-End = true
-
-[LIBRARY RNEWS]
 Title = Random Commentary on Evolutionary Relationships V.6
 Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, October 12th [...]
-Body = Monday (October 12th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about updates for Digimon: World's Best Picks, anniversaries, figures new and old, card game news, & more! Plus your questions!
+Title = Digimon Adventure HeroicArt Figures Available to Pre-Order
+Body = When figures were on display at WonFes Shanghai 2026, since the placard wasn't visible, we weren't sure what they were or what to search for to look for more info. A listing with no photos at BigBadToyStore gave us enough info though that popped up more info once we had the name.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure Digivice Figures- Agumon & Greymon Available for Pre-Order in US
+Body = We have a look at the second wave of figures in the Digimon Adventure Digivice figure line. We believe in Japan these are going to be nice crane game prizes, but outside of Japan they'll get standard distribution.
+End = true
+
+[LIBRARY RNEWS]
+Title = It's the 5th Anniversary of Digimon Ghost Game! [...]
+Body = It's the 5th Anniversary of Digimon Ghost Game! It premiered on October 3rd, 2021 in Japan (and October 2nd in a few other places, due to time differences.) (Various text below has been used in prior anniversary articles.) Digimon Ghost Game was a return to Digimon anime that isn't related to Adventure for the first time since Appmon.
 End = true
 
