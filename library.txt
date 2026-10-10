@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US army's first firing squad execution since WW2 to be public
-Body = The United States's first execution by a military firing squad since World War II will be live streamed, the Pentagon has said.
+Title = Andrew Mountbatten-Windsor wins compensation for Royal Lodge repair bill
+Body = The former prince had been forced to surrender the lease on Royal Lodge after a public outcry over his relationship with convicted sex-offender Jeffrey Epstein.
 End = true
 
 [LIBRARY RNEWS]
-Title = Botched execution survivor Christa Pike 'up and walking'
-Body = Lawyers say the convicted killer has got out of bed for the first time, but is still "somewhat foggy".
+Title = Former Truth Social communications adviser offered White House press secretary role
+Body = Katie Zacharia, a communications adviser for US President Donald Trump's Truth Social platform, has been offered the position of White House press secretary.
 End = true
 
 [LIBRARY RNEWS]
-Title = Prince Harry says he 'slipped into depression' after royal split
-Body = The Duke of Sussex opens up about his mental health challenges at points in his life, including following the death of his mother Diana, Princess of Wales.
+Title = Families of men killed on Mexico surf trip call for maximum sentences
+Body = Closing arguments have been heard in the case of three men accused of murdering two Australian brothers and their American friend in Mexico.
 End = true
 
 [LIBRARY RNEWS]
-Title = Taiwan's return to nuclear power driven by AI hunger for electricity
-Body = Taiwan is considering abandoning its Nuclear-Free Homeland policy and restarting its last nuclear reactor, shut down only last year.
+Title = Mass evacuations, cars washed away in Chilean flood disaster
+Body = A raging flood cause major damage to buildings and vehicles, leading to a disaster declaration near Chile's capital at the foot of the Andes.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
-Title = New Ichiban Kuji Digimon Product Lottery Series Announced- Matrix Evolution, Plus Teaser Trailer
-Body = It's time for another Digimon Ichiban Kuji product lottery. This time it's Digimon, Matrix Evolution!
+Title = It's the 5th Anniversary of Digimon Ghost Game! [...]
+Body = It's the 5th Anniversary of Digimon Ghost Game! It premiered on October 3rd, 2021 in Japan (and October 2nd in a few other places, due to time differences.) (Various text below has been used in prior anniversary articles.) Digimon Ghost Game was a return to Digimon anime that isn't related to Adventure for the first time since Appmon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon: World’s Best Picks Episode 2 Preview, Plus Chosen By Chika Sakamoto
-Body = https://twitter.com/x/status/2108482621793525887 They put up the preview for Digimon Adventure: Episode 10- Centarumon the Protector!, airing as World's Best Picks episode 2 tomorrow in Japan. Plus...
+Title = Digimon Tamers Ruki & Renamon GEM Figure Rerelease- Pre-Orders & Images
+Body = After first coming out a decade ago this month (and I think the most recent rerelease was 6 years ago) the GEM figure of Ruki & Renamon is getting a rerelease for the 25th anniversary of Digimon Tamers, plus the set will finally be complete with the announcement they are doing a Jianliang and Terriermon GEM! ...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon: World’s Best Picks: Episode 2, Digimon Adventure: Episode 10- Centarumon the Protector!
-Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 2, which is Digimon Adventure: Episode 10- Centarumon the Protector! Episode 2 airs Sunday, October 4th, 9am in Japan.
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
 [LIBRARY RNEWS]
-Title = Mega Egg Figure Digimon Adventure Goodnight DigiColle! Set- Pre-Order Info & Images
-Body = Announced on August 1st with an image teaser is Mega Egg Figure Digimon Adventure Goodnight DigiColle! Set, the return of DigiColle after years of rereleases.
+Title = With the Will Podcast Live- Monday, October 12th [...]
+Body = Monday (October 12th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about updates for Digimon: World's Best Picks, anniversaries, figures new and old, card game news, & more! Plus your questions!
 End = true
 
