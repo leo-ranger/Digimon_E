@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump strikes deal with Putin for Russia to supply diesel to US
-Body = In an apparent reversal of Washington's campaign to squeeze Russian fuel revenue powering the war in Ukraine, Donald Trump says Moscow will supply diesel to the US.
+Title = 'Cockroach Party' protesters vow to return after hundreds detained in Delhi
+Body = Chaos erupts in India's capital New Delhi as police detained hundreds of protesters during demonstrations over the Election Commission's move to drop some 130 million names from the voter list.
 End = true
 
 [LIBRARY RNEWS]
-Title = Powerful 7.7-magnitude earthquake hits off coast of Panama
-Body = The tremor struck in the south, damaging homes, cutting power, halting flights and sending residents into the streets, while triggering more than a dozen aftershocks.
+Title = Russian attacks kill at least 12 in Ukraine after Trump-Putin diesel deal
+Body = The strikes came a day after US President Donald Trump announced a deal to buy Russian diesel that Kyiv warned would help fund Moscow's war in Ukraine.
 End = true
 
 [LIBRARY RNEWS]
-Title = Nobel Peace Prize awarded to Judge Navi Pillay [...]
-Body = The South African-born former UN human rights chief was recognised for her efforts to promote peace and international law.
+Title = Trump factor could help Democrats win Republican strongholds at midterms
+Body = Ohio is one of several previously reliably Republican states that have suddenly and unexpectedly come into play ahead of the November midterms.
 End = true
 
 [LIBRARY RNEWS]
-Title = Andrew Mountbatten-Windsor wins compensation for Royal Lodge repair bill
-Body = The former prince had been forced to surrender the lease on Royal Lodge after a public outcry over his relationship with convicted sex-offender Jeffrey Epstein.
+Title = Man dies after entering tiger enclosure at UK zoo [...]
+Body = A man has died after being attacked by a tiger at Yorkshire Wildlife Park, police say.
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Battle Spirit, Beatbreak, & Seekers Social Media Art, Reference Book, NYCC & More Event Photos, Catch-Up for the Week, & More!
+Body = Weekend batch time! Digimon Web put up some social media art to celebrate the 25th anniversary of Digimon Tamers: Battle Spirit!
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Adventure Digivice Figures- Agumon & Greymon Available for Pre-Order in US
 Body = We have a look at the second wave of figures in the Digimon Adventure Digivice figure line. We believe in Japan these are going to be nice crane game prizes, but outside of Japan they'll get standard distribution.
-End = true
-
-[LIBRARY RNEWS]
-Title = It's the 5th Anniversary of Digimon Ghost Game! [...]
-Body = It's the 5th Anniversary of Digimon Ghost Game! It premiered on October 3rd, 2021 in Japan (and October 2nd in a few other places, due to time differences.) (Various text below has been used in prior anniversary articles.) Digimon Ghost Game was a return to Digimon anime that isn't related to Adventure for the first time since Appmon.
 End = true
 
