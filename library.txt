@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Cockroach Party' protesters vow to return after hundreds detained in Delhi
-Body = Chaos erupts in India's capital New Delhi as police detained hundreds of protesters during demonstrations over the Election Commission's move to drop some 130 million names from the voter list.
+Title = Twelve dead, flights cancelled after third attack on Saudi airport
+Body = At least 12 people are dead and more than 300 have been wounded after an attack on King Khalid International Airport in the Saudi capital.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian attacks kill at least 12 in Ukraine after Trump-Putin diesel deal
-Body = The strikes came a day after US President Donald Trump announced a deal to buy Russian diesel that Kyiv warned would help fund Moscow's war in Ukraine.
+Title = More than 70 stranded as Solomon Islands ferry drifts for days
+Body = Passengers aboard a drifting ferry in Solomon Islands waters have been stranded since Friday, as an international operation scrambles to get supplies to the vessel.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump factor could help Democrats win Republican strongholds at midterms
-Body = Ohio is one of several previously reliably Republican states that have suddenly and unexpectedly come into play ahead of the November midterms.
+Title = Hurricane Isaias kills at least four, leaves thousands without power in US
+Body = Four people are dead and about 800,000 in south-eastern US states are without power after Hurricane Isaias made landfall, weakening to a post-tropical cyclone.
 End = true
 
 [LIBRARY RNEWS]
-Title = Man dies after entering tiger enclosure at UK zoo [...]
-Body = A man has died after being attacked by a tiger at Yorkshire Wildlife Park, police say.
+Title = Solomons MPs jet overseas for treatment while many citizens wait
+Body = An ABC investigation raises questions about whether some Solomon Islands MPs and officials have received publicly funded care overseas worth thousands of Australian dollars when cheaper in-country treatment has been available.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
+Title = Digimon: World’s Best Picks: Episode 1, Digimon Adventure: Episode 1- Adrift? The Island of Adventure!
+Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 1, which is Digimon Adventure: Episode 1- Adrift? The Island of Adventure!
+End = true
+
+[LIBRARY RNEWS]
+Title = It's the 5th Anniversary of Digimon Ghost Game! [...]
+Body = It's the 5th Anniversary of Digimon Ghost Game! It premiered on October 3rd, 2021 in Japan (and October 2nd in a few other places, due to time differences.) (Various text below has been used in prior anniversary articles.) Digimon Ghost Game was a return to Digimon anime that isn't related to Adventure for the first time since Appmon.
+End = true
+
+[LIBRARY RNEWS]
 Title = Random Commentary on Evolutionary Relationships V.6
 Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure HeroicArt Figures Available to Pre-Order
-Body = When figures were on display at WonFes Shanghai 2026, since the placard wasn't visible, we weren't sure what they were or what to search for to look for more info. A listing with no photos at BigBadToyStore gave us enough info though that popped up more info once we had the name.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure Digivice Figures- Agumon & Greymon Available for Pre-Order in US
-Body = We have a look at the second wave of figures in the Digimon Adventure Digivice figure line. We believe in Japan these are going to be nice crane game prizes, but outside of Japan they'll get standard distribution.
 End = true
 
