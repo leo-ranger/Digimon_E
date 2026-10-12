@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Twelve dead, flights cancelled after third attack on Saudi airport
-Body = At least 12 people are dead and more than 300 have been wounded after an attack on King Khalid International Airport in the Saudi capital.
+Title = At least 139 migrants dead after boat from Djibouti to Yemen capsizes
+Body = It is one of the deadliest incidents yet on the popular but perilous crossing from the Horn of Africa to the Arabian Peninsula, where many migrants seek work in rich Gulf nations.
 End = true
 
 [LIBRARY RNEWS]
-Title = More than 70 stranded as Solomon Islands ferry drifts for days
-Body = Passengers aboard a drifting ferry in Solomon Islands waters have been stranded since Friday, as an international operation scrambles to get supplies to the vessel.
+Title = World's timekeepers will vote to ditch 'leap second' this week
+Body = Clocks occasionally go backwards for a second to keep Earth time in sync with the stars. But the powers that govern time measurement are about to vote to end the practice.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hurricane Isaias kills at least four, leaves thousands without power in US
-Body = Four people are dead and about 800,000 in south-eastern US states are without power after Hurricane Isaias made landfall, weakening to a post-tropical cyclone.
+Title = Zelenskyy appears surprised as Trump announces 'energy ceasefire'
+Body = The US president has blamed Ukrainian strikes on Russian refineries for high diesel prices and called for fresh elections to replace Volodymyr Zelenskyy.
 End = true
 
 [LIBRARY RNEWS]
-Title = Solomons MPs jet overseas for treatment while many citizens wait
-Body = An ABC investigation raises questions about whether some Solomon Islands MPs and officials have received publicly funded care overseas worth thousands of Australian dollars when cheaper in-country treatment has been available.
+Title = Father mourns toddler killed in Pennsylvania shooting
+Body = A community is mourning the deaths of eight people shot dead by a 45-year-old grandfather at a Pennsylvania home.
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Battle Spirit, Beatbreak, & Seekers Social Media Art, Reference Book, NYCC & More Event Photos, Catch-Up for the Week, & More!
-Body = Weekend batch time! Digimon Web put up some social media art to celebrate the 25th anniversary of Digimon Tamers: Battle Spirit!
+Title = Random Commentary on Evolutionary Relationships V.6
+Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = In order to make things better all around there will now be 1 thread for 
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon: World’s Best Picks: Episode 1, Digimon Adventure: Episode 1- Adrift? The Island of Adventure!
-Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 1, which is Digimon Adventure: Episode 1- Adrift? The Island of Adventure!
+Title = Topic Revival Request Thread [...]
+Body = Cause i get a ton of PMs and wanna try to relax a few days, doing as little forum work as humanly possible, i've decided to make this thread for when people want to request a topic revival. Bascially post the thread you want to revive with the reason as to why.
 End = true
 
 [LIBRARY RNEWS]
-Title = It's the 5th Anniversary of Digimon Ghost Game! [...]
-Body = It's the 5th Anniversary of Digimon Ghost Game! It premiered on October 3rd, 2021 in Japan (and October 2nd in a few other places, due to time differences.) (Various text below has been used in prior anniversary articles.) Digimon Ghost Game was a return to Digimon anime that isn't related to Adventure for the first time since Appmon.
+Title = Digimon Frontier Figure-rise Standard Amplified MagnaGarurumon Model Kit Pre-Orders Open, Includes Parts for Susanoomon
+Body = After a bit of a wait from early teasers, pre-orders are starting to go up for the model kit of Figure-rise Standard Amplified MagnaGarurumon from Digimon Frontier and we have images & more details! Plus Susanoomon!
 End = true
 
 [LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
+Title = Who is your favorite Dark Master from the original Digimon Adventure series?
+Body = My favorite is MetalSeadramon. I included the Japanese names in case you are watching subbed.
 End = true
 
