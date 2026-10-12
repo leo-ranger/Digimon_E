@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = At least 139 migrants dead after boat from Djibouti to Yemen capsizes
-Body = It is one of the deadliest incidents yet on the popular but perilous crossing from the Horn of Africa to the Arabian Peninsula, where many migrants seek work in rich Gulf nations.
+Title = 'Violent' fire destroys Paris's oldest covered food market
+Body = The Marche Couvert des Enfants Rouges had existed since 1615, and drew its name from the red outfits that orphans wore at a hospital near the market until 1772.
 End = true
 
 [LIBRARY RNEWS]
-Title = World's timekeepers will vote to ditch 'leap second' this week
-Body = Clocks occasionally go backwards for a second to keep Earth time in sync with the stars. But the powers that govern time measurement are about to vote to end the practice.
+Title = Australians in Riyadh told to shelter as Saudis and Houthis trade attacks
+Body = The Australian embassy in Riyadh has issued a new shelter in place order as Saudi Arabia and Yemen's Houthis continue to exchange deadly attacks.
 End = true
 
 [LIBRARY RNEWS]
-Title = Zelenskyy appears surprised as Trump announces 'energy ceasefire'
-Body = The US president has blamed Ukrainian strikes on Russian refineries for high diesel prices and called for fresh elections to replace Volodymyr Zelenskyy.
+Title = Online cults targeting teens have reached Australia but they're already rampant in Asia
+Body = A small town is searching for answers after two students were shot dead at school. All signs point to a new wave of extremism in the form of a little-known online community.
 End = true
 
 [LIBRARY RNEWS]
-Title = Father mourns toddler killed in Pennsylvania shooting
-Body = A community is mourning the deaths of eight people shot dead by a 45-year-old grandfather at a Pennsylvania home.
+Title = American professors Hall and Woodford win Nobel economics prize
+Body = The award was announced by the Royal Swedish Academy of Sciences in Stockholm, honouring Robert E Hall who is affiliated with Stanford University in California and Michael Woodford from Columbia University in New York.
+End = true
+
+[LIBRARY RNEWS]
+Title = It's the 5th Anniversary of Digimon Ghost Game! [...]
+Body = It's the 5th Anniversary of Digimon Ghost Game! It premiered on October 3rd, 2021 in Japan (and October 2nd in a few other places, due to time differences.) (Various text below has been used in prior anniversary articles.) Digimon Ghost Game was a return to Digimon anime that isn't related to Adventure for the first time since Appmon.
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Frontier Figure-rise Standard Amplified MagnaGarurumon Model Kit Pre-Orders Open, Includes Parts for Susanoomon
 Body = After a bit of a wait from early teasers, pre-orders are starting to go up for the model kit of Figure-rise Standard Amplified MagnaGarurumon from Digimon Frontier and we have images & more details! Plus Susanoomon!
-End = true
-
-[LIBRARY RNEWS]
-Title = Who is your favorite Dark Master from the original Digimon Adventure series?
-Body = My favorite is MetalSeadramon. I included the Japanese names in case you are watching subbed.
 End = true
 
