@@ -14,23 +14,28 @@ Body = Saudi officials investigate how its air defences failed to intercept dead
 End = true
 
 [LIBRARY RNEWS]
+Title = The price of crossing Beijing's political red lines over Taiwan
+Body = The actions of a Taipei-born celebrity have drawn the attention of Chinese censors and have shown again just how important the midterm elections in Taiwan are for the entire region.
+End = true
+
+[LIBRARY RNEWS]
 Title = Roller coaster incident at US theme park kills one and injures several
 Body = One person has died and several others have been injured in an incident involving a Six Flags roller coaster in Georgia, according to police.
 End = true
 
 [LIBRARY RNEWS]
-Title = Delhi a fortress as 'cockroach' protesters show no sign of backing down
-Body = New Delhi's Supreme Court is expected to hear a petition on alleged vote rigging today, as thousands of protesters defy a security crackdown in the capital.
-End = true
-
-[LIBRARY RNEWS]
-Title = 'Violent' fire destroys Paris's oldest covered food market
-Body = The Marche Couvert des Enfants Rouges had existed since 1615, and drew its name from the red outfits that orphans wore at a hospital near the market until 1772.
+Title = Judge warns jurors as Russell Brand prepares for rape trial in London
+Body = British actor, comedian, and presenter Russell Brand has appeared in a London court for the start of his trial on historical sex offences.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Channel: Pics and Translation Thread [...]
 Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+End = true
+
+[LIBRARY RNEWS]
+Title = RhodoKnightmon X/LordKnightmon X/Ultimate Thrusting Sword Gran Rozerio & Parallel/Alt Art Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) (3) (4) has updated... [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = It's the 5th Anniversary of Digimon Ghost Game! [...]
 Body = It's the 5th Anniversary of Digimon Ghost Game! It premiered on October 3rd, 2021 in Japan (and October 2nd in a few other places, due to time differences.) (Various text below has been used in prior anniversary articles.) Digimon Ghost Game was a return to Digimon anime that isn't related to Adventure for the first time since Appmon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Random Commentary on Evolutionary Relationships V.6
-Body = Time to start a new thread from: https://withthewill.net/threads/random-commentary-on-evolutionary-relationships-v-5.26739/ Remember, do NOT bandwith steal by direct linking to sites that are not free upload sites (i.e if you direct link to a Wikimon picture) DO NOT USE AI/Chat GPT Stuff or post it. Use a site like imagebb (not imgur as it's blocked in some countries) Also do not post spoilers!
 End = true
 
