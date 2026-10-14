@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = OpenAI employee busted collecting 'superintelligence' technology
+Body = An OpenAI employee with Saudi Arabian links has been busted collecting sensitive conversations from inside a conference room.
+End = true
+
+[LIBRARY RNEWS]
 Title = Cornell University suspends fraternity parties after alleged gang rape
 Body = The Ivy League university is adopting a number of measures aimed at improving its response to sexual assault allegations on campus.
 End = true
@@ -19,13 +24,23 @@ Body = The strikes mark a fresh escalation in the widening Middle East crisis, w
 End = true
 
 [LIBRARY RNEWS]
-Title = Surgery confirms Pope Leo has lung cancer [...]
-Body = Doctors confirm Pope Leo has cancer during surgery in which they remove the lower lobe of his right lung.
+Title = Nine roller-coasters close across US, Canada after man dies during ride
+Body = Nine roller-coasters have been closed across the US and Canada as new information emerges about the death of a 42-year-old man.
 End = true
 
 [LIBRARY RNEWS]
-Title = Germany scrambles jets after airline radio glitch sends false hijack alert
-Body = Nuremberg Airport said all passengers are safe after a flight from Corfu transmitted an emergency code.
+Title = Official Digimon Web Poll #159- Favorite Digimon Beatbreak Ultimate Level Partner
+Body = Digimon Web has opened a new fan vote. This is the 159th official web poll on the current version of the site.
+End = true
+
+[LIBRARY RNEWS]
+Title = Ichiban Kuji Digimon Product Matrix Evolution- Figure Images include Dukemon: Crimson Mode, Sakuyamon, Terriermon & Lopmon, & Beelzebumon: Blast Mode
+Body = The Digimon Ichiban Kuji product lottery: Digimon, Matrix Evolution! was announced recently, and we have a few updates on some of the prizes.
+End = true
+
+[LIBRARY RNEWS]
+Title = Dynasmon Preview for Digimon Card Game Booster Set EX-13
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 26. This time it's Dynasmon.
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Hi everyone [...]
 Body = Hi, i'm PalmonLover (yeah i have zero inspiration when it comes to usernames but i do love Palmon so i guess it works). I'm a long-time french fan of the Digimon franchise, but never really took the time to interact with the fanbase and after playing Digimon Time Strangers i thought it was the right time to go back to my obsession for Digital Monsters.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #321- We Need Shelf Space (World's Best Picks, Figures, & More!)
-Body = This time we will be talking about updates for Digimon: World's Best Picks, anniversaries, figures new and old, card game news, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Franchise Go Through [...]
-Body = Hello, I am making an attempt at working through as much of the Digimon franchise as I can in release order. I missed out on much of it as kid and want to use my adult money and time to experience it as much as possible.
 End = true
 
