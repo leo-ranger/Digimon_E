@@ -9,33 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Riyadh airport stays closed as Saudis probe failures in deadly attack
-Body = Saudi officials investigate how its air defences failed to intercept deadly attacks launched by the Houthis.
+Title = Cornell University suspends fraternity parties after alleged gang rape
+Body = The Ivy League university is adopting a number of measures aimed at improving its response to sexual assault allegations on campus.
 End = true
 
 [LIBRARY RNEWS]
-Title = The price of crossing Beijing's political red lines over Taiwan
-Body = The actions of a Taipei-born celebrity have drawn the attention of Chinese censors and have shown again just how important the midterm elections in Taiwan are for the entire region.
+Title = Blasts rock Yemen's capital as Houthis vow to retaliate
+Body = The strikes mark a fresh escalation in the widening Middle East crisis, with Yemen's Houthis vowing to retaliate with attacks on Saudi Arabia's airports and oil refineries.
 End = true
 
 [LIBRARY RNEWS]
-Title = Roller coaster incident at US theme park kills one and injures several
-Body = One person has died and several others have been injured in an incident involving a Six Flags roller coaster in Georgia, according to police.
+Title = Surgery confirms Pope Leo has lung cancer [...]
+Body = Doctors confirm Pope Leo has cancer during surgery in which they remove the lower lobe of his right lung.
 End = true
 
 [LIBRARY RNEWS]
-Title = Judge warns jurors as Russell Brand prepares for rape trial in London
-Body = British actor, comedian, and presenter Russell Brand has appeared in a London court for the start of his trial on historical sex offences.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+Title = Germany scrambles jets after airline radio glitch sends false hijack alert
+Body = Nuremberg Airport said all passengers are safe after a flight from Corfu transmitted an emergency code.
 End = true
 
 [LIBRARY RNEWS]
 Title = RhodoKnightmon X/LordKnightmon X/Ultimate Thrusting Sword Gran Rozerio & Parallel/Alt Art Previews for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) (3) (4) has updated... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Hi everyone [...]
+Body = Hi, i'm PalmonLover (yeah i have zero inspiration when it comes to usernames but i do love Palmon so i guess it works). I'm a long-time french fan of the Digimon franchise, but never really took the time to interact with the fanbase and after playing Digimon Time Strangers i thought it was the right time to go back to my obsession for Digital Monsters.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon Franchise Go Through [...]
 Body = Hello, I am making an attempt at working through as much of the Digimon franchise as I can in release order. I missed out on much of it as kid and want to use my adult money and time to experience it as much as possible.
-End = true
-
-[LIBRARY RNEWS]
-Title = It's the 5th Anniversary of Digimon Ghost Game! [...]
-Body = It's the 5th Anniversary of Digimon Ghost Game! It premiered on October 3rd, 2021 in Japan (and October 2nd in a few other places, due to time differences.) (Various text below has been used in prior anniversary articles.) Digimon Ghost Game was a return to Digimon anime that isn't related to Adventure for the first time since Appmon.
 End = true
 
