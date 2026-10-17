@@ -9,28 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Melbourne man's detention in Vietnam labelled 'outrageous and unacceptable'
-Body = Human rights groups urge the federal government to ratchet up pressure on Vietnam over the fate of an Australian pro-democracy campaigner who is in jail after disappearing in Cambodia last month.
+Title = White House press secretary Katie Zacharia leaves after just days in role
+Body = White House press secretary Katie Zacharia is leaving the role after only days in the job. US President Donald Trump indicated he had encouraged her to reconsider her position.
 End = true
 
 [LIBRARY RNEWS]
-Title = Indian voting changes sparking gen Z anger on the streets
-Body = For almost two weeks, demonstrators have taken to the streets of New Delhi demanding the resignation of India's election commissioner. Here's what you need to know about it.
+Title = Tahiti police gather evidence after pro surfer suspended over alleged incident
+Body = Police in French Polynesia are gathering evidence following an alleged incident in Tahiti that has led world surf bodies to suspend a professional surfer from competitions.
 End = true
 
 [LIBRARY RNEWS]
-Title = Five killed in Houthi strike on presidential palace in Aden
-Body = Yemen's Houthis fire missiles at the presidential palace complex in the southern city of Aden killing five people, the government says.
+Title = At least three killed by Russian drones in Ukraine which cut power to 370,000
+Body = At least three people were killed by Russian drones in Ukraine overnight, the strikes also hit two shopping centres and key energy grid infrastructure.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hole punched into Neanderthal's shoulder launches spear killing debate
-Body = A round hole in the shoulder blade of a Neanderthal fossil could be the earliest known evidence of ancient humans attacking one another with wooden spears, researchers say.
-End = true
-
-[LIBRARY RNEWS]
-Title = Craniummon/Craniamon X/Ultimate Crossblade Dáinsleif & Hjaðningar Waltz Previews for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
+Title = Four dead and two others badly burnt in Indonesia wildfire
+Body = A crew battling the blaze was caught when conditions changes, triggering an emergency call for help.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +34,22 @@ Body = Updates for Digimon Concert: 2026 Anniversary & Beatbreak, the upcoming c
 End = true
 
 [LIBRARY RNEWS]
-Title = Official Digimon Web Poll #159- Favorite Digimon Beatbreak Ultimate Level Partner
-Body = Digimon Web has opened a new fan vote. This is the 159th official web poll on the current version of the site.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
-Title = Gekkomon Teased for Digimon Story: Time Stranger DLC Expansion
-Body = The Digimon Game (2) accounts have been doing a series of "who's that Digimon" posts using silhouetted screencap elements from Digimon games (mostly Time Stranger, but not entirely.) The newest one is clearly a silhouette of Gekkomon, who outside of spritework in Digimon Up, is not in any games... which would suggest we'll have him announced tomorrow.
+Title = Gekkomon Announced for Digimon Story: Time Stranger DLC Expansion
+Body = Digimon Games posted the answer to the silhouette from yesterday, and as expected, it confirms Gekkomon is in the Digimon Story: Time Stranger DLC Expansion. No real surprise after yesterday, but nice to see.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Tamers Products at Cliffe Store on October 20th with New Art
-Body = Cliffe Store by Sutcliffe has announced that they will have a wave of Digimon Tamers merchandise with new artwork. The products will show up on October 20th on their online store.
+Title = Hi everyone [...]
+Body = Hi, i'm PalmonLover (yeah i have zero inspiration when it comes to usernames but i do love Palmon so i guess it works). I'm a long-time french fan of the Digimon franchise, but never really took the time to interact with the fanbase and after playing Digimon Time Strangers i thought it was the right time to go back to my obsession for Digital Monsters.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
+Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
 End = true
 
