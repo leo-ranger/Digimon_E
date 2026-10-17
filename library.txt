@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = White House press secretary Katie Zacharia leaves after just days in role
-Body = White House press secretary Katie Zacharia is leaving the role after only days in the job. US President Donald Trump indicated he had encouraged her to reconsider her position.
+Title = Police arrest 'cockroach' movement leader again as protests in India escalate
+Body = India's "cockroach" movement founder Abhijeet Dipke has again been taken into custody ahead of a planned protest.
+End = true
+
+[LIBRARY RNEWS]
+Title = Are Trump and Netanyahu risking war to save themselves?
+Body = With the US mid-term elections looming and Israel heading to the polls, Donald Trump and Benjamin Netanyahu are playing dangerous games with global security.
+End = true
+
+[LIBRARY RNEWS]
+Title = Inside Russell Brand's rape trial, where the star watches intently from dock
+Body = The world-famous actor and comedian appeared calm, almost Zen-like, as he sat in the dock at Southwark Crown Court, and the prosecution began unfolding its case against him.
 End = true
 
 [LIBRARY RNEWS]
 Title = Tahiti police gather evidence after pro surfer suspended over alleged incident
 Body = Police in French Polynesia are gathering evidence following an alleged incident in Tahiti that has led world surf bodies to suspend a professional surfer from competitions.
-End = true
-
-[LIBRARY RNEWS]
-Title = At least three killed by Russian drones in Ukraine which cut power to 370,000
-Body = At least three people were killed by Russian drones in Ukraine overnight, the strikes also hit two shopping centres and key energy grid infrastructure.
-End = true
-
-[LIBRARY RNEWS]
-Title = Four dead and two others badly burnt in Indonesia wildfire
-Body = A crew battling the blaze was caught when conditions changes, triggering an emergency call for help.
 End = true
 
 [LIBRARY RNEWS]
