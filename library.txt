@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Fires and tear gas as French protests spiral [...]
+Body = The tourism building in Lyon was set ablaze, and tear gas deployed by police as nationwide rallies over declining public services in France continue.
+End = true
+
+[LIBRARY RNEWS]
+Title = Israeli settlers attack European diplomats in West Bank
+Body = The attack on Palestinian civilians, European diplomats and a French mayor in the occupied West Bank comes a day after settlers beat an American photojournalist.
+End = true
+
+[LIBRARY RNEWS]
 Title = Starlink speed restrictions ground interceptors as Russian strikes batter Ukraine
 Body = Ukraine is grappling with Starlink restrictions vital to operating its interceptors as Trump pauses some Russian sanctions.
 End = true
@@ -19,37 +29,27 @@ Body = Pope Leo has returned to the Vatican from hospital following surgery for 
 End = true
 
 [LIBRARY RNEWS]
-Title = Wildfires rage in Southern California, burn homes [...]
-Body = Firefighters in the state say a fast-moving wildfire has ripped through at least six homes, prompting evacuations and power outages.
+Title = Nosferamon/Rampage Bullet Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Nosferamon/Rampage Bullet.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Oh, shut up': Moment in Maine sums up Trump's troubles
-Body = A political debate in Maine offered multiple reminders of times when Donald Trump has dismissed Americans' concerns as either conspiracy theories or stupidity.
+Title = Digimon Channel: Pics and Translation Thread [...]
+Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
 End = true
 
 [LIBRARY RNEWS]
-Title = Chiropmon, NightChiropmon, & ScourgeChiropmon Previews for Digimon Card Game Booster Set 27
-Body = ... [...] [...]
+Title = Gekkomon Announced for Digimon Story: Time Stranger DLC Expansion
+Body = Digimon Games posted the answer to the silhouette from yesterday, and as expected, it confirms Gekkomon is in the Digimon Story: Time Stranger DLC Expansion. No real surprise after yesterday, but nice to see.
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Caravan & New York Comic Con Photos, Catch-Up for the Week, & More!
-Body = Time for a weekend batch! First up some photos (2) (3) from Digimon Caravan, both at Aeon Mall Makuhari New City last weekend and this weekend at Aeon Mall Higashiura.
+Title = Gekkomon Teased for Digimon Story: Time Stranger DLC Expansion
+Body = The Digimon Game (2) accounts have been doing a series of "who's that Digimon" posts using silhouetted screencap elements from Digimon games (mostly Time Stranger, but not entirely.) The newest one is clearly a silhouette of Gekkomon, who outside of spritework in Digimon Up, is not in any games... which would suggest we'll have him announced tomorrow.
 End = true
 
 [LIBRARY RNEWS]
-Title = dizzy_izzy's Colored Pencil Art [...]
-Body = It's a bit rough, but it was real fun to draw, along with coming up with poses for everyone. I did shrink Greymon and Kabuterimon to sit on the couch but eh who cares?
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Original New Wave 3 V-Pet Details & Images- Out November in Japan, No Date Yet for US
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Liberator: Episode 25 Part 1 - Dawn of Liberator
-Body = This is the discussion thread for Digimon Liberator Episode 25 Part 1 Digimon Liberator Episode 25 Part 1 is out Thursday, March 12th, at 11am in Japan. The time given converts to: Wednesday, March 11th, 7:00pm in California (Pacific) Wednesday, March 11th, 10:00pm in New York (Eastern) Thursday, March 12th, 2:00am in the UK (GMT) Thursday, March 12th, 1:00pm in Australia (Melbourne)
+Title = Official Digimon Web Poll #159- Favorite Digimon Beatbreak Ultimate Level Partner
+Body = Digimon Web has opened a new fan vote. This is the 159th official web poll on the current version of the site.
 End = true
 
