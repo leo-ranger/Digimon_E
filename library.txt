@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Police arrest 'cockroach' movement leader again as protests in India escalate
-Body = India's "cockroach" movement founder Abhijeet Dipke has again been taken into custody ahead of a planned protest.
+Title = Starlink speed restrictions ground interceptors as Russian strikes batter Ukraine
+Body = Ukraine is grappling with Starlink restrictions vital to operating its interceptors as Trump pauses some Russian sanctions.
 End = true
 
 [LIBRARY RNEWS]
-Title = Are Trump and Netanyahu risking war to save themselves?
-Body = With the US mid-term elections looming and Israel heading to the polls, Donald Trump and Benjamin Netanyahu are playing dangerous games with global security.
+Title = Pope Leo leaves hospital for Vatican four days after lung cancer surgery
+Body = Pope Leo has returned to the Vatican from hospital following surgery for lung cancer four days ago.
 End = true
 
 [LIBRARY RNEWS]
-Title = Inside Russell Brand's rape trial, where the star watches intently from dock
-Body = The world-famous actor and comedian appeared calm, almost Zen-like, as he sat in the dock at Southwark Crown Court, and the prosecution began unfolding its case against him.
+Title = Wildfires rage in Southern California, burn homes [...]
+Body = Firefighters in the state say a fast-moving wildfire has ripped through at least six homes, prompting evacuations and power outages.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tahiti police gather evidence after pro surfer suspended over alleged incident
-Body = Police in French Polynesia are gathering evidence following an alleged incident in Tahiti that has led world surf bodies to suspend a professional surfer from competitions.
+Title = 'Oh, shut up': Moment in Maine sums up Trump's troubles
+Body = A political debate in Maine offered multiple reminders of times when Donald Trump has dismissed Americans' concerns as either conspiracy theories or stupidity.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Concert Updates- Key Art, Performance Info, Guests, Ticket Lotto Begins, & More!
-Body = Updates for Digimon Concert: 2026 Anniversary & Beatbreak, the upcoming concert event. The event is a special concert featuring live performances of songs from Digimon Beatbreak and the shows having big anniversary years in 2026: Digimon Tamers, Digimon Savers, Digimon Universe: AppliMonsters, and...
+Title = Chiropmon, NightChiropmon, & ScourgeChiropmon Previews for Digimon Card Game Booster Set 27
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Weekend Batch- Digimon Caravan & New York Comic Con Photos, Catch-Up for the Week, & More!
+Body = Time for a weekend batch! First up some photos (2) (3) from Digimon Caravan, both at Aeon Mall Makuhari New City last weekend and this weekend at Aeon Mall Higashiura.
 End = true
 
 [LIBRARY RNEWS]
-Title = Gekkomon Announced for Digimon Story: Time Stranger DLC Expansion
-Body = Digimon Games posted the answer to the silhouette from yesterday, and as expected, it confirms Gekkomon is in the Digimon Story: Time Stranger DLC Expansion. No real surprise after yesterday, but nice to see.
+Title = dizzy_izzy's Colored Pencil Art [...]
+Body = It's a bit rough, but it was real fun to draw, along with coming up with poses for everyone. I did shrink Greymon and Kabuterimon to sit on the couch but eh who cares?
 End = true
 
 [LIBRARY RNEWS]
-Title = Hi everyone [...]
-Body = Hi, i'm PalmonLover (yeah i have zero inspiration when it comes to usernames but i do love Palmon so i guess it works). I'm a long-time french fan of the Digimon franchise, but never really took the time to interact with the fanbase and after playing Digimon Time Strangers i thought it was the right time to go back to my obsession for Digital Monsters.
+Title = Digimon Original New Wave 3 V-Pet Details & Images- Out November in Japan, No Date Yet for US
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon the Movies 3 Blu-ray Set Announced by Discotek- Island of Lost Digimon, Ultimate Power! Activate Burst Mode!!, & X-Evolution
-Body = https://twitter.com/x/status/2083720775711023533 Discotek Media announced at their Otakon panel, not-livestream, & via social media they are working on Digimon the Movies Collection 3. The release will contain 3 Digimon movies: Digimon Frontier: Island of Lost Digimon (Revival of the Ancient Digimon) Digimon Savers: Ultimate Power!
+Title = Digimon Liberator: Episode 25 Part 1 - Dawn of Liberator
+Body = This is the discussion thread for Digimon Liberator Episode 25 Part 1 Digimon Liberator Episode 25 Part 1 is out Thursday, March 12th, at 11am in Japan. The time given converts to: Wednesday, March 11th, 7:00pm in California (Pacific) Wednesday, March 11th, 10:00pm in New York (Eastern) Thursday, March 12th, 2:00am in the UK (GMT) Thursday, March 12th, 1:00pm in Australia (Melbourne)
 End = true
 
