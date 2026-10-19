@@ -9,23 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Fires and tear gas as French protests spiral [...]
-Body = The tourism building in Lyon was set ablaze, and tear gas deployed by police as nationwide rallies over declining public services in France continue.
+Title = Fatal military base fire among Canada's worst peacetime tragedies, PM says
+Body = Prime Minister Mark Carney says the incident affected reservists and soldiers from one of Canada’s most storied military regiments.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israeli settlers attack European diplomats in West Bank
-Body = The attack on Palestinian civilians, European diplomats and a French mayor in the occupied West Bank comes a day after settlers beat an American photojournalist.
+Title = Inside the Chinese city helping sustain hermit kingdom North Korea
+Body = I was on a tourist boat as it passed into North Korean waters, just 100 metres from the shoreline of the hermit kingdom. The tourists around me were all asking one question.
 End = true
 
 [LIBRARY RNEWS]
-Title = Starlink speed restrictions ground interceptors as Russian strikes batter Ukraine
-Body = Ukraine is grappling with Starlink restrictions vital to operating its interceptors as Trump pauses some Russian sanctions.
+Title = 'Shared language of horror' uniting Aussie and Indonesian filmmakers
+Body = While Jakarta and regional Queensland may not have much in common at first glance, their filmmakers have found that "fear is universal".
 End = true
 
 [LIBRARY RNEWS]
-Title = Pope Leo leaves hospital for Vatican four days after lung cancer surgery
-Body = Pope Leo has returned to the Vatican from hospital following surgery for lung cancer four days ago.
+Title = Fatalities as 'serious incident' causes fire at Canadian military base
+Body = People have been killed and injured in a serious incident that resulted in a fire at Canadian Forces Base Wainwright, according to the defence minister.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +34,22 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Channel: Pics and Translation Thread [...]
-Body = In order to make things better all around there will now be 1 thread for all the pics and translations. There are to be no back translations only new ones starting as of this weeks which i've copied across from the old threads.
+Title = Frimon & Liollmon Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time...
 End = true
 
 [LIBRARY RNEWS]
-Title = Gekkomon Announced for Digimon Story: Time Stranger DLC Expansion
-Body = Digimon Games posted the answer to the silhouette from yesterday, and as expected, it confirms Gekkomon is in the Digimon Story: Time Stranger DLC Expansion. No real surprise after yesterday, but nice to see.
+Title = Digimon Frontier Fluffy Swaddled Plushies Out in February 2027
+Body = Tapioca has announced (2) new Digimon Frontier plushies. These are a follow-up to the Digimon Adventure, 02, Tamers, & Beatbreak ones they did recently (although not all of those have shipped yet.) The fluffy swaddled plushes have the Frontier kids wrapped up in a fluffy egg shaped...
+End = true
+
+[LIBRARY RNEWS]
+Title = Hello everyone. [...]
+Body = My favorite game is Digimon World for the original PlayStation. Lately I have been watching the subbed version of Digimon Adventure for the first time and am almost done.
 End = true
 
 [LIBRARY RNEWS]
 Title = Gekkomon Teased for Digimon Story: Time Stranger DLC Expansion
 Body = The Digimon Game (2) accounts have been doing a series of "who's that Digimon" posts using silhouetted screencap elements from Digimon games (mostly Time Stranger, but not entirely.) The newest one is clearly a silhouette of Gekkomon, who outside of spritework in Digimon Up, is not in any games... which would suggest we'll have him announced tomorrow.
-End = true
-
-[LIBRARY RNEWS]
-Title = Official Digimon Web Poll #159- Favorite Digimon Beatbreak Ultimate Level Partner
-Body = Digimon Web has opened a new fan vote. This is the 159th official web poll on the current version of the site.
 End = true
 
