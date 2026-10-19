@@ -9,28 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Fatal military base fire among Canada's worst peacetime tragedies, PM says
-Body = Prime Minister Mark Carney says the incident affected reservists and soldiers from one of Canada’s most storied military regiments.
+Title = Australian activist imprisoned in Vietnam tells family he is 'terrified'
+Body = Australian officials have been able to meet Hiep Tran at a detention centre in Ho Chi Minh City, where he is being held after disappearing in Cambodia last month.
 End = true
 
 [LIBRARY RNEWS]
-Title = Inside the Chinese city helping sustain hermit kingdom North Korea
-Body = I was on a tourist boat as it passed into North Korean waters, just 100 metres from the shoreline of the hermit kingdom. The tourists around me were all asking one question.
+Title = Vanuatu expects China police presence to fall after deal with Australia
+Body = Vanuatu has signalled it expects a change in Beijing's police presence after the Pacific nation signed the landmark Nakamal Agreement with Australia.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Shared language of horror' uniting Aussie and Indonesian filmmakers
-Body = While Jakarta and regional Queensland may not have much in common at first glance, their filmmakers have found that "fear is universal".
+Title = As Russia-Ukraine war changes, Zelenskyy could be 'losing a strong partner'
+Body = Russia's full-scale invasion of Ukraine has taken on a different complexion lately, and it has shone a light on Kyiv's strained relations with the White House.
 End = true
 
 [LIBRARY RNEWS]
-Title = Fatalities as 'serious incident' causes fire at Canadian military base
-Body = People have been killed and injured in a serious incident that resulted in a fire at Canadian Forces Base Wainwright, according to the defence minister.
+Title = Kenyan Ebola cases rise to eight in two weeks [...]
+Body = A person who had contact with Kenya's first Ebola victim in early October becomes the country's eighth case of the deadly virus.
 End = true
 
 [LIBRARY RNEWS]
-Title = Nosferamon/Rampage Bullet Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Nosferamon/Rampage Bullet.
+Title = ProtoGizmon, Gizmon: AT, & Gizmon: XT Previews for Digimon Card Game Booster Set 27
+Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Gekkomon Teased for Digimon Story: Time Stranger DLC Expansion
+Body = The Digimon Game (2) accounts have been doing a series of "who's that Digimon" posts using silhouetted screencap elements from Digimon games (mostly Time Stranger, but not entirely.) The newest one is clearly a silhouette of Gekkomon, who outside of spritework in Digimon Up, is not in any games... which would suggest we'll have him announced tomorrow.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Frontier Fluffy Swaddled Plushies Out in February 2027
-Body = Tapioca has announced (2) new Digimon Frontier plushies. These are a follow-up to the Digimon Adventure, 02, Tamers, & Beatbreak ones they did recently (although not all of those have shipped yet.) The fluffy swaddled plushes have the Frontier kids wrapped up in a fluffy egg shaped...
+Title = Liamon & LoaderLeomon Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Hello everyone. [...]
-Body = My favorite game is Digimon World for the original PlayStation. Lately I have been watching the subbed version of Digimon Adventure for the first time and am almost done.
-End = true
-
-[LIBRARY RNEWS]
-Title = Gekkomon Teased for Digimon Story: Time Stranger DLC Expansion
-Body = The Digimon Game (2) accounts have been doing a series of "who's that Digimon" posts using silhouetted screencap elements from Digimon games (mostly Time Stranger, but not entirely.) The newest one is clearly a silhouette of Gekkomon, who outside of spritework in Digimon Up, is not in any games... which would suggest we'll have him announced tomorrow.
+Title = Nosferamon/Rampage Bullet Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Nosferamon/Rampage Bullet.
 End = true
 
