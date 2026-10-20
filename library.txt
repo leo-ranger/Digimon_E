@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Israel police arrest suspects over settler attacks
+Body = The arrests were made after the United States, France, Belgium and Poland called on Israel to take action after diplomats and a photojournalist were attacked.
+End = true
+
+[LIBRARY RNEWS]
+Title = Woman tells court alleged rape by Russell Brand 'happened so fast'
+Body = Russell Brand, 51, denies the allegations as he is tried for three counts of rape, three of sexual assault and one of indecent assault.
+End = true
+
+[LIBRARY RNEWS]
 Title = Australian activist imprisoned in Vietnam tells family he is 'terrified'
 Body = Australian officials have been able to meet Hiep Tran at a detention centre in Ho Chi Minh City, where he is being held after disappearing in Cambodia last month.
 End = true
 
 [LIBRARY RNEWS]
-Title = Vanuatu expects China police presence to fall after deal with Australia
-Body = Vanuatu has signalled it expects a change in Beijing's police presence after the Pacific nation signed the landmark Nakamal Agreement with Australia.
+Title = UN World Food Programme slashes Gaza assistance amid funding shortfall
+Body = Half a million people will lose access to food assistance in Gaza due to United Nations funding cuts, according to the World Food Programme.
 End = true
 
 [LIBRARY RNEWS]
-Title = As Russia-Ukraine war changes, Zelenskyy could be 'losing a strong partner'
-Body = Russia's full-scale invasion of Ukraine has taken on a different complexion lately, and it has shone a light on Kyiv's strained relations with the White House.
+Title = With the Will Podcast Episode #322- Gekko Incoming (World's Best Picks, Time Stranger, & More!)
+Body = This time we will be talking about Digimon: World's Best Picks, Gekkomon in Time Stranger, card news & Alysion info soon, concert updates, upcoming products, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
-Title = Kenyan Ebola cases rise to eight in two weeks [...]
-Body = A person who had contact with Kenya's first Ebola victim in early October becomes the country's eighth case of the deadly virus.
+Title = The "Lost" Digimon [...]
+Body = So, which Digimon have "gone lost" in time and probably won't ever be seen in another game or anime? Some examples...
+End = true
+
+[LIBRARY RNEWS]
+Title = Tamer Card Kurata Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Kurata.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +49,7 @@ Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Gekkomon Teased for Digimon Story: Time Stranger DLC Expansion
-Body = The Digimon Game (2) accounts have been doing a series of "who's that Digimon" posts using silhouetted screencap elements from Digimon games (mostly Time Stranger, but not entirely.) The newest one is clearly a silhouette of Gekkomon, who outside of spritework in Digimon Up, is not in any games... which would suggest we'll have him announced tomorrow.
-End = true
-
-[LIBRARY RNEWS]
-Title = Frimon & Liollmon Previews for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time...
-End = true
-
-[LIBRARY RNEWS]
-Title = Liamon & LoaderLeomon Previews for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Nosferamon/Rampage Bullet Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Nosferamon/Rampage Bullet.
+Title = Digimon Frontier Fluffy Swaddled Plushies Out in February 2027
+Body = Tapioca has announced (2) new Digimon Frontier plushies. These are a follow-up to the Digimon Adventure, 02, Tamers, & Beatbreak ones they did recently (although not all of those have shipped yet.) The fluffy swaddled plushes have the Frontier kids wrapped up in a fluffy egg shaped...
 End = true
 
