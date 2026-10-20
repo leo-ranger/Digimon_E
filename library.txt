@@ -9,38 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel police arrest suspects over settler attacks
-Body = The arrests were made after the United States, France, Belgium and Poland called on Israel to take action after diplomats and a photojournalist were attacked.
+Title = Ukrainian drone flies wounded soldier from front line
+Body = A Ukrainian army brigade says a wounded soldier has been rescued from the front line using an aerial drone, describing the evacuation as the first of its kind.
 End = true
 
 [LIBRARY RNEWS]
-Title = Woman tells court alleged rape by Russell Brand 'happened so fast'
-Body = Russell Brand, 51, denies the allegations as he is tried for three counts of rape, three of sexual assault and one of indecent assault.
+Title = Kenyan death cult leader found guilty of 191 murder charges
+Body = A Kenyan pastor used religious reachings to enforce a "deadly fasting" on his followers and their children after setting up a community in a forest.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian activist imprisoned in Vietnam tells family he is 'terrified'
-Body = Australian officials have been able to meet Hiep Tran at a detention centre in Ho Chi Minh City, where he is being held after disappearing in Cambodia last month.
+Title = Japan launches first mission to collect samples from Martian moon
+Body = An international space mission aiming to collect sand and rock from one of Mars's moons is expected to land in Australia once the sample is retrieved.
 End = true
 
 [LIBRARY RNEWS]
-Title = UN World Food Programme slashes Gaza assistance amid funding shortfall
-Body = Half a million people will lose access to food assistance in Gaza due to United Nations funding cuts, according to the World Food Programme.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #322- Gekko Incoming (World's Best Picks, Time Stranger, & More!)
-Body = This time we will be talking about Digimon: World's Best Picks, Gekkomon in Time Stranger, card news & Alysion info soon, concert updates, upcoming products, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = The "Lost" Digimon [...]
-Body = So, which Digimon have "gone lost" in time and probably won't ever be seen in another game or anime? Some examples...
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Kurata Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Kurata.
+Title = Former CIA airfield now site of China-Laos facility
+Body = China says a newly built airport in Laos will be used to train pilots for Laos's air force. However, observers have questioned whether it will have a greater strategic purpose.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +34,22 @@ Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Frontier Fluffy Swaddled Plushies Out in February 2027
-Body = Tapioca has announced (2) new Digimon Frontier plushies. These are a follow-up to the Digimon Adventure, 02, Tamers, & Beatbreak ones they did recently (although not all of those have shipped yet.) The fluffy swaddled plushes have the Frontier kids wrapped up in a fluffy egg shaped...
+Title = Veemon Unlock Requirements Confirmed – European D-Power V1
+Body = I managed to unlock Veemon on my European D-Power V1 and discovered an important requirement that doesn't seem to be mentioned in the existing guides. Requirements: 1.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Original New Wave 3 V-Pet Details & Images- Out November in Japan, No Date Yet for US
+Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = US Ichibansho Digimon: Matrix Evolution Figure Pre-Orders Open- Gallantmon: Crimson Mode, Sakuyamon, Terriermon & Lopmon, & Beelzemon: Blast Mode
+Body = Not a big shock that pre-orders for these have arrived. Ichibansho, the outside of Japan standard retail equivalent to the Ichiban Kuji product lottery, has been how the...
+End = true
+
+[LIBRARY RNEWS]
+Title = Sleipmon/Kentaurosmon X/Ultimate Crossbow Einherjar Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Sleipmon/Kentaurosmon X/Ultimate Crossbow Einherjar.
 End = true
 
