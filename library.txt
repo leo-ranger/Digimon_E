@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ukrainian drone flies wounded soldier from front line
-Body = A Ukrainian army brigade says a wounded soldier has been rescued from the front line using an aerial drone, describing the evacuation as the first of its kind.
+Title = Troops deployed and curfews enforced to quell France riots
+Body = A massive security operation will be in place ahead of planned protests this weekend, ministers have said.
 End = true
 
 [LIBRARY RNEWS]
-Title = Kenyan death cult leader found guilty of 191 murder charges
-Body = A Kenyan pastor used religious reachings to enforce a "deadly fasting" on his followers and their children after setting up a community in a forest.
+Title = Zelenskyy meets Trump envoys as US-Ukraine relations sink to new lows
+Body = Marco Rubio denies intelligence-sharing has been limited as US envoys meet the Ukrainian president for talks.
 End = true
 
 [LIBRARY RNEWS]
-Title = Japan launches first mission to collect samples from Martian moon
-Body = An international space mission aiming to collect sand and rock from one of Mars's moons is expected to land in Australia once the sample is retrieved.
+Title = Prince Harry expresses hope of reconciling with family
+Body = In an interview with GQ magazine, the Duke of Sussex said he hopes to bridge the massive rupture within the British royal family.
 End = true
 
 [LIBRARY RNEWS]
-Title = Former CIA airfield now site of China-Laos facility
-Body = China says a newly built airport in Laos will be used to train pilots for Laos's air force. However, observers have questioned whether it will have a greater strategic purpose.
+Title = Australian military opens its ranks to PNG university students
+Body = Young Papua New Guineans will be able to join the Australian Defence Force under a trial designed to boost military recruitment.
 End = true
 
 [LIBRARY RNEWS]
-Title = ProtoGizmon, Gizmon: AT, & Gizmon: XT Previews for Digimon Card Game Booster Set 27
-Body = ... [...] [...]
+Title = Poll Results for Favorite Digimon Story: Time Stranger Boss Battle
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Digimon Story: Time Stranger Boss Battle! Recently the poll closed and we have the results!
 End = true
 
 [LIBRARY RNEWS]
-Title = Veemon Unlock Requirements Confirmed – European D-Power V1
-Body = I managed to unlock Veemon on my European D-Power V1 and discovered an important requirement that doesn't seem to be mentioned in the existing guides. Requirements: 1.
+Title = Digimon in December V-Jump- Psychemon in Time Stranger DLC, Booster Set 27, New Wave 3 V-Pets, & Beatbreak Overview
+Body = It's time for all the new Digimon content from the December 2026 cover dated issue of V-Jump! We start off with a look at/overview of Digimon Story: Time Stranger: A Hero’s Eternal Legacy.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Original New Wave 3 V-Pet Details & Images- Out November in Japan, No Date Yet for US
-Body = ... [...] [...]
+Title = Surtr Brander Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Surtr Brander.
 End = true
 
 [LIBRARY RNEWS]
-Title = US Ichibansho Digimon: Matrix Evolution Figure Pre-Orders Open- Gallantmon: Crimson Mode, Sakuyamon, Terriermon & Lopmon, & Beelzemon: Blast Mode
-Body = Not a big shock that pre-orders for these have arrived. Ichibansho, the outside of Japan standard retail equivalent to the Ichiban Kuji product lottery, has been how the...
+Title = Tamer Card Kurata Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Kurata.
 End = true
 
 [LIBRARY RNEWS]
-Title = Sleipmon/Kentaurosmon X/Ultimate Crossbow Einherjar Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Sleipmon/Kentaurosmon X/Ultimate Crossbow Einherjar.
+Title = Digimon Tamers Products at Cliffe Store- New Art, Available to Pre-Order Until November 20th
+Body = As previously announced Cliffe Store by Sutcliffe has announced new range of Digimon Tamers products on their online store. Products feature new art of the tamers and their Digimon, and will be available to order until November 20th.
 End = true
 
