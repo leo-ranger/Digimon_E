@@ -14,6 +14,11 @@ Body = A massive security operation will be in place ahead of planned protests t
 End = true
 
 [LIBRARY RNEWS]
+Title = Sudanese drone strike on market kills more than 150
+Body = Sudan's civil war has spilled over into disputed territory, causing mass casualties along its border with South Sudan.
+End = true
+
+[LIBRARY RNEWS]
 Title = Zelenskyy meets Trump envoys as US-Ukraine relations sink to new lows
 Body = Marco Rubio denies intelligence-sharing has been limited as US envoys meet the Ukrainian president for talks.
 End = true
@@ -24,13 +29,8 @@ Body = In an interview with GQ magazine, the Duke of Sussex said he hopes to bri
 End = true
 
 [LIBRARY RNEWS]
-Title = Australian military opens its ranks to PNG university students
-Body = Young Papua New Guineans will be able to join the Australian Defence Force under a trial designed to boost military recruitment.
-End = true
-
-[LIBRARY RNEWS]
-Title = Poll Results for Favorite Digimon Story: Time Stranger Boss Battle
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Digimon Story: Time Stranger Boss Battle! Recently the poll closed and we have the results!
+Title = Etemon Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Etemon.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = It's time for all the new Digimon content from the December 2026 cover da
 End = true
 
 [LIBRARY RNEWS]
-Title = Surtr Brander Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Surtr Brander.
+Title = New Digimon Tamers & Terriermon Assistant Products at AniBirth on October 23rd, October 30th Online- 25th Anniversary Themed
+Body = Product news time! (2) New Digimon Tamers (and more) products will show up at all 3 AniBirth stores on October 23rd, in a few days The Digimon section of the Toei Online Shop will have them online a week later, October 30th.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Kurata Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Kurata.
+Title = Poll Results for Favorite Digimon Story: Time Stranger Boss Battle
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Digimon Story: Time Stranger Boss Battle! Recently the poll closed and we have the results!
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Tamers Products at Cliffe Store- New Art, Available to Pre-Order Until November 20th
-Body = As previously announced Cliffe Store by Sutcliffe has announced new range of Digimon Tamers products on their online store. Products feature new art of the tamers and their Digimon, and will be available to order until November 20th.
+Title = Digimon: World’s Best Picks: Episode 4, Digimon Adventure: Episode 20- Perfect Evolution! MetalGreymon
+Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 4, which is Digimon Adventure: Episode 20- Perfect Evolution! MetalGreymon Episode 4 airs Sunday, October 25th, 9am in Japan.
 End = true
 
