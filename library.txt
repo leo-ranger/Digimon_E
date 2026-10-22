@@ -9,33 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russell Brand treated 21yo woman 'like an animal' after rape, court hears
-Body = The jury in Russell Brand's criminal trial has heard from a woman who claims the celebrity raped her at his London home in 2009 and treated her "like an animal".
+Title = US orders diplomats to leave Saudi Arabia amid Houthi strikes
+Body = The United States has ordered non-essential US embassy staff and their families to leave Saudi Arabia, as the kingdom comes under sustained deadly attacks by Yemen's Houthis.
 End = true
 
 [LIBRARY RNEWS]
-Title = Macron calls Trump's comments on French riots 'stupid'
-Body = The French president said foreign leaders trying to win votes at home have exploited France's riots for their own political agenda.
+Title = Meta fined $25b in US for deceiving users about Facebook privacy
+Body = A judge orders Meta to pay New Mexico $US25 billion after a jury found the company liable for deceiving users about privacy on Facebook.
 End = true
 
 [LIBRARY RNEWS]
-Title = Comedian hit with car in Taiwan after criticising Xi, prosecutors say
-Body = Comedian Huang Yi-hao has vowed to return to the stage, inviting police and prosecutors who worked on the case to his upcoming gigs.
+Title = Pope Leo will not need further cancer treatment, doctors say
+Body = Pope Leo will not need further treatment after undergoing surgery for lung cancer last week, his doctors say.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tonga's TikTok Comancheros 'president' handed 12-year jail sentence
-Body = A Tongan man deported from Australia has been sentenced to 12 years' jail over his role in establishing a branch of the Comancheros outlaw motorcycle gang in the Pacific nation.
+Title = Vanuatu minister contradicts own government on Chinese police drawdown
+Body = The Pacific nation's internal affairs minister says it has not yet made any decision to reduce China's police presence.
 End = true
 
 [LIBRARY RNEWS]
-Title = Poll Results for Favorite Digimon Story: Time Stranger Boss Battle
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Digimon Story: Time Stranger Boss Battle! Recently the poll closed and we have the results!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+Title = Artiomon/Doom Buster Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Artiomon/Doom Buster.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +39,17 @@ Body = It's time for all the new Digimon content from the December 2026 cover da
 End = true
 
 [LIBRARY RNEWS]
-Title = ProtoGizmon, Gizmon: AT, & Gizmon: XT Previews for Digimon Card Game Booster Set 27
+Title = Digimon Adventure Pop-Up Shop at Tokyo Character Street on November 6th- New Hotel Bellhop Art & GraffArt
+Body = Digimon Adventure Pop-Up Shop at Tokyo Character Street Pop-Up Shop (2) has been announced! The pop-up shop features new art of the Digimon Adventure characters as hotel bellhops, plus new GraffArt!
+End = true
+
+[LIBRARY RNEWS]
+Title = Pristimon, Wolvermon, and Bearcatmon Previews for Digimon Card Game Booster Set 27
 Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Etemon Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Etemon.
+Title = Poll Results for Favorite Digimon Story: Time Stranger Boss Battle
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Digimon Story: Time Stranger Boss Battle! Recently the poll closed and we have the results!
 End = true
 
