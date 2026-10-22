@@ -9,38 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Troops deployed and curfews enforced to quell France riots
-Body = A massive security operation will be in place ahead of planned protests this weekend, ministers have said.
+Title = Russell Brand treated 21yo woman 'like an animal' after rape, court hears
+Body = The jury in Russell Brand's criminal trial has heard from a woman who claims the celebrity raped her at his London home in 2009 and treated her "like an animal".
 End = true
 
 [LIBRARY RNEWS]
-Title = Sudanese drone strike on market kills more than 150
-Body = Sudan's civil war has spilled over into disputed territory, causing mass casualties along its border with South Sudan.
+Title = Macron calls Trump's comments on French riots 'stupid'
+Body = The French president said foreign leaders trying to win votes at home have exploited France's riots for their own political agenda.
 End = true
 
 [LIBRARY RNEWS]
-Title = Zelenskyy meets Trump envoys as US-Ukraine relations sink to new lows
-Body = Marco Rubio denies intelligence-sharing has been limited as US envoys meet the Ukrainian president for talks.
+Title = Comedian hit with car in Taiwan after criticising Xi, prosecutors say
+Body = Comedian Huang Yi-hao has vowed to return to the stage, inviting police and prosecutors who worked on the case to his upcoming gigs.
 End = true
 
 [LIBRARY RNEWS]
-Title = Prince Harry expresses hope of reconciling with family
-Body = In an interview with GQ magazine, the Duke of Sussex said he hopes to bridge the massive rupture within the British royal family.
-End = true
-
-[LIBRARY RNEWS]
-Title = Etemon Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Etemon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon in December V-Jump- Psychemon in Time Stranger DLC, Booster Set 27, New Wave 3 V-Pets, & Beatbreak Overview
-Body = It's time for all the new Digimon content from the December 2026 cover dated issue of V-Jump! We start off with a look at/overview of Digimon Story: Time Stranger: A Hero’s Eternal Legacy.
-End = true
-
-[LIBRARY RNEWS]
-Title = New Digimon Tamers & Terriermon Assistant Products at AniBirth on October 23rd, October 30th Online- 25th Anniversary Themed
-Body = Product news time! (2) New Digimon Tamers (and more) products will show up at all 3 AniBirth stores on October 23rd, in a few days The Digimon section of the Toei Online Shop will have them online a week later, October 30th.
+Title = Tonga's TikTok Comancheros 'president' handed 12-year jail sentence
+Body = A Tongan man deported from Australia has been sentenced to 12 years' jail over his role in establishing a branch of the Comancheros outlaw motorcycle gang in the Pacific nation.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +34,22 @@ Body = A bit ago, the official Digimon site put up a poll for your Favorite Digi
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon: World’s Best Picks: Episode 4, Digimon Adventure: Episode 20- Perfect Evolution! MetalGreymon
-Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 4, which is Digimon Adventure: Episode 20- Perfect Evolution! MetalGreymon Episode 4 airs Sunday, October 25th, 9am in Japan.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon in December V-Jump- Psychemon in Time Stranger DLC, Booster Set 27, New Wave 3 V-Pets, & Beatbreak Overview
+Body = It's time for all the new Digimon content from the December 2026 cover dated issue of V-Jump! We start off with a look at/overview of Digimon Story: Time Stranger: A Hero’s Eternal Legacy.
+End = true
+
+[LIBRARY RNEWS]
+Title = ProtoGizmon, Gizmon: AT, & Gizmon: XT Previews for Digimon Card Game Booster Set 27
+Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Etemon Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Etemon.
 End = true
 
