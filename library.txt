@@ -9,27 +9,27 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US orders diplomats to leave Saudi Arabia amid Houthi strikes
-Body = The United States has ordered non-essential US embassy staff and their families to leave Saudi Arabia, as the kingdom comes under sustained deadly attacks by Yemen's Houthis.
+Title = North and South Korea tensions rise as Pyongyang fortifies border
+Body = North Korea has been adding mines, barbed wire fences, anti-tank barriers and other fortifications along its heavily militarised border with the south.
 End = true
 
 [LIBRARY RNEWS]
-Title = Meta fined $25b in US for deceiving users about Facebook privacy
-Body = A judge orders Meta to pay New Mexico $US25 billion after a jury found the company liable for deceiving users about privacy on Facebook.
+Title = Trump ordered to sit for deposition in his $14b BBC lawsuit
+Body = The US president is suing the British broadcaster, alleging it defamed him by splicing together two pieces of his speech made to supporters before they stormed the US Capitol on January 6, 2021.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pope Leo will not need further cancer treatment, doctors say
-Body = Pope Leo will not need further treatment after undergoing surgery for lung cancer last week, his doctors say.
+Title = Influencer 'Clavicular' pleads not guilty to rape allegation
+Body = The "looksmaxxing" live-streamer is accused of giving a 17-year-old girl alcohol until she was drunk and then sexually assaulting her.
 End = true
 
 [LIBRARY RNEWS]
-Title = Vanuatu minister contradicts own government on Chinese police drawdown
-Body = The Pacific nation's internal affairs minister says it has not yet made any decision to reduce China's police presence.
+Title = Tonga's TikTok Comancheros 'president' handed 12-year jail sentence
+Body = A Tongan man deported from Australia has been sentenced to 12 years' jail over his role in establishing a branch of the Comancheros outlaw motorcycle gang in the Pacific nation.
 End = true
 
 [LIBRARY RNEWS]
-Title = Artiomon/Doom Buster Preview for Digimon Card Game Booster Set 27
+Title = Artiomon/Doom Buster Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Artiomon/Doom Buster.
 End = true
 
@@ -39,8 +39,8 @@ Body = It's time for all the new Digimon content from the December 2026 cover da
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Adventure Pop-Up Shop at Tokyo Character Street on November 6th- New Hotel Bellhop Art & GraffArt
-Body = Digimon Adventure Pop-Up Shop at Tokyo Character Street Pop-Up Shop (2) has been announced! The pop-up shop features new art of the Digimon Adventure characters as hotel bellhops, plus new GraffArt!
+Title = ProtoGizmon, Gizmon: AT, & Gizmon: XT Previews for Digimon Card Game Booster Set 27
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +49,7 @@ Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Poll Results for Favorite Digimon Story: Time Stranger Boss Battle
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Digimon Story: Time Stranger Boss Battle! Recently the poll closed and we have the results!
+Title = Artiomon/Doom Buster Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Artiomon/Doom Buster.
 End = true
 
