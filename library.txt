@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Bayern Munich manager Vincent Kompany hospitalised after training collapse
+Body = The manager of German football giant Bayern Munich, Vincent Kompany, is taken to hospital after collapsing while watching a training session.
+End = true
+
+[LIBRARY RNEWS]
 Title = Frustrated Kiwi voters head to polls as others leave NZ in droves
 Body = Families living in campervans, workers losing their house deposits and communities watching loved ones leave in the thousands for Australia. These are the everyday stakes of New Zealand’s election.
 End = true
 
 [LIBRARY RNEWS]
-Title = North and South Korea tensions rise as Pyongyang fortifies border
-Body = North Korea has been adding mines, barbed wire fences, anti-tank barriers and other fortifications along its heavily militarised border with the south.
+Title = Israelis are heading to the polls in their most seismic election in decades
+Body = Here's a breakdown of Israel's upcoming general election and its complicated coalition structures.
 End = true
 
 [LIBRARY RNEWS]
-Title = Magnitude-7 earthquake hits China's Tibet region, killing 16 people
-Body = A magnitude-7 earthquake has struck China's south-western region of Tibet, killing 16 people and injuring at least 50 others, state news agency Xinhua has reported.
+Title = Escaped Ukrainian teen tells of abuses growing up under Russian occupation
+Body = When Russia's forces captured their city in 2022, these Ukrainians were trapped. While they managed to escape, they fear for those who remain under Moscow's rule.
 End = true
 
 [LIBRARY RNEWS]
-Title = Two Israeli soldiers killed in attack on West Bank military checkpoint
-Body = Israel has ordered its soldiers to prepare for a full closure of the West Bank following a shooting that left two Israeli soldiers, as well as the shooters dead.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon in December V-Jump- Psychemon in Time Stranger DLC, Booster Set 27, New Wave 3 V-Pets, & Beatbreak Overview
-Body = It's time for all the new Digimon content from the December 2026 cover dated issue of V-Jump! We start off with a look at/overview of Digimon Story: Time Stranger: A Hero’s Eternal Legacy.
-End = true
-
-[LIBRARY RNEWS]
-Title = ProtoGizmon, Gizmon: AT, & Gizmon: XT Previews for Digimon Card Game Booster Set 27
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Ryudamon, Ginryumon, & Hisyaryumon Previews for Digimon Card Game Booster Set 27
-Body = ... [...] [...]
+Title = Ouryumon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Ouryumon.
 End = true
 
 [LIBRARY RNEWS]
 Title = Artiomon/Doom Buster Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Artiomon/Doom Buster.
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Live- Monday, October 26th [...]
+Body = Monday (October 26th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon: World's Best Picks, new Beatbreak dub episodes, Time Stranger updates, cards, new pop-up shops, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak English Dub Episodes 41-45 Available on Crunchyroll Tomorrow
+Body = The next batch of English dub episodes of Digimon Beatbreak will be up on Crunchyroll tomorrow. The newest batch includes episodes 41 through 45.
+End = true
+
+[LIBRARY RNEWS]
+Title = Ouryumon Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Ouryumon.
 End = true
 
