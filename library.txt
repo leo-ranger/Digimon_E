@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bayern Munich manager Vincent Kompany hospitalised after training collapse
-Body = The manager of German football giant Bayern Munich, Vincent Kompany, is taken to hospital after collapsing while watching a training session.
+Title = Melania Trump says she brokered ceasefire in Russian-occupied Oleshky
+Body = The White House announces the US first lady helped broker a local ceasefire on humanitarian grounds in the Ukrainian town as Washington sends mixed messages on Starshield.
 End = true
 
 [LIBRARY RNEWS]
-Title = Frustrated Kiwi voters head to polls as others leave NZ in droves
-Body = Families living in campervans, workers losing their house deposits and communities watching loved ones leave in the thousands for Australia. These are the everyday stakes of New Zealand’s election.
+Title = Meghan Markle says she was told of 'disturbing' allegations about father in 2018
+Body = Meghan the Duchess of Sussex has revealed she was informed of "disturbing allegations" involving her estranged father in 2018.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israelis are heading to the polls in their most seismic election in decades
-Body = Here's a breakdown of Israel's upcoming general election and its complicated coalition structures.
+Title = Gunmen open fire at church in Jordan, killing at least seven
+Body = Gunmen have opened fire inside a church in Jordan with at least seven people killed and dozens injured.
 End = true
 
 [LIBRARY RNEWS]
-Title = Escaped Ukrainian teen tells of abuses growing up under Russian occupation
-Body = When Russia's forces captured their city in 2022, these Ukrainians were trapped. While they managed to escape, they fear for those who remain under Moscow's rule.
+Title = One dead, five injured in Paris after 'terrorist and racist attack'
+Body = One person has been killed and five others injured in a Paris shooting being investigated for possible terror links.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak- English Dub Discussion (Update- Episodes 41-45 Available)
+Body = Digimon Beatbreak has an English dub! The first five episodes are premiering today (December 27th) on Crunchyroll.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Beatbreak English Dub Episodes 41-45 Available on Crunchyroll
+Body = As announced earlier, the next batch of English dub episodes of Digimon Beatbreak is up on Crunchyroll. The newest batch includes episodes 41 through 45.
+End = true
+
+[LIBRARY RNEWS]
+Title = Tamer Card Yuuji/Yuji Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Yuuji/Yuji.
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Artiomon/Doom Buster Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Artiomon/Doom Buster.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, October 26th [...]
-Body = Monday (October 26th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon: World's Best Picks, new Beatbreak dub episodes, Time Stranger updates, cards, new pop-up shops, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Beatbreak English Dub Episodes 41-45 Available on Crunchyroll Tomorrow
-Body = The next batch of English dub episodes of Digimon Beatbreak will be up on Crunchyroll tomorrow. The newest batch includes episodes 41 through 45.
-End = true
-
-[LIBRARY RNEWS]
-Title = Ouryumon Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Ouryumon.
 End = true
 
