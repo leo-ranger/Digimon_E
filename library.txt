@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Melania Trump says she brokered ceasefire in Russian-occupied Oleshky
-Body = The White House announces the US first lady helped broker a local ceasefire on humanitarian grounds in the Ukrainian town as Washington sends mixed messages on Starshield.
+Title = Kim Jong Un crosses new bridge into China as trade ties warm
+Body = The North Korean leader visits the border city of Dandong, crossing a newly opened bridge in a symbolic move seen as highlighting Beijing and Pyongyang's push to expand trade ties.
 End = true
 
 [LIBRARY RNEWS]
-Title = Meghan Markle says she was told of 'disturbing' allegations about father in 2018
-Body = Meghan the Duchess of Sussex has revealed she was informed of "disturbing allegations" involving her estranged father in 2018.
+Title = Two large earthquakes off coast of Vanuatu prompt tsunami warning
+Body = A tsunami warning has been issued after two large earthquakes struck off the coast of Vanuatu.
 End = true
 
 [LIBRARY RNEWS]
-Title = Gunmen open fire at church in Jordan, killing at least seven
-Body = Gunmen have opened fire inside a church in Jordan with at least seven people killed and dozens injured.
+Title = Fire breaks out at Hitler's mountain retreat, suspect arrested
+Body = Around 200 firefighters were deployed to tackle the blaze at the Eagle's Nest, in Bavaria, which Nazi dictator Adolf Hitler used as a retreat to host foreign dignitaries in its mountaintop teahouse.
 End = true
 
 [LIBRARY RNEWS]
-Title = One dead, five injured in Paris after 'terrorist and racist attack'
-Body = One person has been killed and five others injured in a Paris shooting being investigated for possible terror links.
+Title = Netanyahu orders major West Bank offensive after Hebron attack
+Body = Israeli Prime Minister Benjamin Netanyahu has seized on an attack by two Palestinian gunmen in the southern city of Hebron to mount the offensive.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak- English Dub Discussion (Update- Episodes 41-45 Available)
-Body = Digimon Beatbreak has an English dub! The first five episodes are premiering today (December 27th) on Crunchyroll.
+Title = Weekend Batch- Digimon Paradox Art, Digimon Caravan & Product Photos, PHP Our War Game Connection, Catch-Up for the Week, & More!
+Body = Weekend batch time! Ayumu Minato posted a well known image from Digimon Paradox, in both finished and line art versions, mentioning he was drawing it two years ago.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak English Dub Episodes 41-45 Available on Crunchyroll
-Body = As announced earlier, the next batch of English dub episodes of Digimon Beatbreak is up on Crunchyroll. The newest batch includes episodes 41 through 45.
+Title = Digimon Rumble Arena fangame *read the first post before posting*
+Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Yuuji/Yuji Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Yuuji/Yuji.
+Title = Falcomon, Peckmon, & Yatagaramon/Crowmon Previews for Digimon Card Game Booster Set 27
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Ouryumon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Ouryumon.
+Title = Digimon in December V-Jump- Psychemon in Time Stranger DLC, Booster Set 27, New Wave 3 V-Pets, & Beatbreak Overview
+Body = It's time for all the new Digimon content from the December 2026 cover dated issue of V-Jump! We start off with a look at/overview of Digimon Story: Time Stranger: A Hero’s Eternal Legacy.
 End = true
 
 [LIBRARY RNEWS]
-Title = Artiomon/Doom Buster Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Artiomon/Doom Buster.
+Title = Tamer Card Ikuto/Keenan and Silver-Winged Yaksha Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's...
 End = true
 
