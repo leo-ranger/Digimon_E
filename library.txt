@@ -9,23 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Houthis claim 'phases' of attacks on Saudi airports, oil pipelines
+Body = Yemen's Iran-allied Houthis say they have launched attacks at airports and oil facilities, as clashes between Saudi Arabia and the militant group intensify.
+End = true
+
+[LIBRARY RNEWS]
+Title = Kiwi expats could prove crucial in New Zealand's 'knife edge' election
+Body = Kiwis around the world will head to the polls on November 7, including New Zealanders who live in Australia and have an eye on the future of the country.
+End = true
+
+[LIBRARY RNEWS]
+Title = Met Police received letter about Meghan Markle's father in 2019
+Body = It comes after Meghan, Duchess of Sussex revealed on Friday she was informed in 2018 about "disturbing allegations" against her father, Thomas Markle, which prompted her to keep her children away from him.
+End = true
+
+[LIBRARY RNEWS]
 Title = Kim Jong Un crosses new bridge into China as trade ties warm
 Body = The North Korean leader visits the border city of Dandong, crossing a newly opened bridge in a symbolic move seen as highlighting Beijing and Pyongyang's push to expand trade ties.
 End = true
 
 [LIBRARY RNEWS]
-Title = Two large earthquakes off coast of Vanuatu prompt tsunami warning
-Body = A tsunami warning has been issued after two large earthquakes struck off the coast of Vanuatu.
+Title = Digimon Story: Time Stranger Discussion Thread [...]
+Body = Digimon Story: Time Stranger isn't out until early October, but half a day from the time of this post, a demo will go up that contains the first portion of the game, with save data being useable in the full game once it's out, so anyone who wants to will be able to get started immediately. Realistically if you are jumping into a full discussion thread for the game at this point, spoiler tags aren't needed, as it'll be...
 End = true
 
 [LIBRARY RNEWS]
-Title = Fire breaks out at Hitler's mountain retreat, suspect arrested
-Body = Around 200 firefighters were deployed to tackle the blaze at the Eagle's Nest, in Bavaria, which Nazi dictator Adolf Hitler used as a retreat to host foreign dignitaries in its mountaintop teahouse.
-End = true
-
-[LIBRARY RNEWS]
-Title = Netanyahu orders major West Bank offensive after Hebron attack
-Body = Israeli Prime Minister Benjamin Netanyahu has seized on an attack by two Palestinian gunmen in the southern city of Hebron to mount the offensive.
+Title = Ravmon/Ravemon/Ame-no-Ohabari Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Ravmon/Ravemon/Ame-no-Ohabari.
 End = true
 
 [LIBRARY RNEWS]
@@ -41,15 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Falcomon, Peckmon, & Yatagaramon/Crowmon Previews for Digimon Card Game Booster Set 27
 Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon in December V-Jump- Psychemon in Time Stranger DLC, Booster Set 27, New Wave 3 V-Pets, & Beatbreak Overview
-Body = It's time for all the new Digimon content from the December 2026 cover dated issue of V-Jump! We start off with a look at/overview of Digimon Story: Time Stranger: A Hero’s Eternal Legacy.
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Ikuto/Keenan and Silver-Winged Yaksha Previews for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's...
 End = true
 
