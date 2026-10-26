@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Houthis claim 'phases' of attacks on Saudi airports, oil pipelines
-Body = Yemen's Iran-allied Houthis say they have launched attacks at airports and oil facilities, as clashes between Saudi Arabia and the militant group intensify.
+Title = Serbian president concedes defeat to student-led movement in election
+Body = Serbia's elections came after almost two years of student-led demonstrations against perceived corruption and creeping authoritarianism.
 End = true
 
 [LIBRARY RNEWS]
-Title = Kiwi expats could prove crucial in New Zealand's 'knife edge' election
-Body = Kiwis around the world will head to the polls on November 7, including New Zealanders who live in Australia and have an eye on the future of the country.
+Title = Opposition leader Maria Corina Machado returns to Venezuela
+Body = The Nobel Peace Prize recipient's decision comes after US forces captured long-time president Nicolás Maduro in January this year, with the Trump administration leading efforts to open up the country's oil reserves.
 End = true
 
 [LIBRARY RNEWS]
-Title = Met Police received letter about Meghan Markle's father in 2019
-Body = It comes after Meghan, Duchess of Sussex revealed on Friday she was informed in 2018 about "disturbing allegations" against her father, Thomas Markle, which prompted her to keep her children away from him.
+Title = Iran says resumption of war with US would not change its mind
+Body = Iran's Foreign Minister Abbas Araghchi says "whether there is war or not, our policies remain the same", amid renewed threats from US President Donald Trump to begin bombing again.
 End = true
 
 [LIBRARY RNEWS]
-Title = Kim Jong Un crosses new bridge into China as trade ties warm
-Body = The North Korean leader visits the border city of Dandong, crossing a newly opened bridge in a symbolic move seen as highlighting Beijing and Pyongyang's push to expand trade ties.
+Title = Donald Trump labels Obama 'incompetent' in post-rally retaliation
+Body = US President Donald Trump has retaliated after Barack Obama delivered scathing criticisms of the incumbent during Democrat Party rallies.
+End = true
+
+[LIBRARY RNEWS]
+Title = Ravmon/Ravemon: Burst Mode/Mourning Dance Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Ravmon/Ravemon: Burst Mode/Mourning Dance.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = Digimon Story: Time Stranger isn't out until early October, but half a da
 End = true
 
 [LIBRARY RNEWS]
-Title = Ravmon/Ravemon/Ame-no-Ohabari Previews for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Ravmon/Ravemon/Ame-no-Ohabari.
+Title = Tamer Card Yuuji/Yuji Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Yuuji/Yuji.
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Paradox Art, Digimon Caravan & Product Photos, PHP Our War Game Connection, Catch-Up for the Week, & More!
-Body = Weekend batch time! Ayumu Minato posted a well known image from Digimon Paradox, in both finished and line art versions, mentioning he was drawing it two years ago.
+Title = Digimon in December V-Jump- Psychemon in Time Stranger DLC, Booster Set 27, New Wave 3 V-Pets, & Beatbreak Overview
+Body = It's time for all the new Digimon content from the December 2026 cover dated issue of V-Jump! We start off with a look at/overview of Digimon Story: Time Stranger: A Hero’s Eternal Legacy.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Rumble Arena fangame *read the first post before posting*
-Body = BEFORE POSTING, GO READ AND FOLLOW THE FORUM RULES ~ WtW Mod Team (no more warnings will be given in this thread, you will simply be banned if you do not follow the rules) - We at WtW are not affiliated with this thread and cannot help with any faults. We do not own this game etc.
-End = true
-
-[LIBRARY RNEWS]
-Title = Falcomon, Peckmon, & Yatagaramon/Crowmon Previews for Digimon Card Game Booster Set 27
-Body = ... [...] [...]
+Title = US Ichibansho Digimon: Matrix Evolution Figure Pre-Orders Open- Gallantmon: Crimson Mode, Sakuyamon, Terriermon & Lopmon, & Beelzemon: Blast Mode
+Body = Not a big shock that pre-orders for these have arrived. Ichibansho, the outside of Japan standard retail equivalent to the Ichiban Kuji product lottery, has been how the...
 End = true
 
