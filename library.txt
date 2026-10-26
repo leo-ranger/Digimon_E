@@ -9,38 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Chris Brown avoids jail time over London nightclub brawl
+Body = The Grammy-winning singer pleaded guilty to a count of affray after striking a former friend with a tequila bottle, and faced up to three yeas behind bars.
+End = true
+
+[LIBRARY RNEWS]
+Title = Tens of thousands of Israeli expats fly home to vote in seismic election
+Body = Tens of thousands of Israeli citizens abroad, including hundreds from Australia, are travelling to Israel to vote in the country's most consequential election in decades.
+End = true
+
+[LIBRARY RNEWS]
+Title = Educators weighing pluses and minuses of a 'digital detox' in school
+Body = A swing from digital to analogue learning is happening overseas, but student performance is yet to improve on at least one international measure.
+End = true
+
+[LIBRARY RNEWS]
 Title = Serbian president concedes defeat to student-led movement in election
 Body = Serbia's elections came after almost two years of student-led demonstrations against perceived corruption and creeping authoritarianism.
 End = true
 
 [LIBRARY RNEWS]
-Title = Opposition leader Maria Corina Machado returns to Venezuela
-Body = The Nobel Peace Prize recipient's decision comes after US forces captured long-time president Nicolás Maduro in January this year, with the Trump administration leading efforts to open up the country's oil reserves.
+Title = It's the 3rd Anniversary of Digimon Adventure 02: The Beginning
+Body = It's October 27th in Japan, so it's the third anniversary of the release of Digimon Adventure 02: The Beginning. The Beginning came out as no specific anniversary type project, rather it was just a follow-up to Kizuna featuring the 02 kids a bit after Kizuna ended.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran says resumption of war with US would not change its mind
-Body = Iran's Foreign Minister Abbas Araghchi says "whether there is war or not, our policies remain the same", amid renewed threats from US President Donald Trump to begin bombing again.
+Title = PawnChessmon (White), KnightChessmon (White), & BishopChessmon (White) Previews for Digimon Card Game Booster Set 27
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Donald Trump labels Obama 'incompetent' in post-rally retaliation
-Body = US President Donald Trump has retaliated after Barack Obama delivered scathing criticisms of the incumbent during Democrat Party rallies.
-End = true
-
-[LIBRARY RNEWS]
-Title = Ravmon/Ravemon: Burst Mode/Mourning Dance Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Ravmon/Ravemon: Burst Mode/Mourning Dance.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger Discussion Thread [...]
-Body = Digimon Story: Time Stranger isn't out until early October, but half a day from the time of this post, a demo will go up that contains the first portion of the game, with save data being useable in the full game once it's out, so anyone who wants to will be able to get started immediately. Realistically if you are jumping into a full discussion thread for the game at this point, spoiler tags aren't needed, as it'll be...
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Yuuji/Yuji Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Yuuji/Yuji.
+Title = Digimon D-Grapher Version Digivice & Version Digimon 30th Out in June 2027 for 30th Anniversary- Solicitation Info
+Body = A number of product wholesalers that sell to stores are currently listing the 'Digimon D-Grapher', a new product coming out in June for 6300 yen, with orders being closed for dealers today in Japan. At a glance, this appears to be the 30th anniversary LCD toy previously teased.
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +49,7 @@ Body = It's time for all the new Digimon content from the December 2026 cover da
 End = true
 
 [LIBRARY RNEWS]
-Title = US Ichibansho Digimon: Matrix Evolution Figure Pre-Orders Open- Gallantmon: Crimson Mode, Sakuyamon, Terriermon & Lopmon, & Beelzemon: Blast Mode
-Body = Not a big shock that pre-orders for these have arrived. Ichibansho, the outside of Japan standard retail equivalent to the Ichiban Kuji product lottery, has been how the...
+Title = Caprimon/Kapurimon Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Caprimon/Kapurimon.
 End = true
 
