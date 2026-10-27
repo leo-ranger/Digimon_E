@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Chris Brown avoids jail time over London nightclub brawl
-Body = The Grammy-winning singer pleaded guilty to a count of affray after striking a former friend with a tequila bottle, and faced up to three yeas behind bars.
+Title = Anthropic files to list on stock market in potential $US1.5tn float
+Body = The company behind Claude could be floated on the Nasdaq as soon as next month, despite making a $114 billion loss in the first half of 2026.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tens of thousands of Israeli expats fly home to vote in seismic election
-Body = Tens of thousands of Israeli citizens abroad, including hundreds from Australia, are travelling to Israel to vote in the country's most consequential election in decades.
+Title = Here's a simple guide to how midterm elections work in the US
+Body = Americans are about to head to the polls. Here's a quick guide on what this election is for.
 End = true
 
 [LIBRARY RNEWS]
-Title = Educators weighing pluses and minuses of a 'digital detox' in school
-Body = A swing from digital to analogue learning is happening overseas, but student performance is yet to improve on at least one international measure.
+Title = Lula celebrates unlikely victory in Brazil as Bolsonaro rejects results
+Body = Two days before his 81st birthday, Brazil's president clinches a historic fourth term. But his opponent is refusing to accept defeat.
 End = true
 
 [LIBRARY RNEWS]
-Title = Serbian president concedes defeat to student-led movement in election
-Body = Serbia's elections came after almost two years of student-led demonstrations against perceived corruption and creeping authoritarianism.
+Title = US marine charged over Japanese woman's murder [...]
+Body = The case has prompted widespread public outrage on the southern island where the heavy American troop presence has remained a sensitive issue.
+End = true
+
+[LIBRARY RNEWS]
+Title = With the Will Podcast Episode #323- Grapher To Come (World's Best Picks, Time Stranger, & More!)
+Body = This time we will be talking about Digimon: World's Best Picks, new Beatbreak dub episodes, Time Stranger updates, 30th anniversary Digivice/V-Pet, cards, new pop-up shops, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = It's October 27th in Japan, so it's the third anniversary of the release 
 End = true
 
 [LIBRARY RNEWS]
-Title = PawnChessmon (White), KnightChessmon (White), & BishopChessmon (White) Previews for Digimon Card Game Booster Set 27
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
 Title = Digimon D-Grapher Version Digivice & Version Digimon 30th Out in June 2027 for 30th Anniversary- Solicitation Info
 Body = A number of product wholesalers that sell to stores are currently listing the 'Digimon D-Grapher', a new product coming out in June for 6300 yen, with orders being closed for dealers today in Japan. At a glance, this appears to be the 30th anniversary LCD toy previously teased.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon in December V-Jump- Psychemon in Time Stranger DLC, Booster Set 27, New Wave 3 V-Pets, & Beatbreak Overview
-Body = It's time for all the new Digimon content from the December 2026 cover dated issue of V-Jump! We start off with a look at/overview of Digimon Story: Time Stranger: A Hero’s Eternal Legacy.
+Title = Tamer Card Tomoro Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Tomoro.
 End = true
 
 [LIBRARY RNEWS]
-Title = Caprimon/Kapurimon Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Caprimon/Kapurimon.
+Title = Digimon Story: Time Stranger Discussion Thread [...]
+Body = Digimon Story: Time Stranger isn't out until early October, but half a day from the time of this post, a demo will go up that contains the first portion of the game, with save data being useable in the full game once it's out, so anyone who wants to will be able to get started immediately. Realistically if you are jumping into a full discussion thread for the game at this point, spoiler tags aren't needed, as it'll be...
 End = true
 
