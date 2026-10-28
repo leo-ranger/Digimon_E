@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israeli military breaks silence on purported feud with Netanyahu
-Body = The Israeli military has broken its silence on a widely reported feud with the government of Prime Minister Benjamin Netanyahu, insisting it will only make decisions about attacks against Iran based on national security considerations.
+Title = Netanyahu and opposition on equal footing in Israeli election with no clear winner
+Body = Early exit polling and results show incumbent Prime Minister Benjamin Netanyahu's bloc in a near neck-and-neck race with the opposition, with neither group securing enough seats to form government.
 End = true
 
 [LIBRARY RNEWS]
-Title = How WhatsApp 'army' flipped Brazil election and halted Trumpian trend
-Body = Twenty-one days and an "army" of voters is all it took for a social media movement to grow so vocal it delivered Luiz Inácio Lula da Silva an historic fourth presidential term.
+Title = China tipped to 'step forward' as Woodside exits Timor-Leste gas project
+Body = An analyst predicts China will swoop in to help Timor-Leste develop its long-planned Greater Sunrise oil and gas project after Woodside sells its stake.
 End = true
 
 [LIBRARY RNEWS]
-Title = Twelve die as armed bandits roll getaway car then open fire on PNG police
-Body = The deadly shootout with police follows days of gun violence in Kimbe, the capital of West New Britain province.
+Title = Chinese sponsors cut ties with Kylian Mbappé after Mao meme backlash
+Body = Chinese sponsors drop French soccer star Kylian Mbappé after a video surfaced appearing to show him commenting about a meme depicting him as Mao Zedong.
 End = true
 
 [LIBRARY RNEWS]
-Title = Anthropic files to list on stock market in potential $US1.5tn float
-Body = The company behind Claude could be floated on the Nasdaq as soon as next month, despite making a $114 billion loss in the first half of 2026.
+Title = Two charged with helping Iran over RAF Fairford incident
+Body = Two men have been charged with national security offences over last month's incident at RAF Fairford, a US-run military base in England.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Alysion Pre-Registration Open, New Trailer, 1st In-Game Booster Pack
+Body = https://twitter.com/x/status/2115293653161918532 Pre-registration for Digimon Alysion is finally open at the Apple App Store and Google Play Store. There is a standby date of December 23rd, which equates to 'around' when various app stores sometimes close yearly submissions for end of year vacations.
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = It's been a short wait since it was announced a few months ago at Otakon,
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Season 4 Blu-ray Discussion [...]
-Body = With the set out, seemed like a good time for a discussion thread! After being out of print on DVD for awhile, Digimon Season 4 is out on Blu-ray from Discotek!
-End = true
-
-[LIBRARY RNEWS]
-Title = Atratusmon Preview for Digimon Card Game Booster Set 27
+Title = Atratusmon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Atratusmon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon games on DS!? [...]
-Body = 4679! Hi all! [...]
+Title = Digimon Card Game Beginner Support Project Video Series Adds English Subtitles
+Body = An interesting mid-week surprise. The Digimon Card Game Beginner Support Project Video series had Sayaka from Digimon Card Battle teach idol Akari Kaguya the Digimon Card Game.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon D-Grapher Version Digivice & Version Digimon 30th Out in June 2027 for 30th Anniversary- Solicitation Info
-Body = A number of product wholesalers that sell to stores are currently listing the 'Digimon D-Grapher', a new product coming out in June for 6300 yen, with orders being closed for dealers today in Japan. At a glance, this appears to be the 30th anniversary LCD toy previously teased.
+Title = It's the 3rd Anniversary of Digimon Adventure 02: The Beginning
+Body = It's October 27th in Japan, so it's the third anniversary of the release of Digimon Adventure 02: The Beginning. The Beginning came out as no specific anniversary type project, rather it was just a follow-up to Kizuna featuring the 02 kids a bit after Kizuna ended.
 End = true
 
