@@ -9,23 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Netanyahu and opposition on equal footing in Israeli election with no clear winner
-Body = Early exit polling and results show incumbent Prime Minister Benjamin Netanyahu's bloc in a near neck-and-neck race with the opposition, with neither group securing enough seats to form government.
+Title = At least three killed as powerful Cyclone Arnab hits India's east coast
+Body = Cyclone Arnab made landfall in Andhra Pradesh state early on Wednesday, damaging dozens of homes, destroying crops, and disrupting power supply in several areas.
 End = true
 
 [LIBRARY RNEWS]
-Title = China tipped to 'step forward' as Woodside exits Timor-Leste gas project
-Body = An analyst predicts China will swoop in to help Timor-Leste develop its long-planned Greater Sunrise oil and gas project after Woodside sells its stake.
+Title = Trump embarks on Texas campaign swing to shore up votes for lagging ally
+Body = Donald Trump is mounting a rally blitz in Texas to support his party's candidate for the US Senate. Meanwhile, Democrats have worries of their own.
 End = true
 
 [LIBRARY RNEWS]
-Title = Chinese sponsors cut ties with Kylian Mbappé after Mao meme backlash
-Body = Chinese sponsors drop French soccer star Kylian Mbappé after a video surfaced appearing to show him commenting about a meme depicting him as Mao Zedong.
+Title = The 'inexplicable' order that put two trains on a collision course in Spain
+Body = At least 68 people are dead after one high-speed train was ordered to proceed past a red signal at full speed, putting it on a collision course with another stopped train.
 End = true
 
 [LIBRARY RNEWS]
-Title = Two charged with helping Iran over RAF Fairford incident
-Body = Two men have been charged with national security offences over last month's incident at RAF Fairford, a US-run military base in England.
+Title = How the Mongrel Mob became an issue in the NZ election
+Body = A tit-for-tat scandal has forced parties on both the left and right to address photos of MPs alongside confirmed and alleged gang members.
+End = true
+
+[LIBRARY RNEWS]
+Title = KausGammamon & WezenGammamon Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from... [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +39,17 @@ Body = https://twitter.com/x/status/2115293653161918532 Pre-registration for Dig
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Season 4 Blu-ray is Out!- Preview & Breakdown
-Body = It's been a short wait since it was announced a few months ago at Otakon, and Season 4 of Digimon is available on Blu-ray! Unlike most of our BD articles, this isn't a review, more of a preview and/or tour.
-End = true
-
-[LIBRARY RNEWS]
 Title = Atratusmon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Atratusmon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Game Beginner Support Project Video Series Adds English Subtitles
-Body = An interesting mid-week surprise. The Digimon Card Game Beginner Support Project Video series had Sayaka from Digimon Card Battle teach idol Akari Kaguya the Digimon Card Game.
+Title = Returning to the Digital World [...]
+Body = Hi there! You can call me Ezri, I was a huge Digimon kid until the show stopped airing in my region (After Tamers/03) and then 2025 I rediscovered my love for Digimon whilst playing Cyber Sleuth.
 End = true
 
 [LIBRARY RNEWS]
-Title = It's the 3rd Anniversary of Digimon Adventure 02: The Beginning
-Body = It's October 27th in Japan, so it's the third anniversary of the release of Digimon Adventure 02: The Beginning. The Beginning came out as no specific anniversary type project, rather it was just a follow-up to Kizuna featuring the 02 kids a bit after Kizuna ended.
+Title = Tamer Cards Reina & Makoto Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's...
 End = true
 
