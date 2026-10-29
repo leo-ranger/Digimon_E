@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Spanish high-speed trains crash, killing at least 68
-Body = At least 68 people are dead and dozens more are injured after a crash involving two high-speed trains in central Spain.
-End = true
-
-[LIBRARY RNEWS]
 Title = The 'inexplicable' order that put two trains on a collision course in Spain
 Body = At least 68 people are dead after one high-speed train was ordered to proceed past a red signal at full speed, putting it on a collision course with another stopped train.
 End = true
 
 [LIBRARY RNEWS]
-Title = Mass deportation plan helped Trump win, but now threatens to backfire
-Body = The Trump administration's immigration crackdown was a vote winner in the 2024 presidential election, but is proving more divisive ahead of the midterms.
+Title = Where to next after Netanyahu neither won nor lost the Israeli election
+Body = The inconclusive result of the Israeli election, with neither Netanyahu nor the opposition gaining majority, means weeks of messy and complicated negotiations.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russell Brand tells jury friends won't defend him over sex crime allegations
-Body = Russell Brand told the court he did not commit the crimes and believed sexual consent was "fundamental, essential, necessary" and "more important than sex itself".
+Title = Survivors recount chaotic scenes in Europe's worst train disaster since 2013
+Body = Residents of a rural village in central Spain race to provide help after the deadliest rail disaster in Europe in more than a decade.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon: World’s Best Picks: Episode 5, Digimon Adventure: Episode 21- Koromon and the Great Clash in Tokyo!
-Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 5, which is Digimon Adventure: Episode 21- Koromon and the Great Clash in Tokyo! Episode 5 airs Sunday, November 1st, 9am in Japan.
+Title = Trump expands hunt for voter fraud ahead of midterms
+Body = The Trump administration demands records on tens of thousands of voters as it ramps up efforts to uncover evidence of voter fraud. Meanwhile, a new twist in the dual Dan Sullivan duel emerges.
+End = true
+
+[LIBRARY RNEWS]
+Title = Examon X/Ultimate Battle Dragonlance Ambrose Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Examon X/Ultimate Battle Dragonlance Ambrose.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = https://twitter.com/x/status/2115293653161918532 Pre-registration for Dig
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Season 4 Blu-ray is Out!- Preview & Breakdown
-Body = It's been a short wait since it was announced a few months ago at Otakon, and Season 4 of Digimon is available on Blu-ray! Unlike most of our BD articles, this isn't a review, more of a preview and/or tour.
+Title = Digimon Card Battle 286- Booster Set EX-13 Royal Knights Match
+Body = Digimon Card Battle is back with episode 286. They're still on the set from Digimon Card Times, and joined once again by Aoyama!
 End = true
 
 [LIBRARY RNEWS]
-Title = Dracomon X Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Dracomon X.
+Title = Digimon Card Game English Youtube Account Launched
+Body = A Youtube account for the English version of the Digimon Card Game is now open. Previously English related Digimon Card Game videos would go up on the general English Bandai Card Games account, and sometimes the Japanese Digimon Card Game account.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Alysion Previews- Kanata & Futre Intros and WarGreymon from BD-01
-Body = With Digimon Alysion pre-registration beginning, we continue to get more previews for the upcoming card game app game. First up, small character intros for two of the leads, along with some art previews...
+Title = Digimon: World’s Best Picks: Episode 5, Digimon Adventure: Episode 21- Koromon and the Great Clash in Tokyo!
+Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 5, which is Digimon Adventure: Episode 21- Koromon and the Great Clash in Tokyo! Episode 5 airs Sunday, November 1st, 9am in Japan.
 End = true
 
