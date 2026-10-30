@@ -9,28 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = The 'inexplicable' order that put two trains on a collision course in Spain
-Body = At least 68 people are dead after one high-speed train was ordered to proceed past a red signal at full speed, putting it on a collision course with another stopped train.
+Title = Patrick Stewart, Star Trek and X-Men actor, dies at 86
+Body = According to a statement on his X account, the British actor has died at his home in Los Angeles after a period with Alzheimer's disease and Lewy body dementia.
 End = true
 
 [LIBRARY RNEWS]
-Title = Where to next after Netanyahu neither won nor lost the Israeli election
-Body = The inconclusive result of the Israeli election, with neither Netanyahu nor the opposition gaining majority, means weeks of messy and complicated negotiations.
+Title = Spain begins three days of mourning as train crash death toll reaches 69
+Body = Spain has begun three days of mourning after its second high-speed rail collision this year killed 69 people.
 End = true
 
 [LIBRARY RNEWS]
-Title = Survivors recount chaotic scenes in Europe's worst train disaster since 2013
-Body = Residents of a rural village in central Spain race to provide help after the deadliest rail disaster in Europe in more than a decade.
+Title = Russian drone strike on Ukrainian train platform kills 14
+Body = A Russian drone has slammed into a busy platform at a railway station in Ukraine's Dnipro killing at least 14 people.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump expands hunt for voter fraud ahead of midterms
-Body = The Trump administration demands records on tens of thousands of voters as it ramps up efforts to uncover evidence of voter fraud. Meanwhile, a new twist in the dual Dan Sullivan duel emerges.
-End = true
-
-[LIBRARY RNEWS]
-Title = Examon X/Ultimate Battle Dragonlance Ambrose Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Examon X/Ultimate Battle Dragonlance Ambrose.
+Title = Cigarette likely cause of catastrophic Hong Kong fire, report finds
+Body = Hong Kong's chief executive announces the findings of a months-long investigation into the Wang Fuk Court apartment fire that killed 168 people last year.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +34,22 @@ Body = https://twitter.com/x/status/2115293653161918532 Pre-registration for Dig
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Battle 286- Booster Set EX-13 Royal Knights Match
-Body = Digimon Card Battle is back with episode 286. They're still on the set from Digimon Card Times, and joined once again by Aoyama!
+Title = Dracomon X Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Dracomon X.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Card Game English Youtube Account Launched
-Body = A Youtube account for the English version of the Digimon Card Game is now open. Previously English related Digimon Card Game videos would go up on the general English Bandai Card Games account, and sometimes the Japanese Digimon Card Game account.
+Title = Digimon Alysion Previews- Kanata & Futre Intros and WarGreymon from BD-01
+Body = With Digimon Alysion pre-registration beginning, we continue to get more previews for the upcoming card game app game. First up, small character intros for two of the leads, along with some art previews...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon: World’s Best Picks: Episode 5, Digimon Adventure: Episode 21- Koromon and the Great Clash in Tokyo!
-Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 5, which is Digimon Adventure: Episode 21- Koromon and the Great Clash in Tokyo! Episode 5 airs Sunday, November 1st, 9am in Japan.
+Title = Examon X/Ultimate Battle Dragonlance Ambrose Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Examon X/Ultimate Battle Dragonlance Ambrose.
+End = true
+
+[LIBRARY RNEWS]
+Title = Examon X/Ultimate Battle Dragonlance Ambrose Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Examon X/Ultimate Battle Dragonlance Ambrose.
 End = true
 
