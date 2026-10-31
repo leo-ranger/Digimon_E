@@ -9,28 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Israel's Arab parties emerge from deadlocked election as kingmakers
+Body = A record turnout of Arabs, many of whom identify as Palestinian citizens of Israel, tipped the political scales in the election and turned the Arab-majority parties into kingmakers in a deadlocked result.
+End = true
+
+[LIBRARY RNEWS]
 Title = Billions of dollars stolen in largest cryptocurrency hack in history
 Body = Up to $8.9 billion in crypto funds have been stolen from the cryptocurrency exchange, with approximately $4.2 billion frozen.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why protests in Europe could bring change or completely backfire
-Body = Footage of mass protests in Europe has been flooding newsfeeds for weeks, with demonstrators taking to the streets across the continent.
+Title = US approves $3 billion Patriot missile sale to Ukraine
+Body = The move is one of the most significant steps to supply defensive weapons to Kyiv since the start of the second Trump administration.
 End = true
 
 [LIBRARY RNEWS]
-Title = Evacuation begins from ravaged Russian-controlled Ukrainian city
-Body = Starving residents of Oleshky in southern Ukraine begin evacuating as part of a joint relief operation by the opposing sides, the first of its kind in four years and eight months of war.
-End = true
-
-[LIBRARY RNEWS]
-Title = Two Dan Sullivans are running in Alaska. Trump thinks one is a decoy
-Body = Something fishy is going on in Alaska ahead of the midterms, but it has nothing to do with the state's famous seafood and everything to do with two men with the same name.
-End = true
-
-[LIBRARY RNEWS]
-Title = Atratusmon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Atratusmon.
+Title = More than 3,000 deaths in Indonesia linked to fire pollution, report says
+Body = Pollution from smoke emitted by months of wildfires across Indonesia caused an estimated 3,560 deaths in September, according to a new study.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +34,22 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from... 
 End = true
 
 [LIBRARY RNEWS]
-Title = Dracomon X Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Dracomon X.
-End = true
-
-[LIBRARY RNEWS]
 Title = Thunderballmon/Thundermon X & Mamemon X Previews for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = KingChessmon & QueenChessmon Previews for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's KingChessmon & QueenChessmon.
+Title = PrinceMamemon X Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's PrinceMamemon X.
+End = true
+
+[LIBRARY RNEWS]
+Title = Atratusmon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Atratusmon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Dracomon X Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Dracomon X.
 End = true
 
