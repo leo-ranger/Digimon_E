@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Texans turn against Trump over ICE's 'terrible' actions
-Body = In south Texas, the aggressive enforcement of immigration laws has hollowed out restaurants, building sites and even churches — and the backlash is threatening to turn the traditional red state blue.
+Title = Billions of dollars stolen in largest cryptocurrency hack in history
+Body = Up to $8.9 billion in crypto funds have been stolen from the cryptocurrency exchange, with approximately $4.2 billion frozen.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bluebottle drones that never sleep level playing field in Pacific drug war
-Body = Australia is giving Fiji uncrewed sea drones that can remain on open water for up to six months and use artificial intelligence to identify suspicious activity.
+Title = Why protests in Europe could bring change or completely backfire
+Body = Footage of mass protests in Europe has been flooding newsfeeds for weeks, with demonstrators taking to the streets across the continent.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump spruiks economy as farmer-funded ads attack cost-of-living record
-Body = The last economy snapshot before the midterms has handed US President Donald Trump a mixed bag.
+Title = Evacuation begins from ravaged Russian-controlled Ukrainian city
+Body = Starving residents of Oleshky in southern Ukraine begin evacuating as part of a joint relief operation by the opposing sides, the first of its kind in four years and eight months of war.
 End = true
 
 [LIBRARY RNEWS]
-Title = Patrick Stewart, Star Trek and X-Men actor, dies at 86
-Body = According to a statement on his X account, the British actor has died at his home in Los Angeles after a period with Alzheimer's disease and Lewy body dementia.
+Title = Two Dan Sullivans are running in Alaska. Trump thinks one is a decoy
+Body = Something fishy is going on in Alaska ahead of the midterms, but it has nothing to do with the state's famous seafood and everything to do with two men with the same name.
 End = true
 
 [LIBRARY RNEWS]
-Title = PawnChessmon (Black), KnightChessmon (Black), & RookChessmon (Black) Previews for Digimon Card Game Booster Set 27
-Body = ... [...] [...]
+Title = Atratusmon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Atratusmon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Alysion Updates- Discord Server Campaign, Story Preview, & BD-01 Previews
-Body = A few Digimon Alysion updates. First up, through November 30th they'll run a campaign to celebrate the launch of the official Digimon Alysion Discord.
+Title = KausGammamon & WezenGammamon Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Tamers 25th Anniversary & Digimon Savers 20th Anniversary Pop-Up Shop at Gran Entas Akihabara Starts November 21st- Product Info, Art, & More
-Body = Digimon Tamers 25th Anniversary & Digimon Savers 20th Anniversary Pop-Up Shop at Gran Entas Akihabara was announced a few months ago, and we have more details and previews since it's starting in a few weeks. The shop will be...
+Title = Dracomon X Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Dracomon X.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Miki & Megumi Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Miki & Megumi.
+Title = Thunderballmon/Thundermon X & Mamemon X Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Alysion Pre-Registration Open, New Trailer, 1st In-Game Booster Pack
-Body = https://twitter.com/x/status/2115293653161918532 Pre-registration for Digimon Alysion is finally open at the Apple App Store and Google Play Store. There is a standby date of December 23rd, which equates to 'around' when various app stores sometimes close yearly submissions for end of year vacations.
+Title = KingChessmon & QueenChessmon Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's KingChessmon & QueenChessmon.
 End = true
 
