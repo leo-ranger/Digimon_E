@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Third weekend of protests in France as youth-led rallies sweep Europe
-Body = Hundreds of thousands of protesters, inspired by frustrated high school students, take to the streets across France in demonstrations over living costs and education.
+Title = 'Despicable betrayal': Democrat backs GOP candidate in key midterms race
+Body = The Democrats' messy Michigan Senate campaign is again marred by friendly fire, with defeated primaries candidate Haley Stevens breaking ranks and endorsing the Republican nominee in Tuesday's midterm elections.
+End = true
+
+[LIBRARY RNEWS]
+Title = Protesters loot shops, 100 officers injured as riots spread to Germany
+Body = Frankfurt emerges as a new flashpoint for Europe's anti-government protests, as students demand better education and lower living costs.
+End = true
+
+[LIBRARY RNEWS]
+Title = Israeli strikes kill eight people in Gaza, medics say
+Body = Israeli strikes killed at least eight Palestinians, including five police officers, in the Gaza Strip in two separate attacks, according to medics and the Hamas-run interior ministry.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,37 +29,27 @@ Body = Russia's FSB security service says it has carried out "appropriate" measu
 End = true
 
 [LIBRARY RNEWS]
-Title = Iranian military ordered to counter any attack swiftly and without restraint
-Body = Iran's military chiefs should meet any attack on its country with an immediate and unrestrained response, Supreme Leader Mjotaba Khamenei has ordered.
+Title = Stegomon & Spinomon Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This...
 End = true
 
 [LIBRARY RNEWS]
-Title = Canada hoping to become EU’s first 'associate member' in deal
-Body = Canadian Prime Minister Mark Carney says he expects to conclude negotiations on the unprecedented deal by June.
+Title = Tamer Card Nanami, Kouki, & Ivan and Hyper Bio Evolution/Bio Hybrid Digivolution Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure Tobimas Figure Previews- Pre-orders on November 5th
+Body = The Digimon Adventure Tobimas figures were first teased a few months ago, and we finally have previews of them! Taichi, Agumon, Yamato, Gabumon, Sora, & Piyomon will be included in the series, and pre-orders will open on November 5th.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon: The Best Adventure We Chose TV-Size OP & ED Streaming & CD Cover Shown
+Body = The TV-size OP & ED for Digimon: World’s Best Picks/The Best Adventure We Chose has been announced to be streaming. It is on various streaming services now.
 End = true
 
 [LIBRARY RNEWS]
 Title = BanchoLeomon Parallel/Alt Art & Tamer Card Suguru/Spencer Preview for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Halloween & November Social Art, Digimon Web Back Up, Mention on Hololive Series, Photos, Catch-Up for the Week, & More!
-Body = Time for a weekend batch! Digimon Web put up new Halloween art featuring Venusmon from Kagemaru Himeno.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon: World’s Best Picks: Episode 4, Digimon Adventure: Episode 20- Perfect Evolution! MetalGreymon
-Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 4, which is Digimon Adventure: Episode 20- Perfect Evolution! MetalGreymon Episode 4 airs Sunday, October 25th, 9am in Japan.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Season 4 Blu-ray is Out!- Preview & Breakdown
-Body = It's been a short wait since it was announced a few months ago at Otakon, and Season 4 of Digimon is available on Blu-ray! Unlike most of our BD articles, this isn't a review, more of a preview and/or tour.
-End = true
-
-[LIBRARY RNEWS]
-Title = BanchoLeomon Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's BanchoLeomon.
 End = true
 
