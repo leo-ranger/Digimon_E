@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Despicable betrayal': Democrat backs GOP candidate in key midterms race
-Body = The Democrats' messy Michigan Senate campaign is again marred by friendly fire, with defeated primaries candidate Haley Stevens breaking ranks and endorsing the Republican nominee in Tuesday's midterm elections.
+Title = Russian strikes on Ukrainian shelter and aid centre kill 24
+Body = Ukrainian President Volodymyr Zelenskyy accused Russia of deliberately targeting civilians as they tried to access humanitarian aid being distributed at a local school.
 End = true
 
 [LIBRARY RNEWS]
-Title = Protesters loot shops, 100 officers injured as riots spread to Germany
-Body = Frankfurt emerges as a new flashpoint for Europe's anti-government protests, as students demand better education and lower living costs.
+Title = Indonesia's haze is straining ties with neighbouring countries
+Body = Widespread fires in Indonesia are prompting calls for legal action or boycotts in neighbouring countries blanketed by the smoke, ahead of an ASEAN foreign ministers' meeting.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israeli strikes kill eight people in Gaza, medics say
-Body = Israeli strikes killed at least eight Palestinians, including five police officers, in the Gaza Strip in two separate attacks, according to medics and the Hamas-run interior ministry.
+Title = Land of the free, home of the bill shock. This is life in Trump's America
+Body = From fuel to food and a day at the football, Americans are feeling the burden of the rising cost of living. It's the only issue on the minds of many voters as they prepare to cast their ballot in the US midterm elections.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russia responds to US warning of Moscow attack plan
-Body = Russia's FSB security service says it has carried out "appropriate" measures after the US embassy in Moscow warned of a planned "terrorist" attack in the capital this weekend.
+Title = Group lost at sea for months found after drifting thousands of kilometres
+Body = The group set off on a one-hour journey in the Federated States of Micronesia on July 30 then were caught in a storm.
+End = true
+
+[LIBRARY RNEWS]
+Title = Thunderbirmon/Thunderbirdmon & Darkdramon Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Eggs: Chapter 2 [...]
+Body = This is the discussion thread for Digimon Eggs, Chapter 2. Chapter 2 is scheduled for release on November 3rd, 2026.
+End = true
+
+[LIBRARY RNEWS]
+Title = Insectoids in the TCG? [...]
+Body = Anyone having luck playing insectoids in the current meta for the TCG?
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +49,7 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Nanami, Kouki, & Ivan and Hyper Bio Evolution/Bio Hybrid Digivolution Previews for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure Tobimas Figure Previews- Pre-orders on November 5th
-Body = The Digimon Adventure Tobimas figures were first teased a few months ago, and we finally have previews of them! Taichi, Agumon, Yamato, Gabumon, Sora, & Piyomon will be included in the series, and pre-orders will open on November 5th.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon: The Best Adventure We Chose TV-Size OP & ED Streaming & CD Cover Shown
-Body = The TV-size OP & ED for Digimon: World’s Best Picks/The Best Adventure We Chose has been announced to be streaming. It is on various streaming services now.
-End = true
-
-[LIBRARY RNEWS]
-Title = BanchoLeomon Parallel/Alt Art & Tamer Card Suguru/Spencer Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card... [...]
+Title = Coatlmon/Quetzalmon & Lotusmon/Lotosmon Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This...
 End = true
 
