@@ -9,8 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tracking Trump's rallies amid predictions deep red states could turn blue
-Body = Ahead of the midterm elections, the US president has prioritised his in-person appearances in Republican strongholds, as he attempts to shore up support in races that are predicted to be closer than his party would like.
+Title = US has hit Iranian targets in Strait of Hormuz, US official says
+Body = The strikes, which appeared to be limited as opposed to a full return to hostilities, came on the eve of crucial American midterm elections.
+End = true
+
+[LIBRARY RNEWS]
+Title = Unpopular Trump is limping towards midterms but the polls could be wrong
+Body = Polls say the Democratic Party could be about to seize control of the US Congress when this week's midterm elections are held. Experts warn it may not be that simple.
 End = true
 
 [LIBRARY RNEWS]
@@ -24,32 +29,27 @@ Body = Ukrainian President Volodymyr Zelenskyy accuses Russia of deliberately ta
 End = true
 
 [LIBRARY RNEWS]
-Title = Indonesia's haze is straining ties with neighbouring countries
-Body = Widespread fires in Indonesia are prompting calls for legal action or boycotts in neighbouring countries blanketed by the smoke, ahead of an ASEAN foreign ministers' meeting.
+Title = Tamer Card Kanata & Premium Alt Art Rubeusdramon Previews for Digimon Card Game Starter Deck 25 & Alysion BD-01
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 25 & Alysion BD-01. This time it's Kanata Tamer card Kanata we previously saw as a BD-01 preview.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Kanata & Gemmon Previews for Digimon Card Game Starter Deck 25 & Alysion BD-01
-Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Starter Deck 25 & Alysion BD-01. This...
+Title = Digimon: The Best Adventure We Chose- 2nd ED by Wild Blue Starts December 27th
+Body = The 2nd ED theme for Digimon: The Best Adventure We Chose has been announced (2) a bit early. The ED will be sung by Wild Blue, with song title to be announced later.
 End = true
 
 [LIBRARY RNEWS]
-Title = With the Will Podcast Episode #324- Registration Rat Race (World's Best Picks, Alysion, & More!)
-Body = This time we will be talking about Digimon: World's Best Picks, Alysion pre-registration, Digimon Season 4 (Frontier) Blu-rays, pop-up shops, card previews, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Halloween & November Social Art, Digimon Web Back Up, Mention on Hololive Series, Photos, Catch-Up for the Week, & More!
-Body = Time for a weekend batch! Digimon Web put up new Halloween art featuring Venusmon from Kagemaru Himeno.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure Tobimas Figure Previews- Pre-orders on November 5th
-Body = The Digimon Adventure Tobimas figures were first teased a few months ago, and we finally have previews of them! Taichi, Agumon, Yamato, Gabumon, Sora, & Piyomon will be included in the series, and pre-orders will open on November 5th.
+Title = Digimon Eggs: Chapter 2 - Invasion [...]
+Body = This is the discussion thread for Digimon Eggs, Chapter 2. Chapter 2 is scheduled for release on November 3rd, 2026.
 End = true
 
 [LIBRARY RNEWS]
 Title = Thunderbirmon/Thunderbirdmon & Darkdramon Previews for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Tamer Card Kanata & Gemmon Previews for Digimon Card Game Starter Deck 25 & Alysion BD-01
+Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Starter Deck 25 & Alysion BD-01. This...
 End = true
 
