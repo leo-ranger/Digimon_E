@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian strikes on Ukrainian shelter and aid centre kill 24
-Body = Ukrainian President Volodymyr Zelenskyy accused Russia of deliberately targeting civilians as they tried to access humanitarian aid being distributed at a local school.
+Title = Tracking Trump's rallies amid predictions deep red states could turn blue
+Body = Ahead of the midterm elections, the US president has prioritised his in-person appearances in Republican strongholds, as he attempts to shore up support in races that are predicted to be closer than his party would like.
+End = true
+
+[LIBRARY RNEWS]
+Title = Iran offers to reopen strait under strict conditions amid 'intensive' talks
+Body = Iran says "intensive" talks with Washington are underway and Tehran is offering to reopen the Strait of Hormuz under strict conditions.
+End = true
+
+[LIBRARY RNEWS]
+Title = Russian strikes on Ukrainian shelter and aid centre kill dozens
+Body = Ukrainian President Volodymyr Zelenskyy accuses Russia of deliberately targeting civilians as they tried to access humanitarian aid being distributed at a local school.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,37 +29,27 @@ Body = Widespread fires in Indonesia are prompting calls for legal action or boy
 End = true
 
 [LIBRARY RNEWS]
-Title = Land of the free, home of the bill shock. This is life in Trump's America
-Body = From fuel to food and a day at the football, Americans are feeling the burden of the rising cost of living. It's the only issue on the minds of many voters as they prepare to cast their ballot in the US midterm elections.
+Title = Tamer Card Kanata & Gemmon Previews for Digimon Card Game Starter Deck 25 & Alysion BD-01
+Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Starter Deck 25 & Alysion BD-01. This...
 End = true
 
 [LIBRARY RNEWS]
-Title = Group lost at sea for months found after drifting thousands of kilometres
-Body = The group set off on a one-hour journey in the Federated States of Micronesia on July 30 then were caught in a storm.
+Title = With the Will Podcast Episode #324- Registration Rat Race (World's Best Picks, Alysion, & More!)
+Body = This time we will be talking about Digimon: World's Best Picks, Alysion pre-registration, Digimon Season 4 (Frontier) Blu-rays, pop-up shops, card previews, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Halloween & November Social Art, Digimon Web Back Up, Mention on Hololive Series, Photos, Catch-Up for the Week, & More!
+Body = Time for a weekend batch! Digimon Web put up new Halloween art featuring Venusmon from Kagemaru Himeno.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure Tobimas Figure Previews- Pre-orders on November 5th
+Body = The Digimon Adventure Tobimas figures were first teased a few months ago, and we finally have previews of them! Taichi, Agumon, Yamato, Gabumon, Sora, & Piyomon will be included in the series, and pre-orders will open on November 5th.
 End = true
 
 [LIBRARY RNEWS]
 Title = Thunderbirmon/Thunderbirdmon & Darkdramon Previews for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Eggs: Chapter 2 [...]
-Body = This is the discussion thread for Digimon Eggs, Chapter 2. Chapter 2 is scheduled for release on November 3rd, 2026.
-End = true
-
-[LIBRARY RNEWS]
-Title = Insectoids in the TCG? [...]
-Body = Anyone having luck playing insectoids in the current meta for the TCG?
-End = true
-
-[LIBRARY RNEWS]
-Title = Stegomon & Spinomon Previews for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This...
-End = true
-
-[LIBRARY RNEWS]
-Title = Coatlmon/Quetzalmon & Lotusmon/Lotosmon Previews for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This...
 End = true
 
