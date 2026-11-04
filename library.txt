@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US has hit Iranian targets in Strait of Hormuz, US official says
-Body = The strikes, which appeared to be limited as opposed to a full return to hostilities, came on the eve of crucial American midterm elections.
+Title = Democrats firm up as narrow favourites to win control of both houses
+Body = Democrats have firmed up as narrow favourites to win control of both houses of the US Congress in today's midterm elections, according to the US's top political forecasters.
 End = true
 
 [LIBRARY RNEWS]
-Title = Unpopular Trump is limping towards midterms but the polls could be wrong
-Body = Polls say the Democratic Party could be about to seize control of the US Congress when this week's midterm elections are held. Experts warn it may not be that simple.
+Title = Trump says US will stop $5.7b in aid to Israel in surprise announcement
+Body = Donald Trump announces the US will cut funding to Israel in a move meant to take away a "bad talking point" from left-wing Democrats. Here's what to know about the US midterms today.
 End = true
 
 [LIBRARY RNEWS]
-Title = Iran offers to reopen strait under strict conditions amid 'intensive' talks
-Body = Iran says "intensive" talks with Washington are underway and Tehran is offering to reopen the Strait of Hormuz under strict conditions.
+Title = Russia's 'vile terrorist strike' kills dozens at school used as aid centre
+Body = Ukranian President Volodymyr Zelenskky describes a series of deadly Russian attacks at a school being used as an aid hub in the country's south-eastern region of Zaporizhzhia, as a "vile terrorist strike".
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian strikes on Ukrainian shelter and aid centre kill dozens
-Body = Ukrainian President Volodymyr Zelenskyy accuses Russia of deliberately targeting civilians as they tried to access humanitarian aid being distributed at a local school.
+Title = Seven flights and cruise ship disrupted in Europe by bomb threats
+Body = Seven flights across Europe were grounded and one airport was temporarily closed after receiving separate bomb threats on Tuesday.
+End = true
+
+[LIBRARY RNEWS]
+Title = Godzilla vs. Digimon- Toho Great Monster Series Omegamon: "G" Fusion Mode Figure Displayed at Godzilla Fest
+Body = On display at Godzilla Fest today at the Plex booth is a new figure... Omegamon: "G" Fusion Mode from Godzilla vs.
+End = true
+
+[LIBRARY RNEWS]
+Title = Renamon Preview for Digimon Card Game Starter Deck 26 & Alysion BD-02
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 26 & Alysion BD-02. This time it's Renamon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Stegomon & Spinomon Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This...
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Digimon: The Best Adventure We Chose- 2nd ED by Wild Blue Starts December 27th
 Body = The 2nd ED theme for Digimon: The Best Adventure We Chose has been announced (2) a bit early. The ED will be sung by Wild Blue, with song title to be announced later.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Eggs: Chapter 2 - Invasion [...]
-Body = This is the discussion thread for Digimon Eggs, Chapter 2. Chapter 2 is scheduled for release on November 3rd, 2026.
-End = true
-
-[LIBRARY RNEWS]
-Title = Thunderbirmon/Thunderbirdmon & Darkdramon Previews for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Kanata & Gemmon Previews for Digimon Card Game Starter Deck 25 & Alysion BD-01
-Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Starter Deck 25 & Alysion BD-01. This...
 End = true
 
