@@ -9,47 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Democrats firm up as narrow favourites to win control of both houses
-Body = Democrats have firmed up as narrow favourites to win control of both houses of the US Congress in today's midterm elections, according to the US's top political forecasters.
+Title = US wakes to new political landscape after Democrats sweep key races - as it happened
+Body = Americans are voting to elect a new US House of Representatives and Senate, with the Democrats making significant gains.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump says US will stop $5.7b in aid to Israel in surprise announcement
-Body = Donald Trump announces the US will cut funding to Israel in a move meant to take away a "bad talking point" from left-wing Democrats. Here's what to know about the US midterms today.
+Title = See live results from the 2026 US midterm elections
+Body = Follow the results of the 2026 US midterm elections and who controls the House and Senate, updated as races are called.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russia's 'vile terrorist strike' kills dozens at school used as aid centre
-Body = Ukranian President Volodymyr Zelenskky describes a series of deadly Russian attacks at a school being used as an aid hub in the country's south-eastern region of Zaporizhzhia, as a "vile terrorist strike".
+Title = Democrats gain control of Congress in rebuke to Trump
+Body = The Democrats have won control of Congress in a stunning victory over Donald Trump's Republican Party.
 End = true
 
 [LIBRARY RNEWS]
-Title = Seven flights and cruise ship disrupted in Europe by bomb threats
-Body = Seven flights across Europe were grounded and one airport was temporarily closed after receiving separate bomb threats on Tuesday.
-End = true
-
-[LIBRARY RNEWS]
-Title = Godzilla vs. Digimon- Toho Great Monster Series Omegamon: "G" Fusion Mode Figure Displayed at Godzilla Fest
-Body = On display at Godzilla Fest today at the Plex booth is a new figure... Omegamon: "G" Fusion Mode from Godzilla vs.
-End = true
-
-[LIBRARY RNEWS]
-Title = Renamon Preview for Digimon Card Game Starter Deck 26 & Alysion BD-02
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 26 & Alysion BD-02. This time it's Renamon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Stegomon & Spinomon Previews for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This...
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Kanata & Premium Alt Art Rubeusdramon Previews for Digimon Card Game Starter Deck 25 & Alysion BD-01
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 25 & Alysion BD-01. This time it's Kanata Tamer card Kanata we previously saw as a BD-01 preview.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon: The Best Adventure We Chose- 2nd ED by Wild Blue Starts December 27th
-Body = The 2nd ED theme for Digimon: The Best Adventure We Chose has been announced (2) a bit early. The ED will be sung by Wild Blue, with song title to be announced later.
+Title = What could the Democrats do now that they have won Congress?
+Body = Democrats have made a plan for their first 100 hours of House control, but still face barriers to advancing their agenda.
 End = true
 
