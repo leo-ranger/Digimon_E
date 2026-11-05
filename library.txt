@@ -9,22 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US wakes to new political landscape after Democrats sweep key races - as it happened
-Body = Americans are voting to elect a new US House of Representatives and Senate, with the Democrats making significant gains.
+Title = Trump and Vance lead GOP blame game as fingers point at Iran war
+Body = Republicans begin their post-mortems after massive losses in the US midterm elections, with Donald Trump and JD Vance blaming the Iran war. Here's what to know about the midterms today.
 End = true
 
 [LIBRARY RNEWS]
-Title = See live results from the 2026 US midterm elections
-Body = Follow the results of the 2026 US midterm elections and who controls the House and Senate, updated as races are called.
+Title = Newcomer's meteoric rise could make her NZ election's 'kingmaker'
+Body = Opportunity party leader Qiulae Wong is trying to blaze a new trail through New Zealand politics this election.
 End = true
 
 [LIBRARY RNEWS]
-Title = Democrats gain control of Congress in rebuke to Trump
-Body = The Democrats have won control of Congress in a stunning victory over Donald Trump's Republican Party.
+Title = 3M to pay more than $US7b to settle groundwater contamination lawsuit
+Body = The chemical manufacturer will pay the money over nine years to as many as 120,000 people who say they were harmed by exposure to PFAS.
 End = true
 
 [LIBRARY RNEWS]
-Title = What could the Democrats do now that they have won Congress?
-Body = Democrats have made a plan for their first 100 hours of House control, but still face barriers to advancing their agenda.
+Title = Cyber attack hits French blood banks but no blood products compromised
+Body = The refrigerators at three regional blood banks in France were hit by a cyber attack overnight from Sunday into Monday, at the same time hackers struck supermarkets from Sweden to Belgium.
 End = true
 
