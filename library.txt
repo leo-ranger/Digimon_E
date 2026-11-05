@@ -9,13 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump and Vance lead GOP blame game as fingers point at Iran war
-Body = Republicans begin their post-mortems after massive losses in the US midterm elections, with Donald Trump and JD Vance blaming the Iran war. Here's what to know about the midterms today.
+Title = Newcomer's meteoric rise could make her NZ election's 'kingmaker'
+Body = Opportunity party leader Qiulae Wong is trying to blaze a new trail through New Zealand politics this election.
 End = true
 
 [LIBRARY RNEWS]
-Title = Newcomer's meteoric rise could make her NZ election's 'kingmaker'
-Body = Opportunity party leader Qiulae Wong is trying to blaze a new trail through New Zealand politics this election.
+Title = Canadian police find remains of mother and daughter after bear attack
+Body = Investigators say more than one grizzly bear may have killed a mother and daughter during a hike in the Canadian wilderness.
 End = true
 
 [LIBRARY RNEWS]
@@ -26,5 +26,30 @@ End = true
 [LIBRARY RNEWS]
 Title = Cyber attack hits French blood banks but no blood products compromised
 Body = The refrigerators at three regional blood banks in France were hit by a cyber attack overnight from Sunday into Monday, at the same time hackers struck supermarkets from Sweden to Belgium.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Alysion Updates- Valner & Renamon Profiles & Feature Preview
+Body = A few Digimon Alysion updates! First up, character profiles...
+End = true
+
+[LIBRARY RNEWS]
+Title = Tamer Card Yggdrasil/King Drasil Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Yggdrasil/King Drasil.
+End = true
+
+[LIBRARY RNEWS]
+Title = Maildramon Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Maildramon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Liskmon & Reptilimon Previews for Digimon Card Game Starter Deck 25 & Alysion BD-01
+Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Alysion Updates- Aliol Profile, Ayumu Murase Message, & Help Menu
+Body = A few Digimon Alysion updates! First up, info on Aliol, the conierge/narrator character who helps you in the game.
 End = true
 
