@@ -9,28 +9,33 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Newcomer's meteoric rise could make her NZ election's 'kingmaker'
-Body = Opportunity party leader Qiulae Wong is trying to blaze a new trail through New Zealand politics this election.
+Title = Could midterms backlash spell the end of Trump's MAGA movement?
+Body = The US midterms result raises a glaring question: Is this the beginning of the end for Donald Trump's MAGA movement?
 End = true
 
 [LIBRARY RNEWS]
-Title = Canadian police find remains of mother and daughter after bear attack
-Body = Investigators say more than one grizzly bear may have killed a mother and daughter during a hike in the Canadian wilderness.
+Title = What will the NZ election mean for the future of Māori rights?
+Body = As the people of Aotearoa/New Zealand head to the polls, what will it mean for the nation's founding document, the Treaty of Waitangi, and the future of Māori rights?
 End = true
 
 [LIBRARY RNEWS]
-Title = 3M to pay more than $US7b to settle groundwater contamination lawsuit
-Body = The chemical manufacturer will pay the money over nine years to as many as 120,000 people who say they were harmed by exposure to PFAS.
+Title = Third wave of 'hoax' bomb threats targets 27 passenger flights across Europe
+Body = Bomb threats have affected at least 27 flights in Europe on Thursday , including in France, Bulgaria, Italy, Austria, Belgium and the Czech Republic.
 End = true
 
 [LIBRARY RNEWS]
-Title = Cyber attack hits French blood banks but no blood products compromised
-Body = The refrigerators at three regional blood banks in France were hit by a cyber attack overnight from Sunday into Monday, at the same time hackers struck supermarkets from Sweden to Belgium.
+Title = 'Completely dead': How Trump himself 'killed' the MAGA movement
+Body = Former Trump ally Marjorie Taylor Greene says the US president has abandoned his supporters and "killed" the MAGA movement he started.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Alysion Updates- Valner & Renamon Profiles & Feature Preview
-Body = A few Digimon Alysion updates! First up, character profiles...
+Title = Digimon Alysion Updates- Aliol Profile, Ayumu Murase Message, & Help Menu
+Body = A few Digimon Alysion updates! First up, info on Aliol, the conierge/narrator character who helps you in the game.
+End = true
+
+[LIBRARY RNEWS]
+Title = Tamer Card Yggdrasil/King Drasil Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Yggdrasil/King Drasil.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +44,12 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
+Title = Digimon Alysion Updates- Valner & Renamon Profiles & Feature Preview
+Body = A few Digimon Alysion updates! First up, character profiles...
+End = true
+
+[LIBRARY RNEWS]
 Title = Maildramon Preview for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Maildramon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Liskmon & Reptilimon Previews for Digimon Card Game Starter Deck 25 & Alysion BD-01
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Alysion Updates- Aliol Profile, Ayumu Murase Message, & Help Menu
-Body = A few Digimon Alysion updates! First up, info on Aliol, the conierge/narrator character who helps you in the game.
 End = true
 
