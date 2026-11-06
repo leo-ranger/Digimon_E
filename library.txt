@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Could midterms backlash spell the end of Trump's MAGA movement?
-Body = The US midterms result raises a glaring question: Is this the beginning of the end for Donald Trump's MAGA movement?
+Title = California governor to grant clemency to all 548 death row inmates in state
+Body = The fate of hundreds of inmates facing death sentences in California hinges on the Supreme Court's approval after the governor says he wants to end state-sanctioned killing.
+End = true
+
+[LIBRARY RNEWS]
+Title = China wants workers to pay 'social insurance' but many cannot afford it
+Body = Beijing wants to build a "more optimised and sustainable social security system" as China's population aged 60 and over is expected to reach 390 million by 2030.
+End = true
+
+[LIBRARY RNEWS]
+Title = What matters to NZ voters? Economy, living costs, and then daylight
+Body = New Zealand's coalition government faces a fragmented and increasingly disenchanted electorate.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,37 +29,27 @@ Body = As the people of Aotearoa/New Zealand head to the polls, what will it mea
 End = true
 
 [LIBRARY RNEWS]
-Title = Third wave of 'hoax' bomb threats targets 27 passenger flights across Europe
-Body = Bomb threats have affected at least 27 flights in Europe on Thursday , including in France, Bulgaria, Italy, Austria, Belgium and the Czech Republic.
+Title = Godzilla vs. Digimon- Toho Great Monster Series Omegamon: "G" Fusion Mode Figure Displayed at Godzilla Fest
+Body = On display at Godzilla Fest today at the Plex booth is a new figure... Omegamon: "G" Fusion Mode from Godzilla vs.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Completely dead': How Trump himself 'killed' the MAGA movement
-Body = Former Trump ally Marjorie Taylor Greene says the US president has abandoned his supporters and "killed" the MAGA movement he started.
+Title = Guardromon (Gold) & Lotusmon/Lotosmon Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Alysion Updates- Aliol Profile, Ayumu Murase Message, & Help Menu
-Body = A few Digimon Alysion updates! First up, info on Aliol, the conierge/narrator character who helps you in the game.
+Title = Digimon Card Game Official Card Sleeves 05 Previews- Out July 2027
+Body = A new set of Digimon Card Game sleeves has been announced (2). "Official Card Sleeves 05" will be out in July 2027 and the four designs are: (the names are a bit different...
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Yggdrasil/King Drasil Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Yggdrasil/King Drasil.
+Title = Digimon Alysion Updates- Digimon Alysion Times on November 15th, Region List, Pre-Registration Unlocks, & Cutscene Gallery
+Body = A few Digimon Alysion updates! First up... [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Yggdrasil/King Drasil Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Yggdrasil/King Drasil.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Alysion Updates- Valner & Renamon Profiles & Feature Preview
-Body = A few Digimon Alysion updates! First up, character profiles...
-End = true
-
-[LIBRARY RNEWS]
-Title = Maildramon Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Maildramon.
+Title = Digimon: World’s Best Picks: Episode 6, Digimon Adventure: Episode 33- Pump and Gotsu are Shibya-Style Digimon
+Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 6, which is Digimon Adventure: Episode 33- Pump and Gotsu are Shibya-Style Digimon Episode 6 airs Sunday, November 8th, 9am in Japan. It was announced it would stream globally on the Digimon Official Youtube, but details aren't entirely clear worldwide at the moment.
 End = true
 
