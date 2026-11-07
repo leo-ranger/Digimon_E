@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Breaking: At least five killed in shooting at Krakow's main square
+Body = About a dozen other people have been injured after the shooting in Poland's second largest city.
+End = true
+
+[LIBRARY RNEWS]
 Title = After a thumping midterms win, Democrats turn to potential battle within
 Body = The Democratic Party is no longer just a broad church, but a huge multi-faith centre. Now their prayers for an electoral resurrection have been answered, the perennial battle for the soul of the party begins.
 End = true
@@ -24,8 +29,8 @@ Body = After the alleged wire-tapping of the president and some of his most trus
 End = true
 
 [LIBRARY RNEWS]
-Title = Australians urged to reconsider fast fashion as workers fight for better pay
-Body = The action, in which garment workers have clashed with police, is a culmination of the apparel industry's global supply chains, which human right experts say result in poor working conditions.
+Title = Tamer Card Touma/Thomas Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Touma/Thomas.
 End = true
 
 [LIBRARY RNEWS]
@@ -46,10 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Godzilla vs. Digimon- Toho Great Monster Series Omegamon: "G" Fusion Mode Figure Displayed at Godzilla Fest
 Body = On display at Godzilla Fest today at the Plex booth is a new figure... Omegamon: "G" Fusion Mode from Godzilla vs.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Card Game Official Card Sleeves 05 Previews- Out July 2027
-Body = A new set of Digimon Card Game sleeves has been announced (2). "Official Card Sleeves 05" will be out in July 2027 and the four designs are: (the names are a bit different...
 End = true
 
