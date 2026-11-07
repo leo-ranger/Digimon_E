@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = California governor to grant clemency to all 548 death row inmates in state
-Body = The fate of hundreds of inmates facing death sentences in California hinges on the Supreme Court's approval after the governor says he wants to end state-sanctioned killing.
+Title = After a thumping midterms win, Democrats turn to potential battle within
+Body = The Democratic Party is no longer just a broad church, but a huge multi-faith centre. Now their prayers for an electoral resurrection have been answered, the perennial battle for the soul of the party begins.
 End = true
 
 [LIBRARY RNEWS]
-Title = China wants workers to pay 'social insurance' but many cannot afford it
-Body = Beijing wants to build a "more optimised and sustainable social security system" as China's population aged 60 and over is expected to reach 390 million by 2030.
+Title = Bomb threats spread to European newsrooms after wave of passenger jet scares
+Body = Spain's foreign minister said the continent appeared to be facing "hybrid aggression and a form of psychological warfare".
 End = true
 
 [LIBRARY RNEWS]
-Title = What matters to NZ voters? Economy, living costs, and then daylight
-Body = New Zealand's coalition government faces a fragmented and increasingly disenchanted electorate.
+Title = 'Treason' claims and military deployments: The political drama unfolding in Indonesia
+Body = After the alleged wire-tapping of the president and some of his most trusted allies, some experts wonder if it signals a growing rift between Indonesia's political heavyweights.
 End = true
 
 [LIBRARY RNEWS]
-Title = What will the NZ election mean for the future of Māori rights?
-Body = As the people of Aotearoa/New Zealand head to the polls, what will it mean for the nation's founding document, the Treaty of Waitangi, and the future of Māori rights?
+Title = Australians urged to reconsider fast fashion as workers fight for better pay
+Body = The action, in which garment workers have clashed with police, is a culmination of the apparel industry's global supply chains, which human right experts say result in poor working conditions.
 End = true
 
 [LIBRARY RNEWS]
-Title = Godzilla vs. Digimon- Toho Great Monster Series Omegamon: "G" Fusion Mode Figure Displayed at Godzilla Fest
-Body = On display at Godzilla Fest today at the Plex booth is a new figure... Omegamon: "G" Fusion Mode from Godzilla vs.
+Title = Gaomon, Gaogamon, & MachGaogamon Previews for Digimon Card Game Booster Set 27
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
+Title = With the Will Podcast Live- Monday, November 9th [...]
+Body = Monday (November 9th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon: World's Best Picks, Digimon Eggs Chapter 2, Alysion & card news, figures, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Godzilla vs. Digimon- Toho Great Monster Series Omegamon: "G" Fusion Mode Figure Displayed at Godzilla Fest
+Body = On display at Godzilla Fest today at the Plex booth is a new figure... Omegamon: "G" Fusion Mode from Godzilla vs.
+End = true
+
+[LIBRARY RNEWS]
 Title = Digimon Card Game Official Card Sleeves 05 Previews- Out July 2027
 Body = A new set of Digimon Card Game sleeves has been announced (2). "Official Card Sleeves 05" will be out in July 2027 and the four designs are: (the names are a bit different...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Alysion Updates- Digimon Alysion Times on November 15th, Region List, Pre-Registration Unlocks, & Cutscene Gallery
-Body = A few Digimon Alysion updates! First up... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon: World’s Best Picks: Episode 6, Digimon Adventure: Episode 33- Pump and Gotsu are Shibya-Style Digimon
-Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 6, which is Digimon Adventure: Episode 33- Pump and Gotsu are Shibya-Style Digimon Episode 6 airs Sunday, November 8th, 9am in Japan. It was announced it would stream globally on the Digimon Official Youtube, but details aren't entirely clear worldwide at the moment.
 End = true
 
