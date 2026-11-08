@@ -19,37 +19,37 @@ Body = Israel's president has chosen Gadi Eisenkot, Benjamin Netanyahu's stronge
 End = true
 
 [LIBRARY RNEWS]
-Title = US senator with Australian ties now a presidential frontrunner
-Body = The polling booths have barely been packed down after the US midterms, but Washington is already looking ahead to the presidential election.
+Title = PM Luxon says 'National is once again the largest party in parliament'
+Body = A tight election result looms in New Zealand as polls show both major parties may struggle to form a government without support.
 End = true
 
 [LIBRARY RNEWS]
-Title = As Russell Brand spends first weekend in prison, we can reveal new details from trial
-Body = From Neil Diamond hits to explosive hallway conversations that prompted a top lawyer to report himself to the bar standards, Russell Brand's trial was a show in itself.
+Title = US offers $29m reward for details on Iran's nuclear program
+Body = A US State Department program, Rewards for Justice, "is offering a $US20 million reward — and possible relocation — for information on Iran's nuclear program".
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon: World’s Best Picks: Episode 5, Digimon Adventure: Episode 21- Koromon and the Great Clash in Tokyo!
+Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 5, which is Digimon Adventure: Episode 21- Koromon and the Great Clash in Tokyo! Episode 5 airs Sunday, November 1st, 9am in Japan.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Eggs: Chapter 2 - Invasion [...]
+Body = This is the discussion thread for Digimon Eggs, Chapter 2. Chapter 2 is scheduled for release on November 3rd, 2026.
+End = true
+
+[LIBRARY RNEWS]
+Title = Pristimon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Pristimon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Story Project: Digimon Delta || Divide (Prologue) [...]
+Body = I decided to share a bit of an old writing project I had planned to turn into something of a comic or a visual novel (kind of working on art, but that's just me drawing stuff rather than the project itself). It started out as a story with a whole new premise for the Digital World and then I got a story in my head about how that Digital World came to change, so I put my main project on hold and wrote a prologue to that story.
 End = true
 
 [LIBRARY RNEWS]
 Title = Weekend Batch- Digimon Eggs & Beatbreak Birthday Social Art, Concert Promo, Catch-Up for the Week, & More!
 Body = Weekend batch time! We start with Ayumuu Minato posting some Digimon Eggs images.
-End = true
-
-[LIBRARY RNEWS]
-Title = Gekkomon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Gekkomon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure Our War Game Omegamon 2023 Version Precious GEM Figure Rerelease- Pre-Orders and Images
-Body = They had teased it at a few events, but it's time for a not-so-new Precious GEM figure! Digimon Adventure Our War Game Omegamon gets a new rerelease!
-End = true
-
-[LIBRARY RNEWS]
-Title = MirageGaogamon/Full Moon Blaster Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's MirageGaogamon/Full Moon Blaster MirageGaogamon/Full Moon Blaster gets some very nice art of it doing its signature move, the mouth on its chest just blasting all of...
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Touma/Thomas Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Touma/Thomas.
 End = true
 
