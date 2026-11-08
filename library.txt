@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Breaking: At least five killed in shooting at Krakow's main square
-Body = About a dozen other people have been injured after the shooting in Poland's second largest city.
+Title = A Trump dynasty now seems unlikely but it'd be dangerous to write him off
+Body = Americans exposed the limits of Donald Trump's electoral power and weakened his grip on the Republican Party. But the Democratic landslide in the midterm elections does not spell the end of MAGA nor guarantee a lasting political realignment.
 End = true
 
 [LIBRARY RNEWS]
-Title = After a thumping midterms win, Democrats turn to potential battle within
-Body = The Democratic Party is no longer just a broad church, but a huge multi-faith centre. Now their prayers for an electoral resurrection have been answered, the perennial battle for the soul of the party begins.
+Title = Israeli president picks Gadi Eisenkot, Netanyahu rival, to form government
+Body = Israel's president has chosen Gadi Eisenkot, Benjamin Netanyahu's strongest rival, to try to form a new government following a deadlocked election.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bomb threats spread to European newsrooms after wave of passenger jet scares
-Body = Spain's foreign minister said the continent appeared to be facing "hybrid aggression and a form of psychological warfare".
+Title = US senator with Australian ties now a presidential frontrunner
+Body = The polling booths have barely been packed down after the US midterms, but Washington is already looking ahead to the presidential election.
 End = true
 
 [LIBRARY RNEWS]
-Title = 'Treason' claims and military deployments: The political drama unfolding in Indonesia
-Body = After the alleged wire-tapping of the president and some of his most trusted allies, some experts wonder if it signals a growing rift between Indonesia's political heavyweights.
+Title = As Russell Brand spends first weekend in prison, we can reveal new details from trial
+Body = From Neil Diamond hits to explosive hallway conversations that prompted a top lawyer to report himself to the bar standards, Russell Brand's trial was a show in itself.
+End = true
+
+[LIBRARY RNEWS]
+Title = Weekend Batch- Digimon Eggs & Beatbreak Birthday Social Art, Concert Promo, Catch-Up for the Week, & More!
+Body = Weekend batch time! We start with Ayumuu Minato posting some Digimon Eggs images.
+End = true
+
+[LIBRARY RNEWS]
+Title = Gekkomon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Gekkomon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Adventure Our War Game Omegamon 2023 Version Precious GEM Figure Rerelease- Pre-Orders and Images
+Body = They had teased it at a few events, but it's time for a not-so-new Precious GEM figure! Digimon Adventure Our War Game Omegamon gets a new rerelease!
+End = true
+
+[LIBRARY RNEWS]
+Title = MirageGaogamon/Full Moon Blaster Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's MirageGaogamon/Full Moon Blaster MirageGaogamon/Full Moon Blaster gets some very nice art of it doing its signature move, the mouth on its chest just blasting all of...
 End = true
 
 [LIBRARY RNEWS]
 Title = Tamer Card Touma/Thomas Preview for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Touma/Thomas.
-End = true
-
-[LIBRARY RNEWS]
-Title = Gaomon, Gaogamon, & MachGaogamon Previews for Digimon Card Game Booster Set 27
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Guardromon (Gold) & Lotusmon/Lotosmon Previews for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Live- Monday, November 9th [...]
-Body = Monday (November 9th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about Digimon: World's Best Picks, Digimon Eggs Chapter 2, Alysion & card news, figures, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Godzilla vs. Digimon- Toho Great Monster Series Omegamon: "G" Fusion Mode Figure Displayed at Godzilla Fest
-Body = On display at Godzilla Fest today at the Plex booth is a new figure... Omegamon: "G" Fusion Mode from Godzilla vs.
 End = true
 
