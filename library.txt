@@ -9,28 +9,23 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = A Trump dynasty now seems unlikely but it'd be dangerous to write him off
-Body = Americans exposed the limits of Donald Trump's electoral power and weakened his grip on the Republican Party. But the Democratic landslide in the midterm elections does not spell the end of MAGA nor guarantee a lasting political realignment.
+Title = Trump says he was 'kidding' about offering Dana White press secretary job
+Body = The US president backtracks on his announcement offering Ultimate Fighting Championship CEO Dana White the vacant White House press secretary role.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israeli president picks Gadi Eisenkot, Netanyahu rival, to form government
-Body = Israel's president has chosen Gadi Eisenkot, Benjamin Netanyahu's strongest rival, to try to form a new government following a deadlocked election.
+Title = Poland treats fatal mass shooting as 'terrorist offence'
+Body = Four women and two men were killed in the shooting in the Main Square of Krakow's Old Town, which Poland's defence minister has described as an "act of terror".
 End = true
 
 [LIBRARY RNEWS]
-Title = PM Luxon says 'National is once again the largest party in parliament'
-Body = A tight election result looms in New Zealand as polls show both major parties may struggle to form a government without support.
+Title = Strong earthquake rocks central Japan, injuring at least 22
+Body = People are being warned about possible strong quakes, especially in the next two to three days, after the magnitude-5.7 earthquake.
 End = true
 
 [LIBRARY RNEWS]
-Title = US offers $29m reward for details on Iran's nuclear program
-Body = A US State Department program, Rewards for Justice, "is offering a $US20 million reward — and possible relocation — for information on Iran's nuclear program".
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon: World’s Best Picks: Episode 5, Digimon Adventure: Episode 21- Koromon and the Great Clash in Tokyo!
-Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 5, which is Digimon Adventure: Episode 21- Koromon and the Great Clash in Tokyo! Episode 5 airs Sunday, November 1st, 9am in Japan.
+Title = NZ election figures tell story of disenchantment and fracturing
+Body = There's a subterranean story in the numbers from the New Zealand election which deserves as much attention as the blow-by-blow race for the Beehive.
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +34,22 @@ Body = This is the discussion thread for Digimon Eggs, Chapter 2. Chapter 2 is s
 End = true
 
 [LIBRARY RNEWS]
-Title = Pristimon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Pristimon.
+Title = Digimon Story: Time Stranger Discussion Thread [...]
+Body = Digimon Story: Time Stranger isn't out until early October, but half a day from the time of this post, a demo will go up that contains the first portion of the game, with save data being useable in the full game once it's out, so anyone who wants to will be able to get started immediately. Realistically if you are jumping into a full discussion thread for the game at this point, spoiler tags aren't needed, as it'll be...
 End = true
 
 [LIBRARY RNEWS]
-Title = Story Project: Digimon Delta || Divide (Prologue) [...]
-Body = I decided to share a bit of an old writing project I had planned to turn into something of a comic or a visual novel (kind of working on art, but that's just me drawing stuff rather than the project itself). It started out as a story with a whole new premise for the Digital World and then I got a story in my head about how that Digital World came to change, so I put my main project on hold and wrote a prologue to that story.
+Title = Gemmon, Liskmon, & Reptilimon Previews for Digimon Card Game Starter Deck 25 & Alysion SD-01
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Eggs & Beatbreak Birthday Social Art, Concert Promo, Catch-Up for the Week, & More!
-Body = Weekend batch time! We start with Ayumuu Minato posting some Digimon Eggs images.
+Title = Chiropmon Parallel/Alt Art & Promo Poster Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Booster Set 27. This time it's Chiropmon .
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon: World’s Best Picks: Episode 5, Digimon Adventure: Episode 21- Koromon and the Great Clash in Tokyo!
+Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 5, which is Digimon Adventure: Episode 21- Koromon and the Great Clash in Tokyo! Episode 5 airs Sunday, November 1st, 9am in Japan.
 End = true
 
