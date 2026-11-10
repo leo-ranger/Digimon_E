@@ -9,8 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pope draws record Buenos Aires crowd after rebuking Milei over austerity
-Body = More than 2.5 million worshippers attend the pontiff's Mass in the Argentinian capital, with some camping overnight to get a glimpse of the Catholic leader.
+Title = Shareholders sue Nvidia CEO Huang over affair with suspected Chinese spy
+Body = Nvidia shares tumbled after the company opened an investigation into Mr Huang's ties with a ⁠suspected Chinese spy.
+End = true
+
+[LIBRARY RNEWS]
+Title = Russell Brand jailed for more than 10 years for rape and sexual assault
+Body = Russell Brand was found guilty last week of one count of rape and three counts of sexual assault relating to four women between 2004 and 2009.
+End = true
+
+[LIBRARY RNEWS]
+Title = COP31 summit targets major electrification push as 1.5C goal slips away
+Body = The climate summit will push for nations around the world to electrify their energy faster and move away from fossil fuels, as Chris Bowen predicts global temperatures will rise to 2.6 degrees above pre-industrial levels.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,37 +29,27 @@ Body = Russia's second-largest oil refinery has been set ablaze following a Ukra
 End = true
 
 [LIBRARY RNEWS]
-Title = Gunman dies in hospital after killing six and injuring 15 in Krakow shooting
-Body = A gunman who killed six people and injured 15 others in a mass shooting in central Krakow, Poland, has died in hospital.
+Title = Digimon Beatbreak Blu-ray Announcement for Japan Tomorrow
+Body = The Digimon TV Twitter announced that November 11th at Noon in Japan would bet he start of the 'Digimon Beatbreak Blu-ray Project.' Noon in Japan is November 10th at 7pm Pacific, so a bit under a day. Also of note, November 11th is Kyo's birthday in the series, so the date was likely chosen on purpose.
 End = true
 
 [LIBRARY RNEWS]
-Title = Two survivors of fatal helicopter crash in Indonesia named
-Body = The pilots survived the crash after their aircraft nosedived into a river while collecting water to fight fires.
+Title = With the Will Podcast Episode #325- Two Eggs Up (World's Best Picks, Eggs, & More!)
+Body = This time we will be talking about Digimon: World's Best Picks, Digimon Eggs Chapter 2, Alysion & card news, figures, & more! Plus your questions!
+End = true
+
+[LIBRARY RNEWS]
+Title = Renamon, Tenkomon, and Sekkamon Previews for Digimon Card Game Starter Deck 26 & Alysion SD-02
+Body = ... [...] [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Season 4 Blu-ray is Out!- Preview & Breakdown
+Body = It's been a short wait since it was announced a few months ago at Otakon, and Season 4 of Digimon is available on Blu-ray! Unlike most of our BD articles, this isn't a review, more of a preview and/or tour.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Adventure Tobimas Figures- Pre-Order Info & Images
 Body = After being announced a few months ago and shown off recently the Digimon Adventure Tobimas figures are up to pre-order! ...
-End = true
-
-[LIBRARY RNEWS]
-Title = Bond of Rubies Preview for Digimon Card Game Starter Deck 25 & Alysion ED-01
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 25 & Alysion ED-01. This time it's Bond of Rubies.
-End = true
-
-[LIBRARY RNEWS]
-Title = Rubeusdramon Previews for Digimon Card Game Starter Deck 25 & Alysion SD-01 & ED-01
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 25 & Alysion SD-01 and ED-01. This time it's Rubeusdramon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Eggs: Chapter 2 - Invasion [...]
-Body = This is the discussion thread for Digimon Eggs, Chapter 2. Chapter 2 is scheduled for release on November 3rd, 2026.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Story: Time Stranger Discussion Thread [...]
-Body = Digimon Story: Time Stranger isn't out until early October, but half a day from the time of this post, a demo will go up that contains the first portion of the game, with save data being useable in the full game once it's out, so anyone who wants to will be able to get started immediately. Realistically if you are jumping into a full discussion thread for the game at this point, spoiler tags aren't needed, as it'll be...
 End = true
 
