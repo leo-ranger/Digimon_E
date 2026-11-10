@@ -9,8 +9,13 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Shareholders sue Nvidia CEO Huang over affair with suspected Chinese spy
-Body = Nvidia shares tumbled after the company opened an investigation into Mr Huang's ties with a ⁠suspected Chinese spy.
+Title = Who is Jensen Huang and why is the Nvidia CEO scandal important?
+Body = After news broke of Nvidia CEO Jensen Huang's affair with an alleged Chinese intelligence asset Nvidia's value plummeted. Why?
+End = true
+
+[LIBRARY RNEWS]
+Title = The Nvidia 'honey trap' scandal could shape the global AI race
+Body = Allegations of espionage between China and the US are nothing new. But a target as big as Jensen Huang could change who wins the AI race.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,37 +24,32 @@ Body = Russell Brand was found guilty last week of one count of rape and three c
 End = true
 
 [LIBRARY RNEWS]
-Title = COP31 summit targets major electrification push as 1.5C goal slips away
-Body = The climate summit will push for nations around the world to electrify their energy faster and move away from fossil fuels, as Chris Bowen predicts global temperatures will rise to 2.6 degrees above pre-industrial levels.
+Title = Court ruling paves way for Lindsay Clancy's retrial for murder
+Body = A US judge denies a motion to dismiss the murder case against Lindsay Clancy, which opens the possibility of a retrial.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ukrainian drone attack sets Russia's Kirishi refinery ablaze
-Body = Russia's second-largest oil refinery has been set ablaze following a Ukrainian drone attack that killed a local woman, a day before Russian, Ukrainian and US negotiators sit down for their first peace talks since February.
+Title = Bond of Snowflakes & Yukinamon Previews for Digimon Card Game Starter Deck 26 & Alysion ED-01 & SD-02
+Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Starter Deck 26 & Alysion ED-01 and SD-02. This time it's Bond of Snowflakes & Yukinamon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Alysion Pre-Registration Campaign Updates- Campaign 1 All Rewards Unlocked, 2nd Campaign Starts
+Body = A few updates for Digimon Alysion pre-registration campaigns... 200k registrations were hit, so the first campaign has ended with everything unlocked: [BT1-025 WarGreymon] x1 [BT1-044 MetalGarurumon] x1 [BD1-002 Gemmon] x1 [BD-01 Ticket] x10 They also announced a second campaign that will...
+End = true
+
+[LIBRARY RNEWS]
+Title = Yukinamon Preview for Digimon Card Game Starter Deck 26 & Alysion ED-01
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 26 & Alysion ED-01. This time it's Yukinamon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Pop-Up at Bandai Namco Cross Store Tokyo December 4th Through January 11th
+Body = The Digimon Pop-Up has been announced for December 4th through January 11th, 2027. It will run at the Bandai Namco Cross Store Tokyo (2) and carry "many Digimon related products" that haven't been detailed yet.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak Blu-ray Announcement for Japan Tomorrow
 Body = The Digimon TV Twitter announced that November 11th at Noon in Japan would bet he start of the 'Digimon Beatbreak Blu-ray Project.' Noon in Japan is November 10th at 7pm Pacific, so a bit under a day. Also of note, November 11th is Kyo's birthday in the series, so the date was likely chosen on purpose.
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #325- Two Eggs Up (World's Best Picks, Eggs, & More!)
-Body = This time we will be talking about Digimon: World's Best Picks, Digimon Eggs Chapter 2, Alysion & card news, figures, & more! Plus your questions!
-End = true
-
-[LIBRARY RNEWS]
-Title = Renamon, Tenkomon, and Sekkamon Previews for Digimon Card Game Starter Deck 26 & Alysion SD-02
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Season 4 Blu-ray is Out!- Preview & Breakdown
-Body = It's been a short wait since it was announced a few months ago at Otakon, and Season 4 of Digimon is available on Blu-ray! Unlike most of our BD articles, this isn't a review, more of a preview and/or tour.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure Tobimas Figures- Pre-Order Info & Images
-Body = After being announced a few months ago and shown off recently the Digimon Adventure Tobimas figures are up to pre-order! ...
 End = true
 
