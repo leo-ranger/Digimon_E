@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Who is Jensen Huang and why is the Nvidia CEO scandal important?
-Body = After news broke of Nvidia CEO Jensen Huang's affair with an alleged Chinese intelligence asset Nvidia's value plummeted. Why?
+Title = US charges three men over terror plots, including planned assault on UK airbase
+Body = Three men are charged by US authorities with plotting a "campaign of terror" of nearly 20 attacks targeting Jewish communities in Europe and the US and the British military base at RAF Fairford.
 End = true
 
 [LIBRARY RNEWS]
-Title = The Nvidia 'honey trap' scandal could shape the global AI race
-Body = Allegations of espionage between China and the US are nothing new. But a target as big as Jensen Huang could change who wins the AI race.
+Title = UK arrests US Army member suspected of helping Russia
+Body = British police say a senior member of the US Army has been arrested over allegations that he was assisting Russian intelligence.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russell Brand jailed for more than 10 years for rape and sexual assault
-Body = Russell Brand was found guilty last week of one count of rape and three counts of sexual assault relating to four women between 2004 and 2009.
+Title = Children's book author and TV star David Walliams accused of grooming girls
+Body = Actor, comedian and children's author David Walliams has been accused of allegedly grooming and preying on teenage girls for sexual purposes in the early 2000s.
 End = true
 
 [LIBRARY RNEWS]
-Title = Court ruling paves way for Lindsay Clancy's retrial for murder
-Body = A US judge denies a motion to dismiss the murder case against Lindsay Clancy, which opens the possibility of a retrial.
+Title = India's sugar cane is too dry and consumers will pay the price
+Body = Low rainfall hits sugarcane crops in India as farmers grapple with rising fuel and fertiliser costs.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bond of Snowflakes & Yukinamon Previews for Digimon Card Game Starter Deck 26 & Alysion ED-01 & SD-02
-Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Starter Deck 26 & Alysion ED-01 and SD-02. This time it's Bond of Snowflakes & Yukinamon.
+Title = Digimon Beatbreak Blu-ray Project Announced- Blu-rays Next Year & New Audio Dramas, If Pre-Order Numbers are Hit
+Body = We have a trailer for the Digimon Beatbreak Blu-ray Project... As announced, Digimon Beatbreak will get Blu-rays...
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = A few updates for Digimon Alysion pre-registration campaigns... 200k regi
 End = true
 
 [LIBRARY RNEWS]
-Title = Yukinamon Preview for Digimon Card Game Starter Deck 26 & Alysion ED-01
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 26 & Alysion ED-01. This time it's Yukinamon.
+Title = Tokomon & Gemmon Previews for Digimon Card Game Starter Deck 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 25. This...
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Pop-Up at Bandai Namco Cross Store Tokyo December 4th Through January 11th
-Body = The Digimon Pop-Up has been announced for December 4th through January 11th, 2027. It will run at the Bandai Namco Cross Store Tokyo (2) and carry "many Digimon related products" that haven't been detailed yet.
+Title = Bond of Snowflakes & Yukinamon Previews for Digimon Card Game Starter Deck 26 & Alysion ED-01 & SD-02
+Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Starter Deck 26 & Alysion ED-01 and SD-02. This time it's Bond of Snowflakes & Yukinamon.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Blu-ray Announcement for Japan Tomorrow
-Body = The Digimon TV Twitter announced that November 11th at Noon in Japan would bet he start of the 'Digimon Beatbreak Blu-ray Project.' Noon in Japan is November 10th at 7pm Pacific, so a bit under a day. Also of note, November 11th is Kyo's birthday in the series, so the date was likely chosen on purpose.
+Title = Story Project: Digimon Delta || Divide (Prologue) [...]
+Body = I decided to share a bit of an old writing project I had planned to turn into something of a comic or a visual novel (kind of working on art, but that's just me drawing stuff rather than the project itself). It started out as a story with a whole new premise for the Digital World and then I got a story in my head about how that Digital World came to change, so I put my main project on hold and wrote a prologue to that story.
 End = true
 
