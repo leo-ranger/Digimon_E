@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US charges three men over terror plots, including planned assault on UK airbase
-Body = Three men are charged by US authorities with plotting a "campaign of terror" of nearly 20 attacks targeting Jewish communities in Europe and the US and the British military base at RAF Fairford.
+Title = Republicans block resolution to impeach Pete Hegseth
+Body = The Republican-controlled US Congress votes to refer the impeachment resolution to a committee, effectively shelving it for the duration of the current Congress.
 End = true
 
 [LIBRARY RNEWS]
-Title = UK arrests US Army member suspected of helping Russia
-Body = British police say a senior member of the US Army has been arrested over allegations that he was assisting Russian intelligence.
+Title = Kennedy family members sue to block construction of Trump's arch
+Body = Nine members of the Kennedy family have joined a lawsuit seeking to block construction of the US president's Independence Arch.
 End = true
 
 [LIBRARY RNEWS]
-Title = Children's book author and TV star David Walliams accused of grooming girls
-Body = Actor, comedian and children's author David Walliams has been accused of allegedly grooming and preying on teenage girls for sexual purposes in the early 2000s.
+Title = How grooming claims against David Walliams came to light
+Body = A three-year investigation by UK media has unearthed accusations against high-profile UK celebrity David Walliams of grooming and sexual assault.
 End = true
 
 [LIBRARY RNEWS]
-Title = India's sugar cane is too dry and consumers will pay the price
-Body = Low rainfall hits sugarcane crops in India as farmers grapple with rising fuel and fertiliser costs.
+Title = Taunts, heckling and fiery Netanyahu speech as Israel's Knesset sworn in
+Body = Benjamin Netanyahu uses a speech traditionally used as a toast to rail against Arab Israeli members of the Knesset, three weeks after a deadlocked election result.
+End = true
+
+[LIBRARY RNEWS]
+Title = Rubeusdramon/Burning Drive Preview for Digimon Card Game Starter Deck 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 25. This time it's Rubeusdramon/Burning Drive.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Season 4 Blu-ray is Out!- Preview & Breakdown
+Body = It's been a short wait since it was announced a few months ago at Otakon, and Season 4 of Digimon is available on Blu-ray! Unlike most of our BD articles, this isn't a review, more of a preview and/or tour.
+End = true
+
+[LIBRARY RNEWS]
+Title = Official Digimon Web Poll #160- Favorite Guest Digimon from Beatbreak Episodes 38 through 49
+Body = Digimon Web has opened a new fan vote. This is the 160th official web poll on the current version of the site.
+End = true
+
+[LIBRARY RNEWS]
+Title = Tamer Card Kanata Preview for Digimon Card Game Starter Deck 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 25. This time it's Kanata.
 End = true
 
 [LIBRARY RNEWS]
 Title = Digimon Beatbreak Blu-ray Project Announced- Blu-rays Next Year & New Audio Dramas, If Pre-Order Numbers are Hit
 Body = We have a trailer for the Digimon Beatbreak Blu-ray Project... As announced, Digimon Beatbreak will get Blu-rays...
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Alysion Pre-Registration Campaign Updates- Campaign 1 All Rewards Unlocked, 2nd Campaign Starts
-Body = A few updates for Digimon Alysion pre-registration campaigns... 200k registrations were hit, so the first campaign has ended with everything unlocked: [BT1-025 WarGreymon] x1 [BT1-044 MetalGarurumon] x1 [BD1-002 Gemmon] x1 [BD-01 Ticket] x10 They also announced a second campaign that will...
-End = true
-
-[LIBRARY RNEWS]
-Title = Tokomon & Gemmon Previews for Digimon Card Game Starter Deck 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 25. This...
-End = true
-
-[LIBRARY RNEWS]
-Title = Bond of Snowflakes & Yukinamon Previews for Digimon Card Game Starter Deck 26 & Alysion ED-01 & SD-02
-Body = The Digimon Card Game Twitter (2) (3) has updated with card previews from Starter Deck 26 & Alysion ED-01 and SD-02. This time it's Bond of Snowflakes & Yukinamon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Story Project: Digimon Delta || Divide (Prologue) [...]
-Body = I decided to share a bit of an old writing project I had planned to turn into something of a comic or a visual novel (kind of working on art, but that's just me drawing stuff rather than the project itself). It started out as a story with a whole new premise for the Digital World and then I got a story in my head about how that Digital World came to change, so I put my main project on hold and wrote a prologue to that story.
 End = true
 
