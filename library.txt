@@ -9,33 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Republicans block resolution to impeach Pete Hegseth
-Body = The Republican-controlled US Congress votes to refer the impeachment resolution to a committee, effectively shelving it for the duration of the current Congress.
+Title = What went wrong for Indonesia's VP Gibran Rakabuming Raka?
+Body = Indonesia's vice-president has resigned amid mounting calls for his impeachment. Here's what we know about why he resigned and who could be in the running for the position.
 End = true
 
 [LIBRARY RNEWS]
-Title = Kennedy family members sue to block construction of Trump's arch
-Body = Nine members of the Kennedy family have joined a lawsuit seeking to block construction of the US president's Independence Arch.
+Title = Four million stage general strike in Spain over national housing crisis
+Body = Four million Spanish workers take part in a general strike, enduring stormy weather to set up picket lines in a protest against the country's housing affordability crisis less than three weeks before a snap general election.
 End = true
 
 [LIBRARY RNEWS]
-Title = How grooming claims against David Walliams came to light
-Body = A three-year investigation by UK media has unearthed accusations against high-profile UK celebrity David Walliams of grooming and sexual assault.
+Title = Ukraine and Russia agree to large prisoner swap after US-mediated talks
+Body = Following two days of US-mediated talks, Ukraine and Russia have agreed to a large exchange of prisoners of war.
 End = true
 
 [LIBRARY RNEWS]
-Title = Taunts, heckling and fiery Netanyahu speech as Israel's Knesset sworn in
-Body = Benjamin Netanyahu uses a speech traditionally used as a toast to rail against Arab Israeli members of the Knesset, three weeks after a deadlocked election result.
+Title = Hoax bomb alerts sent to schools in Italy, UK and Ireland
+Body = European officials suspect Russia or Iran may be behind a campaign of disruption to everyday life.
 End = true
 
 [LIBRARY RNEWS]
-Title = Rubeusdramon/Burning Drive Preview for Digimon Card Game Starter Deck 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 25. This time it's Rubeusdramon/Burning Drive.
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Season 4 Blu-ray is Out!- Preview & Breakdown
-Body = It's been a short wait since it was announced a few months ago at Otakon, and Season 4 of Digimon is available on Blu-ray! Unlike most of our BD articles, this isn't a review, more of a preview and/or tour.
+Title = Digimon Alysion Updates- BD-03 Union Impact Trailer & Koga Profile
+Body = A few Digimon Alysion updates... First up, a trailer for BD-03 Union Impact, which will be available at game release.
 End = true
 
 [LIBRARY RNEWS]
@@ -44,12 +39,17 @@ Body = Digimon Web has opened a new fan vote. This is the 160th official web pol
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Kanata Preview for Digimon Card Game Starter Deck 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 25. This time it's Kanata.
+Title = Mochimon/Motimon, Clockmon, & Andromon Previews for Digimon Card Game Booster Set 27
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Beatbreak Blu-ray Project Announced- Blu-rays Next Year & New Audio Dramas, If Pre-Order Numbers are Hit
-Body = We have a trailer for the Digimon Beatbreak Blu-ray Project... As announced, Digimon Beatbreak will get Blu-rays...
+Title = Digimon Adventure 3D: Digimon Grand Prix! Streaming on Youtube in Japan for 2 Weeks & High Quality Poster
+Body = While it's geolocked outside of Japan, Digimon Adventure 3D: Digimon Grand Prix! is getting its first stream on Youtube.
+End = true
+
+[LIBRARY RNEWS]
+Title = Rubeusdramon/Burning Drive Preview for Digimon Card Game Starter Deck 25
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 25. This time it's Rubeusdramon/Burning Drive.
 End = true
 
