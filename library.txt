@@ -14,18 +14,28 @@ Body = Indonesia's vice-president has resigned amid mounting calls for his impea
 End = true
 
 [LIBRARY RNEWS]
-Title = Four million stage general strike in Spain over national housing crisis
-Body = Four million Spanish workers take part in a general strike, enduring stormy weather to set up picket lines in a protest against the country's housing affordability crisis less than three weeks before a snap general election.
+Title = With Jensen Huang under pressure, Nvidia finds itself with no succession plan
+Body = Holding the position of co-founder, president and chief executive, Jensen Huang has about 60 executives reporting directly to him and has said himself he does not believe in succession planning.
 End = true
 
 [LIBRARY RNEWS]
-Title = Ukraine and Russia agree to large prisoner swap after US-mediated talks
-Body = Following two days of US-mediated talks, Ukraine and Russia have agreed to a large exchange of prisoners of war.
+Title = Weinstein's ex-assistant on what Walliams's court bid says about power
+Body = Britain's culture secretary describes the reported allegations against David Walliams as "the latest in a long line of reported abuses of power" in the entertainment industry.
 End = true
 
 [LIBRARY RNEWS]
-Title = Hoax bomb alerts sent to schools in Italy, UK and Ireland
-Body = European officials suspect Russia or Iran may be behind a campaign of disruption to everyday life.
+Title = Why several Trump officials are now living at military bases
+Body = US Treasury Secretary Scott Bessent becomes the latest Trump official to move onto a military base following security concerns. Here's what to know.
+End = true
+
+[LIBRARY RNEWS]
+Title = Gankoomon X/Ultimate Sengi Tengyouken Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Gankoomon X/Ultimate Sengi Tengyouken.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon: World’s Best Picks: Episode 7, Digimon Adventure: Episode 35- The Fairy of Odaiba! Lilimon Blossoms!
+Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 7, which is Digimon Adventure: Episode 35- The Fairy of Odaiba! Lilimon Blossoms!
 End = true
 
 [LIBRARY RNEWS]
@@ -34,22 +44,12 @@ Body = A few Digimon Alysion updates... First up, a trailer for BD-03 Union Impa
 End = true
 
 [LIBRARY RNEWS]
+Title = Digimon Card Battle 288- Booster Set 27 Match [...]
+Body = Digimon Card Battle is back with episode 288. ... [...]
+End = true
+
+[LIBRARY RNEWS]
 Title = Official Digimon Web Poll #160- Favorite Guest Digimon from Beatbreak Episodes 38 through 49
 Body = Digimon Web has opened a new fan vote. This is the 160th official web poll on the current version of the site.
-End = true
-
-[LIBRARY RNEWS]
-Title = Mochimon/Motimon, Clockmon, & Andromon Previews for Digimon Card Game Booster Set 27
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure 3D: Digimon Grand Prix! Streaming on Youtube in Japan for 2 Weeks & High Quality Poster
-Body = While it's geolocked outside of Japan, Digimon Adventure 3D: Digimon Grand Prix! is getting its first stream on Youtube.
-End = true
-
-[LIBRARY RNEWS]
-Title = Rubeusdramon/Burning Drive Preview for Digimon Card Game Starter Deck 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 25. This time it's Rubeusdramon/Burning Drive.
 End = true
 
