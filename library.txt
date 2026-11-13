@@ -9,8 +9,8 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands
-Body = A global outage hits Microsoft platforms, including Outlook, with many users having trouble using their email accounts and finding other errors across the tech giant's suite of apps.
+Title = Microsoft access being restored after global Outlook disruption
+Body = Access is gradually being restored after a global outage hit Microsoft platforms, including Outlook, with many users having trouble using their email accounts and finding other errors across the tech giant's suite of apps.
 End = true
 
 [LIBRARY RNEWS]
@@ -29,27 +29,27 @@ Body = Ukrainian President Volodymyr Zelenskyy says disruptions to the Starshiel
 End = true
 
 [LIBRARY RNEWS]
-Title = Gankoomon X/Ultimate Sengi Tengyouken Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Gankoomon X/Ultimate Sengi Tengyouken.
-End = true
-
-[LIBRARY RNEWS]
-Title = Story Project: Digimon Delta || Divide (Prologue) [...]
-Body = I decided to share a bit of an old writing project I had planned to turn into something of a comic or a visual novel (kind of working on art, but that's just me drawing stuff rather than the project itself). It started out as a story with a whole new premise for the Digital World and then I got a story in my head about how that Digital World came to change, so I put my main project on hold and wrote a prologue to that story.
-End = true
-
-[LIBRARY RNEWS]
-Title = New Digimon Adventure Products at AniBirth on November 13th, November 20th Online
-Body = Product news time! (2) New Digimon Adventure (and a bit more) products will show up at all 3 AniBirth stores on November 13th (today in Japan.) The Digimon section of the Toei Online Shop will have them online a week later, November 20th.
-End = true
-
-[LIBRARY RNEWS]
 Title = Gankoomon X/Ultimate Sengi Tengyouken Preview for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Gankoomon X/Ultimate Sengi Tengyouken.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon: World’s Best Picks: Episode 7, Digimon Adventure: Episode 35- The Fairy of Odaiba! Lilimon Blossoms!
-Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 7, which is Digimon Adventure: Episode 35- The Fairy of Odaiba! Lilimon Blossoms!
+Title = Gurimon & Jesmon X/Ultimate Seibaken Parallel/Alt Art Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Jesmon X/Ultimate Seibaken Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Jesmon X/Ultimate Seibaken.
+End = true
+
+[LIBRARY RNEWS]
+Title = Gankoomon X/Ultimate Sengi Tengyouken Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Gankoomon X/Ultimate Sengi Tengyouken.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon Alysion Updates- Rule Showcase #1, Soichi & Betamon Profile, & Pre-Registration Campaign 2 Unlocks
+Body = https://twitter.com/x/status/2120773590677078193 A few Digimon Alysion updates... First up, a video showing off [Rule Showcase #1] Digivolve your Digimon cards by stacking them!
 End = true
 
