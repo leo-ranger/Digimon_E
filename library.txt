@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US aviation administration resumes flights after grounding
-Body = The US Federal Aviation Administration says flights can resume after it issued a national ground stop "due to extraordinary circumstance and reasons for safety".
+Title = US government says wire replacement caused nationwide grounding of flights
+Body = The US government has blamed a nationwide aviation shutdown which has disrupted more than 20,000 flights on a program to replace copper wires with new fibre ones.
 End = true
 
 [LIBRARY RNEWS]
-Title = The US has been holding secretive talks with a regime it accused of genocide
-Body = The United States has been holding secretive talks with a regime it has accused of genocide, and experts believe it could come down to rare earths.
+Title = US floated NATO membership for Ukraine, Zelenskyy says
+Body = US negotiators have raised the prospect of Ukraine withdrawing from its eastern region of Donbas in exchange for joining NATO, according to President Volodymyr Zelenskyy.
 End = true
 
 [LIBRARY RNEWS]
-Title = Microsoft access being restored after global Outlook disruption
-Body = Access is gradually being restored after a global outage hit Microsoft platforms, including Outlook, with many users having trouble using their email accounts and finding other errors across the tech giant's suite of apps.
+Title = What we know so far about why US flights were grounded
+Body = Aviation authorities cited "extraordinary circumstances and reasons of safety", with the White House blaming outdated air traffic control technology for a communications outage.
 End = true
 
 [LIBRARY RNEWS]
-Title = Nvidia's Jensen Huang scandal brings China's spy networks into view
-Body = With all eyes on the Nvidia sex scandal, questions are being asked about China's vast and complex spy networks, and just how much influence they have around the world.
+Title = All passengers rescued after tanker crash causes cruise ship to sink in US
+Body = A tanker has collided with a river cruise boat docked near the port of New Orleans with more than 100 passengers onboard, leaving the pleasure vessel partially submerged.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Alysion Updates- Digimon Alysion Times Video Standby Up, Rule Showcase #2, Ichie Akato Profile, Promotions & Contest in Japan
-Body = More Digimon Alysion updates... First up... [...]
+Title = Weekend Batch- Digimon Beatbreak Birthday Social Art, Animedia, Appmon Music & Photo, Pop-Up Shop Photos, Catch-Up for the Week, & More!
+Body = Time for a weekend batch! November 11th was Kyo's birthday and to celebrate Digimon TV posted some new post-series artwork of him trying his best on the drums.
 End = true
 
 [LIBRARY RNEWS]
-Title = Tamer Card Valner Preview for Digimon Card Game Starter Deck 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 26. This time it's Valner.
+Title = Gemmon, Liskmon, & Reptilimon Previews for Digimon Card Game Booster Set 27
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
-Title = Tenkomon & Sekkamon Previews for Digimon Card Game Starter Deck 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 26... [...]
+Title = Digimon Adventure Omegamon/Omnimon Figure Out In April 2027- Available for Pre-Order in US
+Body = A new Omegamon/Omnimon figure is available to pre-order in the US. In Japan this will be a crane game prize.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pokomon/Viximon & Renamon Previews for Digimon Card Game Starter Deck 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 26. This...
+Title = Yukinamon/Ice Beast Caricatures Preview for Digimon Card Game Starter Deck 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 26. This time it's Yukinamon/Ice Beast Caricatures.
 End = true
 
 [LIBRARY RNEWS]
-Title = Story Project: Digimon Delta || Divide (Prologue) [...]
-Body = I decided to share a bit of an old writing project I had planned to turn into something of a comic or a visual novel (kind of working on art, but that's just me drawing stuff rather than the project itself). It started out as a story with a whole new premise for the Digital World and then I got a story in my head about how that Digital World came to change, so I put my main project on hold and wrote a prologue to that story.
+Title = Gurimon & Jesmon X/Ultimate Seibaken Parallel/Alt Art Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
 End = true
 
