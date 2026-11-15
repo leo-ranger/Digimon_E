@@ -9,8 +9,8 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = US government says wire replacement caused nationwide grounding of flights
-Body = The US government has blamed a nationwide aviation shutdown which has disrupted more than 20,000 flights on a program to replace copper wires with new fibre ones.
+Title = Philippines wins Eurovision Asia, making history [...]
+Body = Seventy years after Eurovision was conceived as a way to unite a war-torn Europe through music, the competition has embarked on an ambitious new chapter in Asia.
 End = true
 
 [LIBRARY RNEWS]
@@ -19,13 +19,28 @@ Body = US negotiators have raised the prospect of Ukraine withdrawing from its e
 End = true
 
 [LIBRARY RNEWS]
+Title = Sex, spies and Silicon Valley: Nvidia scandal highlights risks for big tech
+Body = Chinese economic espionage is in the spotlight after the downfall of Nvidia chief Jensen Huang, and former intelligence officials say the US is not doing enough to combat it.
+End = true
+
+[LIBRARY RNEWS]
 Title = What we know so far about why US flights were grounded
 Body = Aviation authorities cited "extraordinary circumstances and reasons of safety", with the White House blaming outdated air traffic control technology for a communications outage.
 End = true
 
 [LIBRARY RNEWS]
-Title = All passengers rescued after tanker crash causes cruise ship to sink in US
-Body = A tanker has collided with a river cruise boat docked near the port of New Orleans with more than 100 passengers onboard, leaving the pleasure vessel partially submerged.
+Title = Digimon Alysion Times (November 15th, 2026) [...]
+Body = Digimon Alysion Times is in roughly 4 hours from the time of this post! It will be on the Digimon Card Game English Youtube.
+End = true
+
+[LIBRARY RNEWS]
+Title = Digimon: World’s Best Picks: Episode 6, Digimon Adventure: Episode 33- Pump and Gotsu are Shibya-Style Digimon
+Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 6, which is Digimon Adventure: Episode 33- Pump and Gotsu are Shibya-Style Digimon Episode 6 airs Sunday, November 8th, 9am in Japan. It was announced it would stream globally on the Digimon Official Youtube, but details aren't entirely clear worldwide at the moment.
+End = true
+
+[LIBRARY RNEWS]
+Title = Tamer Card Kanata Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Kanata.
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Gemmon, Liskmon, & Reptilimon Previews for Digimon Card Game Booster Set 27
 Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Adventure Omegamon/Omnimon Figure Out In April 2027- Available for Pre-Order in US
-Body = A new Omegamon/Omnimon figure is available to pre-order in the US. In Japan this will be a crane game prize.
-End = true
-
-[LIBRARY RNEWS]
-Title = Yukinamon/Ice Beast Caricatures Preview for Digimon Card Game Starter Deck 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 26. This time it's Yukinamon/Ice Beast Caricatures.
-End = true
-
-[LIBRARY RNEWS]
-Title = Gurimon & Jesmon X/Ultimate Seibaken Parallel/Alt Art Previews for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
 End = true
 
