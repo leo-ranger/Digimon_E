@@ -9,47 +9,47 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Vanuatu woman internationally recognised for solar scheme tackling violence
+Body = Women in a village on Vanuatu's Tanna island are working to reduce their risk of being attacked by switching from candles to solar lights.
+End = true
+
+[LIBRARY RNEWS]
+Title = Cargo ships are being sunk here and some say it's all part of Russia's plan
+Body = The Black Sea has become a deadly theatre of battle as merchant ships carrying things like grain, chemicals and oil are increasingly caught in the crossfire of Russia's war in Ukraine.
+End = true
+
+[LIBRARY RNEWS]
+Title = SpaceX rocket orbits Earth and returns to launch pad in world first
+Body = The successful return of the SpaceX rocket to its launch pad is a breakthrough in the company's decade-long effort to develop a fully reusable rocket.
+End = true
+
+[LIBRARY RNEWS]
 Title = Philippines wins Eurovision Asia, making history [...]
 Body = Seventy years after Eurovision was conceived as a way to unite a war-torn Europe through music, the competition has embarked on an ambitious new chapter in Asia.
 End = true
 
 [LIBRARY RNEWS]
-Title = US floated NATO membership for Ukraine, Zelenskyy says
-Body = US negotiators have raised the prospect of Ukraine withdrawing from its eastern region of Donbas in exchange for joining NATO, according to President Volodymyr Zelenskyy.
+Title = With the Will Podcast Episode #326- Maybe More Beat (World's Best Picks & More!)
+Body = This time we will be talking about Digimon: World's Best Picks, Beatbreak Blu-ray info, Alysion & card news, pop-up shops, & more! Plus your questions!
 End = true
 
 [LIBRARY RNEWS]
-Title = Sex, spies and Silicon Valley: Nvidia scandal highlights risks for big tech
-Body = Chinese economic espionage is in the spotlight after the downfall of Nvidia chief Jensen Huang, and former intelligence officials say the US is not doing enough to combat it.
+Title = Rubeusdramon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Rubeusdramon.
 End = true
 
 [LIBRARY RNEWS]
-Title = What we know so far about why US flights were grounded
-Body = Aviation authorities cited "extraordinary circumstances and reasons of safety", with the White House blaming outdated air traffic control technology for a communications outage.
+Title = Digimon Alysion Updates & Info from Digimon Alysion Times, plus Archive Video
+Body = Digimon Alysion Times was earlier with a number of updates as we get closer to the release of the mobile card game. The video was functionally 3 segments: Going over various updates new and old of what Alysion is.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Alysion Times (November 15th, 2026) [...]
-Body = Digimon Alysion Times is in roughly 4 hours from the time of this post! It will be on the Digimon Card Game English Youtube.
+Title = Digimon Alysion Updates- BD-03 Union Impact Trailer & Koga Profile
+Body = A few Digimon Alysion updates... First up, a trailer for BD-03 Union Impact, which will be available at game release.
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon: World’s Best Picks: Episode 6, Digimon Adventure: Episode 33- Pump and Gotsu are Shibya-Style Digimon
-Body = This is the episode discussion thread for Digimon: World’s Best Picks: Episode 6, which is Digimon Adventure: Episode 33- Pump and Gotsu are Shibya-Style Digimon Episode 6 airs Sunday, November 8th, 9am in Japan. It was announced it would stream globally on the Digimon Official Youtube, but details aren't entirely clear worldwide at the moment.
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Kanata Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Kanata.
-End = true
-
-[LIBRARY RNEWS]
-Title = Weekend Batch- Digimon Beatbreak Birthday Social Art, Animedia, Appmon Music & Photo, Pop-Up Shop Photos, Catch-Up for the Week, & More!
-Body = Time for a weekend batch! November 11th was Kyo's birthday and to celebrate Digimon TV posted some new post-series artwork of him trying his best on the drums.
-End = true
-
-[LIBRARY RNEWS]
-Title = Gemmon, Liskmon, & Reptilimon Previews for Digimon Card Game Booster Set 27
-Body = ... [...] [...]
+Title = Rubeusdramon Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Rubeusdramon.
 End = true
 
