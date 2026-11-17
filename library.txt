@@ -9,23 +9,38 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Australia hits the godmother of Israel's settler movement with sanctions
+Body = Israeli settlements 'godmother' Daniella Weiss and her 'Nachala' organisation are hit with Australian sanctions, announced this morning by the Foreign Minister Penny Wong.
+End = true
+
+[LIBRARY RNEWS]
+Title = Pacific country to propose three-child limit to slow surging population
+Body = The policy aims to prevent unplanned pregnancies, ease pressure on government services and household budgets, and slow the country's population growth.
+End = true
+
+[LIBRARY RNEWS]
+Title = Nvidia rules out Jensen Huang comeback despite backing from big names
+Body = Nvidia is not considering reinstating the scandal-hit Jensen Huang as chief executive, despite a growing campaign for his return.
+End = true
+
+[LIBRARY RNEWS]
 Title = Schools 'devastated' after education department ends VCE registration
 Body = Multicultural communities say they are shocked and devastated over a decision that means community language schools will no longer be able to teach Victorian Certificate of Education language subjects.
 End = true
 
 [LIBRARY RNEWS]
-Title = Yemen's pro-government forces retreat to defend key port city of Aden
-Body = The Saudi-backed forces have been locked in fierce battles with the Iranian-backed Houthis along a mountain range overlooking the Bab el-Mandeb Strait.
+Title = Yukinamon Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Yukinamon.
 End = true
 
 [LIBRARY RNEWS]
-Title = UK investigating Russell Brand's message from behind bars
-Body = In a video uploaded to YouTube, his wife Laura Brand reads a statement in which her husband maintains his innocence.
+Title = Digimon Alysion Updates- BD-03 Shoto (Black) & Pteromon Family Previews, Cast Messages, & Rule Showcase #3
+Body = Some Digimon Alysion updates! First up, card previews of new cards from BD-03!
 End = true
 
 [LIBRARY RNEWS]
-Title = Netanyahu rival demands probe into PM's office over election fraud claims
-Body = Benjamin Netanyahu's main rival, Gadi Eisenkot, is demanding an investigation into the Israeli Prime Minister's Office, following explosive allegations it may have fabricated claims of electoral fraud.
+Title = Tamer Card Valner Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Valner.
 End = true
 
 [LIBRARY RNEWS]
@@ -36,20 +51,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Rubeusdramon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Rubeusdramon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Yukinamon/Ice Beast Caricatures Preview for Digimon Card Game Starter Deck 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 26. This time it's Yukinamon/Ice Beast Caricatures.
-End = true
-
-[LIBRARY RNEWS]
-Title = Gurimon & Jesmon X/Ultimate Seibaken Parallel/Alt Art Previews for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Gankoomon X/Ultimate Sengi Tengyouken Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Gankoomon X/Ultimate Sengi Tengyouken.
 End = true
 
