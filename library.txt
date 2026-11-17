@@ -9,38 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Schools 'devastated' after education department ends VCE registration
+Body = Multicultural communities say they are shocked and devastated over a decision that means community language schools will no longer be able to teach Victorian Certificate of Education language subjects.
+End = true
+
+[LIBRARY RNEWS]
+Title = Yemen's pro-government forces retreat to defend key port city of Aden
+Body = The Saudi-backed forces have been locked in fierce battles with the Iranian-backed Houthis along a mountain range overlooking the Bab el-Mandeb Strait.
+End = true
+
+[LIBRARY RNEWS]
+Title = UK investigating Russell Brand's message from behind bars
+Body = In a video uploaded to YouTube, his wife Laura Brand reads a statement in which her husband maintains his innocence.
+End = true
+
+[LIBRARY RNEWS]
 Title = Netanyahu rival demands probe into PM's office over election fraud claims
 Body = Benjamin Netanyahu's main rival, Gadi Eisenkot, is demanding an investigation into the Israeli Prime Minister's Office, following explosive allegations it may have fabricated claims of electoral fraud.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump blames Biden for airline ground stop [...]
-Body = The US president insists he inherited a mess from the Biden administration and says Congress must approve funds to upgrade America's outdated air traffic control systems.
-End = true
-
-[LIBRARY RNEWS]
-Title = Oil, smoke, AI and Myanmar among key topics at ASEAN summit
-Body = There is plenty on the agenda as world leaders gather at the ASEAN conference in the Philippines this week.
-End = true
-
-[LIBRARY RNEWS]
-Title = Vanuatu woman internationally recognised for solar scheme tackling violence
-Body = Women in a village on Vanuatu's Tanna island are working to reduce their risk of being attacked by switching from candles to solar lights.
-End = true
-
-[LIBRARY RNEWS]
-Title = Blue Memory Boost & Blue Scramble Previews for Digimon Card Game Starter Deck 26
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Red Memory Boost & Red Scramble Previews for Digimon Card Game Starter Deck 25
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter... [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = With the Will Podcast Episode #326- Maybe More Beat (World's Best Picks & More!)
-Body = This time we will be talking about Digimon: World's Best Picks, Beatbreak Blu-ray info, Alysion & card news, pop-up shops, & more! Plus your questions!
+Title = Renamon, Tenkomon, & Sekkamon Previews for Digimon Card Game Booster Set 27
+Body = ... [...] [...]
 End = true
 
 [LIBRARY RNEWS]
@@ -49,7 +39,17 @@ Body = The Digimon Card Game Twitter (2) has updated with card previews from Boo
 End = true
 
 [LIBRARY RNEWS]
-Title = Digimon Alysion Updates & Info from Digimon Alysion Times, plus Archive Video
-Body = Digimon Alysion Times was earlier with a number of updates as we get closer to the release of the mobile card game. The video was functionally 3 segments: Going over various updates new and old of what Alysion is.
+Title = Yukinamon/Ice Beast Caricatures Preview for Digimon Card Game Starter Deck 26
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Starter Deck 26. This time it's Yukinamon/Ice Beast Caricatures.
+End = true
+
+[LIBRARY RNEWS]
+Title = Gurimon & Jesmon X/Ultimate Seibaken Parallel/Alt Art Previews for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) (3) (4) has updated with card previews from... [...]
+End = true
+
+[LIBRARY RNEWS]
+Title = Gankoomon X/Ultimate Sengi Tengyouken Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Gankoomon X/Ultimate Sengi Tengyouken.
 End = true
 
