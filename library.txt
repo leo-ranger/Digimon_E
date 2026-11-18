@@ -9,28 +9,28 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australia hits the godmother of Israel's settler movement with sanctions
-Body = Israeli settlements 'godmother' Daniella Weiss and her 'Nachala' organisation are hit with Australian sanctions, announced this morning by the Foreign Minister Penny Wong.
+Title = AI is transforming the world and the US–China relationship
+Body = The ASEAN summit has become a platform for showing how economies are swept up in the newest and most potent form of US–China rivalry.
 End = true
 
 [LIBRARY RNEWS]
-Title = Pacific country to propose three-child limit to slow surging population
-Body = The policy aims to prevent unplanned pregnancies, ease pressure on government services and household budgets, and slow the country's population growth.
+Title = Trump praises Quad as he unveils defence and minerals deals
+Body = With major talks in China approaching, US President Donald Trump, Anthony Albanese and their fellow Quad leaders deepen cooperation on defence and technology at a summit in Manila.
 End = true
 
 [LIBRARY RNEWS]
-Title = Nvidia rules out Jensen Huang comeback despite backing from big names
-Body = Nvidia is not considering reinstating the scandal-hit Jensen Huang as chief executive, despite a growing campaign for his return.
+Title = Nvidia chair tells investors he will not talk about bringing back Huang
+Body = In his first comments since resigning under pressure over his affair with a suspected Chinese spy, Jensen Huang says he would be honoured to return as Nvidia CEO if the board decides to have him back.
 End = true
 
 [LIBRARY RNEWS]
-Title = Schools 'devastated' after education department ends VCE registration
-Body = Multicultural communities say they are shocked and devastated over a decision that means community language schools will no longer be able to teach Victorian Certificate of Education language subjects.
+Title = Why a Trump-Xi-Putin summit is no Yalta 2.0, but is 'Putin's sick fantasy'
+Body = Vladimir Putin longs to be seen as a world leader on a par with Joseph Stalin, but the Russia he leads is a diminished power, and the Shenzhen summit may be more about optics than substance.
 End = true
 
 [LIBRARY RNEWS]
-Title = Yukinamon Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Yukinamon.
+Title = Poll Results for Favorite Digimon Beatbreak Ultimate Level Partner
+Body = A bit ago, the official Digimon site put up a poll for your Favorite Digimon Beatbreak Ultimate Level Partner! Recently the poll closed and we have the results!
 End = true
 
 [LIBRARY RNEWS]
@@ -39,17 +39,17 @@ Body = Some Digimon Alysion updates! First up, card previews of new cards from B
 End = true
 
 [LIBRARY RNEWS]
+Title = Yukinamon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Yukinamon.
+End = true
+
+[LIBRARY RNEWS]
+Title = Yukinamon Preview for Digimon Card Game Booster Set 27
+Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Yukinamon.
+End = true
+
+[LIBRARY RNEWS]
 Title = Tamer Card Valner Preview for Digimon Card Game Booster Set 27
 Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Valner.
-End = true
-
-[LIBRARY RNEWS]
-Title = Renamon, Tenkomon, & Sekkamon Previews for Digimon Card Game Booster Set 27
-Body = ... [...] [...]
-End = true
-
-[LIBRARY RNEWS]
-Title = Rubeusdramon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Rubeusdramon.
 End = true
 
