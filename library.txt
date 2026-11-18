@@ -9,47 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Death of conjoined twins highlights PNG health failures
+Body = The deaths of extremely rare conjoined twins, born two weeks ago on a remote island of Papua New Guinea, prompt calls for better health referral pathways.
+End = true
+
+[LIBRARY RNEWS]
+Title = Philippines police to charge Thomas Markle over child sex abuse material
+Body = A prosecutor said the complaints against Meghan Markle's father were filed on Monday, in the Philippine province where he is said to have lived for more than a year.
+End = true
+
+[LIBRARY RNEWS]
 Title = AI is transforming the world and the US–China relationship
 Body = The ASEAN summit has become a platform for showing how economies are swept up in the newest and most potent form of US–China rivalry.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump praises Quad as he unveils defence and minerals deals
-Body = With major talks in China approaching, US President Donald Trump, Anthony Albanese and their fellow Quad leaders deepen cooperation on defence and technology at a summit in Manila.
-End = true
-
-[LIBRARY RNEWS]
-Title = Nvidia chair tells investors he will not talk about bringing back Huang
-Body = In his first comments since resigning under pressure over his affair with a suspected Chinese spy, Jensen Huang says he would be honoured to return as Nvidia CEO if the board decides to have him back.
-End = true
-
-[LIBRARY RNEWS]
-Title = Why a Trump-Xi-Putin summit is no Yalta 2.0, but is 'Putin's sick fantasy'
-Body = Vladimir Putin longs to be seen as a world leader on a par with Joseph Stalin, but the Russia he leads is a diminished power, and the Shenzhen summit may be more about optics than substance.
-End = true
-
-[LIBRARY RNEWS]
-Title = Poll Results for Favorite Digimon Beatbreak Ultimate Level Partner
-Body = A bit ago, the official Digimon site put up a poll for your Favorite Digimon Beatbreak Ultimate Level Partner! Recently the poll closed and we have the results!
-End = true
-
-[LIBRARY RNEWS]
-Title = Digimon Alysion Updates- BD-03 Shoto (Black) & Pteromon Family Previews, Cast Messages, & Rule Showcase #3
-Body = Some Digimon Alysion updates! First up, card previews of new cards from BD-03!
-End = true
-
-[LIBRARY RNEWS]
-Title = Yukinamon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Yukinamon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Yukinamon Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Yukinamon.
-End = true
-
-[LIBRARY RNEWS]
-Title = Tamer Card Valner Preview for Digimon Card Game Booster Set 27
-Body = The Digimon Card Game Twitter (2) has updated with card previews from Booster Set 27. This time it's Valner.
+Title = Netanyahu ally ousted as speaker of Israeli parliament
+Body = The appointment could give Benjamin Netanyahu's main rival, Gadi Eisenkot, and his allies significant power to start winding back the previous government's policies.
 End = true
 
