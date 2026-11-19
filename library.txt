@@ -9,22 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Death of conjoined twins highlights PNG health failures
-Body = The deaths of extremely rare conjoined twins, born two weeks ago on a remote island of Papua New Guinea, prompt calls for better health referral pathways.
+Title = The ambitions behind Trump, Xi and Putin's unprecedented meeting
+Body = Presidents Donald Trump, Xi Jinping and Vladimir Putin are about to sit down together for the first time. So what should we expect from this historic meeting?
 End = true
 
 [LIBRARY RNEWS]
-Title = Philippines police to charge Thomas Markle over child sex abuse material
-Body = A prosecutor said the complaints against Meghan Markle's father were filed on Monday, in the Philippine province where he is said to have lived for more than a year.
+Title = Xi gives Trump personal welcome ahead of historic talks with Putin
+Body = The tarmac greeting for US President Donald Trump saw Xi Jinping break with decades of precedent.
 End = true
 
 [LIBRARY RNEWS]
-Title = AI is transforming the world and the US–China relationship
-Body = The ASEAN summit has become a platform for showing how economies are swept up in the newest and most potent form of US–China rivalry.
+Title = Democrats defeat Republicans to win Alaska Senate race
+Body = The victory caps off the Democratic Party's best US midterm performance since 1958, following legal battles over two candidates named Dan Sullivan.
 End = true
 
 [LIBRARY RNEWS]
-Title = Netanyahu ally ousted as speaker of Israeli parliament
-Body = The appointment could give Benjamin Netanyahu's main rival, Gadi Eisenkot, and his allies significant power to start winding back the previous government's policies.
+Title = Democrats nominate Hakeem Jeffries to be first Black speaker of US House
+Body = By electing Mr Jeffries as the party's leader in the US House of Representatives, Democrats position him to become the first Black speaker of the House come January.
 End = true
 
