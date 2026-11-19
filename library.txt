@@ -9,18 +9,18 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = The ambitions behind Trump, Xi and Putin's unprecedented meeting
-Body = Presidents Donald Trump, Xi Jinping and Vladimir Putin are about to sit down together for the first time. So what should we expect from this historic meeting?
-End = true
-
-[LIBRARY RNEWS]
-Title = Xi gives Trump personal welcome ahead of historic talks with Putin
-Body = The tarmac greeting for US President Donald Trump saw Xi Jinping break with decades of precedent.
+Title = Trump, Xi and Putin release joint statement after historic meeting — as it happened
+Body = The leaders of the US, China and Russia have met on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen as trade tensions and wars continue to simmer.
 End = true
 
 [LIBRARY RNEWS]
 Title = Democrats defeat Republicans to win Alaska Senate race
 Body = The victory caps off the Democratic Party's best US midterm performance since 1958, following legal battles over two candidates named Dan Sullivan.
+End = true
+
+[LIBRARY RNEWS]
+Title = Trump continues creating chaos, but Australia is still moving closer
+Body = Despite Donald Trump's midterm embarrassment and that awkward meeting with Putin, the US remains an important ally for many countries, including Australia. It is just a question of what happens next.
 End = true
 
 [LIBRARY RNEWS]
