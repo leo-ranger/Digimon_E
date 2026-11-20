@@ -9,8 +9,8 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Unprecedented verdict as UN court finds Myanmar committed genocide
-Body = The top United Nations court has ruled that thousands of killings and widespread sexual violence by Myanmar's security forces against the Rohingya Muslim minority population in 2017 amounted to state-sponsored genocide.
+Title = Australian Rohingya hope world will listen after UN court's genocide ruling
+Body = Rohingya Australians welcome the International Court of Justice's judgement that Myanmar committed genocide against the Muslim minority group but say the decision must be backed up by action from the international community including Australia.
 End = true
 
 [LIBRARY RNEWS]
@@ -24,7 +24,7 @@ Body = The Nasdaq debut of the artificial intelligence behemoth fails to disappo
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump, Xi and Putin release joint statement after historic meeting — as it happened
-Body = The leaders of the US, China and Russia have met on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen as trade tensions and wars continue to simmer.
+Title = A decade after Brexit vote, polls show many Brits regret the decision
+Body = A decade after the Brexit referendum was held, and more than six years on from when the UK actually left the EU, there is growing speculation the decision could be reversed.
 End = true
 
