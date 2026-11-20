@@ -9,22 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Unprecedented verdict as UN court finds Myanmar committed genocide
+Body = The top United Nations court has ruled that thousands of killings and widespread sexual violence by Myanmar's security forces against the Rohingya Muslim minority population in 2017 amounted to state-sponsored genocide.
+End = true
+
+[LIBRARY RNEWS]
+Title = After meeting Putin, Trump tells Europe it could save money ending the war
+Body = From abandoning a Cold War mentality to nuclear non-proliferation and the war in Ukraine, here are the key takeaways from the Trump-Xi-Putin meeting.
+End = true
+
+[LIBRARY RNEWS]
+Title = AI company lists at $111 a share in record-breaking float
+Body = The Nasdaq debut of the artificial intelligence behemoth fails to disappoint as it drops on the market at $US111.50, 34 per cent higher than the IPO price of $US83.
+End = true
+
+[LIBRARY RNEWS]
 Title = Trump, Xi and Putin release joint statement after historic meeting — as it happened
 Body = The leaders of the US, China and Russia have met on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen as trade tensions and wars continue to simmer.
-End = true
-
-[LIBRARY RNEWS]
-Title = Democrats defeat Republicans to win Alaska Senate race
-Body = The victory caps off the Democratic Party's best US midterm performance since 1958, following legal battles over two candidates named Dan Sullivan.
-End = true
-
-[LIBRARY RNEWS]
-Title = Trump continues creating chaos, but Australia is still moving closer
-Body = Despite Donald Trump's midterm embarrassment and that awkward meeting with Putin, the US remains an important ally for many countries, including Australia. It is just a question of what happens next.
-End = true
-
-[LIBRARY RNEWS]
-Title = Democrats nominate Hakeem Jeffries to be first Black speaker of US House
-Body = By electing Mr Jeffries as the party's leader in the US House of Representatives, Democrats position him to become the first Black speaker of the House come January.
 End = true
 
