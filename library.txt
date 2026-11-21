@@ -9,22 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Students rally across Europe over cost of living, war and education cuts
+Body = From the shadows of the mighty Colosseum in Rome to Parliament Square in London, and in dozens of other cities across Europe, thousands of young Europeans gathered to make their voices heard on Friday.
+End = true
+
+[LIBRARY RNEWS]
+Title = Idea of Britain rejoining EU still on table after key summit
+Body = Leaders from Britain and the European Union say they have agreed several new deals in Brussels, as the United Kingdom's Prime Minister Andy Burnham attempts to reshape his country's relationship with its closest neighbours.
+End = true
+
+[LIBRARY RNEWS]
+Title = Russia missiles, drone fall in Poland territory as Putin pummels Ukraine
+Body = Russia pummelled Ukraine with dozens of missiles and hundreds of drones overnight, hours after President Vladimir Putin vowed a "painful" response for Kyiv's strikes on the Crimean bridge this week.
+End = true
+
+[LIBRARY RNEWS]
 Title = Australian Rohingya hope world will listen after UN court's genocide ruling
 Body = Rohingya Australians welcome the International Court of Justice's judgement that Myanmar committed genocide against the Muslim minority group but say the decision must be backed up by action from the international community including Australia.
-End = true
-
-[LIBRARY RNEWS]
-Title = After meeting Putin, Trump tells Europe it could save money ending the war
-Body = From abandoning a Cold War mentality to nuclear non-proliferation and the war in Ukraine, here are the key takeaways from the Trump-Xi-Putin meeting.
-End = true
-
-[LIBRARY RNEWS]
-Title = AI company lists at $111 a share in record-breaking float
-Body = The Nasdaq debut of the artificial intelligence behemoth fails to disappoint as it drops on the market at $US111.50, 34 per cent higher than the IPO price of $US83.
-End = true
-
-[LIBRARY RNEWS]
-Title = A decade after Brexit vote, polls show many Brits regret the decision
-Body = A decade after the Brexit referendum was held, and more than six years on from when the UK actually left the EU, there is growing speculation the decision could be reversed.
 End = true
 
