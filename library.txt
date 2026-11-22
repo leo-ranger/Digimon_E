@@ -9,6 +9,16 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Russian cargo ship burns in Baltic Sea after drone strike
+Body = Finland says Ukraine was likely behind an attack on Russian cargo ship Sparta II in the Baltic Sea.
+End = true
+
+[LIBRARY RNEWS]
+Title = Eisenkot invites Netanyahu's party to Israeli coalition talks
+Body = Gadi Eisenkot's Yashar party has invited Israeli Prime Minister Benjamin Netanyahu's Likud party to coalition talks.
+End = true
+
+[LIBRARY RNEWS]
 Title = IDF refuses ABC requests for evidence journalist was Hamas operative
 Body = Israel's military has ignored or declined to answer the ABC's multiple requests for evidence a Palestinian journalist it engaged as a freelancer in Gaza was a Hamas operative.
 End = true
@@ -16,15 +26,5 @@ End = true
 [LIBRARY RNEWS]
 Title = Students rally across Europe over cost of living, war and education cuts
 Body = From the shadows of the mighty Colosseum in Rome to Parliament Square in London, and in dozens of other cities across Europe, thousands of young Europeans gathered to make their voices heard on Friday.
-End = true
-
-[LIBRARY RNEWS]
-Title = Recall of coloured sand in NZ raises 'serious alarm bells'
-Body = CHOICE is calling for "urgent investigations" into coloured sand products in Australia, which have recently been recalled in New Zealand due to asbestos.
-End = true
-
-[LIBRARY RNEWS]
-Title = Mexico's military captures drug kingpin on FBI's most wanted list
-Body = Meza Flores was one of the FBI's 10 most wanted fugitives and the alleged leader of the Beltran Leyva gang, which is allied with one of two rival factions in the powerful Sinaloa cartel.
 End = true
 
