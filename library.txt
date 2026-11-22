@@ -19,12 +19,12 @@ Body = From the shadows of the mighty Colosseum in Rome to Parliament Square in 
 End = true
 
 [LIBRARY RNEWS]
-Title = Australia strikes deal on AI talks with China [...]
-Body = Anthony Albanese has secured an agreement for new talks with China on artificial intelligence as the prime minister returns to Australia.
+Title = Recall of coloured sand in NZ raises 'serious alarm bells'
+Body = CHOICE is calling for "urgent investigations" into coloured sand products in Australia, which have recently been recalled in New Zealand due to asbestos.
 End = true
 
 [LIBRARY RNEWS]
-Title = Idea of Britain rejoining EU still on table after key summit
-Body = Leaders from Britain and the European Union say they have agreed several new deals in Brussels, as the United Kingdom's Prime Minister Andy Burnham attempts to reshape his country's relationship with its closest neighbours.
+Title = Mexico's military captures drug kingpin on FBI's most wanted list
+Body = Meza Flores was one of the FBI's 10 most wanted fugitives and the alleged leader of the Beltran Leyva gang, which is allied with one of two rival factions in the powerful Sinaloa cartel.
 End = true
 
