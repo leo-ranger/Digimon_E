@@ -9,22 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Russian cargo ship burns in Baltic Sea after drone strike
-Body = Finland says Ukraine was likely behind an attack on Russian cargo ship Sparta II in the Baltic Sea.
+Title = Australia's neighbour 'heading towards disaster' with oil and gas project, experts say
+Body = Timor-Leste says Russian and Chinese companies have expressed an interest in the country's multi-billion-dollar Greater Sunrise project, despite a leading analyst saying it will "bankrupt" the country. Is oil and gas project on Australia's doorstep heading for 'disaster'?
 End = true
 
 [LIBRARY RNEWS]
-Title = Eisenkot invites Netanyahu's party to Israeli coalition talks
-Body = Gadi Eisenkot's Yashar party has invited Israeli Prime Minister Benjamin Netanyahu's Likud party to coalition talks.
+Title = US 'missteps' cost them power and influence in Asia, report finds
+Body = The gap between US and Chinese military capabilities in Asia is now the narrowest on record, though this reflects a decline in US power rather than a rise in China's.
 End = true
 
 [LIBRARY RNEWS]
-Title = IDF refuses ABC requests for evidence journalist was Hamas operative
-Body = Israel's military has ignored or declined to answer the ABC's multiple requests for evidence a Palestinian journalist it engaged as a freelancer in Gaza was a Hamas operative.
+Title = Bodies found, 34 workers missing after Indonesian factory fire
+Body = A fire has swept through a confectionary factory in Indonesia's Banten province, leaving 34 others unaccounted-for, officials say.
 End = true
 
 [LIBRARY RNEWS]
-Title = Students rally across Europe over cost of living, war and education cuts
-Body = From the shadows of the mighty Colosseum in Rome to Parliament Square in London, and in dozens of other cities across Europe, thousands of young Europeans gathered to make their voices heard on Friday.
+Title = COP31 struggles to reach deal with parties at odds over fossil fuels
+Body = The language around fossil fuels remains a flashpoint at UN climate talks in Türkiye, where negotiations have gone into a second day past the deadline.
 End = true
 
