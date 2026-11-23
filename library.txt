@@ -9,22 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Why Jensen Huang's extraordinary return isn't the end of the Nvidia saga
+Body = The shock return of Jensen Huang, heralded by US President Donald Trump, does not mean the Nvidia co-founder is out of the woods.
+End = true
+
+[LIBRARY RNEWS]
 Title = Australia's neighbour 'heading towards disaster' with oil and gas project, experts say
 Body = Timor-Leste says Russian and Chinese companies have expressed an interest in the country's multi-billion-dollar Greater Sunrise project, despite a leading analyst saying it will "bankrupt" the country. Is oil and gas project on Australia's doorstep heading for 'disaster'?
 End = true
 
 [LIBRARY RNEWS]
-Title = US 'missteps' cost them power and influence in Asia, report finds
-Body = The gap between US and Chinese military capabilities in Asia is now the narrowest on record, though this reflects a decline in US power rather than a rise in China's.
+Title = Democrats clinch their largest House majority since 1992
+Body = The milestone sets up a divided government, with the Senate also in Democratic hands and a Republican president in the White House.
 End = true
 
 [LIBRARY RNEWS]
-Title = Bodies found, 34 workers missing after Indonesian factory fire
-Body = A fire has swept through a confectionary factory in Indonesia's Banten province, leaving 34 others unaccounted-for, officials say.
-End = true
-
-[LIBRARY RNEWS]
-Title = COP31 struggles to reach deal with parties at odds over fossil fuels
-Body = The language around fossil fuels remains a flashpoint at UN climate talks in Türkiye, where negotiations have gone into a second day past the deadline.
+Title = Gadi Eisenkot calls West Bank arson attacks 'Jewish terrorism'
+Body = Settlers set fire to vehicles and homes in several Palestinian villages overnight, drawing one of the sharpest condemnations yet from the politician charged with forming Israel's next government.
 End = true
 
