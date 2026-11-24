@@ -9,22 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Israel's bombardment has turned Gaza into 'toxic wasteland'
+Body = New research suggests more than 99 per cent of the Gaza Strip shows signs of contamination from Israeli attacks.
+End = true
+
+[LIBRARY RNEWS]
+Title = Nvidia says 'no national security risk' reinstating Jensen Huang as CEO
+Body = Reinstated Nvidia chief executive Jensen Huang says he "can't wait to get back to work", just days after the chip maker's board ruled out the co-founder's return.
+End = true
+
+[LIBRARY RNEWS]
+Title = Australians face Thai court over $1.9m investment scam
+Body = Five Australians return to a Bangkok court, on trial for allegedly running an investment scam that duped at least 14,000 Australians out of $1.9 million.
+End = true
+
+[LIBRARY RNEWS]
 Title = Why Jensen Huang's extraordinary return isn't the end of the Nvidia saga
 Body = The shock return of Jensen Huang, heralded by US President Donald Trump, does not mean the Nvidia co-founder is out of the woods.
-End = true
-
-[LIBRARY RNEWS]
-Title = Australia's neighbour 'heading towards disaster' with oil and gas project, experts say
-Body = Timor-Leste says Russian and Chinese companies have expressed an interest in the country's multi-billion-dollar Greater Sunrise project, despite a leading analyst saying it will "bankrupt" the country. Is oil and gas project on Australia's doorstep heading for 'disaster'?
-End = true
-
-[LIBRARY RNEWS]
-Title = Democrats clinch their largest House majority since 1992
-Body = The milestone sets up a divided government, with the Senate also in Democratic hands and a Republican president in the White House.
-End = true
-
-[LIBRARY RNEWS]
-Title = Gadi Eisenkot calls West Bank arson attacks 'Jewish terrorism'
-Body = Settlers set fire to vehicles and homes in several Palestinian villages overnight, drawing one of the sharpest condemnations yet from the politician charged with forming Israel's next government.
 End = true
 
