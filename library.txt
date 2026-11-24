@@ -9,22 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Israel's bombardment has turned Gaza into 'toxic wasteland'
-Body = New research suggests more than 99 per cent of the Gaza Strip shows signs of contamination from Israeli attacks.
+Title = Top Chinese official under investigation as Xi's anti-corruption probe widens
+Body = The probe against Chen Jining is a sign that President Xi Jinping's sweeping 14-year anti-corruption campaign is expanding ahead of the key party congress next year.
 End = true
 
 [LIBRARY RNEWS]
-Title = Nvidia says 'no national security risk' reinstating Jensen Huang as CEO
-Body = Reinstated Nvidia chief executive Jensen Huang says he "can't wait to get back to work", just days after the chip maker's board ruled out the co-founder's return.
+Title = Republican China hawks challenge Trump over Huang's Nvidia return
+Body = Donald Trump claims credit for Jensen Huang's return to the AI giant, but the controversy sees Republicans join forces with Democrats to demand an investigation into the administration's ties to the company.
 End = true
 
 [LIBRARY RNEWS]
-Title = Australians face Thai court over $1.9m investment scam
-Body = Five Australians return to a Bangkok court, on trial for allegedly running an investment scam that duped at least 14,000 Australians out of $1.9 million.
+Title = Two arrested after break-in at Kate and William's estate
+Body = British police say two are arrested on suspicion of burglary after an incident at the Sandringham Estate.
 End = true
 
 [LIBRARY RNEWS]
-Title = Why Jensen Huang's extraordinary return isn't the end of the Nvidia saga
-Body = The shock return of Jensen Huang, heralded by US President Donald Trump, does not mean the Nvidia co-founder is out of the woods.
+Title = Fears of Russian attack drive Poland and Baltic states back to landmines
+Body = A report has found the number of people being killed by landmines has increased. Production has expanded for the first time in decades, with multiple EU nations withdrawing from a treaty designed to contain the threat.
 End = true
 
