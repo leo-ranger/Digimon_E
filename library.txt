@@ -9,22 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Man who US mistakenly deported to home country to self-deport to Spain
-Body = Kilmar Abrego Garcia's self-deportation to Spain ends a lengthy battle for the 31-year-old whose case became a focal point in the US's immigration debate.
+Title = Trump unveils suite of new tariffs on major trading partners
+Body = Goods from China, Brazil, the EU and Vietnam are all set to be taxed higher as Donald Trump doubles down on his tariff policies after a midterms drubbing.
 End = true
 
 [LIBRARY RNEWS]
-Title = Top Chinese official under investigation as Xi's anti-corruption probe widens
-Body = The probe against Chen Jining is a sign that President Xi Jinping's sweeping 14-year anti-corruption campaign is expanding ahead of the key party congress next year.
+Title = Indonesian rescuers recover eight bodies from mine, more miners remain missing
+Body = Twenty-six miners have been trapped in a 100-metre-deep mine since Monday as heavy rain inundated access.
 End = true
 
 [LIBRARY RNEWS]
-Title = Republican China hawks challenge Trump over Huang's Nvidia return
-Body = Donald Trump claims credit for Jensen Huang's return to the AI giant, but the controversy sees Republicans join forces with Democrats to demand an investigation into the administration's ties to the company.
+Title = As Nvidia's 'king' returns, reports of a chip 'underworld' to China emerge
+Body = Jensen Huang's return to Nvidia has been celebrated in China and Taiwan, while Western media probes how US chips may have circumvented export rules to get to Chinese customers.
 End = true
 
 [LIBRARY RNEWS]
-Title = US court convicts Huawei for deceiving banks about Iran dealings
-Body = US authorities have long claimed the Chinese tech giant poses national security risks.
+Title = How Russia used a Melania Trump-brokered ceasefire for political mileage
+Body = Ukraine's Human Rights Ombudsman Dmytro Lubinets explains how a delicate deal to evacuate people from a frontline town, facilitated by US first lady Melania Trump, worked.
 End = true
 
