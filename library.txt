@@ -9,6 +9,11 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Man who US mistakenly deported to home country to self-deport to Spain
+Body = Kilmar Abrego Garcia's self-deportation to Spain ends a lengthy battle for the 31-year-old whose case became a focal point in the US's immigration debate.
+End = true
+
+[LIBRARY RNEWS]
 Title = Top Chinese official under investigation as Xi's anti-corruption probe widens
 Body = The probe against Chen Jining is a sign that President Xi Jinping's sweeping 14-year anti-corruption campaign is expanding ahead of the key party congress next year.
 End = true
@@ -19,12 +24,7 @@ Body = Donald Trump claims credit for Jensen Huang's return to the AI giant, but
 End = true
 
 [LIBRARY RNEWS]
-Title = Two arrested after break-in at Kate and William's estate
-Body = British police say two are arrested on suspicion of burglary after an incident at the Sandringham Estate.
-End = true
-
-[LIBRARY RNEWS]
-Title = Fears of Russian attack drive Poland and Baltic states back to landmines
-Body = A report has found the number of people being killed by landmines has increased. Production has expanded for the first time in decades, with multiple EU nations withdrawing from a treaty designed to contain the threat.
+Title = US court convicts Huawei for deceiving banks about Iran dealings
+Body = US authorities have long claimed the Chinese tech giant poses national security risks.
 End = true
 
