@@ -19,12 +19,12 @@ Body = Twenty-six miners have been trapped in a 100-metre-deep mine since Monday
 End = true
 
 [LIBRARY RNEWS]
-Title = As Nvidia's 'king' returns, reports of a chip 'underworld' to China emerge
-Body = Jensen Huang's return to Nvidia has been celebrated in China and Taiwan, while Western media probes how US chips may have circumvented export rules to get to Chinese customers.
+Title = Two men face court over break-in at Kate and William's estate
+Body = Two men who allegedly broke into the country residence of the Prince and Princess of Wales stole six pairs of cufflinks and a clock, a UK court has heard.
 End = true
 
 [LIBRARY RNEWS]
-Title = How Russia used a Melania Trump-brokered ceasefire for political mileage
-Body = Ukraine's Human Rights Ombudsman Dmytro Lubinets explains how a delicate deal to evacuate people from a frontline town, facilitated by US first lady Melania Trump, worked.
+Title = Libya vows retaliation over Ukrainian strikes as Russian deaths near 500,000
+Body = Two Libyan army personnel have succumbed to wounds suffered in a Ukrainian drone strike on Russian ships in Benghazi.
 End = true
 
