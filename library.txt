@@ -9,22 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
-Title = Trump unveils suite of new tariffs on major trading partners
-Body = Goods from China, Brazil, the EU and Vietnam are all set to be taxed higher as Donald Trump doubles down on his tariff policies after a midterms drubbing.
+Title = Authorities intercept more than 3 tonnes of meth on Pacific 'mothership'
+Body = The 3.3 tonnes of drugs were found on an unflagged tanker, which experts have dubbed a "mothership".
 End = true
 
 [LIBRARY RNEWS]
-Title = Indonesian rescuers recover eight bodies from mine, more miners remain missing
-Body = Twenty-six miners have been trapped in a 100-metre-deep mine since Monday as heavy rain inundated access.
+Title = As Huang scandal grips Washington, JD Vance plays down presidential pardon
+Body = US Vice-President JD Vance has played down the possibility that Jensen Huang would need to receive a pardon after asking Nvidia's board to reinstate the chief executive.
 End = true
 
 [LIBRARY RNEWS]
-Title = Two men face court over break-in at Kate and William's estate
-Body = Two men who allegedly broke into the country residence of the Prince and Princess of Wales stole six pairs of cufflinks and a clock, a UK court has heard.
+Title = Why the US Army detonated tonnes of toxic chemical near farmland
+Body = The US Army destroyed America's entire stockpile of a toxic bomb-making material in a controlled explosion in Iowa on Wednesday. Here's why.
 End = true
 
 [LIBRARY RNEWS]
-Title = Libya vows retaliation over Ukrainian strikes as Russian deaths near 500,000
-Body = Two Libyan army personnel have succumbed to wounds suffered in a Ukrainian drone strike on Russian ships in Benghazi.
+Title = Fuel tanker crash on major Cairo highway kills at least 30
+Body = There are fears the death toll could rise after the crash, which also injured dozens of people and left cars and motorcycles charred.
 End = true
 
