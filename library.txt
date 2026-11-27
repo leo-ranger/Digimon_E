@@ -9,22 +9,22 @@ Body = Network turbulence detected across the eastern sector.
 End = true
 
 [LIBRARY RNEWS]
+Title = Major Thanksgiving storms inundate US with heavy rain, wind and flooding
+Body = Nearly 200,000 homes and businesses have lost power in Virginia and another 177,000 in Maryland, with flights also affected.
+End = true
+
+[LIBRARY RNEWS]
+Title = A stroll to the Chinese embassy ended Australia's great anxiety in the Pacific
+Body = Having signed a treaty with Australia this week, Solomon Islands's controversial deal with China is officially over. But is this the end of the tug of war over the Pacific?
+End = true
+
+[LIBRARY RNEWS]
+Title = Trump urges Putin to end Ukraine 'bloodbath' [...]
+Body = US President Donald Trump describes the war in Ukraine as a complete bloodbath and urges Vladimir Putin to help end the conflict sooner.
+End = true
+
+[LIBRARY RNEWS]
 Title = Authorities intercept more than 3 tonnes of meth on Pacific 'mothership'
 Body = The 3.3 tonnes of drugs were found on an unflagged tanker, which experts have dubbed a "mothership".
-End = true
-
-[LIBRARY RNEWS]
-Title = As Huang scandal grips Washington, JD Vance plays down presidential pardon
-Body = US Vice-President JD Vance has played down the possibility that Jensen Huang would need to receive a pardon after asking Nvidia's board to reinstate the chief executive.
-End = true
-
-[LIBRARY RNEWS]
-Title = Why the US Army detonated tonnes of toxic chemical near farmland
-Body = The US Army destroyed America's entire stockpile of a toxic bomb-making material in a controlled explosion in Iowa on Wednesday. Here's why.
-End = true
-
-[LIBRARY RNEWS]
-Title = Fuel tanker crash on major Cairo highway kills at least 30
-Body = There are fears the death toll could rise after the crash, which also injured dozens of people and left cars and motorcycles charred.
 End = true
 
